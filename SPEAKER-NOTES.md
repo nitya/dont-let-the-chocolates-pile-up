@@ -110,7 +110,7 @@ one a real production task from Mondays, Releases, or Mastery."
 
 ## Act 5 — L.U.C.Y at Work: Live Demos (9:00)
 
-### Demo 1 — Skill → Model Mondays (Coordinate) — 1:30
+### Demo 1 — Skill → Model Mondays (Launch) — 1:30
 
 "Every Monday needs a recap blog and next week's News Highlights list. Watch this."
 

@@ -75,7 +75,7 @@ Not a faster Lucy. A fleet, named for what it does:
 
 Each demo = one L.U.C.Y capability, tied to a real production task on one of the three shows.
 
-- **Demo 1 — 🍬 Skill** *(1.5 min)* → **Model Mondays** *(Coordinate)*. Transcript → recap blog + draft News Highlights segment (5-6 URLs).
+- **Demo 1 — 🍬 Skill** *(1.5 min)* → **Model Mondays** *(Launch)*. Transcript → recap blog + draft News Highlights segment (5-6 URLs).
 - **Demo 2 — 🛠️ Workflow** *(2 min)* → **Model Mondays** *(Coordinate)*. Scheduled workflow handles speaker-confirm reminders, calendar holds, tech-check checklist, and files the Sunday-night rundown.
 - **Demo 3 — 🤖 Coding agent** *(2 min)* → **Model Releases** *(Launch)*. Model card + Foundry docs + model characteristics → scaffolded capsule notebook + video script, told through a "hill-climbing" multi-model optimization narrative.
 - **Demo 4 — 🚚 Fleet** *(2 min)* → **Model Releases** *(Yield)*. Fan out across a provider's full model lineup — parallel capsule generation/refresh, one session per model.

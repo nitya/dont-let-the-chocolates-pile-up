@@ -16,7 +16,7 @@ real production task on one of these three shows.
 
 ---
 
-## 🍬 Demo 1 — Skill (1.5 min) → **Model Mondays** *(Coordinate)*
+## 🍬 Demo 1 — Skill (1.5 min) → **Model Mondays** *(Launch)*
 
 **Chocolate:** this week's transcript → recap blog + a drafted News Highlights segment (5-6 URLs).
 
@@ -116,15 +116,15 @@ Slide: three show logos stacked, L.U.C.Y letters beneath, arrows connecting them
 
 | L.U.C.Y capability | Model Mondays | Model Releases | Model Mastery |
 |---|:---:|:---:|:---:|
-| 🍬 Skill (Coordinate) | **D1** | · | · |
+| 🍬 Skill (Launch) | **D1** | · | · |
 | 🛠️ Workflow (Coordinate) | **D2** | · | · |
 | 🤖 Coding agent (Launch) | · | **D3** | · |
 | 🚚 Fleet (Yield) | · | **D4** | · |
 | 🔧 Agentic DevOps (Update) | · | · | **D5** |
 
 Each funnel stage — Awareness, Engagement, Adoption — gets at least one primary demo, and the
-five demos map cleanly onto L.U.C.Y's four letters (Coordinate covers two demos, since Model
-Mondays carries both content and PM-ops chocolates).
+five demos map cleanly onto L.U.C.Y's four letters (Launch covers two demos, showing the same
+capability working at content scale on Model Mondays and at capsule scale on Model Releases).
 
 ---
 
@@ -132,7 +132,7 @@ Mondays carries both content and PM-ops chocolates).
 
 | Demo | Show | L.U.C.Y | Budget | Cumulative |
 |---|---|---|---|---|
-| D1 — Skill | Model Mondays | Coordinate | 1:30 | 1:30 |
+| D1 — Skill | Model Mondays | Launch | 1:30 | 1:30 |
 | D2 — Workflow | Model Mondays | Coordinate | 2:00 | 3:30 |
 | D3 — Coding agent | Model Releases | Launch | 2:00 | 5:30 |
 | D4 — Fleet | Model Releases | Yield | 2:00 | 7:30 |

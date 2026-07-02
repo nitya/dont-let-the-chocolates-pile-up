@@ -151,3 +151,5 @@ capability working at content scale on Model Mondays and at capsule scale on Mod
 - [ ] `model-mastery` repo has a deliberately-deprecated model reference on a scratch branch
 - [ ] Backup video recordings of D3 and D4 (the two live-network-dependent demos)
 - [ ] `aka.ms/model-mondays` open in a tab — use as visual anchor when naming the show
+- [ ] See `FALLBACK-PLAN.md` for per-demo failure triggers and bridge lines
+- [ ] See `assets/screenshots/SHOTLIST.md` for the full static-fallback shot list

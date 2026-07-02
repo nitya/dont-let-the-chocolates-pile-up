@@ -43,7 +43,7 @@ Narration spine: *news → demos → mastery.* Each demo is Copilot (coding agen
 | 2 | 0:20 | Copilot cloud session spinning up | Session picks up issue, reads model card, plans | "Copilot reads the model card, plans the demo, picks tools." |
 | 3 | 0:50 | Session timeline — file edits streaming | Scaffolding project: agent code, tool bindings, `evals/` folder, README | "Notice it's writing evals too — not just happy-path code." |
 | 4 | 1:20 | PR opens in `model-releases` | Draft PR with diff, screenshots of eval results, sample chat transcript | "PR is up. Evals ran. Two failures flagged in the description." |
-| 5 | 1:45 | I click review, approve one file, request change on another | Copilot pushes a fix in-session | "Human in the loop. I taste-test, Lucy re-wraps." |
+| 5 | 1:45 | I click review, approve one file, request change on another | Copilot pushes a fix in-session | "Human in the loop — I taste-test, Lucy re-wraps. Not a single chocolate stuffed in a cheek." |
 
 **Handoff line to Demo 3:** *"That works for today's model. But how did the issue get filed in the first place?"*
 
@@ -61,7 +61,7 @@ Narration spine: *news → demos → mastery.* Each demo is Copilot (coding agen
 | 2 | 0:20 | Workflow prompt open | Reads: scan Foundry catalog + Azure AI blog + arxiv-cs.LG top 5, summarize, file issue | "The prompt is a skill — same one from Demo 1, wrapped in a trigger." |
 | 3 | 0:45 | Click **Run now** | Session log streams: fetching catalog, diffing against last week, drafting rundown | "I'm faking the clock. Here it goes." |
 | 4 | 1:25 | GitHub — new issue in `model-mondays` | Issue: *"Ep 43 rundown — 3 new models, 1 breaking change"* + starter branch link | "Rundown issue is filed. Starter branch is pre-scaffolded. Monday's producer opens the app and finds this waiting." |
-| 5 | 1:50 | Back to slide | Reveal: this same pattern runs for Model Releases too (watches Foundry release feed) | "Same trigger, different belt." |
+| 5 | 1:50 | Back to slide | Reveal: this same pattern runs for Model Releases too (watches Foundry release feed) | "Same trigger, different belt — Lucy's night shift wraps chocolates while the rest of us sleep." |
 
 **Handoff line to Demo 4:** *"One new model = one demo. But what about the 12 old demos that now break?"*
 
@@ -97,7 +97,7 @@ Narration spine: *news → demos → mastery.* Each demo is Copilot (coding agen
 | 2 | 0:15 | Copilot session — triggered by CI failure webhook | Reading logs, bisecting, identifying root cause (upstream model version bump) | "Agentic DevOps: CI failed → session opened itself." |
 | 3 | 0:40 | Draft PR appears | Pin model version, update workshop notes, regenerate one screenshot | "Fix + doc update + gallery refresh, one PR." |
 | 4 | 1:05 | Preview canvas — workshop site rebuild | Module 4 page shows updated code + new eval numbers | "Site preview. Learners see the corrected page next refresh." |
-| 5 | 1:25 | Slide — final loop diagram | Foundry ⇄ Copilot loop: build → eval → deploy → monitor → fix | "Two factories. One loop. Lucy sleeps." |
+| 5 | 1:25 | Slide — final loop diagram | Foundry ⇄ Copilot loop: build → eval → deploy → monitor → fix | "Two factories. One loop. And for once, Lucy clocks out without a single chocolate in her mouth." |
 
 ---
 

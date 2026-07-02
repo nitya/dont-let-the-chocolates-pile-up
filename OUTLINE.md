@@ -1,99 +1,108 @@
 # 🍫 Don't Let the Chocolate Pile Up
-### When Copilot is Lucy and Foundry is the Factory
+### Scaling DevRel Content with AI Agents
 
-**Format:** 25 min + live demos  
-**Thesis:** *(Coding) agents building (enterprise) agents.*
+**Format:** 25 min + live demos
+**Thesis:** We don't need a faster Lucy. We need to make her a fleet: L.U.C.Y.
 
 ---
 
 ## Act 1 — The Belt Speeds Up (3 min)
 
-Hook: Lucy at the chocolate factory. The belt accelerates. Chocolates in the hat, mouth, blouse. Supervisor yells *"Speed it up!"*
+Hook: Lucy at the chocolate factory. The belt accelerates. Chocolates in the hat, mouth, blouse.
+Supervisor yells *"Speed it up!"*
 
-Reframe for 2026:
-- 🏭 **The factory floor** = **Microsoft Foundry** — the apps & agent factory for the enterprise
-- 🍫 **The chocolates** = **enterprise agents** rolling off the belt
-- 👷 **Lucy** = the DevRel/dev team building, shipping, and maintaining them
-- 🤖 **Smarter, faster Lucy** = **GitHub Copilot** — coding agent ecosystem (skills, agents, fleets, workflows, agentic DevOps)
+Reframe for DevRel: every week, Microsoft Foundry ships new models, tools, and optimization
+techniques. Each drop is a chocolate on the belt. One person can't wrap them all by hand anymore.
 
-> **Thesis:** In 2026, coding agents build enterprise agents. Copilot is Lucy — but this Lucy has a fleet.
-
----
-
-## Act 2 — Two Factories, One Belt (4 min)
-
-| Layer | Product | Metaphor |
-|---|---|---|
-| 🍫 What ships | Enterprise agents on **Foundry** | Chocolates |
-| 🏭 Where made | **Foundry** — models, tools, evals, guardrails, deploy | Factory |
-| 👷 Who builds | **GitHub Copilot** — coding agents, skills, workflows, fleets | Lucy & crew |
-| 📦 What surrounds | Docs, samples, blogs, videos, demos | Wrapping paper |
-
-> Foundry is where the chocolate is made. Copilot is who wraps it — at speed, without stuffing any in her cheeks.
+> **Thesis:** Content demand in DevRel now moves like Lucy's belt on overdrive.
+> The fix isn't a faster Lucy — it's a fleet.
 
 ---
 
-## Act 3 — The Weekly Belt: Three DevRel Shows (4 min)
+## Act 2 — The Funnel *Is* the Belt (4 min)
 
-The DevRel belt has **three chocolate sizes**, each a real project:
+Three shows, three funnel stages, three chocolate sizes:
 
-1. 🎙️ **Model Mondays** (weekly livestream) — the *news* chocolate. Small, frequent, time-boxed. https://aka.ms/model-mondays
-2. 🚀 **Model Releases** (per-model demo) — the *proof* chocolate. Irregular, bursty, one per model drop. Each release → one runnable Foundry demo.
-3. 🎓 **Model Mastery** (e2e workshops) — the *depth* chocolate. Long, layered, optimization-heavy (fine-tuning, evals, guardrails, deployment).
+| Stage | Show | Cadence | Chocolate size |
+|---|---|---|---|
+| 🎙️ Awareness | **Model Mondays** — weekly podcast | Weekly | Small, frequent |
+| 🚀 Engagement | **Model Releases** — capsule per model drop | Bursty | Medium, irregular |
+| 🎓 Adoption | **Model Mastery** — 4-hr optimization workshop | Quarterly-ish | Large, layered |
 
-Each chocolate has five wrappers on the belt: **Research → Prototype → Produce → Publish → Preserve.**
+```mermaid
+flowchart LR
+    M[("🌱 Foundry Model Drop")] --> MM["🎙️ Model Mondays\nAwareness"]
+    MM -->|"drives traffic"| MR["🚀 Model Releases\nEngagement"]
+    MR -->|"feeds"| MA["🎓 Model Mastery\nAdoption"]
 
-> *One factory. Three chocolate sizes. Same belt. Same Lucy.*
+    C["C — Coordinate"] -.-> MM
+    L["L — Launch"] -.-> MR
+    Y["Y — Yield"] -.-> MR
+    U["U — Update"] -.-> MA
+```
+
+> One funnel. Three chocolate sizes. Same belt.
 
 ---
 
-## Act 4 — Where the Chocolates Pile Up (3 min)
+## Act 3 — Where the Chocolates Pile Up (3 min)
 
 | Pile | Symptom | Which show hurts most |
 |---|---|---|
-| 🎩 In the hat — hidden work | Research, eval design, guardrail tuning | Model Mastery |
-| 👄 In the mouth — silently swallowed | Sample apps drift, model IDs go stale | Model Releases |
-| 👚 In the blouse — stuffed for later | *"I'll port that next sprint"* | Model Mastery |
-| 🗑️ On the floor — dropped | Clips, translations, community | Model Mondays |
+| 🎩 In the hat — hidden work | Speaker recruiting, calendar holds, tech checks, host assignment | Model Mondays |
+| 👄 In the mouth — silently swallowed | Capsule backlog grows faster than models ship | Model Releases |
+| 👚 In the blouse — stuffed for later | *"I'll refresh that notebook next sprint"* | Model Releases |
+| 🗑️ On the floor — dropped | Workshop labs go stale after model deprecations | Model Mastery |
 
-> You can't out-hustle the belt. You have to re-tool Lucy.
+> You can't out-hustle the belt. You have to build a fleet.
 
 ---
 
-## Act 5 — Smarter, Faster Lucy: Live Demos (9 min)
+## Act 4 — Meet L.U.C.Y (2 min)
 
-Each demo = **Copilot (coding agent) building or maintaining a Foundry (enterprise agent) chocolate.** Threaded through the three shows.
+Not a faster Lucy. A fleet, named for what it does:
 
-- **Demo 1 — 🍬 Skills** *(1.5 min)* → **Model Mondays.** Turn an episode transcript into a recap blog + a Foundry agent scaffold demoing the week's new model.
-- **Demo 2 — 🤖 Coding agent builds an enterprise agent** *(2 min)* → **Model Releases.** Assign a GitHub issue: *"Build a Foundry demo for the newly released model X."* Copilot scaffolds project, wires tools, adds evals, opens PR.
-- **Demo 3 — 🛠️ Workflows** *(2 min)* → **Model Mondays.** Sunday-night scheduled workflow scans changelogs + Foundry catalog, files Monday-morning issue with rundown + starter branch.
-- **Demo 4 — 🚚 Fleets** *(2 min)* → **Model Releases.** Fan-out one prompt → N parallel sessions, one per stale sample, upgrading each to the new SDK and re-running evals.
-- **Demo 5 — 🔧 Agentic DevOps** *(1.5 min)* → **Model Mastery.** Copilot watches CI + Foundry eval regressions across workshop repos, auto-triages, files fix-PRs, updates the docs site and gallery.
+- **L**aunch — scaffold new content from scratch (capsules, recaps)
+- **U**pdate — refresh stale content as models/SDKs change
+- **C**oordinate — own the PM/ops grind (scheduling, speaker confirms, tech checks)
+- **Y**ield — scale output in parallel across a whole model lineup
+
+> Same DevRel. Same belt. New crew: L.U.C.Y.
+
+---
+
+## Act 5 — L.U.C.Y at Work: Live Demos (9 min)
+
+Each demo = one L.U.C.Y capability, tied to a real production task on one of the three shows.
+
+- **Demo 1 — 🍬 Skill** *(1.5 min)* → **Model Mondays** *(Launch)*. Transcript → recap blog + draft News Highlights segment (5-6 URLs).
+- **Demo 2 — 🛠️ Workflow** *(2 min)* → **Model Mondays** *(Coordinate)*. Scheduled workflow handles speaker-confirm reminders, calendar holds, tech-check checklist, and files the Sunday-night rundown.
+- **Demo 3 — 🤖 Coding agent** *(2 min)* → **Model Releases** *(Launch)*. Model card + Foundry docs + model characteristics → scaffolded capsule notebook + video script, told through a "hill-climbing" multi-model optimization narrative.
+- **Demo 4 — 🚚 Fleet** *(2 min)* → **Model Releases** *(Yield)*. Fan out across a provider's full model lineup — parallel capsule generation/refresh, one session per model.
+- **Demo 5 — 🔧 Agentic DevOps** *(1.5 min)* → **Model Mastery** *(Update)*. Model deprecation/update triggers auto-refresh of the e2e optimization lab and the model-specific lab.
 
 ---
 
 ## Act 6 — The Wrap-Up (2 min)
 
-**Two factories, one loop:**
-- 🏭 **Foundry** makes, evaluates, governs, deploys enterprise agents.
-- 🤖 **Copilot** builds and maintains them — skills, agents, workflows, fleets, agentic DevOps.
-- Together: **coding agents building enterprise agents, at the pace of the ecosystem.**
-
 **Three takeaways:**
-1. **Name your chocolates.** Inventory every recurring artifact — you can't automate an invisible belt.
+1. **Name your chocolates.** Map your funnel — awareness, engagement, adoption — to real recurring artifacts.
 2. **Design for the belt, not the burst.** Weekly cadence + agentic workflows beat heroic sprints.
-3. **Delegate to agents, curate as human.** Copilot wraps; you taste-test. Judgment is the moat.
+3. **Delegate to the fleet, curate as human.** L.U.C.Y wraps; you taste-test. Judgment is the moat.
 
-> Foundry is the factory. The chocolates are enterprise agents. Copilot is Lucy — but this Lucy has skills, a fleet, and a night shift that never sleeps. So go on: **let the belt speed up.** 🍫🤖
+> It's time to stop chasing the conveyor belt — and start running your own agent-powered chocolate
+> factory. L.U.C.Y has your hat covered. 🍫🤖
 
 ---
 
 ## Timing
+
 | Section | Time | Cumulative |
 |---|---|---|
 | Hook + reframe | 3:00 | 3:00 |
-| Two factories | 4:00 | 7:00 |
-| Three shows scenario | 4:00 | 11:00 |
-| Pile-up failure modes | 3:00 | 14:00 |
-| Live demos (5) | 9:00 | 23:00 |
-| Wrap-up | 2:00 | 25:00 |
+| The funnel is the belt | 4:00 | 7:00 |
+| Pile-up failure modes | 3:00 | 10:00 |
+| Meet L.U.C.Y | 2:00 | 12:00 |
+| Live demos (5) | 9:00 | 21:00 |
+| Wrap-up | 2:00 | 23:00 |
+| **Buffer (Q&A / transitions)** | **2:00** | **25:00** |

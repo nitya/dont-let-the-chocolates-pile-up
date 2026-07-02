@@ -1,155 +1,155 @@
 # 🎬 Storyboard — Live Demo Arc (9 min)
-### *Smarter, Faster Lucy: Copilot on the Foundry belt*
+### *L.U.C.Y at Work: Launch, Update, Coordinate, Yield*
 
-Companion to [OUTLINE.md](./OUTLINE.md), Act 5. Five demos, ~9 minutes total. Every demo threads through one of the three DevRel shows and shows a **coding agent (Copilot) producing or maintaining an enterprise agent (Foundry)** artifact — live.
+**Setup shot (before Demo 1 — 15 sec, on slide):**
+> Three shows on the belt. One funnel: Awareness → Engagement → Adoption. Watch L.U.C.Y — Launch,
+> Update, Coordinate, Yield — run all three.
+
+| Show | Funnel stage | Cadence | Chocolate size |
+|---|---|---|---|
+| 🎙️ **Model Mondays** — weekly podcast | Awareness | Weekly | Small, frequent |
+| 🚀 **Model Releases** — capsule per model drop | Engagement | Bursty | Medium, irregular |
+| 🎓 **Model Mastery** — 4-hr optimization workshop | Adoption | Quarterly-ish | Large, layered |
+
+Narration spine: *awareness → engagement → adoption.* Each demo is one L.U.C.Y capability doing a
+real production task on one of these three shows.
 
 ---
 
-## The three shows
+## 🍬 Demo 1 — Skill (1.5 min) → **Model Mondays** *(Launch)*
 
-The DevRel belt has three chocolate sizes. The demos ride the same three shows so the audience sees them evolve across the arc.
+**Chocolate:** this week's transcript → recap blog + a drafted News Highlights segment (5-6 URLs).
 
-| Show | One-liner | Belt role |
-|---|---|---|
-| 🎙️ **Model Mondays** — weekly livestream on the AI model ecosystem ([aka.ms/model-mondays](https://aka.ms/model-mondays)) | Weekly news roundup + featured-model demo, live on air | **News** — small, frequent, time-boxed |
-| 🚀 **Model Releases** — one runnable Foundry demo per model drop | Every new model on Foundry ships with a working sample the same day | **Proof** — bursty, high-frequency, irregular |
-| 🎓 **Model Mastery** — end-to-end optimization workshops | Fine-tuning → distillation → evals → guardrails → deployment, module by module | **Depth** — monthly / quarterly, long-form |
+**Why here:** open with the smallest, most frequent chocolate. Skills are the atomic station on
+the line — reusable, callable, composable.
 
-> **News → Proof → Depth.** Same belt. Same Lucy. Three chocolate sizes.
+| Beat | Time | Screen | What the audience sees | What I say |
+|---|---|---|---|---|
+| 1 | 0:00 | Copilot app — Skills library | Two saved skills: `mm-recap-blog` and `mm-news-highlights` | "Model Mondays ships every week. Two skills own the recap." |
+| 2 | 0:20 | Chat: invoke `mm-recap-blog` with transcript URL | Streaming recap draft (summary + Q&A) appears in editor canvas | "Skill 1 — turns transcript into a recap post. Same prompt every week." |
+| 3 | 0:50 | Chain into `mm-news-highlights` on the same transcript | Draft list of 5-6 News Highlights URLs, pulled from what was mentioned on air | "Skill 2 — drafts next week's News Highlights segment before I've even opened a tab." |
+| 4 | 1:15 | Editor canvas — final recap with embedded livestream + links | Recap post ready to publish | "That's one chocolate wrapped. Weekly, on cadence." |
 
-**Capability × Show map** (each show appears at least once as a primary demo):
+**Handoff line to Demo 2:** *"Skills handle the content. But Model Mondays runs on PM work too — and that's where Lucy really drowns."*
 
-| Capability | Model Mondays | Model Releases | Model Mastery |
+---
+
+## 🛠️ Demo 2 — Workflow (2 min) → **Model Mondays** *(Coordinate)*
+
+**Chocolate:** the PM grind behind every episode — speaker confirms, calendar holds, tech checks, host assignment, Sunday-night rundown.
+
+**Why here:** shifts from content to *ops*. This is the "hidden work in the hat" pile, made visible and automated.
+
+| Beat | Time | Screen | What the audience sees | What I say |
+|---|---|---|---|---|
+| 1 | 0:00 | Copilot app — Automations tab | Scheduled workflow `mm-sunday-ops`, cron: Sun 22:00 | "Every Sunday night, this runs. Nobody logs in." |
+| 2 | 0:20 | Workflow prompt open | Reads: check speaker confirmations, send reminder if unconfirmed, verify calendar hold + tech-check slot, assign host if unassigned | "Speaker coordination, calendar holds, tech checks, host assignment — all in one prompt." |
+| 3 | 0:45 | Click **Run now** | Session log streams: speaker status checked, reminder email drafted, tech-check slot confirmed | "I'm faking the clock. Here it goes." |
+| 4 | 1:25 | GitHub — new issue in `model-mondays` | Issue: *"Ep 43 rundown — speaker confirmed, host assigned, tech check booked Mon 8am"* | "Monday morning, the producer opens this and everything's already lined up." |
+| 5 | 1:50 | Back to slide | Reveal: same pattern also drafts the Sunday rundown from Demo 1's News Highlights | "Coordinate doesn't just file paperwork — it clears Lucy's hat before the belt even starts." |
+
+**Handoff line to Demo 3:** *"Mondays is handled. But a new model just dropped — and Mondays only gives it a headline. Someone still has to build the capsule."*
+
+---
+
+## 🤖 Demo 3 — Coding Agent (2 min) → **Model Releases** *(Launch)*
+
+**Chocolate:** a brand-new Foundry model dropped this morning. We need a capsule — notebook + video script — by end of day.
+
+**Why here:** the flagship capability — **Launch**. Coding agent builds real Engagement-stage content, grounded in the model card and Foundry docs.
+
+| Beat | Time | Screen | What the audience sees | What I say |
+|---|---|---|---|---|
+| 1 | 0:00 | GitHub — repo `model-releases` | Open issue: *"Build a capsule for Model X (dropped 09:00 today)"* — labeled `copilot`, assigned to Copilot | "Model X shipped 4 hours ago. Here's the issue." |
+| 2 | 0:20 | Copilot cloud session spinning up | Session reads the model card + Foundry docs, plans the capsule | "It's reading the model card and the Foundry docs before writing a line." |
+| 3 | 0:50 | Session timeline — file edits streaming | Scaffolding: notebook with "hill-climbing" narrative (single frontier model → right-sized multi-model solution), video walkthrough script, README | "Notice the narrative — this isn't 'use one big model for everything.' It's picking the right model per task." |
+| 4 | 1:20 | PR opens in `model-releases` | Draft PR with notebook diff, rendered output cells, video script attached | "PR is up. Capsule's ready for a human pass." |
+| 5 | 1:45 | I click review, approve one cell, request a tweak on the narrative framing | Copilot pushes a fix in-session | "Human in the loop — I taste-test, L.U.C.Y re-wraps. Not a single chocolate stuffed in a cheek." |
+
+**Handoff line to Demo 4:** *"One capsule, one model. But this provider just released six models at once."*
+
+---
+
+## 🚚 Demo 4 — Fleet (2 min) → **Model Releases** *(Yield)*
+
+**Chocolate:** a provider drops six models in one day. Six capsules needed, each grounded in its own model card. Sequentially = a week. In parallel = an afternoon.
+
+**Why here:** scale beat — **Yield**. This is where the audience feels the belt-speed change viscerally.
+
+| Beat | Time | Screen | What the audience sees | What I say |
+|---|---|---|---|---|
+| 1 | 0:00 | Terminal canvas | `gh copilot fleet run --prompt "build capsule for {model}" --models provider-x/*` | "One prompt. Six models." |
+| 2 | 0:20 | Copilot app — Sessions area | Six sibling sessions appear, all `in-progress` | "Six workbenches. Six capsules. Same shift." |
+| 3 | 0:50 | Click into 2 sessions side-by-side | One finishing cleanly, one flagging a tool the model doesn't support yet | "Each one is independent. This one hit a missing tool binding." |
+| 4 | 1:20 | GitHub — PR list on `model-releases` | 5 green PRs, 1 draft with `needs-human` label | "5 wrapped. 1 in the hat — flagged for me, not dropped on the floor." |
+| 5 | 1:45 | Back to slide | "Yield is the moment the belt stops beating you." | "The chocolates got faster. L.U.C.Y grew arms." |
+
+**Handoff line to Demo 5:** *"Awareness — done. Engagement — done at scale. But workshops are where the real damage happens when nobody's watching."*
+
+---
+
+## 🔧 Demo 5 — Agentic DevOps (1.5 min) → **Model Mastery** *(Update)*
+
+**Chocolate:** a 4-hr optimization workshop — e2e lab + model-specific lab. One of the models it depends on just got deprecated overnight.
+
+**Why here:** closes the loop — **Update**. L.U.C.Y doesn't just build — it keeps Adoption-stage content alive.
+
+| Beat | Time | Screen | What the audience sees | What I say |
+|---|---|---|---|---|
+| 1 | 0:00 | GitHub — `model-mastery` repo, red CI badge | Failing lab step: deprecated model ID in the model-specific lab | "Overnight deprecation. I wasn't awake." |
+| 2 | 0:15 | Copilot session — triggered by CI failure webhook | Reading logs, identifying the deprecated model, checking the Optimization Playbook for a replacement | "Agentic DevOps: CI failed → session opened itself, and it already knows the playbook." |
+| 3 | 0:40 | Draft PR appears | Swap deprecated model reference, update lab instructions, refresh the e2e lab's benchmark numbers | "Fix + doc update + benchmark refresh, one PR." |
+| 4 | 1:05 | Preview canvas — workshop site rebuild | Model-specific lab page shows the updated model and current numbers | "Learners see the corrected lab before the next cohort." |
+| 5 | 1:25 | Slide — final loop diagram | Launch → Coordinate → Yield → Update, looping back to Launch on the next drop | "Awareness, Engagement, Adoption. And for once, Lucy clocks out without a single chocolate in her mouth." |
+
+---
+
+## 🎁 Closing beat (bridge to Act 6, ~10 sec)
+
+Slide: three show logos stacked, L.U.C.Y letters beneath, arrows connecting them into a belt.
+
+> *Model Mondays. Model Releases. Model Mastery. One funnel, three chocolate sizes, one fleet — L.U.C.Y — wrapping them all.*
+
+---
+
+## Cheat Sheet — Capability × Show Matrix
+
+| L.U.C.Y capability | Model Mondays | Model Releases | Model Mastery |
 |---|:---:|:---:|:---:|
-| 🍬 Skills | **D1** | · | · |
-| 🤖 Coding agent → enterprise agent | · | **D2** | · |
-| 🛠️ Workflows | **D3** | · | · |
-| 🚚 Fleets | · | **D4** | · |
-| 🔧 Agentic DevOps | · | · | **D5** |
+| 🍬 Skill (Launch) | **D1** | · | · |
+| 🛠️ Workflow (Coordinate) | **D2** | · | · |
+| 🤖 Coding agent (Launch) | · | **D3** | · |
+| 🚚 Fleet (Yield) | · | **D4** | · |
+| 🔧 Agentic DevOps (Update) | · | · | **D5** |
 
----
-
-## Demo 1 — 🍬 Skills · maps to: **Model Mondays** *(1.5 min)*
-
-**The chocolate:** last week's episode → this week's recap blog **plus** a runnable Foundry agent that demos the model featured on air.
-
-**Setup slide (10s):** *"Every Monday I ship a recap and a starter agent. Same two skills. Every week."*
-
-**On-screen sequence:**
-1. Copilot app → **Skills** panel. Two saved skills highlighted: `mm-recap-blog`, `mm-agent-scaffold`.
-2. Presenter drops the episode transcript URL into chat and invokes `mm-recap-blog`. Editor canvas opens; recap streams in section by section.
-3. Presenter chains into `mm-agent-scaffold` referencing the recap. Sidebar lights up with new files under `model-mondays/ep-42/` — Foundry agent code, `evals/`, README.
-4. Terminal canvas: `npm run dev`. The scaffolded Foundry agent responds to a live prompt showcasing the week's featured model.
-5. Presenter commits from the app. Session panel shows one green commit; recap is ready to publish.
-
-**Payoff line:** *"That's one chocolate wrapped — on cadence, on Monday, before coffee."*
-
-**Fallback:** pre-recorded 45-sec clip of steps 2–4; static screenshot of the running agent responding.
-
----
-
-## Demo 2 — 🤖 Coding agent builds an enterprise agent · maps to: **Model Releases** *(2 min)*
-
-**The chocolate:** a brand-new Foundry model dropped this morning → one working sample by end of day, PR open, evals attached.
-
-**Setup slide (10s):** *"Model X shipped four hours ago. Watch a coding agent build the enterprise agent."*
-
-**On-screen sequence:**
-1. GitHub → `model-releases` repo. Open a fresh issue: *"Build a Foundry demo for Model X (dropped 09:00 today)."* Labels: `copilot`, `model-release`. Assign to Copilot.
-2. Cloud session spawns in the Copilot app sidebar — new workbench appears with the issue title. Session starts autonomously.
-3. Session timeline streams: reads the model card, plans the demo, picks tools, scaffolds project, wires tool bindings, writes an `evals/` folder alongside the app code.
-4. Draft **PR opens** in `model-releases` — diff visible, screenshots of eval results in the PR body, one eval flagged red for human review.
-5. Presenter clicks review, approves one file, requests a change on the flagged eval; Copilot pushes a fix commit in-session. PR turns green.
-
-**Payoff line:** *"A coding agent just built an enterprise agent. I supervised — I didn't stuff any in my cheeks."*
-
-**Fallback:** pre-recorded PR-open clip (30 sec) + screenshot gallery of the eval report and the fix commit.
-
----
-
-## Demo 3 — 🛠️ Workflows · maps to: **Model Mondays** *(2 min)*
-
-**The chocolate:** Sunday-night → Monday-morning rundown. A filed GitHub issue with the week's model landscape + a pre-scaffolded starter branch waiting for the producer.
-
-**Setup slide (10s):** *"The show can't ship if nobody notices what dropped. Give Lucy a night shift."*
-
-**On-screen sequence:**
-1. Copilot app → **Automations** tab. Scheduled workflow `mm-sunday-rundown`. Cron: `Sun 22:00`. Trigger: scheduled.
-2. Presenter opens the workflow's prompt: scan Foundry catalog, Azure AI blog, arxiv-cs.LG top 5, diff against last week, draft rundown, file issue, cut starter branch.
-3. Click **Run now** to fake the clock. Session log streams: fetching catalog, diffing, drafting, filing.
-4. GitHub → `model-mondays` repo shows a new issue: *"Ep 43 rundown — 3 new models, 1 breaking change"* plus a linked starter branch `ep-43-scaffold`.
-5. Sidebar in the Copilot app: a scheduled-session badge appears under **My work**. Producer opens the app Monday 09:00 and this is what greets them.
-
-**Payoff line:** *"The belt runs on Sunday night. Lucy sleeps. Monday's chocolate is already wrapped."*
-
-**Fallback:** screenshot of the filed issue + a 20-sec loop of the scheduled-session badge appearing in the sidebar.
-
----
-
-## Demo 4 — 🚚 Fleets · maps to: **Model Releases** *(2 min)*
-
-**The chocolate:** the back catalog. `foundry-sdk@2.0` dropped → 12 sample apps in `model-releases/samples/*` need upgrading and re-eval'd. Sequentially = three days. In a fleet = twenty minutes.
-
-**Setup slide (10s):** *"One new model, twelve old demos that just broke. Fan out."*
-
-**On-screen sequence:**
-1. Terminal canvas: `gh copilot fleet run --prompt "upgrade to foundry-sdk@2.0, re-run evals, open PR" --repos "model-releases/samples/*"`.
-2. Copilot app → **Sessions** area. **Twelve sibling sessions** appear in a grid, all `in-progress`, each labelled with its sample name.
-3. Presenter clicks two sessions to open side-by-side: one is passing evals cleanly; the other hit an API rename and Copilot is investigating.
-4. GitHub → `model-releases` PR list refreshes: **11 green PRs open**, 1 draft PR labelled `needs-human`.
-5. Sidebar: fleet parent session summarizes — *"11 wrapped · 1 flagged."* Presenter clicks the flagged one; it's queued for review, not lost.
-
-**Payoff line:** *"The chocolates got faster — so Lucy grew arms. Eleven wrapped. One in the hat, on purpose."*
-
-**Fallback:** pre-recorded 60-sec clip of the fleet fan-out + PR list; screenshot of the flagged session's diff.
-
----
-
-## Demo 5 — 🔧 Agentic DevOps · maps to: **Model Mastery** *(1.5 min)*
-
-**The chocolate:** a 6-module workshop repo (fine-tuning → distillation → evals → guardrails → deployment) with a live docs site. Overnight, an eval regressed on Module 4 because an upstream model bumped versions. Learners are hitting the page **right now**.
-
-**Setup slide (10s):** *"The deep chocolates rot slower — and hurt more when they do. Copilot doesn't just build. It operates."*
-
-**On-screen sequence:**
-1. GitHub → `model-mastery` repo. Red CI badge. Failing eval on `modules/04-guardrails/`. Triggered 2 hours ago by an upstream model version bump.
-2. Copilot app sidebar: a session has already opened itself in response to the CI webhook. Timeline shows it reading logs, bisecting, identifying the root cause.
-3. Draft **fix PR** appears: pin model version, update workshop notes for Module 4, regenerate one screenshot in the gallery.
-4. Browser canvas: preview of the rebuilt workshop site. Module 4 page shows the corrected code and updated eval numbers. Green.
-5. Slide overlay: the Foundry ⇄ Copilot loop — **build → eval → deploy → monitor → fix** — closes.
-
-**Payoff line:** *"Two factories, one loop. Copilot works the night shift so mastery stays sharp."*
-
-**Fallback:** pre-recorded 40-sec clip of the auto-opened session and PR; screenshot of the fixed workshop page.
+Each funnel stage — Awareness, Engagement, Adoption — gets at least one primary demo, and the
+five demos map cleanly onto L.U.C.Y's four letters (Launch covers two demos, showing the same
+capability working at content scale on Model Mondays and at capsule scale on Model Releases).
 
 ---
 
 ## Timing check
 
-| Demo | Show | Budget | Cumulative |
-|---|---|---|---|
-| D1 — Skills | Model Mondays | 1:30 | 1:30 |
-| D2 — Coding agent → enterprise agent | Model Releases | 2:00 | 3:30 |
-| D3 — Workflows | Model Mondays | 2:00 | 5:30 |
-| D4 — Fleets | Model Releases | 2:00 | 7:30 |
-| D5 — Agentic DevOps | Model Mastery | 1:30 | 9:00 |
+| Demo | Show | L.U.C.Y | Budget | Cumulative |
+|---|---|---|---|---|
+| D1 — Skill | Model Mondays | Launch | 1:30 | 1:30 |
+| D2 — Workflow | Model Mondays | Coordinate | 2:00 | 3:30 |
+| D3 — Coding agent | Model Releases | Launch | 2:00 | 5:30 |
+| D4 — Fleet | Model Releases | Yield | 2:00 | 7:30 |
+| D5 — Agentic DevOps | Model Mastery | Update | 1:30 | 9:00 |
 
-**Total: 9:00.** Matches Act 5 in [OUTLINE.md](./OUTLINE.md).
+**Total: 9:00.** Matches Act 5 in OUTLINE.md.
 
 ---
 
 ## Pre-flight checklist
 
-- [ ] Skills `mm-recap-blog` and `mm-agent-scaffold` saved and warmed
-- [ ] `model-releases` repo has a real, recent model issue queued for Demo 2
-- [ ] `mm-sunday-rundown` workflow present and runnable ad-hoc
-- [ ] `model-releases/samples/*` has ≥ 12 sample repos ready for fleet fan-out
-- [ ] `model-mastery` repo has a deliberately-broken eval on a scratch branch
-- [ ] Backup video recordings for D2 and D4 (network-dependent)
-- [ ] `aka.ms/model-mondays` open in a tab as a visual anchor
-
----
-
-## Narrative arc (one sentence)
-
-**Build one → build many → schedule the build → scale the build → operate the build** — mirrors the DevRel maturity ladder from *news* through *proof* to *depth*.
+- [ ] Skills `mm-recap-blog` and `mm-news-highlights` saved and warmed
+- [ ] `mm-sunday-ops` workflow present, runnable ad-hoc, with mock speaker/calendar data
+- [ ] `model-releases` repo has a queued issue for Demo 3 (real recent model + model card link)
+- [ ] `model-releases/provider-x/*` has 6 models ready for fleet fan-out in Demo 4
+- [ ] `model-mastery` repo has a deliberately-deprecated model reference on a scratch branch
+- [ ] Backup video recordings of D3 and D4 (the two live-network-dependent demos)
+- [ ] `aka.ms/model-mondays` open in a tab — use as visual anchor when naming the show
+- [ ] See `FALLBACK-PLAN.md` for per-demo failure triggers and bridge lines
+- [ ] See `assets/screenshots/SHOTLIST.md` for the full static-fallback shot list

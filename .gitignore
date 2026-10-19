@@ -9,3 +9,8 @@ __pycache__/
 
 # Build output
 slides/dist/
+
+# Site runtime state, test temp dirs, local venvs
+site/.state/
+site/.pytest_tmp/
+site/.venv*/

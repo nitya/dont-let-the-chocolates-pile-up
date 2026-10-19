@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+{% block title %}{{ season.title if season else "Episodes" }}{% endblock %}
+{% block live %}{{ 'home' if not season }}{% endblock %}
+{% block content %}
+
+{% if not season %}
+<section class="hero">
+  <div class="hero-copy">
+    <div class="kicker">Microsoft Reactor livestream · Mondays</div>
+    <h1>Model Mondays</h1>
+    <p class="tagline">Build your AI model IQ — the latest model news and a hands-on spotlight, every Monday.</p>
+    {% if stats %}
+    <div class="hero-stats">
+      <div><strong>{{ stats.episodes_total }}</strong><span>episodes</span></div>
+      <div><strong>{{ stats.total_views|num }}</strong><span>views</span></div>
+      <div><strong>{{ stats.total_hours|round|int }}h</strong><span>of video</span></div>
+      <div><strong>{{ seasons|length }}</strong><span>seasons</span></div>
+    </div>
+    {% endif %}
+  </div>
+  {% if up_next %}
+  <a class="up-next" href="/episodes/{{ up_next.id }}">
+    <div class="kicker kicker-amber">{{ 'Live now' if up_next.display_status == 'live' else 'Up next' }}</div>
+    {% if up_next.banner %}<img src="/{{ up_next.banner }}" alt="">{% endif %}
+    <h2>{{ up_next.title }}</h2>
+    <div class="meta">
+      <span>{{ m.icon('calendar') }} {{ up_next.date|date('%a, %b %d') }}{% if up_next.time %} · {{ up_next.time }}{% endif %}</span>
+      {% if up_next.host %}<span>{{ m.icon('mic') }} {{ up_next.host }}</span>{% endif %}
+    </div>
+  </a>
+  {% endif %}
+</section>
+{% else %}
+<section class="season-head">
+  <div class="kicker">Season {{ season.season }} · {{ season.startDate|date('%b %Y') }} – {{ season.endDate|date('%b %Y') }}</div>
+  <h1>{{ season.title }}</h1>
+  <p class="tagline">{{ season.theme }}</p>
+  <p>{{ season.description }}</p>
+</section>
+{% endif %}
+
+<nav class="season-tabs" aria-label="Seasons">
+  <a href="/" class="{{ 'active' if not season }}">All episodes</a>
+  {% for s in seasons %}
+  <a href="/seasons/{{ s.season }}" class="{{ 'active' if season and season.season == s.season }}">Season {{ s.season }}</a>
+  {% endfor %}
+</nav>
+
+{% if not season %}
+<section class="factory-strip" data-live-region id="fresh">
+  <div class="section-head">
+    {{ m.badge('spark') }}
+    <div><div class="kicker">Fresh off the line</div><h2>Approved by a human, minutes ago</h2></div>
+  </div>
+  {% if fresh %}
+  <div class="fresh-list">
+    {% for d in fresh %}
+    <a class="fresh-item" data-draft-id="{{ d.id }}" href="/episodes/{{ d.episode_id }}#draft-{{ d.id }}">
+      <span class="kind-chip">{{ d.kind|kind_label }}</span>
+      <strong>{{ d.title }}</strong>
+      <span class="small">{{ d.episode_id|upper }} · by {{ d.author_agent }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="empty">Nothing approved yet. Agents submit drafts over MCP; a human approves them in the <a href="/studio">Studio</a>.</p>
+  {% endif %}
+  {% if proposals %}
+  <div class="proposals">
+    <div class="kicker">Proposed episodes</div>
+    {% for d in proposals %}<a href="/episodes/{{ d.episode_id }}" data-draft-id="{{ d.id }}">{{ d.episode_id|upper }} — {{ d.title }}</a>{% endfor %}
+  </div>
+  {% endif %}
+</section>
+{% endif %}
+
+<section class="ep-grid">
+  {% for ep in episodes %}{{ m.episode_card(ep) }}{% endfor %}
+</section>
+{% endblock %}

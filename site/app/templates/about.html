@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+{% block title %}About{% endblock %}
+{% block content %}
+<section class="narrow">
+  <div class="kicker">About this site</div>
+  <h1>The factory window</h1>
+  <p class="tagline">A live demo for the talk <em>“Don't Let the Chocolate Pile Up: Scaling DevRel Content with AI Agents”</em>.</p>
+  <div class="about-grid">
+    <div class="card">
+      {{ m.badge('spark') }}
+      <h3>Agents draft</h3>
+      <p>AI agents connect to the <code>model-mondays</code> MCP server at <code>/mcp</code>, ground themselves in real episode data and transcripts, and submit recaps, highlights, briefs, run-of-show docs, social posts and Marp decks.</p>
+    </div>
+    <div class="card">
+      {{ m.badge('check') }}
+      <h3>Humans approve</h3>
+      <p>Every draft waits in the <a href="/studio">Studio</a>. There is deliberately no “approve” tool: only a person can ship content.</p>
+    </div>
+    <div class="card">
+      {{ m.badge('play') }}
+      <h3>Pages update live</h3>
+      <p>Approved content appears on the episode pages within seconds — no rebuild, no deploy.</p>
+    </div>
+  </div>
+  <div class="card card-peach">
+    <div class="kicker">Data &amp; attribution</div>
+    <p>Episode metadata, pages and banners come from <a href="https://github.com/microsoft/model-mondays">microsoft/model-mondays</a>, © Microsoft Corporation, under the MIT License{% if source.commit %} (snapshot of commit <code>{{ source.commit[:7] }}</code>{% if source.importedAt %}, imported {{ source.importedAt|date }}{% endif %}){% endif %}. Video statistics, descriptions and transcripts come from the public <a href="https://aka.ms/model-mondays/playlist">Model Mondays YouTube playlist</a>.</p>
+    <p>This is an unofficial demo site, not the official Model Mondays website.</p>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,141 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+{% block title %}{{ ep.title }}{% endblock %}
+{% block live %}episode{% endblock %}
+{% block body_attrs %}data-episode-id="{{ ep.id }}"{% endblock %}
+{% block content %}
+{% set yt = ep.youtube or {} %}
+
+<section class="ep-hero">
+  <div class="ep-hero-banner">{% if ep.banner %}<img src="/{{ ep.banner }}" alt="{{ ep.title }} banner">{% endif %}</div>
+  <div class="ep-hero-copy">
+    <div class="kicker"><a href="/seasons/{{ ep.season }}">Season {{ ep.season }}</a> · Episode {{ ep.episode }} {{ m.status_pill(ep.display_status) }}</div>
+    <h1>{{ ep.title }}</h1>
+    <div class="meta">
+      <span>{{ m.icon('calendar') }} {{ ep.date|date('%A, %B %d, %Y') }}{% if ep.time %} · {{ ep.time }}{% endif %}</span>
+      {% if ep.host %}<span>{{ m.icon('mic') }} Host: {{ ep.host }}</span>{% endif %}
+    </div>
+    {% if ep.speakers %}
+    <div class="speakers">{{ m.icon('users') }} {% for s in ep.speakers %}<span class="chip">{{ s }}</span>{% endfor %}</div>
+    {% endif %}
+    <p class="lede">{{ ep.description }}</p>
+    {% if yt.videoId %}
+    <div class="stat-chips">
+      <span class="stat">{{ m.icon('eye') }} {{ yt.viewCount|num }} views</span>
+      {% if yt.likeCount is not none %}<span class="stat">{{ m.icon('heart') }} {{ yt.likeCount|num }} likes</span>{% endif %}
+      {% if yt.durationSec %}<span class="stat">{{ m.icon('clock') }} {{ yt.durationSec|duration }}</span>{% endif %}
+      {% if yt.commentCount %}<span class="stat">{{ m.icon('chat') }} {{ yt.commentCount|num }}</span>{% endif %}
+      <span class="stat {{ 'stat-on' if has_transcript }}">{{ m.icon('doc') }} transcript {{ 'ready' if has_transcript else 'pending' }}</span>
+    </div>
+    {% endif %}
+    <div class="link-row">
+      {% if yt.url %}<a class="btn" href="{{ yt.url }}" target="_blank" rel="noopener">{{ m.icon('play') }} Watch on YouTube</a>{% endif %}
+      {% for name, url in ep.links.items() if name != 'recording' %}<a class="btn btn-ghost" href="{{ url }}" target="_blank" rel="noopener">{{ name|capitalize }}</a>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<nav class="section-nav">
+  {% if yt.videoId %}<a href="#watch">Watch</a>{% endif %}
+  {% for s in sections %}<a href="#{{ s.anchor }}">{{ s.label }}</a>{% endfor %}
+  {% if ep.highlights or ep.spotlight %}<a href="#news">News & spotlight</a>{% endif %}
+  <a href="#archive">Archive</a>
+</nav>
+
+{% if yt.videoId %}
+<section id="watch" class="watch {{ 'has-chapters' if chapters }}">
+  <div class="video-frame">
+    <iframe id="yt-player" src="https://www.youtube-nocookie.com/embed/{{ yt.videoId }}" title="{{ yt.title or ep.title }}"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  </div>
+  {% if chapters %}
+  <div class="card chapters">
+    <div class="kicker">Chapters</div>
+    <ol>
+      {% for c in chapters %}
+      <li><a href="{{ yt.url }}&t={{ c.seconds }}s" data-seek="{{ c.seconds }}" data-video="{{ yt.videoId }}"><span class="ts">{{ c.label }}</span> {{ c.title }}</a></li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+</section>
+{% endif %}
+
+<div id="factory" data-live-region>
+  {% for s in sections %}
+  <section id="{{ s.anchor }}" class="factory-section {{ 'is-empty' if not s.drafts }}">
+    <div class="section-head">
+      {{ m.badge(m.SECTION_ICONS[s.anchor]) }}
+      <div><div class="kicker">{{ 'From the factory' if s.drafts else 'On the line' }}</div><h2>{{ s.label }}</h2></div>
+    </div>
+    {% for d in s.drafts %}
+    <article class="card draft-card" id="draft-{{ d.id }}" data-draft-id="{{ d.id }}-{{ d.reviewed_at }}">
+      <div class="draft-head">
+        <span class="kind-chip">{{ d.kind|kind_label }}</span>
+        <h3>{{ d.title }}</h3>
+      </div>
+      {{ m.draft_body(d) }}
+      {{ m.sources_list(d) }}
+      <div class="byline">Drafted by <strong>{{ d.author_agent }}</strong> · approved {{ d.reviewed_at|date('%b %d, %H:%M UTC') }}{% if d.reviewer_note %} · “{{ d.reviewer_note }}”{% endif %}</div>
+    </article>
+    {% else %}
+    <p class="empty">No approved {{ s.label|lower }} yet — it will appear here the moment a human approves one.</p>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</div>
+
+{% if ep.highlights or ep.spotlight or ep.customerStory or ep.studyCorner %}
+<section id="news" class="news-grid">
+  {% if ep.highlights %}
+  <div class="card">
+    <div class="section-head">{{ m.badge('spark') }}<div><div class="kicker">This week in models</div><h2>News highlights</h2></div></div>
+    <ul class="link-list">
+      {% for h in ep.highlights %}<li><a href="{{ h.url }}" target="_blank" rel="noopener">{{ h.title }}</a>{% if h.description %}<span>{{ h.description }}</span>{% endif %}</li>{% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% if ep.spotlight %}
+  <div class="card card-dark">
+    <div class="kicker kicker-amber">Spotlight</div>
+    <h2>{{ ep.spotlight.title }}</h2>
+    {% if ep.spotlight.speakers %}<p class="amber">{{ ep.spotlight.speakers|join(', ') }}</p>{% endif %}
+    <p>{{ ep.spotlight.description }}</p>
+    {% if ep.spotlight.resources %}
+    <ul class="link-list">
+      {% for r in ep.spotlight.resources %}<li><a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.title }}</a></li>{% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+  {% endif %}
+  {% if ep.customerStory %}
+  <div class="card card-peach">
+    <div class="kicker">Customer story</div>
+    <h3>{{ ep.customerStory.title }}{% if ep.customerStory.company %} · {{ ep.customerStory.company }}{% endif %}</h3>
+    <p>{{ ep.customerStory.description }}</p>
+  </div>
+  {% endif %}
+  {% if ep.studyCorner %}
+  <div class="card card-peach">
+    <div class="kicker">Study corner</div>
+    <h3>{{ ep.studyCorner.lesson }}</h3>
+    <p>{{ ep.studyCorner.description }}</p>
+    {% for r in ep.studyCorner.resources or [] %}<a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.title }}</a>{% endfor %}
+  </div>
+  {% endif %}
+</section>
+{% endif %}
+
+<section id="archive" class="archive">
+  <details>
+    <summary><span class="kicker">Archive</span> Original episode page from microsoft/model-mondays</summary>
+    <div class="prose">{{ archive_html }}</div>
+    {% if ep.source and ep.source.page %}<p class="small">Source: <a href="{{ ep.source.page }}" target="_blank" rel="noopener">{{ ep.source.page }}</a> (MIT)</p>{% endif %}
+  </details>
+</section>
+
+<nav class="prev-next">
+  {% if prev_ep %}<a href="/episodes/{{ prev_ep.id }}">← {{ prev_ep.id|upper }} · {{ prev_ep.title }}</a>{% else %}<span></span>{% endif %}
+  {% if next_ep %}<a href="/episodes/{{ next_ep.id }}">{{ next_ep.id|upper }} · {{ next_ep.title }} →</a>{% endif %}
+</nav>
+{% endblock %}

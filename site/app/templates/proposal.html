@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+{% block title %}Proposed: {{ draft.title }}{% endblock %}
+{% block content %}
+<section class="narrow">
+  <div class="kicker">Proposed episode · {{ draft.episode_id|upper }}</div>
+  <h1>{{ draft.title }}</h1>
+  <article class="card draft-card">
+    {{ m.draft_body(draft) }}
+    {{ m.sources_list(draft) }}
+    <div class="byline">Proposed by <strong>{{ draft.author_agent }}</strong> · approved {{ draft.reviewed_at|date('%b %d, %H:%M UTC') }}</div>
+  </article>
+</section>
+{% endblock %}

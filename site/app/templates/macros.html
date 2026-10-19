@@ -1,0 +1,69 @@
+{% set ICONS = {
+  'play': '<polygon points="7,4 20,12 7,20" fill="currentColor" stroke="none"/>',
+  'calendar': '<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+  'mic': '<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/>',
+  'eye': '<path d="M2 12s4-7 10-7 10 7 10 7-4 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/>',
+  'heart': '<path d="M12 20s-7-4.5-9-9a4.5 4.5 0 0 1 9-2 4.5 4.5 0 0 1 9 2c-2 4.5-9 9-9 9z"/>',
+  'clock': '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  'chat': '<path d="M4 5h16v11H9l-5 4z"/>',
+  'spark': '<path d="M12 2l2.6 6.9L22 12l-7.4 3.1L12 22l-2.6-6.9L2 12l7.4-3.1z" fill="currentColor" stroke="none"/>',
+  'doc': '<path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6M9 13h8M9 17h8"/>',
+  'users': '<circle cx="9" cy="8" r="3.5"/><path d="M2 20c0-4 3-6 7-6s7 2 7 6"/><circle cx="17" cy="9" r="2.5"/><path d="M17 14c3 0 5 2 5 5"/>',
+  'link': '<path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/>',
+  'check': '<path d="M4 12l5 5L20 6"/>',
+  'x': '<path d="M5 5l14 14M19 5L5 19"/>',
+  'list': '<path d="M8 6h13M8 12h13M8 18h13"/><circle cx="3.5" cy="6" r="1"/><circle cx="3.5" cy="12" r="1"/><circle cx="3.5" cy="18" r="1"/>',
+  'slides': '<rect x="3" y="4" width="18" height="12" rx="1.5"/><path d="M12 16v4M8 20h8"/>',
+  'megaphone': '<path d="M3 10v4h4l8 5V5L7 10z"/><path d="M19 9a4 4 0 0 1 0 6"/>',
+  'clipboard': '<rect x="5" y="4" width="14" height="18" rx="2"/><path d="M9 4V2h6v2M9 11h6M9 15h6"/>',
+} %}
+{% set SECTION_ICONS = {'recap': 'doc', 'highlights': 'spark', 'deck': 'slides', 'social': 'megaphone', 'prep': 'clipboard'} %}
+
+{% macro icon(name) -%}
+<svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{{ ICONS.get(name, '')|safe }}</svg>
+{%- endmacro %}
+
+{% macro badge(name, cls='') -%}
+<span class="icon-badge {{ cls }}">{{ icon(name) }}</span>
+{%- endmacro %}
+
+{% macro status_pill(status) -%}
+{% if status and status != 'completed' %}<span class="status-pill status-{{ status }}">{% if status == 'live' %}● {% endif %}{{ status }}</span>{% endif %}
+{%- endmacro %}
+
+{% macro episode_card(ep) -%}
+<a class="ep-card" href="/episodes/{{ ep.id }}">
+  <div class="ep-banner">
+    {% if ep.banner %}<img src="/{{ ep.banner }}" alt="" loading="lazy">{% endif %}
+    {{ status_pill(ep.display_status) }}
+  </div>
+  <div class="ep-body">
+    <div class="kicker">Season {{ ep.season }} · Episode {{ ep.episode }}</div>
+    <h3>{{ ep.title }}</h3>
+    <div class="meta">
+      <span>{{ icon('calendar') }} {{ ep.date|date }}</span>
+      {% if ep.host %}<span>{{ icon('mic') }} {{ ep.host }}</span>{% endif %}
+      {% if ep.youtube and ep.youtube.viewCount %}<span>{{ icon('eye') }} {{ ep.youtube.viewCount|num }}</span>{% endif %}
+    </div>
+  </div>
+</a>
+{%- endmacro %}
+
+{% macro sources_list(d) -%}
+{% if d.sources %}
+<div class="sources">
+  <span class="kicker">Grounded in</span>
+  <ul>{% for s in d.sources %}<li>{% if s.startswith('http://') or s.startswith('https://') %}<a href="{{ s }}" target="_blank" rel="noopener">{{ s }}</a>{% else %}<code>{{ s }}</code>{% endif %}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+{%- endmacro %}
+
+{% macro draft_body(d) -%}
+{% if d.content_html %}
+  <div class="deck-frame"><iframe src="/drafts/{{ d.id }}/deck" sandbox="allow-scripts" loading="lazy" title="{{ d.title }}"></iframe></div>
+  <p class="small"><a href="/drafts/{{ d.id }}/deck" target="_blank" rel="noopener">Open full screen ↗</a></p>
+  {% if d.content_markdown %}<details class="md-source"><summary>Markdown source</summary><pre>{{ d.content_markdown }}</pre></details>{% endif %}
+{% else %}
+  <div class="prose">{{ d.content_markdown|md }}</div>
+{% endif %}
+{%- endmacro %}

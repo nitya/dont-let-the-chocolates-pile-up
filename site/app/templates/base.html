@@ -1,0 +1,48 @@
+{% import "macros.html" as m %}<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Model Mondays{% endblock %} · Model Mondays</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23D7263D'/><text x='50' y='66' font-size='46' text-anchor='middle' fill='white' font-family='Trebuchet MS' font-weight='bold'>MM</text></svg>">
+  <script src="/static/app.js" defer></script>
+</head>
+<body data-live="{% block live %}{% endblock %}" data-since="{{ now }}" data-epoch="{{ epoch }}" {% block body_attrs %}{% endblock %}>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/">
+        <span class="brand-badge">MM</span>
+        <span class="brand-text"><strong>Model Mondays</strong><small>Content factory</small></span>
+      </a>
+      <nav class="main-nav">
+        <a href="/" class="{{ 'active' if active == 'home' }}">Episodes</a>
+        <a href="/studio" class="{{ 'active' if active == 'studio' }}">Studio</a>
+        <a href="/about" class="{{ 'active' if active == 'about' }}">About</a>
+      </nav>
+      {% if settings.demo_mode %}
+      <span class="demo-badge" title="{{ 'Draft writes are open (no MM_WRITE_KEY). ' if settings.writes_open }}{{ 'Reviews are open (no MM_ADMIN_KEY).' if settings.reviews_open }}">demo mode</span>
+      {% endif %}
+    </div>
+  </header>
+
+  <main class="wrap">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div>
+        <div class="kicker kicker-amber">Don't let the chocolate pile up</div>
+        <p>Drafts by agents, approved by humans. Episode data from <a href="https://github.com/microsoft/model-mondays">microsoft/model-mondays</a> (MIT).</p>
+      </div>
+      <div class="footer-links">
+        <a href="/api/health">API</a>
+        <a href="/api/docs">API docs</a>
+        <span title="Streamable HTTP MCP endpoint">MCP: <code>/mcp</code></span>
+      </div>
+    </div>
+  </footer>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+</body>
+</html>

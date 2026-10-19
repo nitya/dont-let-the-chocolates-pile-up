@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+{% block title %}Studio login{% endblock %}
+{% block content %}
+<section class="narrow card login-card">
+  {{ m.badge('clipboard') }}
+  <div class="kicker">Studio</div>
+  <h1>Reviewer login</h1>
+  <p>The review queue is for the human on the line. Enter the admin key to approve or reject drafts.</p>
+  {% if error %}<p class="warn">{{ error }}</p>{% endif %}
+  <form method="post" action="/studio/login" class="login-form">
+    <input type="password" name="key" placeholder="Admin key" aria-label="Admin key" autofocus required>
+    <button class="btn" type="submit">Enter studio</button>
+  </form>
+</section>
+{% endblock %}

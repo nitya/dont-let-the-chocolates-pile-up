@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+{% block title %}Studio{% endblock %}
+{% block live %}studio{% endblock %}
+{% block content %}
+<section class="studio-head">
+  <div>
+    <div class="kicker">Human in the loop</div>
+    <h1>Studio review queue</h1>
+    <p class="tagline">Agents propose. You decide what ships.</p>
+  </div>
+  <div class="studio-actions">
+    <form class="filters" method="get" action="/studio">
+      <select name="episode" aria-label="Episode">
+        <option value="">All episodes</option>
+        {% for e in episodes|reverse %}<option value="{{ e.id }}" {{ 'selected' if f_episode == e.id }}>{{ e.id|upper }} · {{ e.title|truncate(40) }}</option>{% endfor %}
+      </select>
+      <select name="kind" aria-label="Kind">
+        <option value="">All kinds</option>
+        {% for k in kinds %}<option value="{{ k }}" {{ 'selected' if f_kind == k }}>{{ k|kind_label }}</option>{% endfor %}
+      </select>
+      <button class="btn btn-ghost" type="submit">Filter</button>
+    </form>
+    {% if settings.admin_key %}<form method="post" action="/studio/logout"><button class="btn btn-ghost" type="submit">Log out</button></form>{% endif %}
+  </div>
+</section>
+
+<div id="queue" data-live-region>
+  <div class="queue-count"><span class="count-badge">{{ pending|length }}</span> pending {{ 'draft' if pending|length == 1 else 'drafts' }}{% if f_episode or f_kind %} (filtered){% endif %}</div>
+  {% for d in pending %}
+  <article class="card review-card" id="draft-{{ d.id }}" data-draft-id="{{ d.id }}">
+    <header class="review-head">
+      <div>
+        <div class="kicker">{{ d.kind|kind_label }} · <a href="/episodes/{{ d.episode_id }}">{{ d.episode_id|upper }}</a>{% if titles.get(d.episode_id) %} · {{ titles[d.episode_id] }}{% elif d.kind == 'episode' %} · new episode proposal{% endif %}</div>
+        <h2>{{ d.title }}</h2>
+        <div class="small">from <strong>{{ d.author_agent }}</strong> · {{ d.created_at|date('%b %d, %H:%M:%S UTC') }} · id <code>{{ d.id }}</code></div>
+      </div>
+      <div class="review-actions">
+        <form method="post" action="/studio/drafts/{{ d.id }}/approve">
+          <input type="hidden" name="return_to" value="/studio{% if f_episode or f_kind %}?episode={{ f_episode }}&kind={{ f_kind }}{% endif %}">
+          <input type="text" name="note" placeholder="Note (optional)" aria-label="Reviewer note">
+          <button class="btn btn-approve" type="submit">{{ m.icon('check') }} Approve</button>
+          <button class="btn btn-reject" type="submit" formaction="/studio/drafts/{{ d.id }}/reject">{{ m.icon('x') }} Reject</button>
+        </form>
+      </div>
+    </header>
+    <div class="preview">{{ m.draft_body(d) }}</div>
+    {% if d.sources %}{{ m.sources_list(d) }}{% elif d.kind not in ['recap', 'highlights'] %}<p class="small warn">No sources cited.</p>{% endif %}
+  </article>
+  {% else %}
+  <div class="card card-peach empty-queue">
+    {{ m.badge('check') }}
+    <div><h2>The belt is clear</h2><p>No pending drafts. New submissions from agents show up here automatically.</p></div>
+  </div>
+  {% endfor %}
+
+  <section class="recent">
+    <div class="kicker">Recently reviewed</div>
+    {% if recent %}
+    <table class="recent-table">
+      <tbody>
+      {% for d in recent %}
+      <tr data-draft-id="{{ d.id }}-{{ d.status }}">
+        <td><span class="status-pill status-{{ d.status }}">{{ d.status }}</span></td>
+        <td><span class="kind-chip">{{ d.kind|kind_label }}</span></td>
+        <td><a href="/episodes/{{ d.episode_id }}#draft-{{ d.id }}">{{ d.title }}</a><div class="small">{{ d.episode_id|upper }} · {{ d.author_agent }}{% if d.reviewer_note %} · “{{ d.reviewer_note }}”{% endif %}</div></td>
+        <td class="small">{{ d.reviewed_at|date('%b %d, %H:%M') }}</td>
+        <td>
+          <form method="post" action="/studio/drafts/{{ d.id }}/{{ 'reject' if d.status == 'approved' else 'approve' }}">
+            <input type="hidden" name="return_to" value="/studio">
+            <button class="btn btn-small btn-ghost" type="submit">{{ 'Unpublish' if d.status == 'approved' else 'Approve' }}</button>
+          </form>
+        </td>
+      </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+    <p class="empty">Nothing reviewed yet.</p>
+    {% endif %}
+  </section>
+</div>
+{% endblock %}

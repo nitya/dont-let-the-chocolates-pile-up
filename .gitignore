@@ -6,3 +6,6 @@ cookies*.txt
 # Python
 __pycache__/
 *.pyc
+
+# Build output
+slides/dist/

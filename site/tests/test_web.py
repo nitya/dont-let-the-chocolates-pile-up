@@ -27,7 +27,8 @@ def test_not_found(client):
 
 def test_episode_page_content(client):
     html = client.get("/episodes/s4-e09").text
-    assert "youtube-nocookie.com/embed/rBFQLt3StVI" in html
+    assert "youtube.com/embed/rBFQLt3StVI" in html
+    assert 'referrerpolicy="strict-origin-when-cross-origin"' in html
     assert "Live Demo: Building a Voice Agent for Finance" in html  # chapter from YouTube description
     assert 'src="/banners/S4-E9.webp"' in html and "../banners/" not in html
     for label in ("Recap", "Highlights", "Deck", "Social", "Prep", "Archive"):

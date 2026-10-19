@@ -27,4 +27,4 @@ A self-guided path that follows the talk *Don't Let the Chocolate Pile Up*. You'
 | [`slides/`](../slides/) | The talk deck (Marp) and generated episode decks |
 | [`demo/`](../demo/) | Stage runbook and backups |
 
-> **Status:** labs 00–02 are complete. Labs 03–06 are being finished alongside the December version of the talk; their outlines show what's coming.
+> **Status:** labs 00–03 are complete (03 runs fully in `--mock` mode; with a Foundry model it needs real credentials). Labs 04–06 are being finished alongside the December version of the talk; their outlines show what's coming.

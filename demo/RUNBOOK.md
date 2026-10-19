@@ -102,7 +102,13 @@ python demo/submit_backup.py s4-e11 deck
   python3 .github/skills/mm-recap/scripts/check.py data/episodes/s3-e04.md --episode s3-e04
   ```
 
-- "A regex catches *this* one. ASSERT catches the ones a regex can't: a plausible but wrong link, an invented speaker, a claim the transcript doesn't support."
+- Then show the guardrail catching an agent in the act. The Publisher tries a placeholder link, gets **⛔ BLOCKED**, and resubmits:
+
+  ```bash
+  python -m agents.emcee "prep S4-E12" --mock --only publisher --mock-fault placeholder --mock-delay 0.4
+  ```
+
+- "A guardrail catches *this* one. ASSERT catches the ones a rule can't: a plausible but wrong link, an invented speaker, a claim the transcript doesn't support."
 - Walk slide 17 (the two inspectors).
 
 **Full version (December):** see [evals/README.md](../evals/README.md).
@@ -122,8 +128,11 @@ python demo/submit_backup.py s4-e11 deck
 **First showing (local):**
 
 ```bash
-python -m agents.emcee "prep S4-E12" --mock
+python site/scripts/reset_state.py          # clean studio
+python -m agents.emcee "prep S4-E12" --mock --mock-delay 0.4
 ```
+
+`--mock-delay` paces the trace so the audience can read it. The first run takes a few seconds longer while the agents' venv warms up.
 
 1. Show the trace: Emcee hands off to Coordinator, then Presenter, then Publisher; each one calls `submit_draft`.
 2. Switch to **Studio**: three drafts appear live (toast notifications).

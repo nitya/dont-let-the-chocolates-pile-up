@@ -19,6 +19,24 @@ cp evals/.env.example evals/.env      # set AZURE_API_BASE / AZURE_API_KEY (or A
 
 The model strings in the YAML (`azure/gpt-5.4`, `azure/gpt-5.4-mini`) are LiteLLM `azure/<deployment-name>` values. Change them to match your Foundry deployments.
 
+## The target
+
+[`producer/target.py`](producer/target.py) calls the Producer through `agents.producer_entry` in **dry-run** mode: drafts are validated but never queued.
+
+Because the agents and ASSERT need separate venvs, the call crosses a process boundary, and ASSERT can't capture the agent's OpenTelemetry spans in-process. Until they're exported to Phoenix (`OTEL_EXPORTER_OTLP_ENDPOINT` + `trace.backend: phoenix`, planned), the target appends a **Grounding evidence** section to each response for the judge to cite:
+- the tool calls and their results;
+- each draft's sources;
+- guardrail blocks;
+- items flagged for a human.
+
+Smoke-test the target without any model:
+
+```bash
+EMCEE_EVAL_MOCK=1 evals/.venv/bin/python -c "from evals.producer.target import chat; print(chat('Recap S4-E09')[:800])"
+```
+
+For real eval runs, configure `agents/.env` (the Producer's model) **and** `evals/.env` (ASSERT's generator and judge models).
+
 ## Run
 
 Guided, with the skill in Copilot agent mode:

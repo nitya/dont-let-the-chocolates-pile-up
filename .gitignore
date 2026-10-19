@@ -20,3 +20,8 @@ site/data/
 evals/.venv/
 evals/.env
 artifacts/
+
+# Emcee agents (separate venv: agent-framework needs mcp<2, the site pins mcp 2.x)
+agents/.venv*/
+agents/.env
+agents/.out/

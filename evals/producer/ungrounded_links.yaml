@@ -50,9 +50,6 @@ pipeline:
   inference:
     target:
       callable: evals.producer.target:chat
-      trace:
-        backend: otel
-        group_by: session.id
     tester: {}
     max_turns: 4
     concurrency: 4

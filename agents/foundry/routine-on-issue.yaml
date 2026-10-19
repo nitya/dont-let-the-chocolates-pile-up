@@ -1,0 +1,19 @@
+# Foundry routine (preview): run Emcee when an issue is opened in the repo.
+# The github_issue trigger supports issue_event `opened` or `closed` (not `labeled`; use the GitHub Actions fallback
+# agents/workflows/emcee-on-issue.yml for label-based triggering).
+# connection_id is the Foundry project's GitHub connection (workspace connection id).
+# TODO (unverified): how the issue title/body reach the agent's input. The skill only says Foundry server-side
+# `${{...}}` expressions are passed through untouched; confirm the expression names in the Foundry routines docs and
+# put the issue text into `input`, e.g. "New episode announced: <title> <body>".
+#   azd ai routine create emcee-on-issue --file agents/foundry/routine-on-issue.yaml
+triggers:
+  default:
+    type: github_issue
+    connection_id: <workspace-connection-id>
+    owner: <github-owner>
+    repository: dont-let-the-chocolates-pile-up
+    issue_event: opened
+action:
+  type: invoke_agent_responses_api
+  agent_name: emcee
+  input: "New episode announced in a GitHub issue: find the episode it is about and prep it."

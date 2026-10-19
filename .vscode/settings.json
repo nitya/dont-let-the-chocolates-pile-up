@@ -1,0 +1,5 @@
+{
+  "markdown.marp.themes": ["./slides/theme/chocolate.css"],
+  "markdown.marp.html": "all",
+  "markdown.marp.exportType": "html"
+}

@@ -27,7 +27,7 @@
       ],
       "settings": {
         "markdown.marp.themes": ["./slides/theme/chocolate.css"],
-        "markdown.marp.enableHtml": true,
+        "markdown.marp.html": "all",
         "chat.agent.enabled": true
       }
     }

@@ -15,3 +15,8 @@ site/.state/
 site/.pytest_tmp/
 site/.venv*/
 site/data/
+
+# Evals
+evals/.venv/
+evals/.env
+artifacts/

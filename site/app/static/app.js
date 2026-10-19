@@ -8,7 +8,7 @@
     const player = document.getElementById("yt-player");
     if (!link || !player) return;
     e.preventDefault();
-    player.src = `https://www.youtube-nocookie.com/embed/${link.dataset.video}?start=${link.dataset.seek}&autoplay=1`;
+    player.src = `https://www.youtube.com/embed/${link.dataset.video}?rel=0&start=${link.dataset.seek}&autoplay=1`;
     player.scrollIntoView({ behavior: "smooth", block: "center" });
   });
 

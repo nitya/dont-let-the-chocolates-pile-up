@@ -45,8 +45,9 @@
 {% if yt.videoId %}
 <section id="watch" class="watch {{ 'has-chapters' if chapters }}">
   <div class="video-frame">
-    <iframe id="yt-player" src="https://www.youtube-nocookie.com/embed/{{ yt.videoId }}" title="{{ yt.title or ep.title }}"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    <iframe id="yt-player" src="https://www.youtube.com/embed/{{ yt.videoId }}?rel=0" title="{{ yt.title or ep.title }}"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
   </div>
   {% if chapters %}
   <div class="card chapters">

@@ -1,0 +1,443 @@
+{
+  "playlistId": "PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL",
+  "videos": [
+    {
+      "id": "rBFQLt3StVI",
+      "title": "Model Mondays - Voice Agents Upgraded: New Speech Models and Agent Experience In Foundry",
+      "durationSec": 3704,
+      "viewCount": 1800,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=rBFQLt3StVI",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "b-82zc3LdMM",
+      "title": "Model Mondays - Spotlight On Fine-Tuned Models",
+      "durationSec": 3408,
+      "viewCount": 1400,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=b-82zc3LdMM",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "OX1RWeQGhfg",
+      "title": "Model Mondays - Mistral OCR-4 and Building AI Agents in Microsoft Foundry",
+      "durationSec": 3980,
+      "viewCount": 1600,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=OX1RWeQGhfg",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "HnnJ54xJmEM",
+      "title": "Model Mondays - Spotlight on Azure Open AI",
+      "durationSec": 3340,
+      "viewCount": 1400,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=HnnJ54xJmEM",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "x5qDSukgTi4",
+      "title": "Model Mondays - Spotlight On Claude Models",
+      "durationSec": 3771,
+      "viewCount": 1400,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=x5qDSukgTi4",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "JGP6e6SuFHU",
+      "title": "Model Mondays - Spotlight on NVIDIA models",
+      "liveStatus": "upcoming",
+      "url": "https://www.youtube.com/watch?v=JGP6e6SuFHU",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "pmz_6Sg0QAY",
+      "title": "Model Mondays - Train and customize open models with Fireworks on Foundry",
+      "liveStatus": "upcoming",
+      "url": "https://www.youtube.com/watch?v=pmz_6Sg0QAY",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "naK9Ul44Dbs",
+      "title": "Model Mondays - Spotlight on Hugging Face & Managed Compute",
+      "liveStatus": "upcoming",
+      "url": "https://www.youtube.com/watch?v=naK9Ul44Dbs",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "5jK-4TaZocY",
+      "title": "Model Mondays - From Research to Reality: Discovering Microsoft's AI Innovations in Foundry Labs",
+      "durationSec": 3669,
+      "viewCount": 1200,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=5jK-4TaZocY",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "od_WTpE2nH4",
+      "title": "Model Mondays - Spotlight On Model router in Microsoft Foundry",
+      "durationSec": 4307,
+      "viewCount": 859,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=od_WTpE2nH4",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "CtGqQAZZGjU",
+      "title": "Cohere for Agentic AI: Models, Demos, and the Path to Optimized Agents",
+      "durationSec": 3375,
+      "viewCount": 881,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=CtGqQAZZGjU",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "C7SUG4s7aLo",
+      "title": "Model Mondays - Spotlight On: MAI Models",
+      "durationSec": 3385,
+      "viewCount": 756,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=C7SUG4s7aLo",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "Qxq-vB44nUk",
+      "title": "Model Mondays - Building Microsoft Foundry Agents Within VS Code",
+      "durationSec": 3102,
+      "viewCount": 2000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=Qxq-vB44nUk",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "7bgLTt1obZI",
+      "title": "Model Mondays - Unlocking enterprise value with Cohere",
+      "durationSec": 2579,
+      "viewCount": 2900,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=7bgLTt1obZI",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "Kd6EPBfvDo4",
+      "title": "Model Mondays - Build AI with Hugging Face Models, Build Enterprise Agents With Agent 365 & Work IQ",
+      "durationSec": 3854,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=Kd6EPBfvDo4",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "mV8T9QIAEhg",
+      "title": "Model Mondays - Open Models with Fireworks AI & Microsoft Foundry MCP Server",
+      "durationSec": 3956,
+      "viewCount": 847,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=mV8T9QIAEhg",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "O8bmP5onfxg",
+      "title": "Model Mondays - What's New In Foundry IQ?",
+      "durationSec": 2605,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=O8bmP5onfxg",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "LNgzxNloqbg",
+      "title": "Model Mondays - AI Developer Experiences",
+      "durationSec": 3448,
+      "viewCount": 870,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=LNgzxNloqbg",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "HGsc6-7Wj_8",
+      "title": "Hands-on with Black Forest Labs + Microsoft Foundry Observability",
+      "durationSec": 4029,
+      "viewCount": 2000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=HGsc6-7Wj_8",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "Gw8Il0qJPD0",
+      "title": "Model Mondays - Hands on With Claude + Microsoft Foundry Agent",
+      "durationSec": 4469,
+      "viewCount": 5900,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=Gw8Il0qJPD0",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "eTtPuc2nz2Y",
+      "title": "Model Mondays - Next-Gen UI Experiences",
+      "durationSec": 3099,
+      "viewCount": 911,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=eTtPuc2nz2Y",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "TVAOBnR49r0",
+      "title": "Model Mondays - Synthetic Data Generation",
+      "durationSec": 2494,
+      "viewCount": 761,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=TVAOBnR49r0",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "vsSleri3RPo",
+      "title": "Model Mondays - Code-First with Responses API",
+      "durationSec": 3797,
+      "viewCount": 922,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=vsSleri3RPo",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "z-ijqbPq8zg",
+      "title": "Model Mondays - Microsoft Agent Framework",
+      "durationSec": 3343,
+      "viewCount": 2900,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=z-ijqbPq8zg",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "2607tZyXJsY",
+      "title": "Model Mondays - What’s New In Foundry Local​",
+      "durationSec": 3355,
+      "viewCount": 825,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=2607tZyXJsY",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "70OCsYjOsbs",
+      "title": "Model Mondays - AI Red Teaming Agent",
+      "durationSec": 4464,
+      "viewCount": 1200,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=70OCsYjOsbs",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "zE1tfuPGfFY",
+      "title": "Model Mondays - Model Router",
+      "durationSec": 3072,
+      "viewCount": 573,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=zE1tfuPGfFY",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "BANtEq-0FsE",
+      "title": "Model Mondays - Open Source Models",
+      "durationSec": 4024,
+      "viewCount": 936,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=BANtEq-0FsE",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "gEH2ACNf5b0",
+      "title": "Model Mondays - Models & Observability",
+      "durationSec": 3267,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=gEH2ACNf5b0",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "Rr4iSCyE7IY",
+      "title": "Model Mondays - Speech Playgrounds",
+      "durationSec": 2781,
+      "viewCount": 734,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=Rr4iSCyE7IY",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "tqOecUt_wCc",
+      "title": "Model Mondays - Document Processing",
+      "durationSec": 2890,
+      "viewCount": 1300,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=tqOecUt_wCc",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "fjSxraAmGMI",
+      "title": "Model Mondays - AI Agents",
+      "durationSec": 3206,
+      "viewCount": 2500,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=fjSxraAmGMI",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "ILBDDCJ0d9g",
+      "title": "Model Mondays - On-Device & Local AI",
+      "durationSec": 3096,
+      "viewCount": 1300,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=ILBDDCJ0d9g",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "mSrg1uP136g",
+      "title": "Model Mondays - AI-Assisted Azure Development",
+      "durationSec": 3215,
+      "viewCount": 1300,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=mSrg1uP136g",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "chjpVSrk3jA",
+      "title": "Model Mondays - Research & Innovation",
+      "durationSec": 2850,
+      "viewCount": 607,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=chjpVSrk3jA",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "VSNGzBB20aw",
+      "title": "Model Mondays - Fine Tuning & Distillation",
+      "durationSec": 2746,
+      "viewCount": 1200,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=VSNGzBB20aw",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "tNiFbf3XP6k",
+      "title": "Model Mondays - AI & Developer Experience",
+      "durationSec": 2023,
+      "viewCount": 1400,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=tNiFbf3XP6k",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "VLQKZq8L9Uk",
+      "title": "Model Mondays - Small Language Models",
+      "durationSec": 2287,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=VLQKZq8L9Uk",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "cPS3cWRZTps",
+      "title": "Model Mondays - Model Context Protocol",
+      "durationSec": 1831,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=cPS3cWRZTps",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "ffxUEenM4B8",
+      "title": "Model Mondays - Advanced Reasoning",
+      "durationSec": 2110,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=ffxUEenM4B8",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "_I6qDdp5Vo4",
+      "title": "Model Mondays - Hands-on with Forecasting Models",
+      "durationSec": 2285,
+      "viewCount": 779,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=_I6qDdp5Vo4",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "2E842zOGIyI",
+      "title": "Model Mondays - Hands-on with Open Source and AI Models",
+      "durationSec": 2228,
+      "viewCount": 1000,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=2E842zOGIyI",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "MgIfvEEZN7o",
+      "title": "Model Mondays - Hands-on with Local AI Development",
+      "durationSec": 2068,
+      "viewCount": 1200,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=MgIfvEEZN7o",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "iCPl693s3dA",
+      "title": "Model Mondays - Hands-on with Fine-Tuning Models",
+      "durationSec": 2151,
+      "viewCount": 696,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=iCPl693s3dA",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "kDR09m_cUKs",
+      "title": "Model Mondays - Hands-on with Visual Generative Models",
+      "durationSec": 1962,
+      "viewCount": 729,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=kDR09m_cUKs",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "Qs4fdy17b40",
+      "title": "Model Mondays - Hands-on with Search & Retrieval Models",
+      "durationSec": 2005,
+      "viewCount": 862,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=Qs4fdy17b40",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "nTqr4pzxF-k",
+      "title": "Model Mondays – Hands on with Reasoning Models (o1 and beyond)",
+      "durationSec": 2117,
+      "viewCount": 879,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=nTqr4pzxF-k",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "dohvGc7eyqU",
+      "title": "Model Mondays – Hands On With GitHub Models",
+      "durationSec": 1952,
+      "viewCount": 1700,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=dohvGc7eyqU",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    },
+    {
+      "id": "oW7Vku9MjAQ",
+      "title": "Model Mondays: Coming Soon!",
+      "durationSec": 105,
+      "viewCount": 459,
+      "liveStatus": "none",
+      "url": "https://www.youtube.com/watch?v=oW7Vku9MjAQ",
+      "statsFetchedAt": "2026-10-19T14:01:32+00:00"
+    }
+  ],
+  "fetchedAt": "2026-10-19T14:01:34+00:00",
+  "listingSource": "yt-dlp-flat"
+}

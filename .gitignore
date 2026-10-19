@@ -1,0 +1,8 @@
+# Secrets / credentials
+.env
+*.env
+cookies*.txt
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,58 @@
+{
+  "source": {
+    "repo": "https://github.com/microsoft/model-mondays",
+    "commit": "31a23c47f78aacfaa1da55767a5715acad49966b",
+    "importedAt": "2026-10-19T14:01:17+00:00",
+    "license": "MIT"
+  },
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1: Building Model IQ Foundations",
+      "startDate": "2025-03-10",
+      "endDate": "2025-05-05",
+      "theme": "Introduction to Model Selection and Azure AI",
+      "description": "Season 1 introduces the Model Mondays format and covers foundational topics in model selection, evaluation, and deployment using Microsoft Foundry and GitHub Models.",
+      "totalEpisodes": 8,
+      "status": "completed",
+      "banner": "",
+      "episodeCount": 8
+    },
+    {
+      "season": 2,
+      "title": "Season 2: Advanced Model Techniques",
+      "startDate": "2025-06-16",
+      "endDate": "2025-11-21",
+      "theme": "Deep Dive into Reasoning, Multimodal, and Specialized Models",
+      "description": "Season 2 explores advanced topics including reasoning models, multimodal AI, model customization, and real-world customer implementations.",
+      "totalEpisodes": 13,
+      "status": "completed",
+      "banner": "",
+      "episodeCount": 13
+    },
+    {
+      "season": 3,
+      "title": "Season 3: Models for Beginners Integration",
+      "startDate": "2025-12-01",
+      "endDate": "2026-04-06",
+      "theme": "Learning Through Practice with Models for Beginners Curriculum",
+      "description": "Season 3 integrates structured learning with the Models for Beginners curriculum, featuring weekly lessons alongside spotlights on Microsoft Ignite announcements and practical implementations.",
+      "totalEpisodes": 17,
+      "status": "completed",
+      "banner": "",
+      "episodeCount": 17
+    },
+    {
+      "season": 4,
+      "title": "Season 4: Model Spotlights for Agent Builders",
+      "startDate": "2026-08-10",
+      "endDate": "2026-11-02",
+      "theme": "Model spotlights for building effective AI agents",
+      "description": "Season 4 explores model families and model-selection practices for agent builders, including proprietary, open, multimodal, speech, and fine-tuned models.",
+      "totalEpisodes": 12,
+      "status": "active",
+      "banner": "",
+      "episodeCount": 12
+    }
+  ]
+}

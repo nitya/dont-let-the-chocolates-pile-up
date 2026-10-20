@@ -25,3 +25,6 @@ artifacts/
 agents/.venv*/
 agents/.env
 agents/.out/
+
+# Exploration space
+.do-not-commit/

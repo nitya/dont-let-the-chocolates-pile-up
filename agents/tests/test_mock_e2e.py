@@ -53,7 +53,9 @@ def test_wrap_up_aired_episode(run_cli, site_url):
     recap = by_kind["recap"]
     assert "https://www.youtube.com/watch?v=rBFQLt3StVI&t=854s" in recap["content_markdown"]
     assert "## Sources" in recap["content_markdown"] and "## Notes for reviewer" in recap["content_markdown"]
-    assert any("transcript" in e["reason"].lower() for e in ledger["escalations"])
+    # S4-E09's transcript is committed, so the recap is transcript-grounded and nothing is escalated for it.
+    assert "**Grounding:** transcript." in recap["content_markdown"]
+    assert not any("no transcript" in e["reason"].lower() for e in ledger["escalations"])
     social = by_kind["social"]
     assert f"{site_url}/episodes/s4-e09" in social["content_markdown"] or "youtube.com/watch" in social["content_markdown"]
 

@@ -120,7 +120,15 @@ npx @marp-team/marp-cli --config-file .marprc.yml deck.md --pdf  --allow-local-f
 npx @marp-team/marp-cli --config-file .marprc.yml deck.md --pptx --allow-local-files -o dist/deck.pptx
 ```
 
-If Chromium fails to launch with missing libraries, use `npx playwright install --with-deps chromium`. Download `slides/dist/*` to your laptop (Explorer → right-click → Download…).
+If Chromium fails to launch with missing libraries (e.g. `libasound.so.2: cannot open shared object file`), use `npx playwright install --with-deps chromium`. If that fails with `The repository 'https://dl.yarnpkg.com/debian stable InRelease' is not signed`, the Codespace's Yarn apt source has a stale key and blocks `apt-get update`. Move it aside for the install, then restore it:
+
+```bash
+sudo mv /etc/apt/sources.list.d/yarn.list /tmp/yarn.list.bak
+npx -y playwright install --with-deps chromium
+sudo mv /tmp/yarn.list.bak /etc/apt/sources.list.d/yarn.list
+```
+
+Download `slides/dist/*` to your laptop (Explorer → right-click → Download…).
 
 ## What's live vs preview (first showing)
 

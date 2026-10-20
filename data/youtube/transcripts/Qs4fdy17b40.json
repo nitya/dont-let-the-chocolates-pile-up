@@ -1,0 +1,4133 @@
+{
+  "videoId": "Qs4fdy17b40",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:18+00:00",
+  "segments": [
+    {
+      "start": 10.92,
+      "duration": 4.08,
+      "text": "hello everyone and thank you for joining"
+    },
+    {
+      "start": 12.56,
+      "duration": 3.84,
+      "text": "us for today's session my name is Danny"
+    },
+    {
+      "start": 15.0,
+      "duration": 4.08,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 16.4,
+      "duration": 4.88,
+      "text": "York reactor space before we start I"
+    },
+    {
+      "start": 19.08,
+      "duration": 5.24,
+      "text": "have a few things to go over please take"
+    },
+    {
+      "start": 21.28,
+      "duration": 4.84,
+      "text": "a moment to read our code of conduct we"
+    },
+    {
+      "start": 24.32,
+      "duration": 4.6,
+      "text": "seek to provide a respectful environment"
+    },
+    {
+      "start": 26.12,
+      "duration": 4.52,
+      "text": "for both our audience and presenters we"
+    },
+    {
+      "start": 28.92,
+      "duration": 4.44,
+      "text": "encourage engagement in the chat but"
+    },
+    {
+      "start": 30.64,
+      "duration": 5.84,
+      "text": "please be mindful of your commentary"
+    },
+    {
+      "start": 33.36,
+      "duration": 5.4,
+      "text": "remain professional and on topic useful"
+    },
+    {
+      "start": 36.48,
+      "duration": 4.88,
+      "text": "links will be shared in the"
+    },
+    {
+      "start": 38.76,
+      "duration": 5.76,
+      "text": "chat the session is recorded and will be"
+    },
+    {
+      "start": 41.36,
+      "duration": 5.64,
+      "text": "available on demand 24 to 48 hours on"
+    },
+    {
+      "start": 44.52,
+      "duration": 4.44,
+      "text": "the Microsoft reactor YouTube channel"
+    },
+    {
+      "start": 47.0,
+      "duration": 4.24,
+      "text": "which brings us to today's session it'll"
+    },
+    {
+      "start": 48.96,
+      "duration": 4.36,
+      "text": "run for approximately one hour with time"
+    },
+    {
+      "start": 51.24,
+      "duration": 5.4,
+      "text": "for questions throughout I will now turn"
+    },
+    {
+      "start": 53.32,
+      "duration": 3.32,
+      "text": "it over to our speaker for"
+    },
+    {
+      "start": 58.72,
+      "duration": 4.68,
+      "text": "introductions hello hello everyone my"
+    },
+    {
+      "start": 60.92,
+      "duration": 3.76,
+      "text": "name is Nan araman I'm a senior Advocate"
+    },
+    {
+      "start": 63.4,
+      "duration": 3.28,
+      "text": "on the developer relations team at"
+    },
+    {
+      "start": 64.68,
+      "duration": 3.84,
+      "text": "Microsoft and I'm super excited to"
+    },
+    {
+      "start": 66.68,
+      "duration": 4.44,
+      "text": "welcome you to episode three of model"
+    },
+    {
+      "start": 68.52,
+      "duration": 5.32,
+      "text": "Mondays and I want to bring along my uh"
+    },
+    {
+      "start": 71.12,
+      "duration": 4.44,
+      "text": "partner in crime charma chingam uh as we"
+    },
+    {
+      "start": 73.84,
+      "duration": 3.92,
+      "text": "kind of walk you through our agenda for"
+    },
+    {
+      "start": 75.56,
+      "duration": 5.52,
+      "text": "today hi charm how are you feeling about"
+    },
+    {
+      "start": 77.76,
+      "duration": 5.76,
+      "text": "today hey Nya really doing really great"
+    },
+    {
+      "start": 81.08,
+      "duration": 5.76,
+      "text": "we just came back from Nvidia GTC so"
+    },
+    {
+      "start": 83.52,
+      "duration": 6.64,
+      "text": "lots to doctor yeah I can't wait I heard"
+    },
+    {
+      "start": 86.84,
+      "duration": 5.12,
+      "text": "you met some interesting people"
+    },
+    {
+      "start": 90.16,
+      "duration": 5.16,
+      "text": "yeah interesting people is putting it"
+    },
+    {
+      "start": 91.96,
+      "duration": 6.72,
+      "text": "lightly we uh we met uh Jensen and he"
+    },
+    {
+      "start": 95.32,
+      "duration": 5.4,
+      "text": "came to Microsoft Azure Bo and we gave"
+    },
+    {
+      "start": 98.68,
+      "duration": 4.72,
+      "text": "him a demo of the announcements we made"
+    },
+    {
+      "start": 100.72,
+      "duration": 5.52,
+      "text": "at GTC and I got an autograph from him"
+    },
+    {
+      "start": 103.4,
+      "duration": 4.44,
+      "text": "so that was the highlight for me hey I'm"
+    },
+    {
+      "start": 106.24,
+      "duration": 4.08,
+      "text": "one degree away from Jensen now this"
+    },
+    {
+      "start": 107.84,
+      "duration": 4.12,
+      "text": "makes me feel good um and I know a lot"
+    },
+    {
+      "start": 110.32,
+      "duration": 3.56,
+      "text": "of people asked us this question so we"
+    },
+    {
+      "start": 111.96,
+      "duration": 4.44,
+      "text": "put the slide up uh so what exactly is"
+    },
+    {
+      "start": 113.88,
+      "duration": 3.72,
+      "text": "model Mondays uh we recognized that you"
+    },
+    {
+      "start": 116.4,
+      "duration": 3.8,
+      "text": "know we're all feeling overwhelmed by"
+    },
+    {
+      "start": 117.6,
+      "duration": 4.8,
+      "text": "the pace of uh kind of innovation in the"
+    },
+    {
+      "start": 120.2,
+      "duration": 4.36,
+      "text": "AI model space so with model Mondays"
+    },
+    {
+      "start": 122.4,
+      "duration": 3.96,
+      "text": "it's a 30 minute show the first five"
+    },
+    {
+      "start": 124.56,
+      "duration": 3.48,
+      "text": "minutes we'll actually kind of catch you"
+    },
+    {
+      "start": 126.36,
+      "duration": 4.0,
+      "text": "up on the news we call it a five minute"
+    },
+    {
+      "start": 128.04,
+      "duration": 4.08,
+      "text": "highlight segment with charma and then"
+    },
+    {
+      "start": 130.36,
+      "duration": 4.24,
+      "text": "we'll have a 15 minute deep dive with"
+    },
+    {
+      "start": 132.12,
+      "duration": 5.68,
+      "text": "our featured speaker Neil goal from"
+    },
+    {
+      "start": 134.6,
+      "duration": 4.96,
+      "text": "coare uh so stick on for that but I want"
+    },
+    {
+      "start": 137.8,
+      "duration": 3.68,
+      "text": "to turn it over to charma because she's"
+    },
+    {
+      "start": 139.56,
+      "duration": 4.72,
+      "text": "coming back from GTC and she's got a lot"
+    },
+    {
+      "start": 141.48,
+      "duration": 5.6,
+      "text": "to tell us so charma take it away with"
+    },
+    {
+      "start": 144.28,
+      "duration": 2.8,
+      "text": "model Monday's"
+    },
+    {
+      "start": 147.32,
+      "duration": 4.44,
+      "text": "highlights thank you Nia now let's get"
+    },
+    {
+      "start": 150.12,
+      "duration": 4.56,
+      "text": "started with the model Monday's"
+    },
+    {
+      "start": 151.76,
+      "duration": 7.4,
+      "text": "highlights of this week so last week it"
+    },
+    {
+      "start": 154.68,
+      "duration": 7.56,
+      "text": "was Nvidia GTC and we unleashed a flurry"
+    },
+    {
+      "start": 159.16,
+      "duration": 5.72,
+      "text": "of exciting announcements now let's face"
+    },
+    {
+      "start": 162.24,
+      "duration": 6.24,
+      "text": "it the AI world isn't slowing down and"
+    },
+    {
+      "start": 164.88,
+      "duration": 6.88,
+      "text": "neither are we as more companies Shi"
+    },
+    {
+      "start": 168.48,
+      "duration": 6.0,
+      "text": "from Let's test this out to Let's ship"
+    },
+    {
+      "start": 171.76,
+      "duration": 4.96,
+      "text": "this inference is officially having its"
+    },
+    {
+      "start": 174.48,
+      "duration": 4.48,
+      "text": "moment and we saw that in all the"
+    },
+    {
+      "start": 176.72,
+      "duration": 4.16,
+      "text": "announcements that were made last week"
+    },
+    {
+      "start": 178.96,
+      "duration": 4.56,
+      "text": "and of course at Azure we are ready for"
+    },
+    {
+      "start": 180.88,
+      "duration": 4.84,
+      "text": "it first up we kicked off things with"
+    },
+    {
+      "start": 183.52,
+      "duration": 5.2,
+      "text": "the bang by announcing the availability"
+    },
+    {
+      "start": 185.72,
+      "duration": 6.52,
+      "text": "of nim microservice models on Azure AI"
+    },
+    {
+      "start": 188.72,
+      "duration": 6.08,
+      "text": "Foundry these models u i can I um you're"
+    },
+    {
+      "start": 192.24,
+      "duration": 4.44,
+      "text": "seeing a list of models listed below so"
+    },
+    {
+      "start": 194.8,
+      "duration": 3.76,
+      "text": "these are just the first set of models"
+    },
+    {
+      "start": 196.68,
+      "duration": 3.88,
+      "text": "that we brought to the catalog but we're"
+    },
+    {
+      "start": 198.56,
+      "duration": 5.4,
+      "text": "going to add more and more"
+    },
+    {
+      "start": 200.56,
+      "duration": 5.56,
+      "text": "models optimized models from nvdia into"
+    },
+    {
+      "start": 203.96,
+      "duration": 4.36,
+      "text": "the catalog so keep an eye out for it"
+    },
+    {
+      "start": 206.12,
+      "duration": 5.28,
+      "text": "and these models are supercharged for"
+    },
+    {
+      "start": 208.32,
+      "duration": 5.64,
+      "text": "deployments at scale now I have a video"
+    },
+    {
+      "start": 211.4,
+      "duration": 4.4,
+      "text": "in there um I'm not going to play it now"
+    },
+    {
+      "start": 213.96,
+      "duration": 3.64,
+      "text": "but it's going to be in the repo so go"
+    },
+    {
+      "start": 215.8,
+      "duration": 4.28,
+      "text": "check it out and as I go through the"
+    },
+    {
+      "start": 217.6,
+      "duration": 4.08,
+      "text": "slides also look at the QR codes take a"
+    },
+    {
+      "start": 220.08,
+      "duration": 4.56,
+      "text": "screenshot it'll take you to the model"
+    },
+    {
+      "start": 221.68,
+      "duration": 5.28,
+      "text": "card so you can play around with it now"
+    },
+    {
+      "start": 224.64,
+      "duration": 4.48,
+      "text": "let's move on to the next one uh we're"
+    },
+    {
+      "start": 226.96,
+      "duration": 5.56,
+      "text": "going to talk about how we are making it"
+    },
+    {
+      "start": 229.12,
+      "duration": 5.56,
+      "text": "easier than ever to work with teams of a"
+    },
+    {
+      "start": 232.52,
+      "duration": 5.68,
+      "text": "AI agents again this is an announcement"
+    },
+    {
+      "start": 234.68,
+      "duration": 5.96,
+      "text": "we made at GTC so now not just one model"
+    },
+    {
+      "start": 238.2,
+      "duration": 5.44,
+      "text": "but multiple agents can collaborate"
+    },
+    {
+      "start": 240.64,
+      "duration": 5.8,
+      "text": "reason and get things done together so"
+    },
+    {
+      "start": 243.64,
+      "duration": 6.52,
+      "text": "we announced that we are integrating the"
+    },
+    {
+      "start": 246.44,
+      "duration": 6.88,
+      "text": "Nvidia agent IQ uh open source toolkit"
+    },
+    {
+      "start": 250.16,
+      "duration": 5.32,
+      "text": "with our Azure AI agent services so now"
+    },
+    {
+      "start": 253.32,
+      "duration": 5.2,
+      "text": "we are offering a seamless way to"
+    },
+    {
+      "start": 255.48,
+      "duration": 5.72,
+      "text": "connect profile and optimize these AI"
+    },
+    {
+      "start": 258.52,
+      "duration": 5.92,
+      "text": "agents think of it as your control panel"
+    },
+    {
+      "start": 261.2,
+      "duration": 5.72,
+      "text": "for intelligent task or orchestration"
+    },
+    {
+      "start": 264.44,
+      "duration": 4.6,
+      "text": "these agents aren just running isolated"
+    },
+    {
+      "start": 266.92,
+      "duration": 4.6,
+      "text": "tasks they are now equipped with"
+    },
+    {
+      "start": 269.04,
+      "duration": 5.04,
+      "text": "enhanced semantic reasoning so that"
+    },
+    {
+      "start": 271.52,
+      "duration": 5.16,
+      "text": "means they understand not just the words"
+    },
+    {
+      "start": 274.08,
+      "duration": 5.2,
+      "text": "but the intent and context behind them"
+    },
+    {
+      "start": 276.68,
+      "duration": 4.44,
+      "text": "enabling smarter decision making so in"
+    },
+    {
+      "start": 279.28,
+      "duration": 3.56,
+      "text": "short we are not just connecting AI"
+    },
+    {
+      "start": 281.12,
+      "duration": 4.44,
+      "text": "agents we are turning them into a"
+    },
+    {
+      "start": 282.84,
+      "duration": 6.36,
+      "text": "cohesive intelligent team that can think"
+    },
+    {
+      "start": 285.56,
+      "duration": 5.88,
+      "text": "adapt and execute together and moving on"
+    },
+    {
+      "start": 289.2,
+      "duration": 5.8,
+      "text": "again an announcement at GTC we've been"
+    },
+    {
+      "start": 291.44,
+      "duration": 6.32,
+      "text": "busy uh working with Nvidia metal Lama"
+    },
+    {
+      "start": 295.0,
+      "duration": 5.12,
+      "text": "to make their models faster to run so we"
+    },
+    {
+      "start": 297.76,
+      "duration": 4.24,
+      "text": "have rolled out serious optimization"
+    },
+    {
+      "start": 300.12,
+      "duration": 4.0,
+      "text": "that deliver state of thee heart"
+    },
+    {
+      "start": 302.0,
+      "duration": 5.04,
+      "text": "inference performance so what does it"
+    },
+    {
+      "start": 304.12,
+      "duration": 5.36,
+      "text": "mean for you it's blazing fast responses"
+    },
+    {
+      "start": 307.04,
+      "duration": 5.28,
+      "text": "smoother deployments and way more bank"
+    },
+    {
+      "start": 309.48,
+      "duration": 4.88,
+      "text": "for your compute buck and the best part"
+    },
+    {
+      "start": 312.32,
+      "duration": 5.0,
+      "text": "all of these performance gains comes"
+    },
+    {
+      "start": 314.36,
+      "duration": 5.24,
+      "text": "without sacrificing response quality you"
+    },
+    {
+      "start": 317.32,
+      "duration": 5.72,
+      "text": "will get the same sharp intelligent"
+    },
+    {
+      "start": 319.6,
+      "duration": 6.08,
+      "text": "output just delivered quicker now it's"
+    },
+    {
+      "start": 323.04,
+      "duration": 5.2,
+      "text": "like giving you AI a high performance"
+    },
+    {
+      "start": 325.68,
+      "duration": 4.56,
+      "text": "upgrade without touching the personality"
+    },
+    {
+      "start": 328.24,
+      "duration": 3.64,
+      "text": "and all these role are rolled into the"
+    },
+    {
+      "start": 330.24,
+      "duration": 4.12,
+      "text": "Llama models by default so if you're"
+    },
+    {
+      "start": 331.88,
+      "duration": 4.84,
+      "text": "already using a llama model you're you"
+    },
+    {
+      "start": 334.36,
+      "duration": 6.72,
+      "text": "you're covered and if you're not start"
+    },
+    {
+      "start": 336.72,
+      "duration": 6.32,
+      "text": "using it today now again this uh"
+    },
+    {
+      "start": 341.08,
+      "duration": 3.92,
+      "text": "announcement that we made at GTC might"
+    },
+    {
+      "start": 343.04,
+      "duration": 4.96,
+      "text": "have been under the radar but it's still"
+    },
+    {
+      "start": 345.0,
+      "duration": 4.96,
+      "text": "an important announcement um we"
+    },
+    {
+      "start": 348.0,
+      "duration": 6.2,
+      "text": "announced that we are bringing Mel's"
+    },
+    {
+      "start": 349.96,
+      "duration": 6.6,
+      "text": "latest ml small model to the catalog so"
+    },
+    {
+      "start": 354.2,
+      "duration": 4.96,
+      "text": "don't let the name fool you it's still a"
+    },
+    {
+      "start": 356.56,
+      "duration": 5.16,
+      "text": "multimodal multilingual and highly"
+    },
+    {
+      "start": 359.16,
+      "duration": 4.68,
+      "text": "capable model so what's really cool is"
+    },
+    {
+      "start": 361.72,
+      "duration": 4.44,
+      "text": "that it's been optimized to run on"
+    },
+    {
+      "start": 363.84,
+      "duration": 4.56,
+      "text": "consumer grade Hardware so yes you can"
+    },
+    {
+      "start": 366.16,
+      "duration": 5.0,
+      "text": "get a powerful performance without"
+    },
+    {
+      "start": 368.4,
+      "duration": 4.96,
+      "text": "needing a data center in your basement"
+    },
+    {
+      "start": 371.16,
+      "duration": 5.44,
+      "text": "and that's the name of the game now and"
+    },
+    {
+      "start": 373.36,
+      "duration": 6.4,
+      "text": "in terms of how it Stacks up mrl small"
+    },
+    {
+      "start": 376.6,
+      "duration": 5.88,
+      "text": "is playing in the same league as Gemma 3"
+    },
+    {
+      "start": 379.76,
+      "duration": 5.8,
+      "text": "and gp4 mini models so whether you're"
+    },
+    {
+      "start": 382.48,
+      "duration": 5.72,
+      "text": "building apps agents or just T tinkering"
+    },
+    {
+      "start": 385.56,
+      "duration": 4.96,
+      "text": "at home Mr small will give you the big"
+    },
+    {
+      "start": 388.2,
+      "duration": 5.2,
+      "text": "brain energy in a budget friendly"
+    },
+    {
+      "start": 390.52,
+      "duration": 5.44,
+      "text": "footprint and finally we move on to an"
+    },
+    {
+      "start": 393.4,
+      "duration": 5.12,
+      "text": "announcement that was not made at GTC"
+    },
+    {
+      "start": 395.96,
+      "duration": 4.84,
+      "text": "but was made at the Adobe conference"
+    },
+    {
+      "start": 398.52,
+      "duration": 5.08,
+      "text": "where we announced that along with"
+    },
+    {
+      "start": 400.8,
+      "duration": 7.44,
+      "text": "Cipher um we are bringing their shiny"
+    },
+    {
+      "start": 403.6,
+      "duration": 8.04,
+      "text": "new um model ciphers model into Adobe"
+    },
+    {
+      "start": 408.24,
+      "duration": 5.92,
+      "text": "gen Studio along with a Foundry so we"
+    },
+    {
+      "start": 411.64,
+      "duration": 5.12,
+      "text": "bringing AI powered compliance to all"
+    },
+    {
+      "start": 414.16,
+      "duration": 4.84,
+      "text": "the market marketing content so yes now"
+    },
+    {
+      "start": 416.76,
+      "duration": 4.56,
+      "text": "even your AI generated content can play"
+    },
+    {
+      "start": 419.0,
+      "duration": 4.8,
+      "text": "by the rules and go to market faster"
+    },
+    {
+      "start": 421.32,
+      "duration": 4.88,
+      "text": "it's all about giving Financial Services"
+    },
+    {
+      "start": 423.8,
+      "duration": 5.2,
+      "text": "teams the power to create content that's"
+    },
+    {
+      "start": 426.2,
+      "duration": 5.96,
+      "text": "not only smart and beautiful but also"
+    },
+    {
+      "start": 429.0,
+      "duration": 5.52,
+      "text": "compliance approved think of it as fewer"
+    },
+    {
+      "start": 432.16,
+      "duration": 4.96,
+      "text": "legal headaches more high-fives from the"
+    },
+    {
+      "start": 434.52,
+      "duration": 4.84,
+      "text": "and high FIV from the compliance team"
+    },
+    {
+      "start": 437.12,
+      "duration": 5.2,
+      "text": "thank you that wraps up this week's"
+    },
+    {
+      "start": 439.36,
+      "duration": 7.28,
+      "text": "model Monday's highlights and now we go"
+    },
+    {
+      "start": 442.32,
+      "duration": 4.32,
+      "text": "um I will hand it over to Nia thank you"
+    },
+    {
+      "start": 447.48,
+      "duration": 4.08,
+      "text": "Nia hey thanks Chara so so what you're"
+    },
+    {
+      "start": 450.16,
+      "duration": 3.76,
+      "text": "telling me is I need to return the data"
+    },
+    {
+      "start": 451.56,
+      "duration": 5.08,
+      "text": "center I ordered from Amazon for my"
+    },
+    {
+      "start": 453.92,
+      "duration": 5.0,
+      "text": "basement you you do have one okay that's"
+    },
+    {
+      "start": 456.64,
+      "duration": 4.24,
+      "text": "great I really like the analogy we"
+    },
+    {
+      "start": 458.92,
+      "duration": 3.8,
+      "text": "should use that more but I will say a"
+    },
+    {
+      "start": 460.88,
+      "duration": 4.28,
+      "text": "lot of people asked me hey what's When's"
+    },
+    {
+      "start": 462.72,
+      "duration": 4.36,
+      "text": "mistol coming so I'm I'm super excited"
+    },
+    {
+      "start": 465.16,
+      "duration": 4.32,
+      "text": "for that hopefully we can kind of like"
+    },
+    {
+      "start": 467.08,
+      "duration": 5.64,
+      "text": "do more with that model down the line as"
+    },
+    {
+      "start": 469.48,
+      "duration": 5.4,
+      "text": "well but speaking of models I think it's"
+    },
+    {
+      "start": 472.72,
+      "duration": 4.56,
+      "text": "time for us to talk about our featured"
+    },
+    {
+      "start": 474.88,
+      "duration": 4.64,
+      "text": "model today and before we kind of Bring"
+    },
+    {
+      "start": 477.28,
+      "duration": 4.32,
+      "text": "Our Guest over I thought we should give"
+    },
+    {
+      "start": 479.52,
+      "duration": 4.96,
+      "text": "folks a reason for why we picked this"
+    },
+    {
+      "start": 481.6,
+      "duration": 5.16,
+      "text": "particular kind of category if you will"
+    },
+    {
+      "start": 484.48,
+      "duration": 5.36,
+      "text": "so I know you had some thoughts on that"
+    },
+    {
+      "start": 486.76,
+      "duration": 5.96,
+      "text": "yeah um so of course like with um a lot"
+    },
+    {
+      "start": 489.84,
+      "duration": 5.64,
+      "text": "of importance on AI happening right now"
+    },
+    {
+      "start": 492.72,
+      "duration": 5.24,
+      "text": "a lot of companies are looking at the"
+    },
+    {
+      "start": 495.48,
+      "duration": 5.92,
+      "text": "tropes of data that they have and how to"
+    },
+    {
+      "start": 497.96,
+      "duration": 6.28,
+      "text": "use that data in their AI applications"
+    },
+    {
+      "start": 501.4,
+      "duration": 5.04,
+      "text": "and once data comes into the picture we"
+    },
+    {
+      "start": 504.24,
+      "duration": 4.56,
+      "text": "not talking about some small amount of"
+    },
+    {
+      "start": 506.44,
+      "duration": 5.48,
+      "text": "data like it's you know as I said troves"
+    },
+    {
+      "start": 508.8,
+      "duration": 5.32,
+      "text": "of data so so we need need I mean"
+    },
+    {
+      "start": 511.92,
+      "duration": 4.92,
+      "text": "companies need a very efficient search"
+    },
+    {
+      "start": 514.12,
+      "duration": 5.32,
+      "text": "and retrieval um system and whatever has"
+    },
+    {
+      "start": 516.84,
+      "duration": 5.52,
+      "text": "been there the Legacy systems are not"
+    },
+    {
+      "start": 519.44,
+      "duration": 5.28,
+      "text": "helping anymore and you know especially"
+    },
+    {
+      "start": 522.36,
+      "duration": 4.52,
+      "text": "coming up with relevant results um and"
+    },
+    {
+      "start": 524.72,
+      "duration": 4.92,
+      "text": "I'm pretty sure that's um Neil is going"
+    },
+    {
+      "start": 526.88,
+      "duration": 6.36,
+      "text": "to come cover some of it so I without"
+    },
+    {
+      "start": 529.64,
+      "duration": 5.84,
+      "text": "too much um you know going into the"
+    },
+    {
+      "start": 533.24,
+      "duration": 5.04,
+      "text": "details I want to bring in Neil golay"
+    },
+    {
+      "start": 535.48,
+      "duration": 5.88,
+      "text": "from coher he's a solution architect and"
+    },
+    {
+      "start": 538.28,
+      "duration": 4.96,
+      "text": "an AI advocate um so welcome to the show"
+    },
+    {
+      "start": 541.36,
+      "duration": 4.72,
+      "text": "Neil we are super excited to have you"
+    },
+    {
+      "start": 543.24,
+      "duration": 5.4,
+      "text": "here you're our first external guest"
+    },
+    {
+      "start": 546.08,
+      "duration": 5.36,
+      "text": "speaker we did"
+    },
+    {
+      "start": 548.64,
+      "duration": 5.36,
+      "text": "have last week but she she was from"
+    },
+    {
+      "start": 551.44,
+      "duration": 5.08,
+      "text": "Microsoft so it's nice to have our first"
+    },
+    {
+      "start": 554.0,
+      "duration": 4.12,
+      "text": "external speaker from Koh here and we"
+    },
+    {
+      "start": 556.52,
+      "duration": 3.44,
+      "text": "have had a long-standing relationship"
+    },
+    {
+      "start": 558.12,
+      "duration": 4.84,
+      "text": "with kohir we've been launching a bunch"
+    },
+    {
+      "start": 559.96,
+      "duration": 4.4,
+      "text": "of your models so excited to have you"
+    },
+    {
+      "start": 562.96,
+      "duration": 2.52,
+      "text": "here please go ahead what are you going"
+    },
+    {
+      "start": 564.36,
+      "duration": 3.6,
+      "text": "to talk about"
+    },
+    {
+      "start": 565.48,
+      "duration": 4.24,
+      "text": "today yeah sounds good um a lot of"
+    },
+    {
+      "start": 567.96,
+      "duration": 3.68,
+      "text": "pressure being the first external but"
+    },
+    {
+      "start": 569.72,
+      "duration": 4.0,
+      "text": "I'll I'll do my best uh pleasure to meet"
+    },
+    {
+      "start": 571.64,
+      "duration": 4.6,
+      "text": "everyone uh in the room and also"
+    },
+    {
+      "start": 573.72,
+      "duration": 5.2,
+      "text": "watching externally my name is Neil uh I"
+    },
+    {
+      "start": 576.24,
+      "duration": 3.72,
+      "text": "am a solution architect at cooh here and"
+    },
+    {
+      "start": 578.92,
+      "duration": 3.8,
+      "text": "today we're going to talk about search"
+    },
+    {
+      "start": 579.96,
+      "duration": 4.0,
+      "text": "retrieval as the slide says um so I've"
+    },
+    {
+      "start": 582.72,
+      "duration": 2.88,
+      "text": "I've kind of explained it pretty well in"
+    },
+    {
+      "start": 583.96,
+      "duration": 3.44,
+      "text": "the video um I'll I'll let you guys"
+    },
+    {
+      "start": 585.6,
+      "duration": 3.48,
+      "text": "stage that up uh and hopefully we can"
+    },
+    {
+      "start": 587.4,
+      "duration": 3.92,
+      "text": "get to some pretty interesting questions"
+    },
+    {
+      "start": 589.08,
+      "duration": 4.48,
+      "text": "as to what these models are a pleasure"
+    },
+    {
+      "start": 591.32,
+      "duration": 2.24,
+      "text": "to meet"
+    },
+    {
+      "start": 596.16,
+      "duration": 4.76,
+      "text": "everyone hey everyone I'm probably"
+    },
+    {
+      "start": 598.84,
+      "duration": 4.12,
+      "text": "reintroducing myself here but nice to"
+    },
+    {
+      "start": 600.92,
+      "duration": 4.76,
+      "text": "meet you again my name is Neil golay and"
+    },
+    {
+      "start": 602.96,
+      "duration": 6.12,
+      "text": "I'm a solution architect working at"
+    },
+    {
+      "start": 605.68,
+      "duration": 6.32,
+      "text": "cohere at coher we build language models"
+    },
+    {
+      "start": 609.08,
+      "duration": 5.72,
+      "text": "and we also build tools that leverage"
+    },
+    {
+      "start": 612.0,
+      "duration": 5.36,
+      "text": "those models for Enterprise generative"
+    },
+    {
+      "start": 614.8,
+      "duration": 4.4,
+      "text": "AI we have the pleasure of a strong"
+    },
+    {
+      "start": 617.36,
+      "duration": 3.84,
+      "text": "partnership with Azure and we actually"
+    },
+    {
+      "start": 619.2,
+      "duration": 4.36,
+      "text": "host a bunch of these models on the"
+    },
+    {
+      "start": 621.2,
+      "duration": 5.28,
+      "text": "Azure AI Foundry and we're going to talk"
+    },
+    {
+      "start": 623.56,
+      "duration": 5.84,
+      "text": "about some of these today the focus for"
+    },
+    {
+      "start": 626.48,
+      "duration": 5.88,
+      "text": "today's talk is search and retrieval and"
+    },
+    {
+      "start": 629.4,
+      "duration": 4.44,
+      "text": "how that plays a massive impact in"
+    },
+    {
+      "start": 632.36,
+      "duration": 3.92,
+      "text": "unlocking true generative AI"
+    },
+    {
+      "start": 633.84,
+      "duration": 4.84,
+      "text": "capabilities for the"
+    },
+    {
+      "start": 636.28,
+      "duration": 4.84,
+      "text": "Enterprise so I think it's worth to"
+    },
+    {
+      "start": 638.68,
+      "duration": 6.16,
+      "text": "actually start off by talking about who"
+    },
+    {
+      "start": 641.12,
+      "duration": 5.12,
+      "text": "coher is um and what we're known for it"
+    },
+    {
+      "start": 644.84,
+      "duration": 2.68,
+      "text": "for all those people that may not have"
+    },
+    {
+      "start": 646.24,
+      "duration": 4.24,
+      "text": "heard of us by"
+    },
+    {
+      "start": 647.52,
+      "duration": 5.04,
+      "text": "now so our company was founded in 2019"
+    },
+    {
+      "start": 650.48,
+      "duration": 4.92,
+      "text": "but I think it's actually worth it to"
+    },
+    {
+      "start": 652.56,
+      "duration": 5.72,
+      "text": "take it back to 2017 um that's around"
+    },
+    {
+      "start": 655.4,
+      "duration": 5.24,
+      "text": "when our founder aan Gomez co-authored"
+    },
+    {
+      "start": 658.28,
+      "duration": 4.2,
+      "text": "the attention is all you need paper this"
+    },
+    {
+      "start": 660.64,
+      "duration": 4.84,
+      "text": "was the seminal paper that coined the"
+    },
+    {
+      "start": 662.48,
+      "duration": 5.68,
+      "text": "term Transformers and is responsible for"
+    },
+    {
+      "start": 665.48,
+      "duration": 4.2,
+      "text": "the the T and gbt but also you know the"
+    },
+    {
+      "start": 668.16,
+      "duration": 3.56,
+      "text": "craze that we've been on for the last"
+    },
+    {
+      "start": 669.68,
+      "duration": 4.8,
+      "text": "two or three years of generative"
+    },
+    {
+      "start": 671.72,
+      "duration": 4.96,
+      "text": "AI um we're at this point about 400"
+    },
+    {
+      "start": 674.48,
+      "duration": 4.0,
+      "text": "employees deep um spread across many"
+    },
+    {
+      "start": 676.68,
+      "duration": 3.72,
+      "text": "different geographies across the world"
+    },
+    {
+      "start": 678.48,
+      "duration": 4.12,
+      "text": "and we have four offices in Toronto San"
+    },
+    {
+      "start": 680.4,
+      "duration": 3.88,
+      "text": "Francisco New York and London what we're"
+    },
+    {
+      "start": 682.6,
+      "duration": 4.68,
+      "text": "known for in this extremely competitive"
+    },
+    {
+      "start": 684.28,
+      "duration": 5.12,
+      "text": "generative AI space is our laser focus"
+    },
+    {
+      "start": 687.28,
+      "duration": 5.48,
+      "text": "on unlocking generative AI for the ENT"
+    },
+    {
+      "start": 689.4,
+      "duration": 6.48,
+      "text": "PR so we do this by strong generation"
+    },
+    {
+      "start": 692.76,
+      "duration": 5.52,
+      "text": "models under the chat endpoint um our"
+    },
+    {
+      "start": 695.88,
+      "duration": 4.72,
+      "text": "Command family uh is able to generate"
+    },
+    {
+      "start": 698.28,
+      "duration": 3.88,
+      "text": "textual content at high quality from"
+    },
+    {
+      "start": 700.6,
+      "duration": 4.04,
+      "text": "textual"
+    },
+    {
+      "start": 702.16,
+      "duration": 5.2,
+      "text": "prompts on the other hand we also have"
+    },
+    {
+      "start": 704.64,
+      "duration": 4.64,
+      "text": "strong search and retrieval models which"
+    },
+    {
+      "start": 707.36,
+      "duration": 4.92,
+      "text": "allow for Enterprise search as well as"
+    },
+    {
+      "start": 709.28,
+      "duration": 5.48,
+      "text": "rag we have embed and rerank embed"
+    },
+    {
+      "start": 712.28,
+      "duration": 5.16,
+      "text": "obviously being the model that helps you"
+    },
+    {
+      "start": 714.76,
+      "duration": 5.2,
+      "text": "generate embeddings from text or other"
+    },
+    {
+      "start": 717.44,
+      "duration": 3.56,
+      "text": "modalities like images rerank is"
+    },
+    {
+      "start": 719.96,
+      "duration": 2.92,
+      "text": "actually going to be the focus for"
+    },
+    {
+      "start": 721.0,
+      "duration": 3.8,
+      "text": "today's talk um it's a model that we're"
+    },
+    {
+      "start": 722.88,
+      "duration": 4.92,
+      "text": "known for it's a state-of-the-art"
+    },
+    {
+      "start": 724.8,
+      "duration": 5.04,
+      "text": "ranking model which takes text content"
+    },
+    {
+      "start": 727.8,
+      "duration": 4.48,
+      "text": "uh as well as a user query and then"
+    },
+    {
+      "start": 729.84,
+      "duration": 4.92,
+      "text": "ranks them based on semantic"
+    },
+    {
+      "start": 732.28,
+      "duration": 4.44,
+      "text": "relevance we also offer customization in"
+    },
+    {
+      "start": 734.76,
+      "duration": 4.6,
+      "text": "multilinguality which is something that"
+    },
+    {
+      "start": 736.72,
+      "duration": 4.56,
+      "text": "you'll see across all the models here so"
+    },
+    {
+      "start": 739.36,
+      "duration": 3.44,
+      "text": "all these models can be customized and"
+    },
+    {
+      "start": 741.28,
+      "duration": 4.0,
+      "text": "they also operate in many different"
+    },
+    {
+      "start": 742.8,
+      "duration": 4.28,
+      "text": "languages other than English all three"
+    },
+    {
+      "start": 745.28,
+      "duration": 3.96,
+      "text": "models as mentioned are available on"
+    },
+    {
+      "start": 747.08,
+      "duration": 3.52,
+      "text": "Azure AI Foundry uh and you can get"
+    },
+    {
+      "start": 749.24,
+      "duration": 3.6,
+      "text": "access them very easily and start"
+    },
+    {
+      "start": 750.6,
+      "duration": 5.2,
+      "text": "playing around with them"
+    },
+    {
+      "start": 752.84,
+      "duration": 4.72,
+      "text": "yourselves so as you've probably guessed"
+    },
+    {
+      "start": 755.8,
+      "duration": 4.04,
+      "text": "at since I've mentioned it maybe five or"
+    },
+    {
+      "start": 757.56,
+      "duration": 4.2,
+      "text": "six times at this point today is all"
+    },
+    {
+      "start": 759.84,
+      "duration": 3.88,
+      "text": "about search and retrieval but let's put"
+    },
+    {
+      "start": 761.76,
+      "duration": 4.36,
+      "text": "it within the context of something that"
+    },
+    {
+      "start": 763.72,
+      "duration": 4.68,
+      "text": "I'm sure everyone knows of at this point"
+    },
+    {
+      "start": 766.12,
+      "duration": 4.4,
+      "text": "let's talk about rag specifically the"
+    },
+    {
+      "start": 768.4,
+      "duration": 3.56,
+      "text": "two major components of rag so when you"
+    },
+    {
+      "start": 770.52,
+      "duration": 4.48,
+      "text": "look at a rag pipeline you look at"
+    },
+    {
+      "start": 771.96,
+      "duration": 5.28,
+      "text": "retrieval as well as generation now the"
+    },
+    {
+      "start": 775.0,
+      "duration": 4.32,
+      "text": "generation is is pretty self-explanatory"
+    },
+    {
+      "start": 777.24,
+      "duration": 4.4,
+      "text": "right you take textual content in the"
+    },
+    {
+      "start": 779.32,
+      "duration": 4.8,
+      "text": "form of a prompt that content usually"
+    },
+    {
+      "start": 781.64,
+      "duration": 4.12,
+      "text": "has a bunch of documents or context that"
+    },
+    {
+      "start": 784.12,
+      "duration": 3.52,
+      "text": "can help you answer the question and"
+    },
+    {
+      "start": 785.76,
+      "duration": 3.84,
+      "text": "these large language models are strong"
+    },
+    {
+      "start": 787.64,
+      "duration": 3.96,
+      "text": "now to be able to generate highquality"
+    },
+    {
+      "start": 789.6,
+      "duration": 3.24,
+      "text": "answers that are grounded on whatever"
+    },
+    {
+      "start": 791.6,
+      "duration": 3.92,
+      "text": "context has been"
+    },
+    {
+      "start": 792.84,
+      "duration": 4.4,
+      "text": "retrieved so we tend to fixate a lot on"
+    },
+    {
+      "start": 795.52,
+      "duration": 3.04,
+      "text": "these generative models um which makes"
+    },
+    {
+      "start": 797.24,
+      "duration": 3.4,
+      "text": "sense you know they're getting bigger"
+    },
+    {
+      "start": 798.56,
+      "duration": 4.4,
+      "text": "they're getting better um and and the"
+    },
+    {
+      "start": 800.64,
+      "duration": 4.76,
+      "text": "hype generally is centered around these"
+    },
+    {
+      "start": 802.96,
+      "duration": 4.52,
+      "text": "models but our philosophy from day one"
+    },
+    {
+      "start": 805.4,
+      "duration": 4.24,
+      "text": "was that along with strong generative"
+    },
+    {
+      "start": 807.48,
+      "duration": 3.88,
+      "text": "performance we need extreme extr strong"
+    },
+    {
+      "start": 809.64,
+      "duration": 3.68,
+      "text": "retrieval you need to get the right"
+    },
+    {
+      "start": 811.36,
+      "duration": 4.28,
+      "text": "documents to the model for the model to"
+    },
+    {
+      "start": 813.32,
+      "duration": 5.8,
+      "text": "be able to generate a good response so"
+    },
+    {
+      "start": 815.64,
+      "duration": 5.76,
+      "text": "we place heavy importance on retrieval"
+    },
+    {
+      "start": 819.12,
+      "duration": 4.52,
+      "text": "and I think it's it's fair to talk about"
+    },
+    {
+      "start": 821.4,
+      "duration": 6.32,
+      "text": "how retrieval can play a role in"
+    },
+    {
+      "start": 823.64,
+      "duration": 5.48,
+      "text": "enabling better Generations so not"
+    },
+    {
+      "start": 827.72,
+      "duration": 3.16,
+      "text": "necessarily ignoring the generative side"
+    },
+    {
+      "start": 829.12,
+      "duration": 4.04,
+      "text": "but let's think about retrieval a bit"
+    },
+    {
+      "start": 830.88,
+      "duration": 5.04,
+      "text": "more specifically how we can make it"
+    },
+    {
+      "start": 833.16,
+      "duration": 4.24,
+      "text": "better so if if you've you know built a"
+    },
+    {
+      "start": 835.92,
+      "duration": 3.56,
+      "text": "rack pipe line out I'm sure you've gone"
+    },
+    {
+      "start": 837.4,
+      "duration": 3.68,
+      "text": "through some of these steps um you might"
+    },
+    {
+      "start": 839.48,
+      "duration": 4.52,
+      "text": "have started by introducing semantic"
+    },
+    {
+      "start": 841.08,
+      "duration": 4.72,
+      "text": "retrieval so you can think of retrieval"
+    },
+    {
+      "start": 844.0,
+      "duration": 4.64,
+      "text": "in terms of keyword search or lexical"
+    },
+    {
+      "start": 845.8,
+      "duration": 4.16,
+      "text": "search um which matches keywords or you"
+    },
+    {
+      "start": 848.64,
+      "duration": 3.68,
+      "text": "can get more advanced and start"
+    },
+    {
+      "start": 849.96,
+      "duration": 3.8,
+      "text": "including things like embedding models"
+    },
+    {
+      "start": 852.32,
+      "duration": 4.36,
+      "text": "um this introduces something called"
+    },
+    {
+      "start": 853.76,
+      "duration": 5.36,
+      "text": "semantic retrieval which means get me"
+    },
+    {
+      "start": 856.68,
+      "duration": 5.24,
+      "text": "documents based on their relevance but"
+    },
+    {
+      "start": 859.12,
+      "duration": 4.72,
+      "text": "also understand the context behind um"
+    },
+    {
+      "start": 861.92,
+      "duration": 4.12,
+      "text": "the words within those documents so"
+    },
+    {
+      "start": 863.84,
+      "duration": 3.92,
+      "text": "semantic retrieval drastically improves"
+    },
+    {
+      "start": 866.04,
+      "duration": 4.12,
+      "text": "the scope of your search since you're"
+    },
+    {
+      "start": 867.76,
+      "duration": 3.68,
+      "text": "not just keyword matching anymore"
+    },
+    {
+      "start": 870.16,
+      "duration": 2.96,
+      "text": "now on the other hand you can also"
+    },
+    {
+      "start": 871.44,
+      "duration": 3.48,
+      "text": "improve the actual searchability of the"
+    },
+    {
+      "start": 873.12,
+      "duration": 3.6,
+      "text": "chunks how do you make sure that the"
+    },
+    {
+      "start": 874.92,
+      "duration": 4.12,
+      "text": "documents that you have in your data"
+    },
+    {
+      "start": 876.72,
+      "duration": 4.8,
+      "text": "stores are more searchable do you add"
+    },
+    {
+      "start": 879.04,
+      "duration": 5.16,
+      "text": "metadata to them to ensure that there is"
+    },
+    {
+      "start": 881.52,
+      "duration": 4.8,
+      "text": "more matchability or do you chunk them"
+    },
+    {
+      "start": 884.2,
+      "duration": 4.08,
+      "text": "into different blocks so that a"
+    },
+    {
+      "start": 886.32,
+      "duration": 5.28,
+      "text": "retrieval model can pick them up"
+    },
+    {
+      "start": 888.28,
+      "duration": 6.08,
+      "text": "better both are equally important um but"
+    },
+    {
+      "start": 891.6,
+      "duration": 4.28,
+      "text": "to add on another layer of quality maybe"
+    },
+    {
+      "start": 894.36,
+      "duration": 3.68,
+      "text": "try adding a rear anchor to further"
+    },
+    {
+      "start": 895.88,
+      "duration": 3.32,
+      "text": "enhance the Precision of your search and"
+    },
+    {
+      "start": 898.04,
+      "duration": 2.88,
+      "text": "this is a common theme that we're going"
+    },
+    {
+      "start": 899.2,
+      "duration": 4.2,
+      "text": "to follow and maybe you'll see in the"
+    },
+    {
+      "start": 900.92,
+      "duration": 3.88,
+      "text": "demo as well is how rerank unlocks"
+    },
+    {
+      "start": 903.4,
+      "duration": 4.08,
+      "text": "search"
+    },
+    {
+      "start": 904.8,
+      "duration": 4.92,
+      "text": "Precision so what is a ranker very"
+    },
+    {
+      "start": 907.48,
+      "duration": 4.28,
+      "text": "quickly going through this a ranker is a"
+    },
+    {
+      "start": 909.72,
+      "duration": 4.4,
+      "text": "specialized large language model that"
+    },
+    {
+      "start": 911.76,
+      "duration": 4.44,
+      "text": "ranks text content against a query"
+    },
+    {
+      "start": 914.12,
+      "duration": 4.6,
+      "text": "typically a search query and orders it"
+    },
+    {
+      "start": 916.2,
+      "duration": 4.72,
+      "text": "in terms of relevance so on the one hand"
+    },
+    {
+      "start": 918.72,
+      "duration": 3.64,
+      "text": "you might come in with a search query"
+    },
+    {
+      "start": 920.92,
+      "duration": 3.08,
+      "text": "and you might provide it a bunch of"
+    },
+    {
+      "start": 922.36,
+      "duration": 4.36,
+      "text": "documents in this case I've just"
+    },
+    {
+      "start": 924.0,
+      "duration": 5.24,
+      "text": "exemplified it as a bunch of text you"
+    },
+    {
+      "start": 926.72,
+      "duration": 4.24,
+      "text": "throw this into the rerer uh in our case"
+    },
+    {
+      "start": 929.24,
+      "duration": 3.92,
+      "text": "it's called rerank 3.5 it's our"
+    },
+    {
+      "start": 930.96,
+      "duration": 4.44,
+      "text": "strongest model out there and what this"
+    },
+    {
+      "start": 933.16,
+      "duration": 3.8,
+      "text": "does is it generates a relevant score"
+    },
+    {
+      "start": 935.4,
+      "duration": 3.68,
+      "text": "using the Transformer"
+    },
+    {
+      "start": 936.96,
+      "duration": 3.96,
+      "text": "mechanism so a relevant score is"
+    },
+    {
+      "start": 939.08,
+      "duration": 3.88,
+      "text": "generated for each document and then you"
+    },
+    {
+      "start": 940.92,
+      "duration": 4.64,
+      "text": "can use the score to sort the documents"
+    },
+    {
+      "start": 942.96,
+      "duration": 4.56,
+      "text": "based on that relevance and you'll be"
+    },
+    {
+      "start": 945.56,
+      "duration": 4.44,
+      "text": "surprised to probably find out that some"
+    },
+    {
+      "start": 947.52,
+      "duration": 4.76,
+      "text": "documents that were way lower in your"
+    },
+    {
+      "start": 950.0,
+      "duration": 4.44,
+      "text": "initial ranking now suddenly become way"
+    },
+    {
+      "start": 952.28,
+      "duration": 4.4,
+      "text": "more important because the rerank is"
+    },
+    {
+      "start": 954.44,
+      "duration": 3.64,
+      "text": "model is laser focused on figuring out"
+    },
+    {
+      "start": 956.68,
+      "duration": 4.24,
+      "text": "which one of those is the most relevant"
+    },
+    {
+      "start": 958.08,
+      "duration": 2.84,
+      "text": "to a search crate"
+    },
+    {
+      "start": 961.36,
+      "duration": 4.88,
+      "text": "so why use rerank right I think we've"
+    },
+    {
+      "start": 963.92,
+      "duration": 4.4,
+      "text": "all uh used rag we've all used an"
+    },
+    {
+      "start": 966.24,
+      "duration": 3.6,
+      "text": "embedding model um maybe we've also"
+    },
+    {
+      "start": 968.32,
+      "duration": 3.84,
+      "text": "looked into hybrid search where does"
+    },
+    {
+      "start": 969.84,
+      "duration": 5.68,
+      "text": "that rerank model come into play and and"
+    },
+    {
+      "start": 972.16,
+      "duration": 5.72,
+      "text": "how does it improve my my workflows so"
+    },
+    {
+      "start": 975.52,
+      "duration": 4.68,
+      "text": "in search rerank unlocks complex query"
+    },
+    {
+      "start": 977.88,
+      "duration": 4.08,
+      "text": "retrieval while improving relevance so"
+    },
+    {
+      "start": 980.2,
+      "duration": 3.64,
+      "text": "if you're just looking to retrieve"
+    },
+    {
+      "start": 981.96,
+      "duration": 4.4,
+      "text": "documents right and you maybe you have a"
+    },
+    {
+      "start": 983.84,
+      "duration": 5.08,
+      "text": "search bar uh on your website or in your"
+    },
+    {
+      "start": 986.36,
+      "duration": 4.4,
+      "text": "product rear can actually be stacked on"
+    },
+    {
+      "start": 988.92,
+      "duration": 3.76,
+      "text": "on your existing search solution so"
+    },
+    {
+      "start": 990.76,
+      "duration": 4.28,
+      "text": "let's say you have your data sets"
+    },
+    {
+      "start": 992.68,
+      "duration": 4.08,
+      "text": "connected to a lexical or a keyword"
+    },
+    {
+      "start": 995.04,
+      "duration": 3.44,
+      "text": "search you may have them connected to"
+    },
+    {
+      "start": 996.76,
+      "duration": 4.16,
+      "text": "semantic search with an embedding model"
+    },
+    {
+      "start": 998.48,
+      "duration": 3.8,
+      "text": "or you may have a combination of both a"
+    },
+    {
+      "start": 1000.92,
+      "duration": 3.56,
+      "text": "hybrid search"
+    },
+    {
+      "start": 1002.28,
+      "duration": 5.2,
+      "text": "mechanism after your first stage"
+    },
+    {
+      "start": 1004.48,
+      "duration": 4.52,
+      "text": "retrieval which is the first pass of the"
+    },
+    {
+      "start": 1007.48,
+      "duration": 3.92,
+      "text": "documents that have been retrieved you"
+    },
+    {
+      "start": 1009.0,
+      "duration": 4.44,
+      "text": "can throw them into Rank and pass the"
+    },
+    {
+      "start": 1011.4,
+      "duration": 4.96,
+      "text": "search query and rank can actually rank"
+    },
+    {
+      "start": 1013.44,
+      "duration": 5.64,
+      "text": "them further based on a more precise"
+    },
+    {
+      "start": 1016.36,
+      "duration": 4.84,
+      "text": "understanding of what you really want"
+    },
+    {
+      "start": 1019.08,
+      "duration": 4.56,
+      "text": "3.5 actually takes us a step even"
+    },
+    {
+      "start": 1021.2,
+      "duration": 5.52,
+      "text": "further by unlocking complex prair"
+    },
+    {
+      "start": 1023.64,
+      "duration": 6.2,
+      "text": "retrieval so asking things not just you"
+    },
+    {
+      "start": 1026.72,
+      "duration": 5.24,
+      "text": "know simplified to hey find me pizza you"
+    },
+    {
+      "start": 1029.84,
+      "duration": 5.4,
+      "text": "can ask it find me all the pizza"
+    },
+    {
+      "start": 1031.96,
+      "duration": 5.72,
+      "text": "restaurants in Toronto that have a quiet"
+    },
+    {
+      "start": 1035.24,
+      "duration": 6.0,
+      "text": "Ambiance and are not too far away from"
+    },
+    {
+      "start": 1037.68,
+      "duration": 6.44,
+      "text": "the city and have reviews starting"
+    },
+    {
+      "start": 1041.24,
+      "duration": 5.48,
+      "text": "2019 that query in verbatim can be"
+    },
+    {
+      "start": 1044.12,
+      "duration": 4.44,
+      "text": "passed into a a search bar and rerank"
+    },
+    {
+      "start": 1046.72,
+      "duration": 4.04,
+      "text": "will do the job in terms of getting the"
+    },
+    {
+      "start": 1048.56,
+      "duration": 6.2,
+      "text": "doc ments that are the most relevant uh"
+    },
+    {
+      "start": 1050.76,
+      "duration": 6.32,
+      "text": "surfaced at the top now in rag rank also"
+    },
+    {
+      "start": 1054.76,
+      "duration": 3.96,
+      "text": "balances recall and precision and why"
+    },
+    {
+      "start": 1057.08,
+      "duration": 4.04,
+      "text": "this is important is because it directly"
+    },
+    {
+      "start": 1058.72,
+      "duration": 5.48,
+      "text": "impacts your efficiency while"
+    },
+    {
+      "start": 1061.12,
+      "duration": 5.16,
+      "text": "maintaining high quality Generations so"
+    },
+    {
+      "start": 1064.2,
+      "duration": 3.32,
+      "text": "recall you can think of it as get me the"
+    },
+    {
+      "start": 1066.28,
+      "duration": 3.56,
+      "text": "most amount of documents that are"
+    },
+    {
+      "start": 1067.52,
+      "duration": 3.92,
+      "text": "relevant or every single document in my"
+    },
+    {
+      "start": 1069.84,
+      "duration": 4.28,
+      "text": "data store that is relevant and"
+    },
+    {
+      "start": 1071.44,
+      "duration": 5.08,
+      "text": "precision means get me the most relevant"
+    },
+    {
+      "start": 1074.12,
+      "duration": 4.32,
+      "text": "document uh and and by including rerank"
+    },
+    {
+      "start": 1076.52,
+      "duration": 3.0,
+      "text": "into your search flow into your search"
+    },
+    {
+      "start": 1078.44,
+      "duration": 3.08,
+      "text": "pipeline"
+    },
+    {
+      "start": 1079.52,
+      "duration": 3.76,
+      "text": "you can actually balance both of these"
+    },
+    {
+      "start": 1081.52,
+      "duration": 4.32,
+      "text": "things out so the way you would build a"
+    },
+    {
+      "start": 1083.28,
+      "duration": 4.24,
+      "text": "prompt for rag is you would set up a"
+    },
+    {
+      "start": 1085.84,
+      "duration": 4.08,
+      "text": "prompt by saying you are a helpful chat"
+    },
+    {
+      "start": 1087.52,
+      "duration": 4.12,
+      "text": "assistant you would Mark where the"
+    },
+    {
+      "start": 1089.92,
+      "duration": 3.76,
+      "text": "context take place so here are some"
+    },
+    {
+      "start": 1091.64,
+      "duration": 3.84,
+      "text": "documents that may be relevant but also"
+    },
+    {
+      "start": 1093.68,
+      "duration": 4.0,
+      "text": "add an instruction that says hey note"
+    },
+    {
+      "start": 1095.48,
+      "duration": 4.2,
+      "text": "that the higher the document is in this"
+    },
+    {
+      "start": 1097.68,
+      "duration": 4.48,
+      "text": "order the more relevant they are to"
+    },
+    {
+      "start": 1099.68,
+      "duration": 4.48,
+      "text": "answer this question rank 3.5 can be"
+    },
+    {
+      "start": 1102.16,
+      "duration": 4.36,
+      "text": "used to to retrieve the documents which"
+    },
+    {
+      "start": 1104.16,
+      "duration": 4.64,
+      "text": "will be appended to the context and then"
+    },
+    {
+      "start": 1106.52,
+      "duration": 4.48,
+      "text": "you can pass your user question and this"
+    },
+    {
+      "start": 1108.8,
+      "duration": 4.16,
+      "text": "prompt will get you better generation"
+    },
+    {
+      "start": 1111.0,
+      "duration": 4.88,
+      "text": "quality with a smaller number of"
+    },
+    {
+      "start": 1112.96,
+      "duration": 4.84,
+      "text": "documents that you can pass um so that"
+    },
+    {
+      "start": 1115.88,
+      "duration": 3.68,
+      "text": "that obviously improves the efficiency"
+    },
+    {
+      "start": 1117.8,
+      "duration": 4.0,
+      "text": "of that search um as well as the"
+    },
+    {
+      "start": 1119.56,
+      "duration": 4.48,
+      "text": "efficiency of the generation but also"
+    },
+    {
+      "start": 1121.8,
+      "duration": 4.8,
+      "text": "ensures that the high quality response"
+    },
+    {
+      "start": 1124.04,
+      "duration": 2.56,
+      "text": "is is"
+    },
+    {
+      "start": 1127.04,
+      "duration": 7.96,
+      "text": "preserved cool now let's move on to a"
+    },
+    {
+      "start": 1131.4,
+      "duration": 5.32,
+      "text": "demo so let's take a look at how rerank"
+    },
+    {
+      "start": 1135.0,
+      "duration": 5.2,
+      "text": "Works in action we have a pretty simple"
+    },
+    {
+      "start": 1136.72,
+      "duration": 5.88,
+      "text": "demo setup here um that shows you how it"
+    },
+    {
+      "start": 1140.2,
+      "duration": 6.24,
+      "text": "can semantically add a boost to the"
+    },
+    {
+      "start": 1142.6,
+      "duration": 5.64,
+      "text": "search quality of um your products so"
+    },
+    {
+      "start": 1146.44,
+      "duration": 4.56,
+      "text": "I'm going to click on this Amazon"
+    },
+    {
+      "start": 1148.24,
+      "duration": 4.44,
+      "text": "catalog um setup that we have and"
+    },
+    {
+      "start": 1151.0,
+      "duration": 3.84,
+      "text": "essentially what it is is it Compares"
+    },
+    {
+      "start": 1152.68,
+      "duration": 5.48,
+      "text": "lexical search which is keyword based"
+    },
+    {
+      "start": 1154.84,
+      "duration": 5.16,
+      "text": "search to um the search that a ranker"
+    },
+    {
+      "start": 1158.16,
+      "duration": 4.8,
+      "text": "would do specifically our rear rank 35"
+    },
+    {
+      "start": 1160.0,
+      "duration": 5.76,
+      "text": "model uh under the hood uh and I'm going"
+    },
+    {
+      "start": 1162.96,
+      "duration": 7.0,
+      "text": "to type a few different"
+    },
+    {
+      "start": 1165.76,
+      "duration": 7.16,
+      "text": "queries so let's start off with"
+    },
+    {
+      "start": 1169.96,
+      "duration": 5.2,
+      "text": "shoes for formal business event for men"
+    },
+    {
+      "start": 1172.92,
+      "duration": 4.44,
+      "text": "notice that this is a multi-aspect query"
+    },
+    {
+      "start": 1175.16,
+      "duration": 3.92,
+      "text": "so I'm not only asking for shoes but I'm"
+    },
+    {
+      "start": 1177.36,
+      "duration": 3.68,
+      "text": "also asking for shoes for formal"
+    },
+    {
+      "start": 1179.08,
+      "duration": 4.68,
+      "text": "business event uh and I'm also assigning"
+    },
+    {
+      "start": 1181.04,
+      "duration": 4.6,
+      "text": "agenda to the search now when I hit"
+    },
+    {
+      "start": 1183.76,
+      "duration": 4.36,
+      "text": "search um on this side you'll see the"
+    },
+    {
+      "start": 1185.64,
+      "duration": 6.04,
+      "text": "lexical results um and if I just zoom in"
+    },
+    {
+      "start": 1188.12,
+      "duration": 4.92,
+      "text": "very quickly uh onto this particular"
+    },
+    {
+      "start": 1191.68,
+      "duration": 3.68,
+      "text": "shoe this is certainly something I"
+    },
+    {
+      "start": 1193.04,
+      "duration": 3.52,
+      "text": "wouldn't wear for a business function um"
+    },
+    {
+      "start": 1195.36,
+      "duration": 4.12,
+      "text": "but then when I click this button you'll"
+    },
+    {
+      "start": 1196.56,
+      "duration": 4.72,
+      "text": "see what rerank throws out"
+    },
+    {
+      "start": 1199.48,
+      "duration": 4.96,
+      "text": "um and you'll notice that the the first"
+    },
+    {
+      "start": 1201.28,
+      "duration": 5.08,
+      "text": "few results are pretty pretty similar to"
+    },
+    {
+      "start": 1204.44,
+      "duration": 4.64,
+      "text": "and pretty relevant to what I would need"
+    },
+    {
+      "start": 1206.36,
+      "duration": 4.6,
+      "text": "based on my search crate uh and and the"
+    },
+    {
+      "start": 1209.08,
+      "duration": 4.2,
+      "text": "other interesting here is thing here is"
+    },
+    {
+      "start": 1210.96,
+      "duration": 6.12,
+      "text": "that you'll notice how rerank has"
+    },
+    {
+      "start": 1213.28,
+      "duration": 6.24,
+      "text": "actually uh scoped up the the the rank"
+    },
+    {
+      "start": 1217.08,
+      "duration": 5.4,
+      "text": "of these searches um in this case it's"
+    },
+    {
+      "start": 1219.52,
+      "duration": 5.28,
+      "text": "it's from 296 all the way to one um in"
+    },
+    {
+      "start": 1222.48,
+      "duration": 4.64,
+      "text": "this case this was item number 297 in"
+    },
+    {
+      "start": 1224.8,
+      "duration": 3.96,
+      "text": "the order but by applying reranking on"
+    },
+    {
+      "start": 1227.12,
+      "duration": 3.48,
+      "text": "it uh it brought it up all the way"
+    },
+    {
+      "start": 1228.76,
+      "duration": 4.92,
+      "text": "number two um so hopefully that shows"
+    },
+    {
+      "start": 1230.6,
+      "duration": 5.36,
+      "text": "you very quickly um how rank compares to"
+    },
+    {
+      "start": 1233.68,
+      "duration": 4.84,
+      "text": "a traditional Vector search or even a"
+    },
+    {
+      "start": 1235.96,
+      "duration": 3.92,
+      "text": "lexical search uh in this case in the"
+    },
+    {
+      "start": 1238.52,
+      "duration": 3.2,
+      "text": "second demo we're going to look at"
+    },
+    {
+      "start": 1239.88,
+      "duration": 3.0,
+      "text": "something very similar um in this case"
+    },
+    {
+      "start": 1241.72,
+      "duration": 4.48,
+      "text": "we're actually going to"
+    },
+    {
+      "start": 1242.88,
+      "duration": 7.0,
+      "text": "compare a a pretty simple embeddings"
+    },
+    {
+      "start": 1246.2,
+      "duration": 5.48,
+      "text": "based uh search methodology to another"
+    },
+    {
+      "start": 1249.88,
+      "duration": 3.84,
+      "text": "option where you have an embeddings"
+    },
+    {
+      "start": 1251.68,
+      "duration": 4.52,
+      "text": "model um so you have semantic search but"
+    },
+    {
+      "start": 1253.72,
+      "duration": 4.88,
+      "text": "then you stack rerank on top of it uh to"
+    },
+    {
+      "start": 1256.2,
+      "duration": 4.0,
+      "text": "augment the Precision of the search um"
+    },
+    {
+      "start": 1258.6,
+      "duration": 3.52,
+      "text": "so let's just drop some example queries"
+    },
+    {
+      "start": 1260.2,
+      "duration": 3.12,
+      "text": "I'm going to search first for shoes"
+    },
+    {
+      "start": 1262.12,
+      "duration": 3.2,
+      "text": "you'll notice that actually at this"
+    },
+    {
+      "start": 1263.32,
+      "duration": 3.8,
+      "text": "point um the results should be pretty"
+    },
+    {
+      "start": 1265.32,
+      "duration": 4.36,
+      "text": "similar uh and that's because it's a"
+    },
+    {
+      "start": 1267.12,
+      "duration": 4.36,
+      "text": "pretty simple search query uh once again"
+    },
+    {
+      "start": 1269.68,
+      "duration": 3.88,
+      "text": "when we get into multi-aspect queries"
+    },
+    {
+      "start": 1271.48,
+      "duration": 4.88,
+      "text": "like for example if I select this one"
+    },
+    {
+      "start": 1273.56,
+      "duration": 4.28,
+      "text": "shoes for women less than $80 there's"
+    },
+    {
+      "start": 1276.36,
+      "duration": 3.96,
+      "text": "multiple aspects that you actually need"
+    },
+    {
+      "start": 1277.84,
+      "duration": 4.08,
+      "text": "to search for but by typing this in"
+    },
+    {
+      "start": 1280.32,
+      "duration": 4.64,
+      "text": "natural language you'll see that a"
+    },
+    {
+      "start": 1281.92,
+      "duration": 4.68,
+      "text": "traditional Vector search system um may"
+    },
+    {
+      "start": 1284.96,
+      "duration": 2.92,
+      "text": "give you results but if you scroll"
+    },
+    {
+      "start": 1286.6,
+      "duration": 2.52,
+      "text": "through it you'll notice that this is"
+    },
+    {
+      "start": 1287.88,
+      "duration": 4.32,
+      "text": "actually more than"
+    },
+    {
+      "start": 1289.12,
+      "duration": 6.2,
+      "text": "$80 uh and and that seems to continue"
+    },
+    {
+      "start": 1292.2,
+      "duration": 4.8,
+      "text": "but looking at rerank um we do have uh"
+    },
+    {
+      "start": 1295.32,
+      "duration": 4.56,
+      "text": "shoes for the right gender and but"
+    },
+    {
+      "start": 1297.0,
+      "duration": 4.32,
+      "text": "they're also consistently less than $80"
+    },
+    {
+      "start": 1299.88,
+      "duration": 3.16,
+      "text": "um and once again what we're passing"
+    },
+    {
+      "start": 1301.32,
+      "duration": 4.2,
+      "text": "into these models is the description"
+    },
+    {
+      "start": 1303.04,
+      "duration": 3.8,
+      "text": "text over here um so just based on that"
+    },
+    {
+      "start": 1305.52,
+      "duration": 3.84,
+      "text": "the model is able to correctly give you"
+    },
+    {
+      "start": 1306.84,
+      "duration": 4.52,
+      "text": "the right output so here again you see"
+    },
+    {
+      "start": 1309.36,
+      "duration": 4.12,
+      "text": "um more options uh and the price is"
+    },
+    {
+      "start": 1311.36,
+      "duration": 4.0,
+      "text": "always less than 80 and the gender is"
+    },
+    {
+      "start": 1313.48,
+      "duration": 5.72,
+      "text": "always assigned correctly so that's the"
+    },
+    {
+      "start": 1315.36,
+      "duration": 3.84,
+      "text": "power of the rerank model"
+    },
+    {
+      "start": 1322.84,
+      "duration": 4.72,
+      "text": "all right I think we're back on so that"
+    },
+    {
+      "start": 1324.76,
+      "duration": 4.6,
+      "text": "was actually kind of exciting um I'm a"
+    },
+    {
+      "start": 1327.56,
+      "duration": 4.12,
+      "text": "huge fan of rag because we've been doing"
+    },
+    {
+      "start": 1329.36,
+      "duration": 5.2,
+      "text": "a rag based sample uh on Azure AI"
+    },
+    {
+      "start": 1331.68,
+      "duration": 4.84,
+      "text": "Foundry and I'm so glad we have Azure"
+    },
+    {
+      "start": 1334.56,
+      "duration": 4.12,
+      "text": "coh I mean coher models not only on the"
+    },
+    {
+      "start": 1336.52,
+      "duration": 3.8,
+      "text": "AI Foundry model catalog but also on"
+    },
+    {
+      "start": 1338.68,
+      "duration": 3.52,
+      "text": "GitHub so there's ways for people to"
+    },
+    {
+      "start": 1340.32,
+      "duration": 3.64,
+      "text": "start getting to play with it right"
+    },
+    {
+      "start": 1342.2,
+      "duration": 3.16,
+      "text": "after that but I want to see if there"
+    },
+    {
+      "start": 1343.96,
+      "duration": 2.96,
+      "text": "are any questions from the audience in"
+    },
+    {
+      "start": 1345.36,
+      "duration": 3.24,
+      "text": "the meantime charma do you want to kick"
+    },
+    {
+      "start": 1346.92,
+      "duration": 3.8,
+      "text": "us off with one yeah I had a question"
+    },
+    {
+      "start": 1348.6,
+      "duration": 4.24,
+      "text": "question actually um it it's great"
+    },
+    {
+      "start": 1350.72,
+      "duration": 4.28,
+      "text": "looking at whatever you showed Neil uh"
+    },
+    {
+      "start": 1352.84,
+      "duration": 4.44,
+      "text": "one question I had is how well do these"
+    },
+    {
+      "start": 1355.0,
+      "duration": 4.6,
+      "text": "models generalize across like languages"
+    },
+    {
+      "start": 1357.28,
+      "duration": 4.52,
+      "text": "you did talk about it a little bit and"
+    },
+    {
+      "start": 1359.6,
+      "duration": 5.52,
+      "text": "also across specialized domains like"
+    },
+    {
+      "start": 1361.8,
+      "duration": 5.36,
+      "text": "legal or medical domains yeah great"
+    },
+    {
+      "start": 1365.12,
+      "duration": 4.48,
+      "text": "question to start us off um so from a"
+    },
+    {
+      "start": 1367.16,
+      "duration": 5.32,
+      "text": "language standpoint um it's actually a"
+    },
+    {
+      "start": 1369.6,
+      "duration": 5.6,
+      "text": "key piece when we built rerank um rerank"
+    },
+    {
+      "start": 1372.48,
+      "duration": 4.36,
+      "text": "supports over I think 100 languages um"
+    },
+    {
+      "start": 1375.2,
+      "duration": 3.28,
+      "text": "so what that means is let's say my query"
+    },
+    {
+      "start": 1376.84,
+      "duration": 3.84,
+      "text": "is in English uh and I actually have"
+    },
+    {
+      "start": 1378.48,
+      "duration": 4.48,
+      "text": "doents in Japanese um you can still"
+    },
+    {
+      "start": 1380.68,
+      "duration": 4.16,
+      "text": "retrieve them with high quality um and"
+    },
+    {
+      "start": 1382.96,
+      "duration": 3.64,
+      "text": "we'll continue to to expand and make"
+    },
+    {
+      "start": 1384.84,
+      "duration": 4.44,
+      "text": "that um even better um with our"
+    },
+    {
+      "start": 1386.6,
+      "duration": 4.84,
+      "text": "Progressive models um in terms of you"
+    },
+    {
+      "start": 1389.28,
+      "duration": 3.84,
+      "text": "know domain specificity U when we train"
+    },
+    {
+      "start": 1391.44,
+      "duration": 4.04,
+      "text": "these models and we try to make re Rank"
+    },
+    {
+      "start": 1393.12,
+      "duration": 4.12,
+      "text": "3 five better um it's something we we"
+    },
+    {
+      "start": 1395.48,
+      "duration": 3.72,
+      "text": "heavily incorporate in the training life"
+    },
+    {
+      "start": 1397.24,
+      "duration": 5.4,
+      "text": "cycle um so domains like legal for"
+    },
+    {
+      "start": 1399.2,
+      "duration": 4.72,
+      "text": "example um you know manufacturing um"
+    },
+    {
+      "start": 1402.64,
+      "duration": 2.64,
+      "text": "things like that those are always"
+    },
+    {
+      "start": 1403.92,
+      "duration": 3.36,
+      "text": "accounted for when we build our data"
+    },
+    {
+      "start": 1405.28,
+      "duration": 3.8,
+      "text": "sets um so yeah we we want good"
+    },
+    {
+      "start": 1407.28,
+      "duration": 4.28,
+      "text": "performance in both cases"
+    },
+    {
+      "start": 1409.08,
+      "duration": 5.88,
+      "text": "okay got it that's great uh and I do see"
+    },
+    {
+      "start": 1411.56,
+      "duration": 6.4,
+      "text": "a question on the chat um the question"
+    },
+    {
+      "start": 1414.96,
+      "duration": 5.12,
+      "text": "is from shubra and she ask does this"
+    },
+    {
+      "start": 1417.96,
+      "duration": 7.32,
+      "text": "happen because the generic algorithm is"
+    },
+    {
+      "start": 1420.08,
+      "duration": 6.92,
+      "text": "based on fussy algorithm or okay you see"
+    },
+    {
+      "start": 1425.28,
+      "duration": 2.88,
+      "text": "the question that accepts few margins"
+    },
+    {
+      "start": 1427.0,
+      "duration": 3.96,
+      "text": "around the"
+    },
+    {
+      "start": 1428.16,
+      "duration": 4.72,
+      "text": "parameters yeah so um um I like that"
+    },
+    {
+      "start": 1430.96,
+      "duration": 3.92,
+      "text": "we're getting deep and Technical uh this"
+    },
+    {
+      "start": 1432.88,
+      "duration": 4.52,
+      "text": "early um so rerank is actually a cross"
+    },
+    {
+      "start": 1434.88,
+      "duration": 4.32,
+      "text": "encoder um so it's not similar to like a"
+    },
+    {
+      "start": 1437.4,
+      "duration": 4.44,
+      "text": "fuzzy search or even like a sparse"
+    },
+    {
+      "start": 1439.2,
+      "duration": 4.44,
+      "text": "embedding um it's fundamentally"
+    },
+    {
+      "start": 1441.84,
+      "duration": 4.08,
+      "text": "something that compares every document"
+    },
+    {
+      "start": 1443.64,
+      "duration": 3.52,
+      "text": "that you send it um whether you chunk"
+    },
+    {
+      "start": 1445.92,
+      "duration": 3.88,
+      "text": "these or you send it as a single"
+    },
+    {
+      "start": 1447.16,
+      "duration": 5.04,
+      "text": "document against the search query um it"
+    },
+    {
+      "start": 1449.8,
+      "duration": 4.6,
+      "text": "it uses a mechanism called um early"
+    },
+    {
+      "start": 1452.2,
+      "duration": 4.32,
+      "text": "interaction to figure out what is the"
+    },
+    {
+      "start": 1454.4,
+      "duration": 3.92,
+      "text": "best and most relevant document uh and"
+    },
+    {
+      "start": 1456.52,
+      "duration": 4.48,
+      "text": "ultimately you would sort these these"
+    },
+    {
+      "start": 1458.32,
+      "duration": 4.24,
+      "text": "results on that relevance Factor um to"
+    },
+    {
+      "start": 1461.0,
+      "duration": 4.2,
+      "text": "get the best documents or the most"
+    },
+    {
+      "start": 1462.56,
+      "duration": 4.4,
+      "text": "relevant ones to a search query um hope"
+    },
+    {
+      "start": 1465.2,
+      "duration": 2.8,
+      "text": "that answer your question um but but"
+    },
+    {
+      "start": 1466.96,
+      "duration": 2.08,
+      "text": "there's a lot more documentation that"
+    },
+    {
+      "start": 1468.0,
+      "duration": 2.64,
+      "text": "we'll share"
+    },
+    {
+      "start": 1469.04,
+      "duration": 2.96,
+      "text": "on our blogs um which kind of go deep"
+    },
+    {
+      "start": 1470.64,
+      "duration": 3.32,
+      "text": "into how this kind of works behind the"
+    },
+    {
+      "start": 1472.0,
+      "duration": 3.88,
+      "text": "scenes yeah and I want to take a minute"
+    },
+    {
+      "start": 1473.96,
+      "duration": 5.4,
+      "text": "to tell folks that we'll hopefully have"
+    },
+    {
+      "start": 1475.88,
+      "duration": 5.2,
+      "text": "an AMA with uh Neil on Friday so if you"
+    },
+    {
+      "start": 1479.36,
+      "duration": 3.52,
+      "text": "don't get time today definitely show up"
+    },
+    {
+      "start": 1481.08,
+      "duration": 4.24,
+      "text": "there but questions are coming in thick"
+    },
+    {
+      "start": 1482.88,
+      "duration": 4.08,
+      "text": "and fast uh the next one up is there are"
+    },
+    {
+      "start": 1485.32,
+      "duration": 5.36,
+      "text": "ways to fine tune for a specific domain"
+    },
+    {
+      "start": 1486.96,
+      "duration": 5.4,
+      "text": "or industry absolutely so um we we want"
+    },
+    {
+      "start": 1490.68,
+      "duration": 2.92,
+      "text": "to customize right like one one thing we"
+    },
+    {
+      "start": 1492.36,
+      "duration": 3.28,
+      "text": "realized very early on when working with"
+    },
+    {
+      "start": 1493.6,
+      "duration": 4.2,
+      "text": "the Enterprise is we can go in with"
+    },
+    {
+      "start": 1495.64,
+      "duration": 4.12,
+      "text": "strong very strong general based models"
+    },
+    {
+      "start": 1497.8,
+      "duration": 3.92,
+      "text": "but the moment people want to customize"
+    },
+    {
+      "start": 1499.76,
+      "duration": 5.12,
+      "text": "we need to have that configurability so"
+    },
+    {
+      "start": 1501.72,
+      "duration": 5.48,
+      "text": "yes um we have a very easy setup to um"
+    },
+    {
+      "start": 1504.88,
+      "duration": 4.64,
+      "text": "customize R rank um with domain specific"
+    },
+    {
+      "start": 1507.2,
+      "duration": 5.28,
+      "text": "data um so yeah that that's something we"
+    },
+    {
+      "start": 1509.52,
+      "duration": 2.96,
+      "text": "can for sure"
+    },
+    {
+      "start": 1514.84,
+      "duration": 4.28,
+      "text": "allow and I think there's another"
+    },
+    {
+      "start": 1516.84,
+      "duration": 5.28,
+      "text": "question it says can we adopt customized"
+    },
+    {
+      "start": 1519.12,
+      "duration": 4.96,
+      "text": "ranking or is it configurable yeah so"
+    },
+    {
+      "start": 1522.12,
+      "duration": 4.16,
+      "text": "like um in terms of you know the"
+    },
+    {
+      "start": 1524.08,
+      "duration": 4.52,
+      "text": "spectrum of how you could customize it"
+    },
+    {
+      "start": 1526.28,
+      "duration": 4.32,
+      "text": "um there are ways to to focus re rank"
+    },
+    {
+      "start": 1528.6,
+      "duration": 4.08,
+      "text": "search um the way you do that is along"
+    },
+    {
+      "start": 1530.6,
+      "duration": 4.2,
+      "text": "with passing your raw documents you can"
+    },
+    {
+      "start": 1532.68,
+      "duration": 4.52,
+      "text": "also actually pass metadata um so for"
+    },
+    {
+      "start": 1534.8,
+      "duration": 5.08,
+      "text": "example if my documents from a folder"
+    },
+    {
+      "start": 1537.2,
+      "duration": 4.12,
+      "text": "had authors date tags edit tags things"
+    },
+    {
+      "start": 1539.88,
+      "duration": 3.04,
+      "text": "like that I can actually incorporate"
+    },
+    {
+      "start": 1541.32,
+      "duration": 3.8,
+      "text": "that in my documentation to scope the"
+    },
+    {
+      "start": 1542.92,
+      "duration": 4.36,
+      "text": "search of the query um if you want even"
+    },
+    {
+      "start": 1545.12,
+      "duration": 3.76,
+      "text": "more fine grain control um the best"
+    },
+    {
+      "start": 1547.28,
+      "duration": 4.28,
+      "text": "thing to do is to actually fine-tune the"
+    },
+    {
+      "start": 1548.88,
+      "duration": 5.24,
+      "text": "model um which as I mentioned we can we"
+    },
+    {
+      "start": 1551.56,
+      "duration": 2.56,
+      "text": "can very easily"
+    },
+    {
+      "start": 1554.84,
+      "duration": 5.84,
+      "text": "do awesome I had another question what"
+    },
+    {
+      "start": 1558.48,
+      "duration": 4.0,
+      "text": "so what's some of the common challenges"
+    },
+    {
+      "start": 1560.68,
+      "duration": 4.32,
+      "text": "customers are facing when they're trying"
+    },
+    {
+      "start": 1562.48,
+      "duration": 5.32,
+      "text": "to integrate like coher search models"
+    },
+    {
+      "start": 1565.0,
+      "duration": 4.56,
+      "text": "into their existing systems that's a"
+    },
+    {
+      "start": 1567.8,
+      "duration": 4.4,
+      "text": "good question I think um maybe I'll talk"
+    },
+    {
+      "start": 1569.56,
+      "duration": 4.76,
+      "text": "about rerank specifically um when we"
+    },
+    {
+      "start": 1572.2,
+      "duration": 4.24,
+      "text": "think of rag I think it's very easy to"
+    },
+    {
+      "start": 1574.32,
+      "duration": 4.12,
+      "text": "to to build a rag pipeline which has an"
+    },
+    {
+      "start": 1576.44,
+      "duration": 3.96,
+      "text": "embedding model and then also a"
+    },
+    {
+      "start": 1578.44,
+      "duration": 3.36,
+      "text": "generative model um so so that's what"
+    },
+    {
+      "start": 1580.4,
+      "duration": 2.6,
+      "text": "people are used to so when we bring"
+    },
+    {
+      "start": 1581.8,
+      "duration": 3.36,
+      "text": "rerank on the table it's something"
+    },
+    {
+      "start": 1583.0,
+      "duration": 3.72,
+      "text": "that's completely new um so naturally"
+    },
+    {
+      "start": 1585.16,
+      "duration": 3.24,
+      "text": "the questions we get are how do we"
+    },
+    {
+      "start": 1586.72,
+      "duration": 3.48,
+      "text": "incorporate this is it the right fit for"
+    },
+    {
+      "start": 1588.4,
+      "duration": 4.32,
+      "text": "us more often than not we find that"
+    },
+    {
+      "start": 1590.2,
+      "duration": 4.4,
+      "text": "rerank does help search quality and we"
+    },
+    {
+      "start": 1592.72,
+      "duration": 4.24,
+      "text": "we've we've placed heavy importance on"
+    },
+    {
+      "start": 1594.6,
+      "duration": 3.72,
+      "text": "how you can actually build it in so if"
+    },
+    {
+      "start": 1596.96,
+      "duration": 2.96,
+      "text": "you if you look at and we'll share some"
+    },
+    {
+      "start": 1598.32,
+      "duration": 4.12,
+      "text": "code notebooks for this but it's three"
+    },
+    {
+      "start": 1599.92,
+      "duration": 3.96,
+      "text": "or four lines of code at the very most"
+    },
+    {
+      "start": 1602.44,
+      "duration": 4.0,
+      "text": "um and it's very easy to use it's very"
+    },
+    {
+      "start": 1603.88,
+      "duration": 4.72,
+      "text": "easy to trace um so it's something we're"
+    },
+    {
+      "start": 1606.44,
+      "duration": 4.36,
+      "text": "we're trying to make as applicable as"
+    },
+    {
+      "start": 1608.6,
+      "duration": 5.88,
+      "text": "possible uh across all our"
+    },
+    {
+      "start": 1610.8,
+      "duration": 6.04,
+      "text": "customers okay got uh do we have any"
+    },
+    {
+      "start": 1614.48,
+      "duration": 5.28,
+      "text": "more questions or can I ask another"
+    },
+    {
+      "start": 1616.84,
+      "duration": 6.6,
+      "text": "question I uh go ahead I'm keeping an"
+    },
+    {
+      "start": 1619.76,
+      "duration": 6.84,
+      "text": "eye on the chat okay I'm just um because"
+    },
+    {
+      "start": 1623.44,
+      "duration": 5.96,
+      "text": "now agentic workflow and agents are the"
+    },
+    {
+      "start": 1626.6,
+      "duration": 5.84,
+      "text": "theme and everyone is talking about it"
+    },
+    {
+      "start": 1629.4,
+      "duration": 5.24,
+      "text": "I'm just wondering how K here approaches"
+    },
+    {
+      "start": 1632.44,
+      "duration": 5.56,
+      "text": "that like search in multi-agent or"
+    },
+    {
+      "start": 1634.64,
+      "duration": 6.4,
+      "text": "agentic systems um and do these models"
+    },
+    {
+      "start": 1638.0,
+      "duration": 4.8,
+      "text": "play a central role in that absolutely"
+    },
+    {
+      "start": 1641.04,
+      "duration": 4.12,
+      "text": "so I think that that skills across the"
+    },
+    {
+      "start": 1642.8,
+      "duration": 4.32,
+      "text": "board right we we have strong uh"
+    },
+    {
+      "start": 1645.16,
+      "duration": 3.64,
+      "text": "generative models um for agentic"
+    },
+    {
+      "start": 1647.12,
+      "duration": 3.68,
+      "text": "workflow so we we released a new model"
+    },
+    {
+      "start": 1648.8,
+      "duration": 4.6,
+      "text": "called command a which you know um"
+    },
+    {
+      "start": 1650.8,
+      "duration": 5.04,
+      "text": "should be on the asual U model Foundry"
+    },
+    {
+      "start": 1653.4,
+      "duration": 4.24,
+      "text": "very soon so we're excited for that but"
+    },
+    {
+      "start": 1655.84,
+      "duration": 3.12,
+      "text": "I I think uh equally we want to make"
+    },
+    {
+      "start": 1657.64,
+      "duration": 2.64,
+      "text": "sure that our search retrieval models"
+    },
+    {
+      "start": 1658.96,
+      "duration": 3.44,
+      "text": "are also capable when it comes to"
+    },
+    {
+      "start": 1660.28,
+      "duration": 4.52,
+      "text": "agentic workflows so that that the idea"
+    },
+    {
+      "start": 1662.4,
+      "duration": 5.44,
+      "text": "that rein can now support multi-aspect"
+    },
+    {
+      "start": 1664.8,
+      "duration": 4.64,
+      "text": "complex queries uh is a direct factor"
+    },
+    {
+      "start": 1667.84,
+      "duration": 3.76,
+      "text": "for that um because I think in agentic"
+    },
+    {
+      "start": 1669.44,
+      "duration": 4.12,
+      "text": "workflows typically me as a user will"
+    },
+    {
+      "start": 1671.6,
+      "duration": 3.76,
+      "text": "ask for something that is very detailed"
+    },
+    {
+      "start": 1673.56,
+      "duration": 3.08,
+      "text": "I'll ask the model to do this and then"
+    },
+    {
+      "start": 1675.36,
+      "duration": 3.12,
+      "text": "after that do that take the results"
+    },
+    {
+      "start": 1676.64,
+      "duration": 2.8,
+      "text": "summarize them things like that so rank"
+    },
+    {
+      "start": 1678.48,
+      "duration": 2.92,
+      "text": "has to be resilient to these"
+    },
+    {
+      "start": 1679.44,
+      "duration": 4.08,
+      "text": "multi-aspect queries uh and make the"
+    },
+    {
+      "start": 1681.4,
+      "duration": 3.48,
+      "text": "right search um which is why we built"
+    },
+    {
+      "start": 1683.52,
+      "duration": 3.12,
+      "text": "that model up that"
+    },
+    {
+      "start": 1684.88,
+      "duration": 5.52,
+      "text": "way"
+    },
+    {
+      "start": 1686.64,
+      "duration": 6.36,
+      "text": "awesome um Nia do you have any questions"
+    },
+    {
+      "start": 1690.4,
+      "duration": 4.04,
+      "text": "I no no I do because we've been building"
+    },
+    {
+      "start": 1693.0,
+      "duration": 3.04,
+      "text": "rack systems and I think when we go out"
+    },
+    {
+      "start": 1694.44,
+      "duration": 3.96,
+      "text": "in the community we usually get two"
+    },
+    {
+      "start": 1696.04,
+      "duration": 4.52,
+      "text": "questions one is uh related to"
+    },
+    {
+      "start": 1698.4,
+      "duration": 3.48,
+      "text": "evaluations like so for example you you"
+    },
+    {
+      "start": 1700.56,
+      "duration": 3.08,
+      "text": "kind of mentioned it like you have"
+    },
+    {
+      "start": 1701.88,
+      "duration": 4.16,
+      "text": "tracing support and you can kind of look"
+    },
+    {
+      "start": 1703.64,
+      "duration": 5.04,
+      "text": "at so but are there best practices for"
+    },
+    {
+      "start": 1706.04,
+      "duration": 5.44,
+      "text": "evaluating responses and the second one"
+    },
+    {
+      "start": 1708.68,
+      "duration": 5.0,
+      "text": "inevitably is cost like how do we make"
+    },
+    {
+      "start": 1711.48,
+      "duration": 3.6,
+      "text": "these systems more efficient and I know"
+    },
+    {
+      "start": 1713.68,
+      "duration": 3.32,
+      "text": "people are looking at various techniques"
+    },
+    {
+      "start": 1715.08,
+      "duration": 5.64,
+      "text": "so best practices for those so cost"
+    },
+    {
+      "start": 1717.0,
+      "duration": 5.68,
+      "text": "optim optimization and uh evaluation"
+    },
+    {
+      "start": 1720.72,
+      "duration": 4.84,
+      "text": "awesome I'll answer them in order so in"
+    },
+    {
+      "start": 1722.68,
+      "duration": 5.32,
+      "text": "terms of eval um what we internally"
+    },
+    {
+      "start": 1725.56,
+      "duration": 3.92,
+      "text": "evaluate rerank on is is is something"
+    },
+    {
+      "start": 1728.0,
+      "duration": 2.6,
+      "text": "that is is a pretty common kind of"
+    },
+    {
+      "start": 1729.48,
+      "duration": 4.48,
+      "text": "metric in the industry for surge"
+    },
+    {
+      "start": 1730.6,
+      "duration": 6.08,
+      "text": "retrieval uh it's called ndcg um it just"
+    },
+    {
+      "start": 1733.96,
+      "duration": 5.12,
+      "text": "means ensure that the right document in"
+    },
+    {
+      "start": 1736.68,
+      "duration": 4.24,
+      "text": "my search stack is surface properly and"
+    },
+    {
+      "start": 1739.08,
+      "duration": 4.08,
+      "text": "then also because rerank I mean it's in"
+    },
+    {
+      "start": 1740.92,
+      "duration": 4.44,
+      "text": "the name it cares about ranking you also"
+    },
+    {
+      "start": 1743.16,
+      "duration": 4.72,
+      "text": "the order matters of these documents so"
+    },
+    {
+      "start": 1745.36,
+      "duration": 4.6,
+      "text": "if you have a way to evaluate that um it"
+    },
+    {
+      "start": 1747.88,
+      "duration": 3.84,
+      "text": "should be a very easy kind of solution"
+    },
+    {
+      "start": 1749.96,
+      "duration": 3.76,
+      "text": "to figure out you know if it's effective"
+    },
+    {
+      "start": 1751.72,
+      "duration": 4.24,
+      "text": "um for your search pipeline when it"
+    },
+    {
+      "start": 1753.72,
+      "duration": 4.24,
+      "text": "comes to cost efficiency I think rank"
+    },
+    {
+      "start": 1755.96,
+      "duration": 3.4,
+      "text": "tries to directly address that so in a"
+    },
+    {
+      "start": 1757.96,
+      "duration": 3.72,
+      "text": "typical rack pipeline if you don't use"
+    },
+    {
+      "start": 1759.36,
+      "duration": 3.84,
+      "text": "rank to get the same sort of quality you"
+    },
+    {
+      "start": 1761.68,
+      "duration": 3.4,
+      "text": "might have to throw in maybe a 100"
+    },
+    {
+      "start": 1763.2,
+      "duration": 3.64,
+      "text": "documents that you've embedded so what"
+    },
+    {
+      "start": 1765.08,
+      "duration": 3.8,
+      "text": "inevitably happens is that the language"
+    },
+    {
+      "start": 1766.84,
+      "duration": 4.0,
+      "text": "model that you're using um gets those"
+    },
+    {
+      "start": 1768.88,
+      "duration": 4.28,
+      "text": "100 documents fed into its context and"
+    },
+    {
+      "start": 1770.84,
+      "duration": 4.92,
+      "text": "it has to process all those tokens to"
+    },
+    {
+      "start": 1773.16,
+      "duration": 4.2,
+      "text": "get a solid answer out so by including"
+    },
+    {
+      "start": 1775.76,
+      "duration": 4.32,
+      "text": "rerank you can actually scope that down"
+    },
+    {
+      "start": 1777.36,
+      "duration": 3.92,
+      "text": "to maybe 50 or even 10 documents because"
+    },
+    {
+      "start": 1780.08,
+      "duration": 3.16,
+      "text": "you know those documents are going to be"
+    },
+    {
+      "start": 1781.28,
+      "duration": 3.48,
+      "text": "super relevant that means there's less"
+    },
+    {
+      "start": 1783.24,
+      "duration": 4.04,
+      "text": "tokens that the language model has to"
+    },
+    {
+      "start": 1784.76,
+      "duration": 4.0,
+      "text": "consume thereby imparting a level of I"
+    },
+    {
+      "start": 1787.28,
+      "duration": 4.0,
+      "text": "guess you know effici efficiency in"
+    },
+    {
+      "start": 1788.76,
+      "duration": 3.96,
+      "text": "terms of latency um as well as cost"
+    },
+    {
+      "start": 1791.28,
+      "duration": 3.64,
+      "text": "right so you're trying to impact both"
+    },
+    {
+      "start": 1792.72,
+      "duration": 4.84,
+      "text": "vectors um to get better"
+    },
+    {
+      "start": 1794.92,
+      "duration": 4.68,
+      "text": "performance so I can't believe that the"
+    },
+    {
+      "start": 1797.56,
+      "duration": 3.92,
+      "text": "times already gone by so fast so we have"
+    },
+    {
+      "start": 1799.6,
+      "duration": 4.48,
+      "text": "to wrap and I want to just let folks"
+    },
+    {
+      "start": 1801.48,
+      "duration": 5.0,
+      "text": "know that we do have uh visual"
+    },
+    {
+      "start": 1804.08,
+      "duration": 4.76,
+      "text": "generative models with the stability AI"
+    },
+    {
+      "start": 1806.48,
+      "duration": 4.12,
+      "text": "team next week so don't forget to sign"
+    },
+    {
+      "start": 1808.84,
+      "duration": 3.84,
+      "text": "up for that but I have to leave by"
+    },
+    {
+      "start": 1810.6,
+      "duration": 4.24,
+      "text": "saying there's been so many questions we"
+    },
+    {
+      "start": 1812.68,
+      "duration": 4.88,
+      "text": "will have an AMA on our Discord on"
+    },
+    {
+      "start": 1814.84,
+      "duration": 4.68,
+      "text": "Friday at 1:30 PM hopefully we can"
+    },
+    {
+      "start": 1817.56,
+      "duration": 3.8,
+      "text": "convince Neil that he needs to come back"
+    },
+    {
+      "start": 1819.52,
+      "duration": 3.88,
+      "text": "and we will also have picked up a whole"
+    },
+    {
+      "start": 1821.36,
+      "duration": 4.6,
+      "text": "bunch of these questions to answer there"
+    },
+    {
+      "start": 1823.4,
+      "duration": 4.84,
+      "text": "so please do come uh meet us over there"
+    },
+    {
+      "start": 1825.96,
+      "duration": 4.0,
+      "text": "and thank you all so very much Sharm"
+    },
+    {
+      "start": 1828.24,
+      "duration": 4.08,
+      "text": "Neil final thoughts as we"
+    },
+    {
+      "start": 1829.96,
+      "duration": 4.44,
+      "text": "wrap no I I think this was a great"
+    },
+    {
+      "start": 1832.32,
+      "duration": 4.12,
+      "text": "episode I did have a few questions maybe"
+    },
+    {
+      "start": 1834.4,
+      "duration": 4.24,
+      "text": "I'll use it for the Discord uh we'll"
+    },
+    {
+      "start": 1836.44,
+      "duration": 4.56,
+      "text": "talk about it more I generally it was"
+    },
+    {
+      "start": 1838.64,
+      "duration": 4.0,
+      "text": "questions around the future direction of"
+    },
+    {
+      "start": 1841.0,
+      "duration": 3.04,
+      "text": "these of coh here as well as search"
+    },
+    {
+      "start": 1842.64,
+      "duration": 4.0,
+      "text": "model so I wanted to hear your thoughts"
+    },
+    {
+      "start": 1844.04,
+      "duration": 5.44,
+      "text": "on it uh but this has been great oh we"
+    },
+    {
+      "start": 1846.64,
+      "duration": 6.76,
+      "text": "have one final question coming in uh do"
+    },
+    {
+      "start": 1849.48,
+      "duration": 5.44,
+      "text": "we take it Nya or I think uh Danny I"
+    },
+    {
+      "start": 1853.4,
+      "duration": 2.76,
+      "text": "think we should be able to take one but"
+    },
+    {
+      "start": 1854.92,
+      "duration": 3.96,
+      "text": "we should wrap right after they might"
+    },
+    {
+      "start": 1856.16,
+      "duration": 4.48,
+      "text": "drop us off the channel yeah uh so the"
+    },
+    {
+      "start": 1858.88,
+      "duration": 4.76,
+      "text": "question is does the complex query"
+    },
+    {
+      "start": 1860.64,
+      "duration": 5.44,
+      "text": "capacity of the ranker work by default"
+    },
+    {
+      "start": 1863.64,
+      "duration": 4.28,
+      "text": "and is the model fine-tuned to recognize"
+    },
+    {
+      "start": 1866.08,
+      "duration": 5.8,
+      "text": "documents that could potentially help to"
+    },
+    {
+      "start": 1867.92,
+      "duration": 7.52,
+      "text": "answer a query uh yes and yes I'll be"
+    },
+    {
+      "start": 1871.88,
+      "duration": 5.64,
+      "text": "very quick okay awesome uh yeah uh"
+    },
+    {
+      "start": 1875.44,
+      "duration": 3.68,
+      "text": "please if you have more details if you"
+    },
+    {
+      "start": 1877.52,
+      "duration": 4.32,
+      "text": "want more details on those questions"
+    },
+    {
+      "start": 1879.12,
+      "duration": 4.96,
+      "text": "stop by on our for the AMA or on our"
+    },
+    {
+      "start": 1881.84,
+      "duration": 4.04,
+      "text": "Discord channel on Friday yeah and I"
+    },
+    {
+      "start": 1884.08,
+      "duration": 4.32,
+      "text": "also just for the folks who asked we"
+    },
+    {
+      "start": 1885.88,
+      "duration": 5.04,
+      "text": "have these three resources so uh we'll"
+    },
+    {
+      "start": 1888.4,
+      "duration": 4.32,
+      "text": "make sure that we post the links in our"
+    },
+    {
+      "start": 1890.92,
+      "duration": 3.48,
+      "text": "model Monday's repo with all the"
+    },
+    {
+      "start": 1892.72,
+      "duration": 4.84,
+      "text": "information you got today as well thank"
+    },
+    {
+      "start": 1894.4,
+      "duration": 6.28,
+      "text": "you all very much um n I'm not seeing"
+    },
+    {
+      "start": 1897.56,
+      "duration": 6.52,
+      "text": "the three um resources I don't know yeah"
+    },
+    {
+      "start": 1900.68,
+      "duration": 5.76,
+      "text": "great yeah there it is yep thank you"
+    },
+    {
+      "start": 1904.08,
+      "duration": 3.96,
+      "text": "thank you so much for stopping by and"
+    },
+    {
+      "start": 1906.44,
+      "duration": 3.28,
+      "text": "spending some time with us this was"
+    },
+    {
+      "start": 1908.04,
+      "duration": 4.36,
+      "text": "great having you here and looks like the"
+    },
+    {
+      "start": 1909.72,
+      "duration": 5.2,
+      "text": "community also enjoyed uh your talk and"
+    },
+    {
+      "start": 1912.4,
+      "duration": 5.48,
+      "text": "have a lot of questions for you awesome"
+    },
+    {
+      "start": 1914.92,
+      "duration": 6.2,
+      "text": "bring them on yeah thanks everyone and"
+    },
+    {
+      "start": 1917.88,
+      "duration": 3.24,
+      "text": "see you next Monday"
+    },
+    {
+      "start": 1946.84,
+      "duration": 3.0,
+      "text": "yep"
+    },
+    {
+      "start": 1976.84,
+      "duration": 4.0,
+      "text": "e e"
+    }
+  ]
+}

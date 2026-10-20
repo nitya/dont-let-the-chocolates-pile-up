@@ -1,0 +1,4198 @@
+{
+  "videoId": "ffxUEenM4B8",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:10+00:00",
+  "segments": [
+    {
+      "start": 1.68,
+      "duration": 4.08,
+      "text": "Hello everyone and thank you for joining"
+    },
+    {
+      "start": 3.36,
+      "duration": 3.68,
+      "text": "us for today's session. My name is Danny"
+    },
+    {
+      "start": 5.76,
+      "duration": 3.76,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 7.04,
+      "duration": 4.48,
+      "text": "York Reactor Space. Before we start, I"
+    },
+    {
+      "start": 9.52,
+      "duration": 3.52,
+      "text": "have a few things to go over. Please"
+    },
+    {
+      "start": 11.52,
+      "duration": 3.68,
+      "text": "take a moment to review our code of"
+    },
+    {
+      "start": 13.04,
+      "duration": 3.92,
+      "text": "conduct. We seek to provide a respectful"
+    },
+    {
+      "start": 15.2,
+      "duration": 4.16,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 16.96,
+      "duration": 4.08,
+      "text": "presenters. We encourage engagement in"
+    },
+    {
+      "start": 19.36,
+      "duration": 4.24,
+      "text": "the chat, but please be mindful of your"
+    },
+    {
+      "start": 21.04,
+      "duration": 4.96,
+      "text": "commentary, remain professional, and on"
+    },
+    {
+      "start": 23.6,
+      "duration": 4.0,
+      "text": "topic. Useful links will be shared in"
+    },
+    {
+      "start": 26.0,
+      "duration": 3.36,
+      "text": "the chat."
+    },
+    {
+      "start": 27.6,
+      "duration": 4.88,
+      "text": "The session is recorded and will be"
+    },
+    {
+      "start": 29.36,
+      "duration": 6.24,
+      "text": "available on demand in 24 to 48 hours on"
+    },
+    {
+      "start": 32.48,
+      "duration": 5.28,
+      "text": "the Microsoft Reactor YouTube channel."
+    },
+    {
+      "start": 35.6,
+      "duration": 4.48,
+      "text": "Which brings us to today's session. It"
+    },
+    {
+      "start": 37.76,
+      "duration": 4.56,
+      "text": "will run for approximately 30 minutes"
+    },
+    {
+      "start": 40.08,
+      "duration": 4.16,
+      "text": "with time for questions throughout. I"
+    },
+    {
+      "start": 42.32,
+      "duration": 4.92,
+      "text": "will now turn it over to our speaker for"
+    },
+    {
+      "start": 44.24,
+      "duration": 3.0,
+      "text": "introductions."
+    },
+    {
+      "start": 49.04,
+      "duration": 4.8,
+      "text": "Hello. Hello. Hello everyone and welcome"
+    },
+    {
+      "start": 51.2,
+      "duration": 4.96,
+      "text": "to season two of Model Mondays. I can't"
+    },
+    {
+      "start": 53.84,
+      "duration": 4.32,
+      "text": "believe we're already in season two. Uh"
+    },
+    {
+      "start": 56.16,
+      "duration": 3.44,
+      "text": "we're so excited to have you here. I"
+    },
+    {
+      "start": 58.16,
+      "duration": 3.12,
+      "text": "just want to set the stage for how Model"
+    },
+    {
+      "start": 59.6,
+      "duration": 4.0,
+      "text": "Mondays will go today. Our topic is"
+    },
+    {
+      "start": 61.28,
+      "duration": 3.92,
+      "text": "advanced reasoning. Before we get into"
+    },
+    {
+      "start": 63.6,
+      "duration": 3.36,
+      "text": "this, which is the spotlight segment,"
+    },
+    {
+      "start": 65.2,
+      "duration": 4.08,
+      "text": "we're going to take five minutes to give"
+    },
+    {
+      "start": 66.96,
+      "duration": 5.28,
+      "text": "you a recap of the top news items in the"
+    },
+    {
+      "start": 69.28,
+      "duration": 4.96,
+      "text": "model world from uh Azure AI Foundry."
+    },
+    {
+      "start": 72.24,
+      "duration": 4.0,
+      "text": "And for that, I have Charmela joining"
+    },
+    {
+      "start": 74.24,
+      "duration": 4.08,
+      "text": "us. And once we're done with that, we'll"
+    },
+    {
+      "start": 76.24,
+      "duration": 4.48,
+      "text": "transition over and we'll invite Marlene"
+    },
+    {
+      "start": 78.32,
+      "duration": 4.0,
+      "text": "on board. So uh before I get started,"
+    },
+    {
+      "start": 80.72,
+      "duration": 3.84,
+      "text": "let me just introduce you really quickly"
+    },
+    {
+      "start": 82.32,
+      "duration": 3.68,
+      "text": "to two links you need to know. So, Model"
+    },
+    {
+      "start": 84.56,
+      "duration": 3.76,
+      "text": "Mondays is a series that will happen"
+    },
+    {
+      "start": 86.0,
+      "duration": 4.16,
+      "text": "weekly. So, go ahead and look at those"
+    },
+    {
+      "start": 88.32,
+      "duration": 3.28,
+      "text": "two links. The second one is a forum"
+    },
+    {
+      "start": 90.16,
+      "duration": 3.44,
+      "text": "link where you can post your questions"
+    },
+    {
+      "start": 91.6,
+      "duration": 3.76,
+      "text": "throughout and the first is a discord"
+    },
+    {
+      "start": 93.6,
+      "duration": 3.92,
+      "text": "where you can join us for an AMA on"
+    },
+    {
+      "start": 95.36,
+      "duration": 4.56,
+      "text": "Friday. But without further ado, I want"
+    },
+    {
+      "start": 97.52,
+      "duration": 6.0,
+      "text": "to actually introduce my G my co-host"
+    },
+    {
+      "start": 99.92,
+      "duration": 6.0,
+      "text": "here Charma. Hi, how are you? Hi, Nita."
+    },
+    {
+      "start": 103.52,
+      "duration": 4.64,
+      "text": "It seems like a minute since we last"
+    },
+    {
+      "start": 105.92,
+      "duration": 4.96,
+      "text": "time since we completed with season 1,"
+    },
+    {
+      "start": 108.16,
+      "duration": 5.36,
+      "text": "but um it's exciting to see that people"
+    },
+    {
+      "start": 110.88,
+      "duration": 4.32,
+      "text": "are interested in um model Mondays and"
+    },
+    {
+      "start": 113.52,
+      "duration": 4.8,
+      "text": "they want to see season 2. So I'm"
+    },
+    {
+      "start": 115.2,
+      "duration": 5.68,
+      "text": "looking forward to season 2 and to share"
+    },
+    {
+      "start": 118.32,
+      "duration": 6.08,
+      "text": "more model news uh share more learnings"
+    },
+    {
+      "start": 120.88,
+      "duration": 6.88,
+      "text": "that we got and also um we've done a ton"
+    },
+    {
+      "start": 124.4,
+      "duration": 6.64,
+      "text": "of model drops at build and like news at"
+    },
+    {
+      "start": 127.76,
+      "duration": 5.2,
+      "text": "build um so we won't be able to cover"
+    },
+    {
+      "start": 131.04,
+      "duration": 3.68,
+      "text": "everything today so I've added a few"
+    },
+    {
+      "start": 132.96,
+      "duration": 3.92,
+      "text": "today and we will be covering some of"
+    },
+    {
+      "start": 134.72,
+      "duration": 4.48,
+      "text": "the build news in the next few weeks as"
+    },
+    {
+      "start": 136.88,
+      "duration": 5.76,
+      "text": "well. Um so let's get started with the"
+    },
+    {
+      "start": 139.2,
+      "duration": 6.16,
+      "text": "highlights. Let's go in."
+    },
+    {
+      "start": 142.64,
+      "duration": 6.64,
+      "text": "Hello everyone. Welcome back to Model"
+    },
+    {
+      "start": 145.36,
+      "duration": 6.16,
+      "text": "Monday's season 2 weekly highlights. And"
+    },
+    {
+      "start": 149.28,
+      "duration": 4.4,
+      "text": "um you know, we've been out for a while"
+    },
+    {
+      "start": 151.52,
+      "duration": 5.04,
+      "text": "and there have been a bunch of news that"
+    },
+    {
+      "start": 153.68,
+      "duration": 5.84,
+      "text": "landed both at Build and afterwards. So"
+    },
+    {
+      "start": 156.56,
+      "duration": 5.92,
+      "text": "I'm going to cover the top highlights"
+    },
+    {
+      "start": 159.52,
+      "duration": 4.64,
+      "text": "today and we will be doing more of these"
+    },
+    {
+      "start": 162.48,
+      "duration": 4.96,
+      "text": "like what happened at build in the next"
+    },
+    {
+      "start": 164.16,
+      "duration": 6.16,
+      "text": "upcoming weeks. So let's dive in. First"
+    },
+    {
+      "start": 167.44,
+      "duration": 5.44,
+      "text": "we have the Azure AI foundry models. uh"
+    },
+    {
+      "start": 170.32,
+      "duration": 4.88,
+      "text": "there was some update on that front"
+    },
+    {
+      "start": 172.88,
+      "duration": 4.4,
+      "text": "where we introduced what we call the"
+    },
+    {
+      "start": 175.2,
+      "duration": 4.56,
+      "text": "direct from Azure models. So these are"
+    },
+    {
+      "start": 177.28,
+      "duration": 4.48,
+      "text": "models that are hosted and sold by"
+    },
+    {
+      "start": 179.76,
+      "duration": 4.48,
+      "text": "Microsoft. So in the past we had only"
+    },
+    {
+      "start": 181.76,
+      "duration": 4.08,
+      "text": "open AAI models in this category. You're"
+    },
+    {
+      "start": 184.24,
+      "duration": 3.92,
+      "text": "all familiar with the Azure OpenAI"
+    },
+    {
+      "start": 185.84,
+      "duration": 5.52,
+      "text": "service. So now we are bringing more"
+    },
+    {
+      "start": 188.16,
+      "duration": 7.92,
+      "text": "models along the same business model"
+    },
+    {
+      "start": 191.36,
+      "duration": 7.04,
+      "text": "which is models from Deepseek um XAI,"
+    },
+    {
+      "start": 196.08,
+      "duration": 4.08,
+      "text": "Meta, Mistral. So what is going to"
+    },
+    {
+      "start": 198.4,
+      "duration": 5.04,
+      "text": "happen is these are going to be hosted"
+    },
+    {
+      "start": 200.16,
+      "duration": 5.44,
+      "text": "by Microsoft and as a result it'll be"
+    },
+    {
+      "start": 203.44,
+      "duration": 4.72,
+      "text": "under Microsoft service terms and all"
+    },
+    {
+      "start": 205.6,
+      "duration": 4.8,
+      "text": "that and also we are going to make some"
+    },
+    {
+      "start": 208.16,
+      "duration": 5.44,
+      "text": "of these direct from Azure models"
+    },
+    {
+      "start": 210.4,
+      "duration": 5.2,
+      "text": "available in provisioned offering and"
+    },
+    {
+      "start": 213.6,
+      "duration": 3.84,
+      "text": "it's going to be kind of flexible"
+    },
+    {
+      "start": 215.6,
+      "duration": 5.36,
+      "text": "provisioned offering. So which means you"
+    },
+    {
+      "start": 217.44,
+      "duration": 6.72,
+      "text": "can um if you have open AAI reservations"
+    },
+    {
+      "start": 220.96,
+      "duration": 6.16,
+      "text": "today you can use it across not just"
+    },
+    {
+      "start": 224.16,
+      "duration": 6.32,
+      "text": "open AI models but also like deepsek"
+    },
+    {
+      "start": 227.12,
+      "duration": 6.48,
+      "text": "models for today and more in the future."
+    },
+    {
+      "start": 230.48,
+      "duration": 5.6,
+      "text": "So this is now Azure AI foundry is now"
+    },
+    {
+      "start": 233.6,
+      "duration": 4.8,
+      "text": "the ultimate model playground from model"
+    },
+    {
+      "start": 236.08,
+      "duration": 6.24,
+      "text": "matchmaking to deployment drama like"
+    },
+    {
+      "start": 238.4,
+      "duration": 6.48,
+      "text": "serverless um reserved or managed. You"
+    },
+    {
+      "start": 242.32,
+      "duration": 4.64,
+      "text": "can pick your choice and you know you"
+    },
+    {
+      "start": 244.88,
+      "duration": 4.4,
+      "text": "can make your applications way more"
+    },
+    {
+      "start": 246.96,
+      "duration": 4.96,
+      "text": "productive and scalable."
+    },
+    {
+      "start": 249.28,
+      "duration": 5.44,
+      "text": "Moving on, uh let's say hello to Sora,"
+    },
+    {
+      "start": 251.92,
+      "duration": 5.92,
+      "text": "OpenAI's video gen wizard which is now"
+    },
+    {
+      "start": 254.72,
+      "duration": 5.6,
+      "text": "in the Foundry video playground. So in"
+    },
+    {
+      "start": 257.84,
+      "duration": 4.48,
+      "text": "again video playground is a new feature"
+    },
+    {
+      "start": 260.32,
+      "duration": 4.56,
+      "text": "in Foundry. You should all check it out."
+    },
+    {
+      "start": 262.32,
+      "duration": 5.44,
+      "text": "It's amazing. So if you want to go from"
+    },
+    {
+      "start": 264.88,
+      "duration": 5.6,
+      "text": "prompt to popcorn worthy playback then"
+    },
+    {
+      "start": 267.76,
+      "duration": 4.56,
+      "text": "this is one of the models you should be"
+    },
+    {
+      "start": 270.48,
+      "duration": 4.48,
+      "text": "exploring in our on our video playground"
+    },
+    {
+      "start": 272.32,
+      "duration": 5.44,
+      "text": "and our video playground interface has"
+    },
+    {
+      "start": 274.96,
+      "duration": 4.88,
+      "text": "has amazing where you can click on"
+    },
+    {
+      "start": 277.76,
+      "duration": 4.32,
+      "text": "videos that are already pre-generated"
+    },
+    {
+      "start": 279.84,
+      "duration": 5.12,
+      "text": "and you can create your own videos um"
+    },
+    {
+      "start": 282.08,
+      "duration": 6.08,
+      "text": "you can uh with exportable code VS code"
+    },
+    {
+      "start": 284.96,
+      "duration": 6.56,
+      "text": "plugins and enterprise ready pipelines"
+    },
+    {
+      "start": 288.16,
+      "duration": 5.6,
+      "text": "so it's not just a demo it's your AI"
+    },
+    {
+      "start": 291.52,
+      "duration": 6.4,
+      "text": "video production studio with"
+    },
+    {
+      "start": 293.76,
+      "duration": 7.04,
+      "text": "professional wides. Moving on,"
+    },
+    {
+      "start": 297.92,
+      "duration": 4.96,
+      "text": "the next is model router. Again, you"
+    },
+    {
+      "start": 300.8,
+      "duration": 5.6,
+      "text": "might might have seen some mentions of"
+    },
+    {
+      "start": 302.88,
+      "duration": 5.44,
+      "text": "this in at build. So, it's like um you"
+    },
+    {
+      "start": 306.4,
+      "duration": 4.64,
+      "text": "know, if you're tired of picking what"
+    },
+    {
+      "start": 308.32,
+      "duration": 4.72,
+      "text": "model you want to use in your use case,"
+    },
+    {
+      "start": 311.04,
+      "duration": 4.24,
+      "text": "um the model you should let the model"
+    },
+    {
+      "start": 313.04,
+      "duration": 5.6,
+      "text": "router do the work. It is available as"
+    },
+    {
+      "start": 315.28,
+      "duration": 6.16,
+      "text": "another model in the model catalog. And"
+    },
+    {
+      "start": 318.64,
+      "duration": 5.36,
+      "text": "um it today um um we can you can pick"
+    },
+    {
+      "start": 321.44,
+      "duration": 4.56,
+      "text": "between a few open AAI models or the"
+    },
+    {
+      "start": 324.0,
+      "duration": 4.48,
+      "text": "model router picks between few open AAI"
+    },
+    {
+      "start": 326.0,
+      "duration": 4.56,
+      "text": "models but the plan for the team uh the"
+    },
+    {
+      "start": 328.48,
+      "duration": 3.92,
+      "text": "team has been planning to extend it to"
+    },
+    {
+      "start": 330.56,
+      "duration": 5.04,
+      "text": "other models as well. So it's in the"
+    },
+    {
+      "start": 332.4,
+      "duration": 6.56,
+      "text": "road map. So first try it out today um"
+    },
+    {
+      "start": 335.6,
+      "duration": 5.92,
+      "text": "with openAI models and then it you can"
+    },
+    {
+      "start": 338.96,
+      "duration": 4.48,
+      "text": "soon you will be able to uh your use"
+    },
+    {
+      "start": 341.52,
+      "duration": 4.48,
+      "text": "case or application will be able to pick"
+    },
+    {
+      "start": 343.44,
+      "duration": 4.88,
+      "text": "between any other models as well. So"
+    },
+    {
+      "start": 346.0,
+      "duration": 5.28,
+      "text": "think of model router as the ways for"
+    },
+    {
+      "start": 348.32,
+      "duration": 5.28,
+      "text": "genai. It reads your prompt and sends it"
+    },
+    {
+      "start": 351.28,
+      "duration": 5.76,
+      "text": "down the smartest, cheapest and fastest"
+    },
+    {
+      "start": 353.6,
+      "duration": 5.52,
+      "text": "route and it is awesome. Um again this"
+    },
+    {
+      "start": 357.04,
+      "duration": 3.84,
+      "text": "is one of the most um uh interesting"
+    },
+    {
+      "start": 359.12,
+      "duration": 3.84,
+      "text": "ways where you can think about cost"
+    },
+    {
+      "start": 360.88,
+      "duration": 4.48,
+      "text": "efficiency and if you're worried about"
+    },
+    {
+      "start": 362.96,
+      "duration": 5.84,
+      "text": "cost efficiency then this is one of the"
+    },
+    {
+      "start": 365.36,
+      "duration": 6.56,
+      "text": "um options you should try out."
+    },
+    {
+      "start": 368.8,
+      "duration": 6.0,
+      "text": "Moving on, Grock. Um you would have seen"
+    },
+    {
+      "start": 371.92,
+      "duration": 5.52,
+      "text": "that we've announced that we landed Gro"
+    },
+    {
+      "start": 374.8,
+      "duration": 5.6,
+      "text": "3 and Gro 3 Mini in Azure AI foundry"
+    },
+    {
+      "start": 377.44,
+      "duration": 7.2,
+      "text": "models. So they're bringing long context"
+    },
+    {
+      "start": 380.4,
+      "duration": 6.72,
+      "text": "cosmic humor and um you know with Azure"
+    },
+    {
+      "start": 384.64,
+      "duration": 5.36,
+      "text": "grade reliability and enterprise"
+    },
+    {
+      "start": 387.12,
+      "duration": 5.44,
+      "text": "governance and up to 131,000 tokens of"
+    },
+    {
+      "start": 390.0,
+      "duration": 5.6,
+      "text": "memory and these models are basically"
+    },
+    {
+      "start": 392.56,
+      "duration": 5.84,
+      "text": "the elephant of the model LLM zoo and"
+    },
+    {
+      "start": 395.6,
+      "duration": 4.4,
+      "text": "there are you know advanced capabilities"
+    },
+    {
+      "start": 398.4,
+      "duration": 3.76,
+      "text": "like reasoning capabilities also"
+    },
+    {
+      "start": 400.0,
+      "duration": 3.6,
+      "text": "associated with these models. So if"
+    },
+    {
+      "start": 402.16,
+      "duration": 4.4,
+      "text": "you're interested in trying out the"
+    },
+    {
+      "start": 403.6,
+      "duration": 5.28,
+      "text": "groth models again azure air foundry"
+    },
+    {
+      "start": 406.56,
+      "duration": 5.6,
+      "text": "backed with our enterprise reliability"
+    },
+    {
+      "start": 408.88,
+      "duration": 7.28,
+      "text": "is the right place to check it out."
+    },
+    {
+      "start": 412.16,
+      "duration": 6.0,
+      "text": "And now finally um we another model"
+    },
+    {
+      "start": 416.16,
+      "duration": 5.28,
+      "text": "again this is not a brand new model in"
+    },
+    {
+      "start": 418.16,
+      "duration": 5.36,
+      "text": "the catalog we've had Deepseek R1 now we"
+    },
+    {
+      "start": 421.44,
+      "duration": 4.56,
+      "text": "did bring the new Deepseek hotness which"
+    },
+    {
+      "start": 423.52,
+      "duration": 5.52,
+      "text": "is the Deepseek R110528"
+    },
+    {
+      "start": 426.0,
+      "duration": 5.68,
+      "text": "this model is smarter faster and more"
+    },
+    {
+      "start": 429.04,
+      "duration": 6.32,
+      "text": "grounded than ever and better reasoning"
+    },
+    {
+      "start": 431.68,
+      "duration": 6.88,
+      "text": "like check chain of thought magic and"
+    },
+    {
+      "start": 435.36,
+      "duration": 6.56,
+      "text": "hallucination blocker and you know"
+    },
+    {
+      "start": 438.56,
+      "duration": 5.68,
+      "text": "perfect for agents co-pilots and anyone"
+    },
+    {
+      "start": 441.92,
+      "duration": 4.88,
+      "text": "one who's trying to keep your"
+    },
+    {
+      "start": 444.24,
+      "duration": 5.44,
+      "text": "applications real in the sense it's not"
+    },
+    {
+      "start": 446.8,
+      "duration": 4.88,
+      "text": "it's production worthy. Um so definitely"
+    },
+    {
+      "start": 449.68,
+      "duration": 3.84,
+      "text": "check this out. Again this is a open"
+    },
+    {
+      "start": 451.68,
+      "duration": 4.56,
+      "text": "open source model that is available out"
+    },
+    {
+      "start": 453.52,
+      "duration": 5.68,
+      "text": "there. But then if you want to get the"
+    },
+    {
+      "start": 456.24,
+      "duration": 6.0,
+      "text": "enterprisegrade security and reliability"
+    },
+    {
+      "start": 459.2,
+      "duration": 6.48,
+      "text": "then you should definitely try a deep"
+    },
+    {
+      "start": 462.24,
+      "duration": 5.44,
+      "text": "car 0528 on foundry. So that's it. Um"
+    },
+    {
+      "start": 465.68,
+      "duration": 5.52,
+      "text": "that's a wrap for all model Monday's"
+    },
+    {
+      "start": 467.68,
+      "duration": 7.0,
+      "text": "news. Um, thank you Nita and I'll h hand"
+    },
+    {
+      "start": 471.2,
+      "duration": 3.48,
+      "text": "it back to you."
+    },
+    {
+      "start": 475.68,
+      "duration": 4.0,
+      "text": "Hey, thanks Charla. You know, you"
+    },
+    {
+      "start": 477.68,
+      "duration": 4.16,
+      "text": "actually set us up very well by putting"
+    },
+    {
+      "start": 479.68,
+      "duration": 4.08,
+      "text": "Deepseek as the last thing because, you"
+    },
+    {
+      "start": 481.84,
+      "duration": 4.16,
+      "text": "know, this is a perfect segue for us to"
+    },
+    {
+      "start": 483.76,
+      "duration": 4.56,
+      "text": "bring our next presenter on. And so"
+    },
+    {
+      "start": 486.0,
+      "duration": 5.52,
+      "text": "today our spotlight is, as we mentioned,"
+    },
+    {
+      "start": 488.32,
+      "duration": 5.2,
+      "text": "on reasoning models and we have with us"
+    },
+    {
+      "start": 491.52,
+      "duration": 4.32,
+      "text": "Marlene Mahungami. I hope I'm saying"
+    },
+    {
+      "start": 493.52,
+      "duration": 4.72,
+      "text": "your name right, Marlene. Yes. And uh"
+    },
+    {
+      "start": 495.84,
+      "duration": 5.28,
+      "text": "Marlene is actually a developer advocate"
+    },
+    {
+      "start": 498.24,
+      "duration": 4.32,
+      "text": "in the Python team, but she brings three"
+    },
+    {
+      "start": 501.12,
+      "duration": 3.76,
+      "text": "levels of expertise that I'm going to"
+    },
+    {
+      "start": 502.56,
+      "duration": 4.0,
+      "text": "like shout out to her now. First, she's"
+    },
+    {
+      "start": 504.88,
+      "duration": 3.6,
+      "text": "been working with Azure and Langchain"
+    },
+    {
+      "start": 506.56,
+      "duration": 4.08,
+      "text": "for a while. So, she has some really"
+    },
+    {
+      "start": 508.48,
+      "duration": 4.56,
+      "text": "interesting news if you follow her on on"
+    },
+    {
+      "start": 510.64,
+      "duration": 4.64,
+      "text": "LinkedIn. Second, she's been working"
+    },
+    {
+      "start": 513.04,
+      "duration": 3.76,
+      "text": "with Deep Sea Car1. Uh in fact, the"
+    },
+    {
+      "start": 515.28,
+      "duration": 3.68,
+      "text": "thing that she will talk about today is"
+    },
+    {
+      "start": 516.8,
+      "duration": 4.16,
+      "text": "a lab, a 300 400 level lab that she"
+    },
+    {
+      "start": 518.96,
+      "duration": 3.28,
+      "text": "presented at Build. And last but not"
+    },
+    {
+      "start": 520.96,
+      "duration": 3.44,
+      "text": "least, I think we wanted to call it"
+    },
+    {
+      "start": 522.24,
+      "duration": 3.68,
+      "text": "advanced reasoning models because we're"
+    },
+    {
+      "start": 524.4,
+      "duration": 4.08,
+      "text": "looking at how do we actually build"
+    },
+    {
+      "start": 525.92,
+      "duration": 4.72,
+      "text": "complex applications. So Marlene, I'm"
+    },
+    {
+      "start": 528.48,
+      "duration": 3.68,
+      "text": "going to set you up by asking why should"
+    },
+    {
+      "start": 530.64,
+      "duration": 3.12,
+      "text": "we be talking about reasoning models"
+    },
+    {
+      "start": 532.16,
+      "duration": 3.52,
+      "text": "today?"
+    },
+    {
+      "start": 533.76,
+      "duration": 4.8,
+      "text": "Yeah, thank you so much Natia for having"
+    },
+    {
+      "start": 535.68,
+      "duration": 5.04,
+      "text": "me. Hi everyone. Um I think reasoning"
+    },
+    {
+      "start": 538.56,
+      "duration": 4.72,
+      "text": "models are really exciting. I think"
+    },
+    {
+      "start": 540.72,
+      "duration": 4.08,
+      "text": "those these models are the models that"
+    },
+    {
+      "start": 543.28,
+      "duration": 4.64,
+      "text": "are going to give us the highest quality"
+    },
+    {
+      "start": 544.8,
+      "duration": 4.8,
+      "text": "output at the moment. And Nitia and I"
+    },
+    {
+      "start": 547.92,
+      "duration": 4.08,
+      "text": "were talking about this. There's so much"
+    },
+    {
+      "start": 549.6,
+      "duration": 5.52,
+      "text": "news coming out about reasoning models."
+    },
+    {
+      "start": 552.0,
+      "duration": 5.6,
+      "text": "So we saw like Anthropic just published"
+    },
+    {
+      "start": 555.12,
+      "duration": 4.48,
+      "text": "an article about how they built their"
+    },
+    {
+      "start": 557.6,
+      "duration": 4.08,
+      "text": "researcher with a reasoning model and we"
+    },
+    {
+      "start": 559.6,
+      "duration": 3.76,
+      "text": "know Apple also published something"
+    },
+    {
+      "start": 561.68,
+      "duration": 3.2,
+      "text": "saying reasoning models aren't really"
+    },
+    {
+      "start": 563.36,
+      "duration": 3.6,
+      "text": "reasoning. So there's a lot of"
+    },
+    {
+      "start": 564.88,
+      "duration": 4.8,
+      "text": "controversy right now but it's a an it's"
+    },
+    {
+      "start": 566.96,
+      "duration": 4.64,
+      "text": "an exciting space which is good. Yeah."
+    },
+    {
+      "start": 569.68,
+      "duration": 3.68,
+      "text": "And I I I'm I'm actually going to shout"
+    },
+    {
+      "start": 571.6,
+      "duration": 3.44,
+      "text": "out the AMA on Friday because we"
+    },
+    {
+      "start": 573.36,
+      "duration": 3.76,
+      "text": "absolutely should read that illusion of"
+    },
+    {
+      "start": 575.04,
+      "duration": 4.08,
+      "text": "thinking paper and come ready to talk"
+    },
+    {
+      "start": 577.12,
+      "duration": 4.32,
+      "text": "about it. Um, I'll also give a shout out"
+    },
+    {
+      "start": 579.12,
+      "duration": 4.72,
+      "text": "to a third model that wasn't in the kind"
+    },
+    {
+      "start": 581.44,
+      "duration": 4.16,
+      "text": "of like news, but it's FI for reasoning."
+    },
+    {
+      "start": 583.84,
+      "duration": 3.76,
+      "text": "There's a wonderful FI for reasoning"
+    },
+    {
+      "start": 585.6,
+      "duration": 3.76,
+      "text": "tech report from Microsoft research, but"
+    },
+    {
+      "start": 587.6,
+      "duration": 4.08,
+      "text": "more importantly, keep an eye out for"
+    },
+    {
+      "start": 589.36,
+      "duration": 3.84,
+      "text": "the schedule because uh, episode three"
+    },
+    {
+      "start": 591.68,
+      "duration": 3.52,
+      "text": "is going to have someone from the FI"
+    },
+    {
+      "start": 593.2,
+      "duration": 4.56,
+      "text": "team come and talk about SLMs and"
+    },
+    {
+      "start": 595.2,
+      "duration": 4.08,
+      "text": "reasoning. So, this is great, but uh, I"
+    },
+    {
+      "start": 597.76,
+      "duration": 3.04,
+      "text": "want to save time for Marlene to take"
+    },
+    {
+      "start": 599.28,
+      "duration": 2.96,
+      "text": "questions after. So, Marlene, should we"
+    },
+    {
+      "start": 600.8,
+      "duration": 3.92,
+      "text": "go right into the demo that you're doing"
+    },
+    {
+      "start": 602.24,
+      "duration": 4.88,
+      "text": "for us today? Yes, let's go right into"
+    },
+    {
+      "start": 604.72,
+      "duration": 4.88,
+      "text": "it. I will mention that I'm specifically"
+    },
+    {
+      "start": 607.12,
+      "duration": 5.76,
+      "text": "talking about the deep seek models when"
+    },
+    {
+      "start": 609.6,
+      "duration": 4.96,
+      "text": "I'm uh going through the demo. Um but"
+    },
+    {
+      "start": 612.88,
+      "duration": 4.32,
+      "text": "you can also try it out and it'll be"
+    },
+    {
+      "start": 614.56,
+      "duration": 5.28,
+      "text": "slightly different with the O uh models"
+    },
+    {
+      "start": 617.2,
+      "duration": 4.96,
+      "text": "or the 51 but similar concepts in"
+    },
+    {
+      "start": 619.84,
+      "duration": 5.76,
+      "text": "general. So yes, let's get started."
+    },
+    {
+      "start": 622.16,
+      "duration": 6.48,
+      "text": "Let's roll. Hi everyone. So today we are"
+    },
+    {
+      "start": 625.6,
+      "duration": 7.04,
+      "text": "going to be looking at this guide in"
+    },
+    {
+      "start": 628.64,
+      "duration": 7.04,
+      "text": "front of us that um is a guide I wrote"
+    },
+    {
+      "start": 632.64,
+      "duration": 5.36,
+      "text": "for a lab I presented at build this year"
+    },
+    {
+      "start": 635.68,
+      "duration": 6.0,
+      "text": "called deeps research with deepcar1 and"
+    },
+    {
+      "start": 638.0,
+      "duration": 5.76,
+      "text": "lang chain. Um this is supposed to just"
+    },
+    {
+      "start": 641.68,
+      "duration": 4.0,
+      "text": "be walking you through how to be able to"
+    },
+    {
+      "start": 643.76,
+      "duration": 4.96,
+      "text": "build a deep researcher with a reasoning"
+    },
+    {
+      "start": 645.68,
+      "duration": 5.2,
+      "text": "model using a framework like lang chain."
+    },
+    {
+      "start": 648.72,
+      "duration": 4.8,
+      "text": "I will mention that I do think we will"
+    },
+    {
+      "start": 650.88,
+      "duration": 4.24,
+      "text": "have the link to the guide in the notes"
+    },
+    {
+      "start": 653.52,
+      "duration": 4.56,
+      "text": "somewhere. So you should be able to do"
+    },
+    {
+      "start": 655.12,
+      "duration": 4.88,
+      "text": "it on your own at your own pace. So"
+    },
+    {
+      "start": 658.08,
+      "duration": 4.4,
+      "text": "getting started, I will mention that you"
+    },
+    {
+      "start": 660.0,
+      "duration": 4.88,
+      "text": "don't have to use deep seek. There's a"
+    },
+    {
+      "start": 662.48,
+      "duration": 4.56,
+      "text": "new model version of DeepSeek that's out"
+    },
+    {
+      "start": 664.88,
+      "duration": 3.76,
+      "text": "on Foundry that I think you should"
+    },
+    {
+      "start": 667.04,
+      "duration": 3.28,
+      "text": "definitely try out, but you can use"
+    },
+    {
+      "start": 668.64,
+      "duration": 4.48,
+      "text": "whatever model you want. Some of my"
+    },
+    {
+      "start": 670.32,
+      "duration": 4.88,
+      "text": "favorites are 03 and 01 and 54"
+    },
+    {
+      "start": 673.12,
+      "duration": 4.88,
+      "text": "reasoning. So loads of models that you"
+    },
+    {
+      "start": 675.2,
+      "duration": 4.32,
+      "text": "can try out and should all work as well."
+    },
+    {
+      "start": 678.0,
+      "duration": 3.52,
+      "text": "So the first thing is that we want to"
+    },
+    {
+      "start": 679.52,
+      "duration": 3.76,
+      "text": "understand what a reasoning model is. So"
+    },
+    {
+      "start": 681.52,
+      "duration": 4.4,
+      "text": "reasoning models are LLMs that are"
+    },
+    {
+      "start": 683.28,
+      "duration": 6.4,
+      "text": "trained with reinforcement learning to"
+    },
+    {
+      "start": 685.92,
+      "duration": 5.92,
+      "text": "perform reasoning. And that look that"
+    },
+    {
+      "start": 689.68,
+      "duration": 4.48,
+      "text": "means that the output of the reasoning"
+    },
+    {
+      "start": 691.84,
+      "duration": 5.12,
+      "text": "model is going to be different from our"
+    },
+    {
+      "start": 694.16,
+      "duration": 7.52,
+      "text": "usual chat models. And to demonstrate"
+    },
+    {
+      "start": 696.96,
+      "duration": 7.92,
+      "text": "this we can look at uh lab 1A. Here we"
+    },
+    {
+      "start": 701.68,
+      "duration": 6.08,
+      "text": "are going to be using Langchain, a new"
+    },
+    {
+      "start": 704.88,
+      "duration": 5.6,
+      "text": "uh package, Python package that we have"
+    },
+    {
+      "start": 707.76,
+      "duration": 4.4,
+      "text": "in Langchain called Langchain Azure AI."
+    },
+    {
+      "start": 710.48,
+      "duration": 3.92,
+      "text": "And this just allows us to be able to"
+    },
+    {
+      "start": 712.16,
+      "duration": 5.12,
+      "text": "access all of the foundry models within"
+    },
+    {
+      "start": 714.4,
+      "duration": 5.12,
+      "text": "Langchain. To do to set it up, this is"
+    },
+    {
+      "start": 717.28,
+      "duration": 4.56,
+      "text": "pretty much all the code that we need."
+    },
+    {
+      "start": 719.52,
+      "duration": 5.2,
+      "text": "we are, you know, instantiating our"
+    },
+    {
+      "start": 721.84,
+      "duration": 6.4,
+      "text": "model and then we're just going to get a"
+    },
+    {
+      "start": 724.72,
+      "duration": 6.08,
+      "text": "research query from the user and pass"
+    },
+    {
+      "start": 728.24,
+      "duration": 4.32,
+      "text": "that research query as a message. You"
+    },
+    {
+      "start": 730.8,
+      "duration": 4.88,
+      "text": "know, LChain has this human message"
+    },
+    {
+      "start": 732.56,
+      "duration": 5.2,
+      "text": "option that you can pass uh to uh the"
+    },
+    {
+      "start": 735.68,
+      "duration": 5.36,
+      "text": "model and then it will stream the"
+    },
+    {
+      "start": 737.76,
+      "duration": 5.04,
+      "text": "response. So very little code in Python"
+    },
+    {
+      "start": 741.04,
+      "duration": 4.16,
+      "text": "that we're using. You'll note we're not"
+    },
+    {
+      "start": 742.8,
+      "duration": 4.64,
+      "text": "using a system prompt here. So let's go"
+    },
+    {
+      "start": 745.2,
+      "duration": 4.16,
+      "text": "ahead and see what this looks like when"
+    },
+    {
+      "start": 747.44,
+      "duration": 6.64,
+      "text": "we run the code. I'm actually just going"
+    },
+    {
+      "start": 749.36,
+      "duration": 6.16,
+      "text": "to copy here and paste this and it will"
+    },
+    {
+      "start": 754.08,
+      "duration": 6.48,
+      "text": "ask me for a research topic. I'm going"
+    },
+    {
+      "start": 755.52,
+      "duration": 8.88,
+      "text": "to say what let me say how do I make a"
+    },
+    {
+      "start": 760.56,
+      "duration": 6.16,
+      "text": "good cup of coffee?"
+    },
+    {
+      "start": 764.4,
+      "duration": 5.04,
+      "text": "I love coffee."
+    },
+    {
+      "start": 766.72,
+      "duration": 4.96,
+      "text": "So always up for that. So the first"
+    },
+    {
+      "start": 769.44,
+      "duration": 5.28,
+      "text": "thing that you'll notice right away is"
+    },
+    {
+      "start": 771.68,
+      "duration": 7.04,
+      "text": "that the model is starting with think"
+    },
+    {
+      "start": 774.72,
+      "duration": 7.28,
+      "text": "tags. So you'll know that if you've, you"
+    },
+    {
+      "start": 778.72,
+      "duration": 6.64,
+      "text": "know, coded with HTML and CSS, you'll"
+    },
+    {
+      "start": 782.0,
+      "duration": 6.8,
+      "text": "have seen these sort of tags and instead"
+    },
+    {
+      "start": 785.36,
+      "duration": 5.6,
+      "text": "of it being HTML or an A or something,"
+    },
+    {
+      "start": 788.8,
+      "duration": 3.84,
+      "text": "we have think in it. And this just shows"
+    },
+    {
+      "start": 790.96,
+      "duration": 4.24,
+      "text": "the start of the model's thinking"
+    },
+    {
+      "start": 792.64,
+      "duration": 5.2,
+      "text": "process. So it's streaming the process."
+    },
+    {
+      "start": 795.2,
+      "duration": 5.92,
+      "text": "And we can see the model has finished"
+    },
+    {
+      "start": 797.84,
+      "duration": 5.84,
+      "text": "reasoning when the there's going to be a"
+    },
+    {
+      "start": 801.12,
+      "duration": 4.32,
+      "text": "closing think tag. So let's wait. The"
+    },
+    {
+      "start": 803.68,
+      "duration": 2.96,
+      "text": "model is still reasoning. just read a"
+    },
+    {
+      "start": 805.44,
+      "duration": 3.92,
+      "text": "little bit of what it's saying. It's"
+    },
+    {
+      "start": 806.64,
+      "duration": 5.2,
+      "text": "saying, \"Okay, so I want to make a good"
+    },
+    {
+      "start": 809.36,
+      "duration": 4.0,
+      "text": "cup of coffee. Let me think about that."
+    },
+    {
+      "start": 811.84,
+      "duration": 3.28,
+      "text": "How to approach this. I know coffee can"
+    },
+    {
+      "start": 813.36,
+      "duration": 4.32,
+      "text": "be made in different ways.\" So, it's"
+    },
+    {
+      "start": 815.12,
+      "duration": 7.2,
+      "text": "really being thoughtful about this. It's"
+    },
+    {
+      "start": 817.68,
+      "duration": 8.88,
+      "text": "going for for a while. Um, and it's"
+    },
+    {
+      "start": 822.32,
+      "duration": 6.8,
+      "text": "thinking a little bit step by step."
+    },
+    {
+      "start": 826.56,
+      "duration": 5.28,
+      "text": "Okay, it's now finished the process of"
+    },
+    {
+      "start": 829.12,
+      "duration": 5.28,
+      "text": "thinking because we can see this end"
+    },
+    {
+      "start": 831.84,
+      "duration": 4.24,
+      "text": "think tag. And then at the end of the"
+    },
+    {
+      "start": 834.4,
+      "duration": 3.6,
+      "text": "think tag, so everything that's going to"
+    },
+    {
+      "start": 836.08,
+      "duration": 4.56,
+      "text": "be in those think tags is the model's"
+    },
+    {
+      "start": 838.0,
+      "duration": 5.2,
+      "text": "thought process about how to make good"
+    },
+    {
+      "start": 840.64,
+      "duration": 5.12,
+      "text": "coffee. And then it's going to give the"
+    },
+    {
+      "start": 843.2,
+      "duration": 4.4,
+      "text": "final response that will be the user"
+    },
+    {
+      "start": 845.76,
+      "duration": 3.68,
+      "text": "response. So we can see here it's saying"
+    },
+    {
+      "start": 847.6,
+      "duration": 3.68,
+      "text": "to make a good cup of coffee, follow"
+    },
+    {
+      "start": 849.44,
+      "duration": 5.52,
+      "text": "these essential steps. So start with"
+    },
+    {
+      "start": 851.28,
+      "duration": 5.92,
+      "text": "beans, grind, etc. CC"
+    },
+    {
+      "start": 854.96,
+      "duration": 5.6,
+      "text": "ooked as expected. And this is different"
+    },
+    {
+      "start": 857.2,
+      "duration": 5.28,
+      "text": "from what we usually see with a chat"
+    },
+    {
+      "start": 860.56,
+      "duration": 4.16,
+      "text": "model. And usually with a chat model,"
+    },
+    {
+      "start": 862.48,
+      "duration": 4.56,
+      "text": "you're not going to get as maybe"
+    },
+    {
+      "start": 864.72,
+      "duration": 3.68,
+      "text": "detailed of a response. This is a really"
+    },
+    {
+      "start": 867.04,
+      "duration": 3.6,
+      "text": "detailed response. And that's kind of"
+    },
+    {
+      "start": 868.4,
+      "duration": 5.2,
+      "text": "the nice thing with reasoning models is"
+    },
+    {
+      "start": 870.64,
+      "duration": 4.88,
+      "text": "the quality of your final output is"
+    },
+    {
+      "start": 873.6,
+      "duration": 4.0,
+      "text": "higher. But you know, one of the"
+    },
+    {
+      "start": 875.52,
+      "duration": 5.04,
+      "text": "downsides as well is that you're waiting"
+    },
+    {
+      "start": 877.6,
+      "duration": 4.48,
+      "text": "a little bit longer for the response. Uh"
+    },
+    {
+      "start": 880.56,
+      "duration": 5.44,
+      "text": "so that can be a little bit of a"
+    },
+    {
+      "start": 882.08,
+      "duration": 7.68,
+      "text": "downside. Um the next thing that I want"
+    },
+    {
+      "start": 886.0,
+      "duration": 7.2,
+      "text": "to point out and here in the lab as well"
+    },
+    {
+      "start": 889.76,
+      "duration": 5.52,
+      "text": "is that you usually in a real life"
+    },
+    {
+      "start": 893.2,
+      "duration": 3.6,
+      "text": "scenario you don't want your user if"
+    },
+    {
+      "start": 895.28,
+      "duration": 3.76,
+      "text": "you're building out an application you"
+    },
+    {
+      "start": 896.8,
+      "duration": 4.16,
+      "text": "don't want your user to see these the"
+    },
+    {
+      "start": 899.04,
+      "duration": 4.0,
+      "text": "thinking process probably or maybe you"
+    },
+    {
+      "start": 900.96,
+      "duration": 4.24,
+      "text": "want to them to see it but in a special"
+    },
+    {
+      "start": 903.04,
+      "duration": 4.72,
+      "text": "box somewhere. So we need to be able to"
+    },
+    {
+      "start": 905.2,
+      "duration": 4.56,
+      "text": "separate that thinking from the final"
+    },
+    {
+      "start": 907.76,
+      "duration": 3.84,
+      "text": "response and we can actually do that"
+    },
+    {
+      "start": 909.76,
+      "duration": 5.84,
+      "text": "with some Python code. This is the"
+    },
+    {
+      "start": 911.6,
+      "duration": 6.16,
+      "text": "Python code. um that I used to do this"
+    },
+    {
+      "start": 915.6,
+      "duration": 6.16,
+      "text": "um inspired by some code from Langchain."
+    },
+    {
+      "start": 917.76,
+      "duration": 6.08,
+      "text": "Shout out to them. Um and here we can"
+    },
+    {
+      "start": 921.76,
+      "duration": 6.08,
+      "text": "see that it's looking for the start"
+    },
+    {
+      "start": 923.84,
+      "duration": 6.56,
+      "text": "think tag and the ending think tag here."
+    },
+    {
+      "start": 927.84,
+      "duration": 4.56,
+      "text": "and it'll separate this function will be"
+    },
+    {
+      "start": 930.4,
+      "duration": 4.08,
+      "text": "able to look for everything that was in"
+    },
+    {
+      "start": 932.4,
+      "duration": 4.24,
+      "text": "those two think tags, the start one and"
+    },
+    {
+      "start": 934.48,
+      "duration": 4.08,
+      "text": "the end one, and separate that from"
+    },
+    {
+      "start": 936.64,
+      "duration": 5.2,
+      "text": "everything that's afterwards, which will"
+    },
+    {
+      "start": 938.56,
+      "duration": 6.08,
+      "text": "be the result for the humans uh for us"
+    },
+    {
+      "start": 941.84,
+      "duration": 6.56,
+      "text": "humans to be able to see. And we can"
+    },
+    {
+      "start": 944.64,
+      "duration": 6.88,
+      "text": "actually look at this um by running code"
+    },
+    {
+      "start": 948.4,
+      "duration": 7.68,
+      "text": "that is in this file, which is one uh"
+    },
+    {
+      "start": 951.52,
+      "duration": 6.88,
+      "text": "lab 1B, which um puts in let's go ahead"
+    },
+    {
+      "start": 956.08,
+      "duration": 4.32,
+      "text": "and clear it. It puts in the code and it"
+    },
+    {
+      "start": 958.4,
+      "duration": 3.44,
+      "text": "also adds some nice colors and things"
+    },
+    {
+      "start": 960.4,
+      "duration": 4.16,
+      "text": "like that. So, I'm going to copy this"
+    },
+    {
+      "start": 961.84,
+      "duration": 4.72,
+      "text": "and I'm going to paste it in and it's"
+    },
+    {
+      "start": 964.56,
+      "duration": 4.48,
+      "text": "going to ask me a question. I'm going to"
+    },
+    {
+      "start": 966.56,
+      "duration": 4.8,
+      "text": "say what"
+    },
+    {
+      "start": 969.04,
+      "duration": 6.0,
+      "text": "uh tell me"
+    },
+    {
+      "start": 971.36,
+      "duration": 6.48,
+      "text": "two nice parks in"
+    },
+    {
+      "start": 975.04,
+      "duration": 4.24,
+      "text": "in London. I'm based in London. So,"
+    },
+    {
+      "start": 977.84,
+      "duration": 3.12,
+      "text": "hopefully it's going to give me some"
+    },
+    {
+      "start": 979.28,
+      "duration": 4.8,
+      "text": "good park recommendations for the"
+    },
+    {
+      "start": 980.96,
+      "duration": 5.28,
+      "text": "summer. So we can already see I've used"
+    },
+    {
+      "start": 984.08,
+      "duration": 4.8,
+      "text": "textual which is a Python library to be"
+    },
+    {
+      "start": 986.24,
+      "duration": 6.56,
+      "text": "able to you know visualize this in a"
+    },
+    {
+      "start": 988.88,
+      "duration": 5.76,
+      "text": "very fun way but we can see that we"
+    },
+    {
+      "start": 992.8,
+      "duration": 4.0,
+      "text": "we're separating out that thinking"
+    },
+    {
+      "start": 994.64,
+      "duration": 3.84,
+      "text": "process and then we're also getting the"
+    },
+    {
+      "start": 996.8,
+      "duration": 5.2,
+      "text": "results here. So that was really nice"
+    },
+    {
+      "start": 998.48,
+      "duration": 5.52,
+      "text": "and quick. Um and in a real life"
+    },
+    {
+      "start": 1002.0,
+      "duration": 4.08,
+      "text": "application we could just even just"
+    },
+    {
+      "start": 1004.0,
+      "duration": 3.84,
+      "text": "return the research answer and that's"
+    },
+    {
+      "start": 1006.08,
+      "duration": 4.48,
+      "text": "it. But you can see that we've been able"
+    },
+    {
+      "start": 1007.84,
+      "duration": 4.88,
+      "text": "to separate that those two with just"
+    },
+    {
+      "start": 1010.56,
+      "duration": 4.96,
+      "text": "this Python code here. The next thing"
+    },
+    {
+      "start": 1012.72,
+      "duration": 6.32,
+      "text": "that we want to do is understand that"
+    },
+    {
+      "start": 1015.52,
+      "duration": 6.0,
+      "text": "with reasoning models sometimes people"
+    },
+    {
+      "start": 1019.04,
+      "duration": 5.12,
+      "text": "want to use these models to be longer"
+    },
+    {
+      "start": 1021.52,
+      "duration": 4.16,
+      "text": "running and do things like research and"
+    },
+    {
+      "start": 1024.16,
+      "duration": 4.16,
+      "text": "use them in some sort of business"
+    },
+    {
+      "start": 1025.68,
+      "duration": 5.6,
+      "text": "process and at the end of it create some"
+    },
+    {
+      "start": 1028.32,
+      "duration": 8.0,
+      "text": "sort of a final report and we want to be"
+    },
+    {
+      "start": 1031.28,
+      "duration": 7.28,
+      "text": "able to do that as well. So I am to do"
+    },
+    {
+      "start": 1036.32,
+      "duration": 4.8,
+      "text": "to be able to do that. We can just go"
+    },
+    {
+      "start": 1038.56,
+      "duration": 5.44,
+      "text": "ahead and edit the system prompt. In the"
+    },
+    {
+      "start": 1041.12,
+      "duration": 4.32,
+      "text": "last example that we had, we didn't"
+    },
+    {
+      "start": 1044.0,
+      "duration": 4.08,
+      "text": "actually have a system prompt at all."
+    },
+    {
+      "start": 1045.44,
+      "duration": 4.96,
+      "text": "The model just reasoned here. We, you"
+    },
+    {
+      "start": 1048.08,
+      "duration": 4.8,
+      "text": "know, for this current example, we"
+    },
+    {
+      "start": 1050.4,
+      "duration": 4.64,
+      "text": "actually had said to put in bullet"
+    },
+    {
+      "start": 1052.88,
+      "duration": 4.88,
+      "text": "points, the final answer. But we can"
+    },
+    {
+      "start": 1055.04,
+      "duration": 5.92,
+      "text": "change this and let's say um provide the"
+    },
+    {
+      "start": 1057.76,
+      "duration": 6.16,
+      "text": "final answer as a table."
+    },
+    {
+      "start": 1060.96,
+      "duration": 4.56,
+      "text": "as a table"
+    },
+    {
+      "start": 1063.92,
+      "duration": 5.44,
+      "text": "and"
+    },
+    {
+      "start": 1065.52,
+      "duration": 5.76,
+      "text": "that should then give us an answer our"
+    },
+    {
+      "start": 1069.36,
+      "duration": 4.0,
+      "text": "answer in a different way. Let's let's"
+    },
+    {
+      "start": 1071.28,
+      "duration": 4.88,
+      "text": "quit. And then we're going to just rerun"
+    },
+    {
+      "start": 1073.36,
+      "duration": 7.28,
+      "text": "the same code, but we hopefully we'll"
+    },
+    {
+      "start": 1076.16,
+      "duration": 6.88,
+      "text": "get let's say again give me three parks"
+    },
+    {
+      "start": 1080.64,
+      "duration": 7.2,
+      "text": "in London"
+    },
+    {
+      "start": 1083.04,
+      "duration": 6.88,
+      "text": "and why they are popular."
+    },
+    {
+      "start": 1087.84,
+      "duration": 4.96,
+      "text": "So the model is going to run through the"
+    },
+    {
+      "start": 1089.92,
+      "duration": 4.88,
+      "text": "thinking process and at the end of the"
+    },
+    {
+      "start": 1092.8,
+      "duration": 4.8,
+      "text": "day we're going to hopefully get a"
+    },
+    {
+      "start": 1094.8,
+      "duration": 5.6,
+      "text": "different yes we get a different style"
+    },
+    {
+      "start": 1097.6,
+      "duration": 4.88,
+      "text": "of result uh because we've formatted"
+    },
+    {
+      "start": 1100.4,
+      "duration": 4.72,
+      "text": "we've specified to the model we want the"
+    },
+    {
+      "start": 1102.48,
+      "duration": 4.48,
+      "text": "results to be returned in this way. So"
+    },
+    {
+      "start": 1105.12,
+      "duration": 4.16,
+      "text": "when you're using these models they're"
+    },
+    {
+      "start": 1106.96,
+      "duration": 4.16,
+      "text": "very helpful for situations when you"
+    },
+    {
+      "start": 1109.28,
+      "duration": 3.84,
+      "text": "want high quality results and you want"
+    },
+    {
+      "start": 1111.12,
+      "duration": 4.08,
+      "text": "to maybe create some sort of a PDF"
+    },
+    {
+      "start": 1113.12,
+      "duration": 4.88,
+      "text": "report or something like that. This is"
+    },
+    {
+      "start": 1115.2,
+      "duration": 4.96,
+      "text": "super useful. So let's move on to the"
+    },
+    {
+      "start": 1118.0,
+      "duration": 4.72,
+      "text": "next step. The next thing I want to talk"
+    },
+    {
+      "start": 1120.16,
+      "duration": 4.32,
+      "text": "about is how with these reasoning"
+    },
+    {
+      "start": 1122.72,
+      "duration": 3.76,
+      "text": "models, even though they give us very"
+    },
+    {
+      "start": 1124.48,
+      "duration": 3.76,
+      "text": "high quality results, they do have"
+    },
+    {
+      "start": 1126.48,
+      "duration": 6.48,
+      "text": "limitations."
+    },
+    {
+      "start": 1128.24,
+      "duration": 6.8,
+      "text": "So our LLMs uh in their current state"
+    },
+    {
+      "start": 1132.96,
+      "duration": 4.72,
+      "text": "usually will have things like a training"
+    },
+    {
+      "start": 1135.04,
+      "duration": 7.2,
+      "text": "cutoff date. So they don't have all the"
+    },
+    {
+      "start": 1137.68,
+      "duration": 7.2,
+      "text": "knowledge that is there from this exact"
+    },
+    {
+      "start": 1142.24,
+      "duration": 5.36,
+      "text": "date today. So maybe the parks that I"
+    },
+    {
+      "start": 1144.88,
+      "duration": 4.56,
+      "text": "was recommended there's a new park that"
+    },
+    {
+      "start": 1147.6,
+      "duration": 5.12,
+      "text": "came out today which the most popular"
+    },
+    {
+      "start": 1149.44,
+      "duration": 5.28,
+      "text": "park and it's not in the data um because"
+    },
+    {
+      "start": 1152.72,
+      "duration": 4.96,
+      "text": "the model doesn't have access to any"
+    },
+    {
+      "start": 1154.72,
+      "duration": 5.36,
+      "text": "data that it was that was pre its"
+    },
+    {
+      "start": 1157.68,
+      "duration": 5.28,
+      "text": "training date training cuto off date and"
+    },
+    {
+      "start": 1160.08,
+      "duration": 5.92,
+      "text": "so we want to also we also know that the"
+    },
+    {
+      "start": 1162.96,
+      "duration": 6.64,
+      "text": "models have limited amount of knowledge"
+    },
+    {
+      "start": 1166.0,
+      "duration": 5.6,
+      "text": "um built into them and so giving them a"
+    },
+    {
+      "start": 1169.6,
+      "duration": 3.44,
+      "text": "tool which gives it access to the"
+    },
+    {
+      "start": 1171.6,
+      "duration": 5.12,
+      "text": "internet to the"
+    },
+    {
+      "start": 1173.04,
+      "duration": 6.08,
+      "text": "is a great way to be able to give your"
+    },
+    {
+      "start": 1176.72,
+      "duration": 5.12,
+      "text": "model some extra context and it can"
+    },
+    {
+      "start": 1179.12,
+      "duration": 4.96,
+      "text": "reason over that context as well. So we"
+    },
+    {
+      "start": 1181.84,
+      "duration": 4.56,
+      "text": "want our reasoning model to perform two"
+    },
+    {
+      "start": 1184.08,
+      "duration": 4.88,
+      "text": "functions in this process of building a"
+    },
+    {
+      "start": 1186.4,
+      "duration": 4.8,
+      "text": "deep researcher here in terms of the web"
+    },
+    {
+      "start": 1188.96,
+      "duration": 5.04,
+      "text": "research part. The first thing that we"
+    },
+    {
+      "start": 1191.2,
+      "duration": 5.12,
+      "text": "want the model to do is take in our"
+    },
+    {
+      "start": 1194.0,
+      "duration": 4.32,
+      "text": "research topic that we've typed in."
+    },
+    {
+      "start": 1196.32,
+      "duration": 3.6,
+      "text": "Usually I'm super lazy like you know"
+    },
+    {
+      "start": 1198.32,
+      "duration": 3.84,
+      "text": "maybe I'll say just find me the best"
+    },
+    {
+      "start": 1199.92,
+      "duration": 5.12,
+      "text": "parks or something like that. We want"
+    },
+    {
+      "start": 1202.16,
+      "duration": 4.96,
+      "text": "the researcher to be able to take"
+    },
+    {
+      "start": 1205.04,
+      "duration": 5.2,
+      "text": "context, extra context from its"
+    },
+    {
+      "start": 1207.12,
+      "duration": 5.2,
+      "text": "surroundings and generate a good query"
+    },
+    {
+      "start": 1210.24,
+      "duration": 4.08,
+      "text": "that it can use to search for results"
+    },
+    {
+      "start": 1212.32,
+      "duration": 5.52,
+      "text": "online so that the data it's getting"
+    },
+    {
+      "start": 1214.32,
+      "duration": 6.4,
+      "text": "from online is accurately is is correct"
+    },
+    {
+      "start": 1217.84,
+      "duration": 4.96,
+      "text": "in terms of context. And so to be able"
+    },
+    {
+      "start": 1220.72,
+      "duration": 4.64,
+      "text": "to do that, we'll have the user just"
+    },
+    {
+      "start": 1222.8,
+      "duration": 5.6,
+      "text": "pass through the the research topic and"
+    },
+    {
+      "start": 1225.36,
+      "duration": 5.44,
+      "text": "then we'll have a system prompt that we"
+    },
+    {
+      "start": 1228.4,
+      "duration": 4.16,
+      "text": "send to DCAR1."
+    },
+    {
+      "start": 1230.8,
+      "duration": 3.28,
+      "text": "And we can actually take a look at the"
+    },
+    {
+      "start": 1232.56,
+      "duration": 6.16,
+      "text": "system prompts. All of the system"
+    },
+    {
+      "start": 1234.08,
+      "duration": 7.28,
+      "text": "prompts are in a Python prompts.py file"
+    },
+    {
+      "start": 1238.72,
+      "duration": 6.24,
+      "text": "and it just has instructions about what"
+    },
+    {
+      "start": 1241.36,
+      "duration": 5.76,
+      "text": "the user what the um model should do. So"
+    },
+    {
+      "start": 1244.96,
+      "duration": 4.24,
+      "text": "we want the model to take in that"
+    },
+    {
+      "start": 1247.12,
+      "duration": 4.56,
+      "text": "research topic and then give us a result"
+    },
+    {
+      "start": 1249.2,
+      "duration": 5.76,
+      "text": "where it returns the query to send to"
+    },
+    {
+      "start": 1251.68,
+      "duration": 7.12,
+      "text": "the API and also gives us back some"
+    },
+    {
+      "start": 1254.96,
+      "duration": 7.28,
+      "text": "rationale. So tells us exactly why uh"
+    },
+    {
+      "start": 1258.8,
+      "duration": 5.36,
+      "text": "it's made the decision to do this. So"
+    },
+    {
+      "start": 1262.24,
+      "duration": 4.16,
+      "text": "that is pretty much what we're going to"
+    },
+    {
+      "start": 1264.16,
+      "duration": 3.6,
+      "text": "be doing for the query generation part"
+    },
+    {
+      "start": 1266.4,
+      "duration": 3.6,
+      "text": "and then after that we're going to do"
+    },
+    {
+      "start": 1267.76,
+      "duration": 4.24,
+      "text": "some riv research and then summarize the"
+    },
+    {
+      "start": 1270.0,
+      "duration": 4.0,
+      "text": "results as well. So we'll first look at"
+    },
+    {
+      "start": 1272.0,
+      "duration": 5.2,
+      "text": "the generating query part and the"
+    },
+    {
+      "start": 1274.0,
+      "duration": 6.48,
+      "text": "tability search part. So to do that we"
+    },
+    {
+      "start": 1277.2,
+      "duration": 4.88,
+      "text": "are just going to copy this here."
+    },
+    {
+      "start": 1280.48,
+      "duration": 4.08,
+      "text": "And"
+    },
+    {
+      "start": 1282.08,
+      "duration": 5.76,
+      "text": "I tried to make it as easy as possible"
+    },
+    {
+      "start": 1284.56,
+      "duration": 5.68,
+      "text": "for you to just see what is happening in"
+    },
+    {
+      "start": 1287.84,
+      "duration": 6.4,
+      "text": "the results. Let's go ahead and paste"
+    },
+    {
+      "start": 1290.24,
+      "duration": 7.36,
+      "text": "that in. And our topic is what is"
+    },
+    {
+      "start": 1294.24,
+      "duration": 7.04,
+      "text": "something that we need to know?"
+    },
+    {
+      "start": 1297.6,
+      "duration": 6.16,
+      "text": "Let's say what is a trending topic"
+    },
+    {
+      "start": 1301.28,
+      "duration": 5.92,
+      "text": "today."
+    },
+    {
+      "start": 1303.76,
+      "duration": 6.96,
+      "text": "So obviously there's it's needs to look"
+    },
+    {
+      "start": 1307.2,
+      "duration": 6.16,
+      "text": "online because uh we need to know what"
+    },
+    {
+      "start": 1310.72,
+      "duration": 5.52,
+      "text": "the date is today and we need to be able"
+    },
+    {
+      "start": 1313.36,
+      "duration": 4.96,
+      "text": "to know what's trending. Um so the first"
+    },
+    {
+      "start": 1316.24,
+      "duration": 4.48,
+      "text": "thing is that we you can see that the"
+    },
+    {
+      "start": 1318.32,
+      "duration": 4.88,
+      "text": "date is the 13th. to be able to see that"
+    },
+    {
+      "start": 1320.72,
+      "duration": 5.12,
+      "text": "we actually have a Python function here"
+    },
+    {
+      "start": 1323.2,
+      "duration": 5.04,
+      "text": "that gets the current date and passes"
+    },
+    {
+      "start": 1325.84,
+      "duration": 4.56,
+      "text": "that information to the reasoning model."
+    },
+    {
+      "start": 1328.24,
+      "duration": 6.4,
+      "text": "So it has that context of what the date"
+    },
+    {
+      "start": 1330.4,
+      "duration": 6.08,
+      "text": "is today and then um also it g it's"
+    },
+    {
+      "start": 1334.64,
+      "duration": 4.8,
+      "text": "thinking about what else it needs to"
+    },
+    {
+      "start": 1336.48,
+      "duration": 7.28,
+      "text": "know to be able to generate this query."
+    },
+    {
+      "start": 1339.44,
+      "duration": 6.08,
+      "text": "Um it's you know just thinking about I"
+    },
+    {
+      "start": 1343.76,
+      "duration": 5.92,
+      "text": "should consider major events tech"
+    },
+    {
+      "start": 1345.52,
+      "duration": 6.4,
+      "text": "conferences etc etc maybe it's taking in"
+    },
+    {
+      "start": 1349.68,
+      "duration": 6.56,
+      "text": "I'm not sure what context a ticked"
+    },
+    {
+      "start": 1351.92,
+      "duration": 7.96,
+      "text": "context is what it's it's getting so"
+    },
+    {
+      "start": 1356.24,
+      "duration": 3.64,
+      "text": "let's set it generate"
+    },
+    {
+      "start": 1360.72,
+      "duration": 6.4,
+      "text": "okay great so it's done that and then it"
+    },
+    {
+      "start": 1364.48,
+      "duration": 5.12,
+      "text": "generated the search query the search"
+    },
+    {
+      "start": 1367.12,
+      "duration": 5.12,
+      "text": "query that it says June 1320 2022"
+    },
+    {
+      "start": 1369.6,
+      "duration": 4.96,
+      "text": "trending news topic social media and"
+    },
+    {
+      "start": 1372.24,
+      "duration": 4.56,
+      "text": "rationale is this group combines current"
+    },
+    {
+      "start": 1374.56,
+      "duration": 4.32,
+      "text": "date with platform specific trends to"
+    },
+    {
+      "start": 1376.8,
+      "duration": 3.92,
+      "text": "identify viral subjects breaking news or"
+    },
+    {
+      "start": 1378.88,
+      "duration": 4.0,
+      "text": "cultural moments dominating online"
+    },
+    {
+      "start": 1380.72,
+      "duration": 4.08,
+      "text": "discussions as of today. So we can do"
+    },
+    {
+      "start": 1382.88,
+      "duration": 4.4,
+      "text": "things like we can say you can actually"
+    },
+    {
+      "start": 1384.8,
+      "duration": 5.36,
+      "text": "tell the model that you want you know a"
+    },
+    {
+      "start": 1387.28,
+      "duration": 5.12,
+      "text": "longer query and you should have as"
+    },
+    {
+      "start": 1390.16,
+      "duration": 5.2,
+      "text": "detailed as a query as you'd like and"
+    },
+    {
+      "start": 1392.4,
+      "duration": 5.52,
+      "text": "all of this you can change in the prompt"
+    },
+    {
+      "start": 1395.36,
+      "duration": 4.88,
+      "text": "which just like we saw before can be"
+    },
+    {
+      "start": 1397.92,
+      "duration": 4.64,
+      "text": "passed as the system message into lang"
+    },
+    {
+      "start": 1400.24,
+      "duration": 4.48,
+      "text": "chain. So here for example we've only"
+    },
+    {
+      "start": 1402.56,
+      "duration": 4.08,
+      "text": "asked it to return to us one search"
+    },
+    {
+      "start": 1404.72,
+      "duration": 3.68,
+      "text": "result and we're seeing that there's a"
+    },
+    {
+      "start": 1406.64,
+      "duration": 4.72,
+      "text": "trending topic. Here are some current"
+    },
+    {
+      "start": 1408.4,
+      "duration": 5.28,
+      "text": "trends. Bigfoot is trending on Tik Tok."
+    },
+    {
+      "start": 1411.36,
+      "duration": 4.24,
+      "text": "I don't know why big sit is saying"
+    },
+    {
+      "start": 1413.68,
+      "duration": 4.4,
+      "text": "content creates are making accounts and"
+    },
+    {
+      "start": 1415.6,
+      "duration": 5.28,
+      "text": "utilizing VO. Okay, that's I don't know"
+    },
+    {
+      "start": 1418.08,
+      "duration": 6.64,
+      "text": "if we want to talk about VO on this in"
+    },
+    {
+      "start": 1420.88,
+      "duration": 6.4,
+      "text": "this place but it's fine. So that is a"
+    },
+    {
+      "start": 1424.72,
+      "duration": 6.64,
+      "text": "great example of how we can give our"
+    },
+    {
+      "start": 1427.28,
+      "duration": 7.68,
+      "text": "model tools. And to be able to see that,"
+    },
+    {
+      "start": 1431.36,
+      "duration": 7.12,
+      "text": "you can just go to the lab 2A option to"
+    },
+    {
+      "start": 1434.96,
+      "duration": 5.6,
+      "text": "be able to just look through what that"
+    },
+    {
+      "start": 1438.48,
+      "duration": 5.52,
+      "text": "looked like to be able to pass through"
+    },
+    {
+      "start": 1440.56,
+      "duration": 5.84,
+      "text": "the system prompt. We just got the code,"
+    },
+    {
+      "start": 1444.0,
+      "duration": 5.12,
+      "text": "this writer query for uh instructions."
+    },
+    {
+      "start": 1446.4,
+      "duration": 5.2,
+      "text": "We imported it from the prompts. py"
+    },
+    {
+      "start": 1449.12,
+      "duration": 5.6,
+      "text": "file. We're passing it through and then"
+    },
+    {
+      "start": 1451.6,
+      "duration": 6.24,
+      "text": "we are printing. Um, some other things"
+    },
+    {
+      "start": 1454.72,
+      "duration": 8.24,
+      "text": "to note is that you know you can take a"
+    },
+    {
+      "start": 1457.84,
+      "duration": 7.76,
+      "text": "look at the code here in terms of where"
+    },
+    {
+      "start": 1462.96,
+      "duration": 5.36,
+      "text": "is my search kind? Here it is. So you"
+    },
+    {
+      "start": 1465.6,
+      "duration": 4.4,
+      "text": "can change uh the number of results if"
+    },
+    {
+      "start": 1468.32,
+      "duration": 5.28,
+      "text": "you want more results. You can also"
+    },
+    {
+      "start": 1470.0,
+      "duration": 5.36,
+      "text": "change the s search depth to make it uh"
+    },
+    {
+      "start": 1473.6,
+      "duration": 5.68,
+      "text": "more advanced. So if you want a really"
+    },
+    {
+      "start": 1475.36,
+      "duration": 7.44,
+      "text": "detailed search to be done um then you"
+    },
+    {
+      "start": 1479.28,
+      "duration": 6.56,
+      "text": "can edit this uh section here. I've also"
+    },
+    {
+      "start": 1482.8,
+      "duration": 6.32,
+      "text": "put in the guide a link to the search"
+    },
+    {
+      "start": 1485.84,
+      "duration": 6.48,
+      "text": "document. So I think that's all the time"
+    },
+    {
+      "start": 1489.12,
+      "duration": 5.2,
+      "text": "I have for this demo today. Uh I hope"
+    },
+    {
+      "start": 1492.32,
+      "duration": 3.68,
+      "text": "you enjoyed it. I hope it was helpful."
+    },
+    {
+      "start": 1494.32,
+      "duration": 3.44,
+      "text": "If you would like to see more, please go"
+    },
+    {
+      "start": 1496.0,
+      "duration": 3.92,
+      "text": "ahead and take a look at the guide. And"
+    },
+    {
+      "start": 1497.76,
+      "duration": 5.16,
+      "text": "that is all I have for the moment."
+    },
+    {
+      "start": 1499.92,
+      "duration": 3.0,
+      "text": "Thanks."
+    },
+    {
+      "start": 1505.44,
+      "duration": 4.48,
+      "text": "Oh my gosh, that was so much. Thank you"
+    },
+    {
+      "start": 1507.84,
+      "duration": 3.92,
+      "text": "so much, Marlene. Uh I know we'll kind"
+    },
+    {
+      "start": 1509.92,
+      "duration": 3.68,
+      "text": "of have a 5-second delay while we catch"
+    },
+    {
+      "start": 1511.76,
+      "duration": 5.52,
+      "text": "up on the chat. So, I'm actually going"
+    },
+    {
+      "start": 1513.6,
+      "duration": 6.4,
+      "text": "to just put the link to uh the the the"
+    },
+    {
+      "start": 1517.28,
+      "duration": 5.44,
+      "text": "slide that has your sample while we wait"
+    },
+    {
+      "start": 1520.0,
+      "duration": 3.92,
+      "text": "for people to come on. And um I don't"
+    },
+    {
+      "start": 1522.72,
+      "duration": 2.96,
+      "text": "know if you saw any interesting"
+    },
+    {
+      "start": 1523.92,
+      "duration": 2.96,
+      "text": "questions. Charmela, what is do you have"
+    },
+    {
+      "start": 1525.68,
+      "duration": 3.04,
+      "text": "anything that you want to weigh in on"
+    },
+    {
+      "start": 1526.88,
+      "duration": 4.24,
+      "text": "with a question while we seed the the"
+    },
+    {
+      "start": 1528.72,
+      "duration": 5.6,
+      "text": "conversation?"
+    },
+    {
+      "start": 1531.12,
+      "duration": 5.52,
+      "text": "Um my big the one question I have would"
+    },
+    {
+      "start": 1534.32,
+      "duration": 3.76,
+      "text": "be around these like we were talking"
+    },
+    {
+      "start": 1536.64,
+      "duration": 4.08,
+      "text": "you're talking about advanced reasoning"
+    },
+    {
+      "start": 1538.08,
+      "duration": 5.76,
+      "text": "and we have all these croc models and"
+    },
+    {
+      "start": 1540.72,
+      "duration": 6.56,
+      "text": "now deep like we had deepseek um so"
+    },
+    {
+      "start": 1543.84,
+      "duration": 5.28,
+      "text": "Marlene are you seeing any uh have you"
+    },
+    {
+      "start": 1547.28,
+      "duration": 4.24,
+      "text": "seen differences like have you explored"
+    },
+    {
+      "start": 1549.12,
+      "duration": 4.56,
+      "text": "the gro models at all or are you seeing"
+    },
+    {
+      "start": 1551.52,
+      "duration": 4.64,
+      "text": "uh what's the big like why should people"
+    },
+    {
+      "start": 1553.68,
+      "duration": 4.96,
+      "text": "use one versus the other is there some"
+    },
+    {
+      "start": 1556.16,
+      "duration": 5.12,
+      "text": "some takeaways here"
+    },
+    {
+      "start": 1558.64,
+      "duration": 6.24,
+      "text": "I have not explored the growth models"
+    },
+    {
+      "start": 1561.28,
+      "duration": 7.6,
+      "text": "yet. Um, yeah, I have not explored them"
+    },
+    {
+      "start": 1564.88,
+      "duration": 7.92,
+      "text": "at all at this point, but I have of"
+    },
+    {
+      "start": 1568.88,
+      "duration": 5.44,
+      "text": "course explored 01 and 03 the other"
+    },
+    {
+      "start": 1572.8,
+      "duration": 3.68,
+      "text": "versions"
+    },
+    {
+      "start": 1574.32,
+      "duration": 5.28,
+      "text": "uh the the the versions that are coming"
+    },
+    {
+      "start": 1576.48,
+      "duration": 5.92,
+      "text": "the reasoning models from OpenAI and I"
+    },
+    {
+      "start": 1579.6,
+      "duration": 6.32,
+      "text": "have also taken a look at 54 reasoning"
+    },
+    {
+      "start": 1582.4,
+      "duration": 6.88,
+      "text": "and I think that looks good. I would say"
+    },
+    {
+      "start": 1585.92,
+      "duration": 7.2,
+      "text": "I think that right now probably the O"
+    },
+    {
+      "start": 1589.28,
+      "duration": 5.52,
+      "text": "you know your O uh group of models is"
+    },
+    {
+      "start": 1593.12,
+      "duration": 4.4,
+      "text": "probably going to give you the highest"
+    },
+    {
+      "start": 1594.8,
+      "duration": 4.8,
+      "text": "quality. If you just want uh pure"
+    },
+    {
+      "start": 1597.52,
+      "duration": 4.4,
+      "text": "quality in terms of a reason models"
+    },
+    {
+      "start": 1599.6,
+      "duration": 5.28,
+      "text": "reasoning model I think that's going to"
+    },
+    {
+      "start": 1601.92,
+      "duration": 5.28,
+      "text": "be a great option. The API is going to"
+    },
+    {
+      "start": 1604.88,
+      "duration": 3.6,
+      "text": "be different. So the results that you're"
+    },
+    {
+      "start": 1607.2,
+      "duration": 3.12,
+      "text": "going to get are going to be slightly"
+    },
+    {
+      "start": 1608.48,
+      "duration": 4.48,
+      "text": "different from what you're getting with"
+    },
+    {
+      "start": 1610.32,
+      "duration": 4.56,
+      "text": "deepseek, but it'll also be really good"
+    },
+    {
+      "start": 1612.96,
+      "duration": 3.52,
+      "text": "and you can do the same thing,"
+    },
+    {
+      "start": 1614.88,
+      "duration": 4.08,
+      "text": "separating the thoughts from the"
+    },
+    {
+      "start": 1616.48,
+      "duration": 5.28,
+      "text": "results. But I would say with the 54"
+    },
+    {
+      "start": 1618.96,
+      "duration": 5.68,
+      "text": "reasoning, that is a great choice when"
+    },
+    {
+      "start": 1621.76,
+      "duration": 5.44,
+      "text": "you're doing stuff with SLMs and you're"
+    },
+    {
+      "start": 1624.64,
+      "duration": 4.48,
+      "text": "wanting to work entirely local. That's"
+    },
+    {
+      "start": 1627.2,
+      "duration": 4.24,
+      "text": "going to save you a lot of money. It's"
+    },
+    {
+      "start": 1629.12,
+      "duration": 5.12,
+      "text": "going to, you know, be also great for"
+    },
+    {
+      "start": 1631.44,
+      "duration": 4.48,
+      "text": "privacy reasons as well. That's also a"
+    },
+    {
+      "start": 1634.24,
+      "duration": 4.0,
+      "text": "great reason to choose something like"
+    },
+    {
+      "start": 1635.92,
+      "duration": 4.24,
+      "text": "DeepSeek because you can do all of that"
+    },
+    {
+      "start": 1638.24,
+      "duration": 5.04,
+      "text": "locally on your machine and you're going"
+    },
+    {
+      "start": 1640.16,
+      "duration": 4.88,
+      "text": "to save in terms of costs um just"
+    },
+    {
+      "start": 1643.28,
+      "duration": 5.28,
+      "text": "because these are open source models. So"
+    },
+    {
+      "start": 1645.04,
+      "duration": 6.0,
+      "text": "you can do a lot more I would say in uh"
+    },
+    {
+      "start": 1648.56,
+      "duration": 4.24,
+      "text": "on your local machine with those and I"
+    },
+    {
+      "start": 1651.04,
+      "duration": 4.88,
+      "text": "think Deepseek is probably in the middle"
+    },
+    {
+      "start": 1652.8,
+      "duration": 4.96,
+      "text": "in terms of like really high quality but"
+    },
+    {
+      "start": 1655.92,
+      "duration": 3.2,
+      "text": "also something you can use locally. So"
+    },
+    {
+      "start": 1657.76,
+      "duration": 3.84,
+      "text": "that's what I would say with that. I"
+    },
+    {
+      "start": 1659.12,
+      "duration": 4.72,
+      "text": "haven't tried Grock, but I'm open to"
+    },
+    {
+      "start": 1661.6,
+      "duration": 3.2,
+      "text": "hearing. I'm gonna weigh in on a couple"
+    },
+    {
+      "start": 1663.84,
+      "duration": 2.16,
+      "text": "of things because there are questions"
+    },
+    {
+      "start": 1664.8,
+      "duration": 2.96,
+      "text": "coming in, but I'll weigh in on a couple"
+    },
+    {
+      "start": 1666.0,
+      "duration": 3.76,
+      "text": "of things. One is I think uh since"
+    },
+    {
+      "start": 1667.76,
+      "duration": 3.44,
+      "text": "Charmela brought up model router, check"
+    },
+    {
+      "start": 1669.76,
+      "duration": 2.96,
+      "text": "it out. Model route actually hides"
+    },
+    {
+      "start": 1671.2,
+      "duration": 3.68,
+      "text": "reasoning and non-reasoning models"
+    },
+    {
+      "start": 1672.72,
+      "duration": 4.16,
+      "text": "behind a router and takes a decision for"
+    },
+    {
+      "start": 1674.88,
+      "duration": 4.32,
+      "text": "you. So for those of you who are asking"
+    },
+    {
+      "start": 1676.88,
+      "duration": 3.92,
+      "text": "price and price trade-offs, try it out"
+    },
+    {
+      "start": 1679.2,
+      "duration": 4.08,
+      "text": "and see whether it's doing the job for"
+    },
+    {
+      "start": 1680.8,
+      "duration": 4.16,
+      "text": "you. Um, second thing I think is uh"
+    },
+    {
+      "start": 1683.28,
+      "duration": 4.72,
+      "text": "since we brought up DeepSeek, we"
+    },
+    {
+      "start": 1684.96,
+      "duration": 6.6,
+      "text": "actually have an MEI RDES, I forget the"
+    },
+    {
+      "start": 1688.0,
+      "duration": 3.56,
+      "text": "name of the model, but"
+    },
+    {
+      "start": 1691.84,
+      "duration": 3.92,
+      "text": "yeah, which I hugely recommend. And for"
+    },
+    {
+      "start": 1694.16,
+      "duration": 3.12,
+      "text": "those of you want to try Grock out, it's"
+    },
+    {
+      "start": 1695.76,
+      "duration": 3.28,
+      "text": "available on GitHub. Both of them are"
+    },
+    {
+      "start": 1697.28,
+      "duration": 4.08,
+      "text": "available on GitHub. So you could take"
+    },
+    {
+      "start": 1699.04,
+      "duration": 3.92,
+      "text": "it for a spin for free, but I want to"
+    },
+    {
+      "start": 1701.36,
+      "duration": 4.24,
+      "text": "actually go to our conversation. So"
+    },
+    {
+      "start": 1702.96,
+      "duration": 4.64,
+      "text": "Marlene, there's a a question from Marco"
+    },
+    {
+      "start": 1705.6,
+      "duration": 3.84,
+      "text": "who says, \"How do you create tests to"
+    },
+    {
+      "start": 1707.6,
+      "duration": 3.44,
+      "text": "validate consistency on prompt"
+    },
+    {
+      "start": 1709.44,
+      "duration": 4.0,
+      "text": "responses?\" which I think is an"
+    },
+    {
+      "start": 1711.04,
+      "duration": 5.84,
+      "text": "absolutely fantastic question. Yeah,"
+    },
+    {
+      "start": 1713.44,
+      "duration": 6.08,
+      "text": "that's a great question. Evals are a"
+    },
+    {
+      "start": 1716.88,
+      "duration": 5.2,
+      "text": "huge part of of this process. I would"
+    },
+    {
+      "start": 1719.52,
+      "duration": 6.48,
+      "text": "say setting up evaluations. You could"
+    },
+    {
+      "start": 1722.08,
+      "duration": 5.84,
+      "text": "set up an LLM as a judge to ensure that"
+    },
+    {
+      "start": 1726.0,
+      "duration": 6.32,
+      "text": "the results that you're getting are are"
+    },
+    {
+      "start": 1727.92,
+      "duration": 7.84,
+      "text": "are good. Um part of this deep research"
+    },
+    {
+      "start": 1732.32,
+      "duration": 5.36,
+      "text": "lab that uh I did at at build is a"
+    },
+    {
+      "start": 1735.76,
+      "duration": 5.68,
+      "text": "reflective process where you actually"
+    },
+    {
+      "start": 1737.68,
+      "duration": 5.6,
+      "text": "get the model to reason over the current"
+    },
+    {
+      "start": 1741.44,
+      "duration": 3.68,
+      "text": "re response. And this is one of the"
+    },
+    {
+      "start": 1743.28,
+      "duration": 4.72,
+      "text": "reasons why we use lang chain is because"
+    },
+    {
+      "start": 1745.12,
+      "duration": 6.24,
+      "text": "it keeps track in langraph of the state."
+    },
+    {
+      "start": 1748.0,
+      "duration": 5.76,
+      "text": "And so you tell the model to reason over"
+    },
+    {
+      "start": 1751.36,
+      "duration": 4.96,
+      "text": "the current report and see is this a"
+    },
+    {
+      "start": 1753.76,
+      "duration": 4.88,
+      "text": "good report? And if it doesn't think"
+    },
+    {
+      "start": 1756.32,
+      "duration": 5.2,
+      "text": "it's it's good, it should recommend a"
+    },
+    {
+      "start": 1758.64,
+      "duration": 5.2,
+      "text": "new prompt to send. So something new to"
+    },
+    {
+      "start": 1761.52,
+      "duration": 5.76,
+      "text": "send to the API or to generate, you"
+    },
+    {
+      "start": 1763.84,
+      "duration": 6.24,
+      "text": "know, a better report. So the model"
+    },
+    {
+      "start": 1767.28,
+      "duration": 5.68,
+      "text": "ideally should be iterating on itself"
+    },
+    {
+      "start": 1770.08,
+      "duration": 5.2,
+      "text": "and reflecting on the output and you can"
+    },
+    {
+      "start": 1772.96,
+      "duration": 6.4,
+      "text": "do that with you can write out the code"
+    },
+    {
+      "start": 1775.28,
+      "duration": 6.56,
+      "text": "to do that. Uh Lchain has a great um"
+    },
+    {
+      "start": 1779.36,
+      "duration": 4.56,
+      "text": "template for LLM as a judge or you can"
+    },
+    {
+      "start": 1781.84,
+      "duration": 4.88,
+      "text": "use the built-in evals. We have some"
+    },
+    {
+      "start": 1783.92,
+      "duration": 4.88,
+      "text": "great built-in emails as well. Um, and I"
+    },
+    {
+      "start": 1786.72,
+      "duration": 5.12,
+      "text": "think Mitia even maybe has a lab on"
+    },
+    {
+      "start": 1788.8,
+      "duration": 4.96,
+      "text": "that. No. So, I'll put the the link in"
+    },
+    {
+      "start": 1791.84,
+      "duration": 3.36,
+      "text": "the chat to to what Marlene was saying."
+    },
+    {
+      "start": 1793.76,
+      "duration": 3.12,
+      "text": "I mean, the bottom line is you need"
+    },
+    {
+      "start": 1795.2,
+      "duration": 3.28,
+      "text": "evaluations no matter what and you have"
+    },
+    {
+      "start": 1796.88,
+      "duration": 3.68,
+      "text": "to go like don't just leave it till the"
+    },
+    {
+      "start": 1798.48,
+      "duration": 3.6,
+      "text": "end. Start from the very beginning when"
+    },
+    {
+      "start": 1800.56,
+      "duration": 3.76,
+      "text": "you start building your application to"
+    },
+    {
+      "start": 1802.08,
+      "duration": 4.64,
+      "text": "evaluate them. So, we have an evaluation"
+    },
+    {
+      "start": 1804.32,
+      "duration": 3.92,
+      "text": "SDK in the Azure AI foundry. So the lab"
+    },
+    {
+      "start": 1806.72,
+      "duration": 3.12,
+      "text": "that Marlene was referencing is one"
+    },
+    {
+      "start": 1808.24,
+      "duration": 4.0,
+      "text": "that'll walk you through all the safety"
+    },
+    {
+      "start": 1809.84,
+      "duration": 4.96,
+      "text": "and quality um evaluators plus help you"
+    },
+    {
+      "start": 1812.24,
+      "duration": 4.16,
+      "text": "build your own custom one. But yeah um"
+    },
+    {
+      "start": 1814.8,
+      "duration": 3.04,
+      "text": "there's tons of work in this space and"
+    },
+    {
+      "start": 1816.4,
+      "duration": 2.48,
+      "text": "we should put the links in there. But I"
+    },
+    {
+      "start": 1817.84,
+      "duration": 2.48,
+      "text": "want to ask you one other question"
+    },
+    {
+      "start": 1818.88,
+      "duration": 3.52,
+      "text": "Marlene because the next question was"
+    },
+    {
+      "start": 1820.32,
+      "duration": 3.68,
+      "text": "also interesting and this is I think"
+    },
+    {
+      "start": 1822.4,
+      "duration": 4.24,
+      "text": "very relevant to Deepseek. It says you"
+    },
+    {
+      "start": 1824.0,
+      "duration": 4.88,
+      "text": "get answers in think tags each showing"
+    },
+    {
+      "start": 1826.64,
+      "duration": 4.8,
+      "text": "the thought process but how is each"
+    },
+    {
+      "start": 1828.88,
+      "duration": 4.16,
+      "text": "think content processed and what if the"
+    },
+    {
+      "start": 1831.44,
+      "duration": 4.08,
+      "text": "output doesn't match the following"
+    },
+    {
+      "start": 1833.04,
+      "duration": 3.84,
+      "text": "pre-generated think tags? So I think"
+    },
+    {
+      "start": 1835.52,
+      "duration": 4.0,
+      "text": "this is if you can see the question in"
+    },
+    {
+      "start": 1836.88,
+      "duration": 7.2,
+      "text": "the chat otherwise I can copy it over."
+    },
+    {
+      "start": 1839.52,
+      "duration": 8.16,
+      "text": "I'm not sure uh how is each think"
+    },
+    {
+      "start": 1844.08,
+      "duration": 5.2,
+      "text": "content processed and what if the output"
+    },
+    {
+      "start": 1847.68,
+      "duration": 4.72,
+      "text": "doesn't match the following"
+    },
+    {
+      "start": 1849.28,
+      "duration": 9.12,
+      "text": "pre-generated think tags? Do you mean"
+    },
+    {
+      "start": 1852.4,
+      "duration": 7.52,
+      "text": "how is the uh the information inside the"
+    },
+    {
+      "start": 1858.4,
+      "duration": 3.36,
+      "text": "think tags like the thought tags"
+    },
+    {
+      "start": 1859.92,
+      "duration": 5.68,
+      "text": "processed? I think I'm trying to"
+    },
+    {
+      "start": 1861.76,
+      "duration": 6.88,
+      "text": "understand the question but So since"
+    },
+    {
+      "start": 1865.6,
+      "duration": 6.24,
+      "text": "we'll we'll ask um hopefully the person"
+    },
+    {
+      "start": 1868.64,
+      "duration": 5.92,
+      "text": "who asked I think it is patient zero."
+    },
+    {
+      "start": 1871.84,
+      "duration": 5.04,
+      "text": "Yeah, we'll clarify this when they watch"
+    },
+    {
+      "start": 1874.56,
+      "duration": 4.24,
+      "text": "the watch us chat. But I think what"
+    },
+    {
+      "start": 1876.88,
+      "duration": 4.56,
+      "text": "they're talking about is actually that"
+    },
+    {
+      "start": 1878.8,
+      "duration": 4.64,
+      "text": "reasoning uh token, right? So the idea"
+    },
+    {
+      "start": 1881.44,
+      "duration": 4.24,
+      "text": "is that reasoning tokens are used up"
+    },
+    {
+      "start": 1883.44,
+      "duration": 4.56,
+      "text": "when you reason on or when it's thinking"
+    },
+    {
+      "start": 1885.68,
+      "duration": 5.2,
+      "text": "for a particular step. Yes. And I think"
+    },
+    {
+      "start": 1888.0,
+      "duration": 4.72,
+      "text": "in the O series models, it drops the"
+    },
+    {
+      "start": 1890.88,
+      "duration": 4.0,
+      "text": "thinking history right for the next"
+    },
+    {
+      "start": 1892.72,
+      "duration": 4.72,
+      "text": "round. It only takes the tokens for the"
+    },
+    {
+      "start": 1894.88,
+      "duration": 4.56,
+      "text": "current one. Not sure how deepsek works."
+    },
+    {
+      "start": 1897.44,
+      "duration": 4.4,
+      "text": "So what I'm guessing they're asking is"
+    },
+    {
+      "start": 1899.44,
+      "duration": 4.08,
+      "text": "does it maintain like the the think"
+    },
+    {
+      "start": 1901.84,
+      "duration": 5.2,
+      "text": "history that's there does it become part"
+    },
+    {
+      "start": 1903.52,
+      "duration": 5.68,
+      "text": "of the conversation history? I see I"
+    },
+    {
+      "start": 1907.04,
+      "duration": 4.0,
+      "text": "think patient zero has clarifi I mean at"
+    },
+    {
+      "start": 1909.2,
+      "duration": 4.24,
+      "text": "least clarified a little bit more. So"
+    },
+    {
+      "start": 1911.04,
+      "duration": 4.56,
+      "text": "it's he's he or she is asking what does"
+    },
+    {
+      "start": 1913.44,
+      "duration": 5.28,
+      "text": "it do with the content of each think"
+    },
+    {
+      "start": 1915.6,
+      "duration": 4.88,
+      "text": "tag? Uh are they generate generated a"
+    },
+    {
+      "start": 1918.72,
+      "duration": 5.36,
+      "text": "few in they are generated a few in"
+    },
+    {
+      "start": 1920.48,
+      "duration": 6.4,
+      "text": "sequence right? Yeah. So I think with"
+    },
+    {
+      "start": 1924.08,
+      "duration": 5.12,
+      "text": "reasoning models, they're trained to do"
+    },
+    {
+      "start": 1926.88,
+      "duration": 4.4,
+      "text": "things in a step-by-step process. So it"
+    },
+    {
+      "start": 1929.2,
+      "duration": 6.08,
+      "text": "will probably thinking it'll it'll be"
+    },
+    {
+      "start": 1931.28,
+      "duration": 8.0,
+      "text": "thinking again in that same way that the"
+    },
+    {
+      "start": 1935.28,
+      "duration": 6.8,
+      "text": "models do this, you know, are generating"
+    },
+    {
+      "start": 1939.28,
+      "duration": 5.52,
+      "text": "the next token, but they are thinking"
+    },
+    {
+      "start": 1942.08,
+      "duration": 6.32,
+      "text": "more, they've been trained to do it in a"
+    },
+    {
+      "start": 1944.8,
+      "duration": 5.36,
+      "text": "step-by-step manner. So they've been"
+    },
+    {
+      "start": 1948.4,
+      "duration": 6.72,
+      "text": "trained to do that with reinforcement"
+    },
+    {
+      "start": 1950.16,
+      "duration": 7.68,
+      "text": "learning and um I don't think usually"
+    },
+    {
+      "start": 1955.12,
+      "duration": 5.76,
+      "text": "yes the if you actually go back and you"
+    },
+    {
+      "start": 1957.84,
+      "duration": 5.6,
+      "text": "read the thinking the content that was"
+    },
+    {
+      "start": 1960.88,
+      "duration": 4.32,
+      "text": "in the think tags it's super coherent"
+    },
+    {
+      "start": 1963.44,
+      "duration": 4.56,
+      "text": "like you can actually follow how the"
+    },
+    {
+      "start": 1965.2,
+      "duration": 4.64,
+      "text": "model is getting to where it's getting"
+    },
+    {
+      "start": 1968.0,
+      "duration": 3.92,
+      "text": "like you can see the step-by-step"
+    },
+    {
+      "start": 1969.84,
+      "duration": 4.72,
+      "text": "process and I think that's all done with"
+    },
+    {
+      "start": 1971.92,
+      "duration": 5.2,
+      "text": "that reinforcement learning probably"
+    },
+    {
+      "start": 1974.56,
+      "duration": 5.84,
+      "text": "they've shown it other ways that it"
+    },
+    {
+      "start": 1977.12,
+      "duration": 5.76,
+      "text": "thinks uh in in those ways. So yeah, I"
+    },
+    {
+      "start": 1980.4,
+      "duration": 4.08,
+      "text": "hope that answers the question, but I do"
+    },
+    {
+      "start": 1982.88,
+      "duration": 4.24,
+      "text": "think it it thinks in sequence. That's"
+    },
+    {
+      "start": 1984.48,
+      "duration": 4.64,
+      "text": "correct. Yeah, and I was going to say I"
+    },
+    {
+      "start": 1987.12,
+      "duration": 4.72,
+      "text": "think we're over time, but uh just a"
+    },
+    {
+      "start": 1989.12,
+      "duration": 4.4,
+      "text": "couple of quick links. First of all, uh"
+    },
+    {
+      "start": 1991.84,
+      "duration": 3.68,
+      "text": "you can snap the QR code. This is the"
+    },
+    {
+      "start": 1993.52,
+      "duration": 3.76,
+      "text": "lab that Barley Brown had built. It'll"
+    },
+    {
+      "start": 1995.52,
+      "duration": 4.8,
+      "text": "go walk you step by step through that"
+    },
+    {
+      "start": 1997.28,
+      "duration": 4.88,
+      "text": "entire demo that she just did. Uh but"
+    },
+    {
+      "start": 2000.32,
+      "duration": 4.24,
+      "text": "want to give a shout out that next week"
+    },
+    {
+      "start": 2002.16,
+      "duration": 3.76,
+      "text": "on model Mondays we will have Den"
+    },
+    {
+      "start": 2004.56,
+      "duration": 3.6,
+      "text": "Delmarski come and talk to us about"
+    },
+    {
+      "start": 2005.92,
+      "duration": 4.0,
+      "text": "model context protocol. Um this is"
+    },
+    {
+      "start": 2008.16,
+      "duration": 3.92,
+      "text": "probably an area of huge interest to a"
+    },
+    {
+      "start": 2009.92,
+      "duration": 4.0,
+      "text": "lot of people. So if you have questions,"
+    },
+    {
+      "start": 2012.08,
+      "duration": 4.08,
+      "text": "comments, please do post them in our"
+    },
+    {
+      "start": 2013.92,
+      "duration": 4.64,
+      "text": "discord or on the forum uh ahead of"
+    },
+    {
+      "start": 2016.16,
+      "duration": 3.76,
+      "text": "time. But I want to leave with this that"
+    },
+    {
+      "start": 2018.56,
+      "duration": 3.92,
+      "text": "Marlene is actually going to be"
+    },
+    {
+      "start": 2019.92,
+      "duration": 4.8,
+      "text": "available on our discord for our AMA on"
+    },
+    {
+      "start": 2022.48,
+      "duration": 4.0,
+      "text": "Friday. So today we it was kind of the"
+    },
+    {
+      "start": 2024.72,
+      "duration": 3.76,
+      "text": "live stream and we have 30 minutes but"
+    },
+    {
+      "start": 2026.48,
+      "duration": 5.6,
+      "text": "on Friday if you join discord and go to"
+    },
+    {
+      "start": 2028.48,
+      "duration": 5.84,
+      "text": "that link u model Monday right now and"
+    },
+    {
+      "start": 2032.08,
+      "duration": 4.0,
+      "text": "register we'll spend 30 minutes just"
+    },
+    {
+      "start": 2034.32,
+      "duration": 3.68,
+      "text": "literally only talking about reasoning"
+    },
+    {
+      "start": 2036.08,
+      "duration": 4.32,
+      "text": "models and answer all the questions and"
+    },
+    {
+      "start": 2038.0,
+      "duration": 4.4,
+      "text": "also like look at some of the news that"
+    },
+    {
+      "start": 2040.4,
+      "duration": 4.24,
+      "text": "came out like the Apple paper and like"
+    },
+    {
+      "start": 2042.4,
+      "duration": 4.8,
+      "text": "the anthropic architecture and like the"
+    },
+    {
+      "start": 2044.64,
+      "duration": 4.24,
+      "text": "questions you're asking. So um if you"
+    },
+    {
+      "start": 2047.2,
+      "duration": 4.0,
+      "text": "have any other questions or comments"
+    },
+    {
+      "start": 2048.88,
+      "duration": 4.32,
+      "text": "please do leave them for us uh and we'll"
+    },
+    {
+      "start": 2051.2,
+      "duration": 4.24,
+      "text": "try to get back to And with that, uh, is"
+    },
+    {
+      "start": 2053.2,
+      "duration": 3.6,
+      "text": "Charmela here as well? Marlene, any last"
+    },
+    {
+      "start": 2055.44,
+      "duration": 4.88,
+      "text": "thoughts? Why should people be looking"
+    },
+    {
+      "start": 2056.8,
+      "duration": 7.12,
+      "text": "at reasoning models? Uh, no. This this"
+    },
+    {
+      "start": 2060.32,
+      "duration": 5.44,
+      "text": "was great. I think the lab is there. I"
+    },
+    {
+      "start": 2063.92,
+      "duration": 3.76,
+      "text": "feel like reasoning models are so fun to"
+    },
+    {
+      "start": 2065.76,
+      "duration": 5.04,
+      "text": "experiment with. I think it's so cool to"
+    },
+    {
+      "start": 2067.68,
+      "duration": 6.56,
+      "text": "see the the step-by-step process to me"
+    },
+    {
+      "start": 2070.8,
+      "duration": 5.76,
+      "text": "is is really interesting to to watch and"
+    },
+    {
+      "start": 2074.24,
+      "duration": 4.88,
+      "text": "I think that's probably the the furthest"
+    },
+    {
+      "start": 2076.56,
+      "duration": 4.32,
+      "text": "we are in the field at the moment. So,"
+    },
+    {
+      "start": 2079.12,
+      "duration": 3.76,
+      "text": "yes, excited to hopefully see you on"
+    },
+    {
+      "start": 2080.88,
+      "duration": 4.32,
+      "text": "Friday. Please join us on Friday for the"
+    },
+    {
+      "start": 2082.88,
+      "duration": 3.68,
+      "text": "AMA. So yes, please join us on Friday"
+    },
+    {
+      "start": 2085.2,
+      "duration": 4.48,
+      "text": "and don't forget to go check out the"
+    },
+    {
+      "start": 2086.56,
+      "duration": 4.72,
+      "text": "other series that is 54 reasoning on uh"
+    },
+    {
+      "start": 2089.68,
+      "duration": 3.68,
+      "text": "in two weeks from now and model context"
+    },
+    {
+      "start": 2091.28,
+      "duration": 4.16,
+      "text": "protocol next week. Thank you all for"
+    },
+    {
+      "start": 2093.36,
+      "duration": 6.6,
+      "text": "joining us. Thanks everyone. You thank"
+    },
+    {
+      "start": 2095.44,
+      "duration": 4.52,
+      "text": "thanks everyone. Bye bye."
+    }
+  ]
+}

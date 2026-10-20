@@ -1,0 +1,4093 @@
+{
+  "videoId": "dohvGc7eyqU",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:22+00:00",
+  "segments": [
+    {
+      "start": 13.12,
+      "duration": 4.08,
+      "text": "Hello everyone and thank you for joining"
+    },
+    {
+      "start": 14.88,
+      "duration": 3.84,
+      "text": "us for today's session. My name is Danny"
+    },
+    {
+      "start": 17.2,
+      "duration": 4.24,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 18.72,
+      "duration": 4.72,
+      "text": "York Reactor Space. Before we start, I"
+    },
+    {
+      "start": 21.44,
+      "duration": 3.6,
+      "text": "have a few things to go over. Please"
+    },
+    {
+      "start": 23.44,
+      "duration": 4.48,
+      "text": "take a moment to read our code of"
+    },
+    {
+      "start": 25.04,
+      "duration": 4.92,
+      "text": "conduct. We seek to provide a respectful"
+    },
+    {
+      "start": 27.92,
+      "duration": 4.32,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 29.96,
+      "duration": 4.04,
+      "text": "presenters. We encourage engagement in"
+    },
+    {
+      "start": 32.24,
+      "duration": 4.32,
+      "text": "the chat, but please be mindful of"
+    },
+    {
+      "start": 34.0,
+      "duration": 5.44,
+      "text": "viewer commentary. Remain professional"
+    },
+    {
+      "start": 36.56,
+      "duration": 4.44,
+      "text": "and on topic. Useful links will be"
+    },
+    {
+      "start": 39.44,
+      "duration": 4.16,
+      "text": "shared in the"
+    },
+    {
+      "start": 41.0,
+      "duration": 5.8,
+      "text": "chat. The session is recorded and will"
+    },
+    {
+      "start": 43.6,
+      "duration": 5.68,
+      "text": "be available on demand 24 to 48 hours on"
+    },
+    {
+      "start": 46.8,
+      "duration": 4.24,
+      "text": "the Microsoft Reactor YouTube channel."
+    },
+    {
+      "start": 49.28,
+      "duration": 4.08,
+      "text": "Which brings us to today's session."
+    },
+    {
+      "start": 51.04,
+      "duration": 4.24,
+      "text": "It'll run for approximately 1 hour with"
+    },
+    {
+      "start": 53.36,
+      "duration": 3.6,
+      "text": "time for questions throughout. I will"
+    },
+    {
+      "start": 55.28,
+      "duration": 4.68,
+      "text": "now turn it over to our speaker for"
+    },
+    {
+      "start": 56.96,
+      "duration": 3.0,
+      "text": "introductions."
+    },
+    {
+      "start": 61.6,
+      "duration": 4.0,
+      "text": "All right, thank you so much, Danny, and"
+    },
+    {
+      "start": 63.76,
+      "duration": 3.92,
+      "text": "hello everybody. Welcome to Model"
+    },
+    {
+      "start": 65.6,
+      "duration": 3.84,
+      "text": "Mondays. This is the launch of a new"
+    },
+    {
+      "start": 67.68,
+      "duration": 4.4,
+      "text": "series, a weekly series that'll happen"
+    },
+    {
+      "start": 69.44,
+      "duration": 4.88,
+      "text": "Mondays at 1:30 p.m. Eastern time and"
+    },
+    {
+      "start": 72.08,
+      "duration": 4.16,
+      "text": "will run for the next eight weeks. And"
+    },
+    {
+      "start": 74.32,
+      "duration": 4.64,
+      "text": "we have a very simple goal. We want to"
+    },
+    {
+      "start": 76.24,
+      "duration": 5.84,
+      "text": "help you navigate the fastm moving play"
+    },
+    {
+      "start": 78.96,
+      "duration": 4.64,
+      "text": "space of generative AI models. And we"
+    },
+    {
+      "start": 82.08,
+      "duration": 3.04,
+      "text": "actually have a few resources to help"
+    },
+    {
+      "start": 83.6,
+      "duration": 3.44,
+      "text": "you. Don't worry about the slide, you'll"
+    },
+    {
+      "start": 85.12,
+      "duration": 3.6,
+      "text": "get them later. But this is the live"
+    },
+    {
+      "start": 87.04,
+      "duration": 3.2,
+      "text": "stream you're on. We also have a"
+    },
+    {
+      "start": 88.72,
+      "duration": 3.6,
+      "text": "Discord. We'd love to have you join that"
+    },
+    {
+      "start": 90.24,
+      "duration": 4.04,
+      "text": "to continue the conversation. And most"
+    },
+    {
+      "start": 92.32,
+      "duration": 4.08,
+      "text": "importantly, go to"
+    },
+    {
+      "start": 94.28,
+      "duration": 3.56,
+      "text": "ak.ms/modelmunddays for a repo where we"
+    },
+    {
+      "start": 96.4,
+      "duration": 3.8,
+      "text": "will make sure we have all the resources"
+    },
+    {
+      "start": 97.84,
+      "duration": 5.36,
+      "text": "available to you at the end of this uh"
+    },
+    {
+      "start": 100.2,
+      "duration": 5.0,
+      "text": "chat. But first uh my name is Nita"
+    },
+    {
+      "start": 103.2,
+      "duration": 3.76,
+      "text": "Narman. I'm a senior AI advocate on the"
+    },
+    {
+      "start": 105.2,
+      "duration": 3.44,
+      "text": "developer relations team at Microsoft."
+    },
+    {
+      "start": 106.96,
+      "duration": 3.68,
+      "text": "And I want to take a minute to introduce"
+    },
+    {
+      "start": 108.64,
+      "duration": 4.96,
+      "text": "my partner in crime, Chararma. Hi"
+    },
+    {
+      "start": 110.64,
+      "duration": 6.32,
+      "text": "Charmela. Hi Nita. Thank you for so much"
+    },
+    {
+      "start": 113.6,
+      "duration": 5.84,
+      "text": "for that introduction and um I'm Hey"
+    },
+    {
+      "start": 116.96,
+      "duration": 6.16,
+      "text": "everyone, I'm Charma and I'm on the"
+    },
+    {
+      "start": 119.44,
+      "duration": 6.0,
+      "text": "product marketing team and I work pretty"
+    },
+    {
+      "start": 123.12,
+      "duration": 4.4,
+      "text": "much on all the model launches that"
+    },
+    {
+      "start": 125.44,
+      "duration": 5.2,
+      "text": "comes to model catalog and Azure AI"
+    },
+    {
+      "start": 127.52,
+      "duration": 6.32,
+      "text": "foundry and um I work closely with Nita"
+    },
+    {
+      "start": 130.64,
+      "duration": 6.32,
+      "text": "and um we are excited to bring uh these"
+    },
+    {
+      "start": 133.84,
+      "duration": 4.96,
+      "text": "models to you and we are hoping to see"
+    },
+    {
+      "start": 136.96,
+      "duration": 5.04,
+      "text": "you every week and continue the"
+    },
+    {
+      "start": 138.8,
+      "duration": 5.28,
+      "text": "conversations um and make it more"
+    },
+    {
+      "start": 142.0,
+      "duration": 4.72,
+      "text": "interactive."
+    },
+    {
+      "start": 144.08,
+      "duration": 4.64,
+      "text": "Yeah. And just a sneak peek at what's"
+    },
+    {
+      "start": 146.72,
+      "duration": 3.92,
+      "text": "coming over the next eight weeks. We've"
+    },
+    {
+      "start": 148.72,
+      "duration": 4.0,
+      "text": "actually tried to pick out a bunch of"
+    },
+    {
+      "start": 150.64,
+      "duration": 4.32,
+      "text": "models and model categories that I think"
+    },
+    {
+      "start": 152.72,
+      "duration": 3.68,
+      "text": "are really kind of popular right now. So"
+    },
+    {
+      "start": 154.96,
+      "duration": 3.28,
+      "text": "keep an eye out for that. Go to the"
+    },
+    {
+      "start": 156.4,
+      "duration": 5.36,
+      "text": "GitHub repo to get individual links to"
+    },
+    {
+      "start": 158.24,
+      "duration": 4.96,
+      "text": "register. But for a quick second, every"
+    },
+    {
+      "start": 161.76,
+      "duration": 3.92,
+      "text": "one of these episodes is going to be"
+    },
+    {
+      "start": 163.2,
+      "duration": 4.08,
+      "text": "structured in two big segments. First,"
+    },
+    {
+      "start": 165.68,
+      "duration": 3.36,
+      "text": "we'll answer the question, what just"
+    },
+    {
+      "start": 167.28,
+      "duration": 4.64,
+      "text": "happened in the last week in genative AI"
+    },
+    {
+      "start": 169.04,
+      "duration": 4.56,
+      "text": "models? and then we'll deep dive into a"
+    },
+    {
+      "start": 171.92,
+      "duration": 2.96,
+      "text": "single model putting it in the spotlight"
+    },
+    {
+      "start": 173.6,
+      "duration": 3.16,
+      "text": "and make you understand what's"
+    },
+    {
+      "start": 174.88,
+      "duration": 4.08,
+      "text": "happening. So"
+    },
+    {
+      "start": 176.76,
+      "duration": 5.24,
+      "text": "Charma, what are you gonna have for us"
+    },
+    {
+      "start": 178.96,
+      "duration": 5.28,
+      "text": "in the roundup section today? Oh yeah,"
+    },
+    {
+      "start": 182.0,
+      "duration": 5.44,
+      "text": "I'm excited to talk about the roundup."
+    },
+    {
+      "start": 184.24,
+      "duration": 4.88,
+      "text": "So just as Nita said the first section"
+    },
+    {
+      "start": 187.44,
+      "duration": 3.92,
+      "text": "is the roundup where we are going to"
+    },
+    {
+      "start": 189.12,
+      "duration": 4.56,
+      "text": "talk about five things that happened in"
+    },
+    {
+      "start": 191.36,
+      "duration": 5.28,
+      "text": "the world of models um that happened in"
+    },
+    {
+      "start": 193.68,
+      "duration": 5.52,
+      "text": "the last week and uh today's round up we"
+    },
+    {
+      "start": 196.64,
+      "duration": 4.32,
+      "text": "have five exciting models that I want to"
+    },
+    {
+      "start": 199.2,
+      "duration": 4.4,
+      "text": "talk about but even before I go into it"
+    },
+    {
+      "start": 200.96,
+      "duration": 6.0,
+      "text": "I just want to set the um context here"
+    },
+    {
+      "start": 203.6,
+      "duration": 5.2,
+      "text": "like model launches in like last year if"
+    },
+    {
+      "start": 206.96,
+      "duration": 4.0,
+      "text": "you think about it it was like every"
+    },
+    {
+      "start": 208.8,
+      "duration": 5.44,
+      "text": "four to six months we had a new model"
+    },
+    {
+      "start": 210.96,
+      "duration": 5.52,
+      "text": "that uh that came up but now The pace"
+    },
+    {
+      "start": 214.24,
+      "duration": 4.16,
+      "text": "has picked up so much that every four to"
+    },
+    {
+      "start": 216.48,
+      "duration": 5.52,
+      "text": "six days we are coming up with a new"
+    },
+    {
+      "start": 218.4,
+      "duration": 5.36,
+      "text": "model and this innovation is great but"
+    },
+    {
+      "start": 222.0,
+      "duration": 3.68,
+      "text": "at the same time it's a little chaotic"
+    },
+    {
+      "start": 223.76,
+      "duration": 5.2,
+      "text": "and confusing like what model should we"
+    },
+    {
+      "start": 225.68,
+      "duration": 5.28,
+      "text": "use what is our choice and what are the"
+    },
+    {
+      "start": 228.96,
+      "duration": 4.4,
+      "text": "different models out there. So we are"
+    },
+    {
+      "start": 230.96,
+      "duration": 4.8,
+      "text": "hoping to through this roundup to give"
+    },
+    {
+      "start": 233.36,
+      "duration": 4.56,
+      "text": "you that quick snapshot into what"
+    },
+    {
+      "start": 235.76,
+      "duration": 5.28,
+      "text": "happened in the model world um so that"
+    },
+    {
+      "start": 237.92,
+      "duration": 5.76,
+      "text": "you can get that five minute uh"
+    },
+    {
+      "start": 241.04,
+      "duration": 4.0,
+      "text": "information and then later when we do"
+    },
+    {
+      "start": 243.68,
+      "duration": 4.24,
+      "text": "the deep dive you will have more"
+    },
+    {
+      "start": 245.04,
+      "duration": 5.04,
+      "text": "relevance on what model works for you"
+    },
+    {
+      "start": 247.92,
+      "duration": 4.48,
+      "text": "and what choice you need to or what"
+    },
+    {
+      "start": 250.08,
+      "duration": 6.48,
+      "text": "model you need to pick. Uh so let's go"
+    },
+    {
+      "start": 252.4,
+      "duration": 6.48,
+      "text": "to the next slide. Yep."
+    },
+    {
+      "start": 256.56,
+      "duration": 4.48,
+      "text": "Yep. So the first set of models that I"
+    },
+    {
+      "start": 258.88,
+      "duration": 5.6,
+      "text": "want to talk about this week is our very"
+    },
+    {
+      "start": 261.04,
+      "duration": 5.44,
+      "text": "own fi family of models. Now um as you"
+    },
+    {
+      "start": 264.48,
+      "duration": 4.08,
+      "text": "might all know we have a Microsoft"
+    },
+    {
+      "start": 266.48,
+      "duration": 5.12,
+      "text": "research wing and we have a lot of great"
+    },
+    {
+      "start": 268.56,
+      "duration": 7.04,
+      "text": "models that comes out of that that uh"
+    },
+    {
+      "start": 271.6,
+      "duration": 6.16,
+      "text": "that uh side of our business and now and"
+    },
+    {
+      "start": 275.6,
+      "duration": 4.64,
+      "text": "since last year we've been launching all"
+    },
+    {
+      "start": 277.76,
+      "duration": 5.92,
+      "text": "these small language models which comes"
+    },
+    {
+      "start": 280.24,
+      "duration": 6.88,
+      "text": "under the five family and that has got a"
+    },
+    {
+      "start": 283.68,
+      "duration": 6.08,
+      "text": "lot of great um uh you know recognition"
+    },
+    {
+      "start": 287.12,
+      "duration": 5.2,
+      "text": "and um you know adoption just because"
+    },
+    {
+      "start": 289.76,
+      "duration": 5.68,
+      "text": "it's a very small f language model but"
+    },
+    {
+      "start": 292.32,
+      "duration": 5.76,
+      "text": "And for its size, it exceeds its"
+    },
+    {
+      "start": 295.44,
+      "duration": 5.84,
+      "text": "performance. And in that category, just"
+    },
+    {
+      "start": 298.08,
+      "duration": 6.88,
+      "text": "last week, we launched the 54 family of"
+    },
+    {
+      "start": 301.28,
+      "duration": 7.2,
+      "text": "models, both 54 multimodal and 54 mini."
+    },
+    {
+      "start": 304.96,
+      "duration": 6.32,
+      "text": "And 54 multimodel, the best part is it's"
+    },
+    {
+      "start": 308.48,
+      "duration": 5.68,
+      "text": "both visual and audio model. And it does"
+    },
+    {
+      "start": 311.28,
+      "duration": 5.04,
+      "text": "speech, text, and image processing. And"
+    },
+    {
+      "start": 314.16,
+      "duration": 4.48,
+      "text": "it's good u it uses a technique called"
+    },
+    {
+      "start": 316.32,
+      "duration": 6.56,
+      "text": "crossmodel learning. And it's optimized"
+    },
+    {
+      "start": 318.64,
+      "duration": 6.8,
+      "text": "for ondevice execution. And also it is"
+    },
+    {
+      "start": 322.88,
+      "duration": 5.2,
+      "text": "good for scenarios where you know in"
+    },
+    {
+      "start": 325.44,
+      "duration": 5.68,
+      "text": "like edge AI applications where you have"
+    },
+    {
+      "start": 328.08,
+      "duration": 5.44,
+      "text": "like unstable network connections and um"
+    },
+    {
+      "start": 331.12,
+      "duration": 4.96,
+      "text": "you know also in places where"
+    },
+    {
+      "start": 333.52,
+      "duration": 6.32,
+      "text": "confidentiality matters a lot it's good"
+    },
+    {
+      "start": 336.08,
+      "duration": 6.56,
+      "text": "to use these uh five models five family"
+    },
+    {
+      "start": 339.84,
+      "duration": 5.84,
+      "text": "of models and also one of the good"
+    },
+    {
+      "start": 342.64,
+      "duration": 6.64,
+      "text": "things about this five for multimodel is"
+    },
+    {
+      "start": 345.68,
+      "duration": 6.0,
+      "text": "it outperforms even like very popular um"
+    },
+    {
+      "start": 349.28,
+      "duration": 6.88,
+      "text": "multimodal models like whisper 3 and"
+    },
+    {
+      "start": 351.68,
+      "duration": 6.44,
+      "text": "seamless M440 V2 large uh on automatic"
+    },
+    {
+      "start": 356.16,
+      "duration": 4.64,
+      "text": "speech recognition and speech"
+    },
+    {
+      "start": 358.12,
+      "duration": 5.24,
+      "text": "translation. And another notable thing"
+    },
+    {
+      "start": 360.8,
+      "duration": 4.72,
+      "text": "is this particular model was in the top"
+    },
+    {
+      "start": 363.36,
+      "duration": 5.32,
+      "text": "pusher and hugging face leaderboard last"
+    },
+    {
+      "start": 365.52,
+      "duration": 6.0,
+      "text": "week with a word error rate of"
+    },
+    {
+      "start": 368.68,
+      "duration": 5.8,
+      "text": "6.14% which exceeded what was the"
+    },
+    {
+      "start": 371.52,
+      "duration": 5.12,
+      "text": "standard before which was 6.25%."
+    },
+    {
+      "start": 374.48,
+      "duration": 4.68,
+      "text": "And it's also good uh for speech"
+    },
+    {
+      "start": 376.64,
+      "duration": 6.44,
+      "text": "summarization and it's no it is seen to"
+    },
+    {
+      "start": 379.16,
+      "duration": 7.4,
+      "text": "outperform GPT even GPT 40 on speech"
+    },
+    {
+      "start": 383.08,
+      "duration": 5.56,
+      "text": "summarization and 54 mini uh it's also"
+    },
+    {
+      "start": 386.56,
+      "duration": 3.68,
+      "text": "good for like fine-tuning and"
+    },
+    {
+      "start": 388.64,
+      "duration": 3.84,
+      "text": "customization"
+    },
+    {
+      "start": 390.24,
+      "duration": 3.6,
+      "text": "um making it more easier and affordable"
+    },
+    {
+      "start": 392.48,
+      "duration": 3.68,
+      "text": "like especially when you think about"
+    },
+    {
+      "start": 393.84,
+      "duration": 5.44,
+      "text": "fine-tuning and customizing large models"
+    },
+    {
+      "start": 396.16,
+      "duration": 5.92,
+      "text": "affordability becomes a big issue. So uh"
+    },
+    {
+      "start": 399.28,
+      "duration": 6.32,
+      "text": "FI for mini helps with that. Now let's"
+    },
+    {
+      "start": 402.08,
+      "duration": 6.08,
+      "text": "go on to the next one which is our again"
+    },
+    {
+      "start": 405.6,
+      "duration": 5.68,
+      "text": "kind of piggybacking on the Microsoft"
+    },
+    {
+      "start": 408.16,
+      "duration": 6.8,
+      "text": "research topic. We have our very own"
+    },
+    {
+      "start": 411.28,
+      "duration": 6.24,
+      "text": "research um um like we introduced again"
+    },
+    {
+      "start": 414.96,
+      "duration": 5.52,
+      "text": "last week the Azure AI foundry labs"
+    },
+    {
+      "start": 417.52,
+      "duration": 6.56,
+      "text": "where it's our research team bringing"
+    },
+    {
+      "start": 420.48,
+      "duration": 6.72,
+      "text": "cutting edge models to um everyone to"
+    },
+    {
+      "start": 424.08,
+      "duration": 6.24,
+      "text": "like developers to researchers to even"
+    },
+    {
+      "start": 427.2,
+      "duration": 6.08,
+      "text": "like startup founders and enterprise"
+    },
+    {
+      "start": 430.32,
+      "duration": 5.36,
+      "text": "customers bringing them that bleeding"
+    },
+    {
+      "start": 433.28,
+      "duration": 4.64,
+      "text": "edge of AI innovation where they can"
+    },
+    {
+      "start": 435.68,
+      "duration": 4.24,
+      "text": "immediately try out something and"
+    },
+    {
+      "start": 437.92,
+      "duration": 4.56,
+      "text": "prototype it using these this"
+    },
+    {
+      "start": 439.92,
+      "duration": 4.24,
+      "text": "experimental research and speed up the"
+    },
+    {
+      "start": 442.48,
+      "duration": 3.84,
+      "text": "time to market because that's what"
+    },
+    {
+      "start": 444.16,
+      "duration": 5.44,
+      "text": "innovation is all about. And giving"
+    },
+    {
+      "start": 446.32,
+      "duration": 8.04,
+      "text": "these cut uh cutting edge models to um"
+    },
+    {
+      "start": 449.6,
+      "duration": 8.08,
+      "text": "our to everyone we are exposing the um"
+    },
+    {
+      "start": 454.36,
+      "duration": 5.32,
+      "text": "the you know the best-in-class models"
+    },
+    {
+      "start": 457.68,
+      "duration": 5.04,
+      "text": "but then at the same time speeding the"
+    },
+    {
+      "start": 459.68,
+      "duration": 5.12,
+      "text": "time to from prototype to production and"
+    },
+    {
+      "start": 462.72,
+      "duration": 4.24,
+      "text": "in the through Microsoft research we"
+    },
+    {
+      "start": 464.8,
+      "duration": 4.48,
+      "text": "have six new models that came out"
+    },
+    {
+      "start": 466.96,
+      "duration": 4.72,
+      "text": "starting from like atmospheric models"
+    },
+    {
+      "start": 469.28,
+      "duration": 4.8,
+      "text": "multi-agent models autonomistic"
+    },
+    {
+      "start": 471.68,
+      "duration": 4.88,
+      "text": "simulation models and even drug design"
+    },
+    {
+      "start": 474.08,
+      "duration": 5.44,
+      "text": "models. Um, so let's play the video real"
+    },
+    {
+      "start": 476.56,
+      "duration": 4.56,
+      "text": "quick. Just a a quick 40 second video"
+    },
+    {
+      "start": 479.52,
+      "duration": 6.04,
+      "text": "and you will get more information on"
+    },
+    {
+      "start": 481.12,
+      "duration": 4.44,
+      "text": "what this Foundry Labs is about."
+    },
+    {
+      "start": 492.7,
+      "duration": 6.88,
+      "text": "[Music]"
+    },
+    {
+      "start": 503.65,
+      "duration": 21.08,
+      "text": "[Music]"
+    },
+    {
+      "start": 534.84,
+      "duration": 5.8,
+      "text": "Awesome. Now let's move on to our third"
+    },
+    {
+      "start": 537.36,
+      "duration": 5.44,
+      "text": "model of the day which is um okay I'm"
+    },
+    {
+      "start": 540.64,
+      "duration": 4.32,
+      "text": "just waiting for the slide to update."
+    },
+    {
+      "start": 542.8,
+      "duration": 4.48,
+      "text": "Yes that's uh the next category of"
+    },
+    {
+      "start": 544.96,
+      "duration": 4.96,
+      "text": "models I want to talk about is the coher"
+    },
+    {
+      "start": 547.28,
+      "duration": 6.96,
+      "text": "reank model. Um again we launched this"
+    },
+    {
+      "start": 549.92,
+      "duration": 7.44,
+      "text": "last week uh the rerank coher rerank 3.5"
+    },
+    {
+      "start": 554.24,
+      "duration": 5.6,
+      "text": "which is an upgrade to the rerank 3"
+    },
+    {
+      "start": 557.36,
+      "duration": 4.48,
+      "text": "which we launched last year. And the"
+    },
+    {
+      "start": 559.84,
+      "duration": 6.16,
+      "text": "best thing about these rerank models,"
+    },
+    {
+      "start": 561.84,
+      "duration": 8.0,
+      "text": "it's it improves search relevance and by"
+    },
+    {
+      "start": 566.0,
+      "duration": 6.24,
+      "text": "dynamic query time analysis and it op it"
+    },
+    {
+      "start": 569.84,
+      "duration": 4.8,
+      "text": "can optimize all information retrieval"
+    },
+    {
+      "start": 572.24,
+      "duration": 5.44,
+      "text": "workflows in like finance, healthcare"
+    },
+    {
+      "start": 574.64,
+      "duration": 5.48,
+      "text": "and e e-commerce where accurate and"
+    },
+    {
+      "start": 577.68,
+      "duration": 6.08,
+      "text": "efficient search functionality is super"
+    },
+    {
+      "start": 580.12,
+      "duration": 6.6,
+      "text": "critical. And also um it the one thing"
+    },
+    {
+      "start": 583.76,
+      "duration": 6.0,
+      "text": "the the reason why reank models are"
+    },
+    {
+      "start": 586.72,
+      "duration": 5.6,
+      "text": "better than the uh general uh search u"
+    },
+    {
+      "start": 589.76,
+      "duration": 5.52,
+      "text": "methods that are out there is because it"
+    },
+    {
+      "start": 592.32,
+      "duration": 5.84,
+      "text": "considers semantic meaning. It considers"
+    },
+    {
+      "start": 595.28,
+      "duration": 5.84,
+      "text": "user intent and the business rules to"
+    },
+    {
+      "start": 598.16,
+      "duration": 6.0,
+      "text": "optimize search and it also uh one"
+    },
+    {
+      "start": 601.12,
+      "duration": 5.44,
+      "text": "particular um notable thing about coher"
+    },
+    {
+      "start": 604.16,
+      "duration": 4.88,
+      "text": "rank 3.5 is that it understands more"
+    },
+    {
+      "start": 606.56,
+      "duration": 6.0,
+      "text": "than 100 different languages and this is"
+    },
+    {
+      "start": 609.04,
+      "duration": 6.4,
+      "text": "very relevant especially in in a very"
+    },
+    {
+      "start": 612.56,
+      "duration": 5.76,
+      "text": "data siloed world where language barrier"
+    },
+    {
+      "start": 615.44,
+      "duration": 5.36,
+      "text": "is um kind of becomes a very crucial"
+    },
+    {
+      "start": 618.32,
+      "duration": 6.08,
+      "text": "thing and when companies are trying to"
+    },
+    {
+      "start": 620.8,
+      "duration": 6.0,
+      "text": "make s like enterprise search global"
+    },
+    {
+      "start": 624.4,
+      "duration": 4.64,
+      "text": "This reank model kind of levels the"
+    },
+    {
+      "start": 626.8,
+      "duration": 6.4,
+      "text": "playing field for even non-English"
+    },
+    {
+      "start": 629.04,
+      "duration": 6.44,
+      "text": "markets and it is actually 23 as per re"
+    },
+    {
+      "start": 633.2,
+      "duration": 6.4,
+      "text": "uh as per coher it's"
+    },
+    {
+      "start": 635.48,
+      "duration": 7.52,
+      "text": "23.4% better than typical hybrid search"
+    },
+    {
+      "start": 639.6,
+      "duration": 6.64,
+      "text": "and let's go on to the next"
+    },
+    {
+      "start": 643.0,
+      "duration": 5.0,
+      "text": "model. Of course. Um the next model uh I"
+    },
+    {
+      "start": 646.24,
+      "duration": 3.76,
+      "text": "I want to talk about I'm pretty sure"
+    },
+    {
+      "start": 648.0,
+      "duration": 4.16,
+      "text": "anyone in the model world would have"
+    },
+    {
+      "start": 650.0,
+      "duration": 4.88,
+      "text": "would be knowing this mo uh these uh"
+    },
+    {
+      "start": 652.16,
+      "duration": 5.44,
+      "text": "this model provider Deepseek. Um they"
+    },
+    {
+      "start": 654.88,
+      "duration": 6.8,
+      "text": "have taken the whole model industry by"
+    },
+    {
+      "start": 657.6,
+      "duration": 6.4,
+      "text": "uh storm like dis disrupting um what we"
+    },
+    {
+      "start": 661.68,
+      "duration": 4.4,
+      "text": "traditionally thought of in the kind of"
+    },
+    {
+      "start": 664.0,
+      "duration": 5.68,
+      "text": "large large language model space in"
+    },
+    {
+      "start": 666.08,
+      "duration": 6.32,
+      "text": "terms of like compute capacity and um"
+    },
+    {
+      "start": 669.68,
+      "duration": 5.6,
+      "text": "you know uh price to performance ratio."
+    },
+    {
+      "start": 672.4,
+      "duration": 5.52,
+      "text": "Um I don't want to go too much into this"
+    },
+    {
+      "start": 675.28,
+      "duration": 4.88,
+      "text": "model just because I'm guessing this has"
+    },
+    {
+      "start": 677.92,
+      "duration": 4.72,
+      "text": "been top of mind for many folks out"
+    },
+    {
+      "start": 680.16,
+      "duration": 5.12,
+      "text": "there. But what I want to uh talk about"
+    },
+    {
+      "start": 682.64,
+      "duration": 5.2,
+      "text": "is that we have in the Azure AI foundry"
+    },
+    {
+      "start": 685.28,
+      "duration": 6.64,
+      "text": "model catalog we have both deepseek v3"
+    },
+    {
+      "start": 687.84,
+      "duration": 6.96,
+      "text": "and deepseeek r1. And um you know again"
+    },
+    {
+      "start": 691.92,
+      "duration": 4.8,
+      "text": "the idea behind that is to make sure"
+    },
+    {
+      "start": 694.8,
+      "duration": 3.92,
+      "text": "model catalog which which is an AI"
+    },
+    {
+      "start": 696.72,
+      "duration": 4.96,
+      "text": "foundry it becomes like the central"
+    },
+    {
+      "start": 698.72,
+      "duration": 5.84,
+      "text": "marketplace for you to grab any model be"
+    },
+    {
+      "start": 701.68,
+      "duration": 6.0,
+      "text": "it the next cutting edge model or um a"
+    },
+    {
+      "start": 704.56,
+      "duration": 5.76,
+      "text": "very domain specific model or um you"
+    },
+    {
+      "start": 707.68,
+      "duration": 4.64,
+      "text": "know a use case specific model or an"
+    },
+    {
+      "start": 710.32,
+      "duration": 4.56,
+      "text": "industry specific model. We have all"
+    },
+    {
+      "start": 712.32,
+      "duration": 5.04,
+      "text": "that in the model catalog and we want to"
+    },
+    {
+      "start": 714.88,
+      "duration": 4.88,
+      "text": "make sure you get the best when you come"
+    },
+    {
+      "start": 717.36,
+      "duration": 4.16,
+      "text": "to AI foundry model catalog. And of"
+    },
+    {
+      "start": 719.76,
+      "duration": 3.84,
+      "text": "course Nita in the next segment she's"
+    },
+    {
+      "start": 721.52,
+      "duration": 3.52,
+      "text": "going to talk more about how to access"
+    },
+    {
+      "start": 723.6,
+      "duration": 3.28,
+      "text": "all these models. So I'm not going to go"
+    },
+    {
+      "start": 725.04,
+      "duration": 4.64,
+      "text": "into that. Now let's go to the next"
+    },
+    {
+      "start": 726.88,
+      "duration": 6.32,
+      "text": "final model of the day which is the"
+    },
+    {
+      "start": 729.68,
+      "duration": 6.08,
+      "text": "stability AI models. U again a few weeks"
+    },
+    {
+      "start": 733.2,
+      "duration": 5.44,
+      "text": "back we launched this model. Um this was"
+    },
+    {
+      "start": 735.76,
+      "duration": 4.8,
+      "text": "our first image to image model in the"
+    },
+    {
+      "start": 738.64,
+      "duration": 4.24,
+      "text": "model catalog which is the stable"
+    },
+    {
+      "start": 740.56,
+      "duration": 4.16,
+      "text": "diffusion 3.5 large. Along with it we"
+    },
+    {
+      "start": 742.88,
+      "duration": 4.64,
+      "text": "also launched stable image ultra and"
+    },
+    {
+      "start": 744.72,
+      "duration": 5.12,
+      "text": "stable image core. Um of course these"
+    },
+    {
+      "start": 747.52,
+      "duration": 4.72,
+      "text": "are um the best thing about this image"
+    },
+    {
+      "start": 749.84,
+      "duration": 4.88,
+      "text": "to image model is uh you know you can"
+    },
+    {
+      "start": 752.24,
+      "duration": 4.56,
+      "text": "give an input image and give a prompt."
+    },
+    {
+      "start": 754.72,
+      "duration": 3.68,
+      "text": "For example, the image that you see see"
+    },
+    {
+      "start": 756.8,
+      "duration": 4.48,
+      "text": "there with the Easter bunny holding a"
+    },
+    {
+      "start": 758.4,
+      "duration": 5.76,
+      "text": "head holding a head where you see give"
+    },
+    {
+      "start": 761.28,
+      "duration": 5.76,
+      "text": "the prompt of change that input image to"
+    },
+    {
+      "start": 764.16,
+      "duration": 6.16,
+      "text": "a bunny which is a bronze like that of a"
+    },
+    {
+      "start": 767.04,
+      "duration": 5.12,
+      "text": "bronze pendant holding a metallic Easter"
+    },
+    {
+      "start": 770.32,
+      "duration": 3.68,
+      "text": "egg and that's what you see in the"
+    },
+    {
+      "start": 772.16,
+      "duration": 5.04,
+      "text": "second image and the third image the"
+    },
+    {
+      "start": 774.0,
+      "duration": 5.76,
+      "text": "same prompt we changed it to like use"
+    },
+    {
+      "start": 777.2,
+      "duration": 4.64,
+      "text": "instead of a a bronze pendant make it a"
+    },
+    {
+      "start": 779.76,
+      "duration": 3.92,
+      "text": "carved wooden pendant and that's what"
+    },
+    {
+      "start": 781.84,
+      "duration": 5.84,
+      "text": "you see in the third image. So kind of"
+    },
+    {
+      "start": 783.68,
+      "duration": 8.0,
+      "text": "doing those kind of uh changing in style"
+    },
+    {
+      "start": 787.68,
+      "duration": 6.16,
+      "text": "and uh uh content um the updating the"
+    },
+    {
+      "start": 791.68,
+      "duration": 4.88,
+      "text": "content a little bit. That's what you"
+    },
+    {
+      "start": 793.84,
+      "duration": 6.48,
+      "text": "get through these image to image models."
+    },
+    {
+      "start": 796.56,
+      "duration": 7.04,
+      "text": "Um and that's kind of wrapping up the"
+    },
+    {
+      "start": 800.32,
+      "duration": 4.72,
+      "text": "five uh top models that you would want"
+    },
+    {
+      "start": 803.6,
+      "duration": 3.96,
+      "text": "to think about and all these are"
+    },
+    {
+      "start": 805.04,
+      "duration": 5.12,
+      "text": "available in the Azure AI foundry model"
+    },
+    {
+      "start": 807.56,
+      "duration": 4.28,
+      "text": "catalog. Going on handing it over to"
+    },
+    {
+      "start": 810.16,
+      "duration": 3.2,
+      "text": "Nitia. Uh, Nita, do you have any"
+    },
+    {
+      "start": 811.84,
+      "duration": 3.92,
+      "text": "questions of what we just talked about?"
+    },
+    {
+      "start": 813.36,
+      "duration": 3.84,
+      "text": "No, but I I I will say and I know we"
+    },
+    {
+      "start": 815.76,
+      "duration": 3.2,
+      "text": "have a lot to cover, but I will say that"
+    },
+    {
+      "start": 817.2,
+      "duration": 2.96,
+      "text": "I'm super excited about the two things"
+    },
+    {
+      "start": 818.96,
+      "duration": 3.12,
+      "text": "there. So, I actually want to put the"
+    },
+    {
+      "start": 820.16,
+      "duration": 3.44,
+      "text": "slide back up because if you go on all"
+    },
+    {
+      "start": 822.08,
+      "duration": 2.72,
+      "text": "of these, there's a little QR code. If"
+    },
+    {
+      "start": 823.6,
+      "duration": 2.8,
+      "text": "you go there, it'll take you directly to"
+    },
+    {
+      "start": 824.8,
+      "duration": 3.36,
+      "text": "the catalog, so you can go check out the"
+    },
+    {
+      "start": 826.4,
+      "duration": 3.52,
+      "text": "model. I am excited about visual"
+    },
+    {
+      "start": 828.16,
+      "duration": 3.6,
+      "text": "generative AI. I can't wait for the kind"
+    },
+    {
+      "start": 829.92,
+      "duration": 3.76,
+      "text": "of like deep dive spotlight that we get"
+    },
+    {
+      "start": 831.76,
+      "duration": 3.52,
+      "text": "on this. And of course, you reasoning"
+    },
+    {
+      "start": 833.68,
+      "duration": 2.8,
+      "text": "models are coming up next week. So, I'm"
+    },
+    {
+      "start": 835.28,
+      "duration": 4.48,
+      "text": "not going to say much about them right"
+    },
+    {
+      "start": 836.48,
+      "duration": 6.4,
+      "text": "now, but thanks so much. And now I want"
+    },
+    {
+      "start": 839.76,
+      "duration": 4.72,
+      "text": "to dive into GitHub models, right? So,"
+    },
+    {
+      "start": 842.88,
+      "duration": 3.44,
+      "text": "so far you've kind of got a sense of"
+    },
+    {
+      "start": 844.48,
+      "duration": 4.16,
+      "text": "look, there's so many models dropping"
+    },
+    {
+      "start": 846.32,
+      "duration": 3.92,
+      "text": "and this was just in the last week. And"
+    },
+    {
+      "start": 848.64,
+      "duration": 3.6,
+      "text": "over the next eight weeks, we'll go into"
+    },
+    {
+      "start": 850.24,
+      "duration": 5.36,
+      "text": "details of one model at a time, but how"
+    },
+    {
+      "start": 852.24,
+      "duration": 5.12,
+      "text": "do you get skilled up? What if you could"
+    },
+    {
+      "start": 855.6,
+      "duration": 4.24,
+      "text": "start working with models and all you"
+    },
+    {
+      "start": 857.36,
+      "duration": 4.72,
+      "text": "needed was a GitHub account? Welcome to"
+    },
+    {
+      "start": 859.84,
+      "duration": 3.6,
+      "text": "GitHub Models Marketplace. In this"
+    },
+    {
+      "start": 862.08,
+      "duration": 3.84,
+      "text": "segment, we're going to look at what"
+    },
+    {
+      "start": 863.44,
+      "duration": 4.0,
+      "text": "GitHub models marketplace is and how you"
+    },
+    {
+      "start": 865.92,
+      "duration": 3.84,
+      "text": "can get started on a prompt to pro"
+    },
+    {
+      "start": 867.44,
+      "duration": 4.8,
+      "text": "prototype journey using just your GitHub"
+    },
+    {
+      "start": 869.76,
+      "duration": 4.64,
+      "text": "profile. So, all you need for this is a"
+    },
+    {
+      "start": 872.24,
+      "duration": 3.76,
+      "text": "GitHub account and a browser. If you"
+    },
+    {
+      "start": 874.4,
+      "duration": 2.96,
+      "text": "want to follow along with me, go ahead,"
+    },
+    {
+      "start": 876.0,
+      "duration": 2.88,
+      "text": "log into your GitHub account right now"
+    },
+    {
+      "start": 877.36,
+      "duration": 3.56,
+      "text": "and go to that URL at the bottom, which"
+    },
+    {
+      "start": 878.88,
+      "duration": 3.52,
+      "text": "is"
+    },
+    {
+      "start": 880.92,
+      "duration": 3.0,
+      "text": "github.com/marketplace. And let me see"
+    },
+    {
+      "start": 882.4,
+      "duration": 3.12,
+      "text": "if I can actually pull up my browser"
+    },
+    {
+      "start": 883.92,
+      "duration": 3.68,
+      "text": "while I'm at it. And then we're going to"
+    },
+    {
+      "start": 885.52,
+      "duration": 3.52,
+      "text": "walk through. So, here I am. And what"
+    },
+    {
+      "start": 887.6,
+      "duration": 2.96,
+      "text": "I'm going to do is I'm actually I' set"
+    },
+    {
+      "start": 889.04,
+      "duration": 3.36,
+      "text": "some of this stuff up. Hopefully, it'll"
+    },
+    {
+      "start": 890.56,
+      "duration": 3.12,
+      "text": "still stay alive. Uh, but what you're"
+    },
+    {
+      "start": 892.4,
+      "duration": 4.16,
+      "text": "going to do is if you go into GitHub"
+    },
+    {
+      "start": 893.68,
+      "duration": 4.8,
+      "text": "marketplace models, you'll get a screen"
+    },
+    {
+      "start": 896.56,
+      "duration": 3.6,
+      "text": "like this. And you'll notice that I'm"
+    },
+    {
+      "start": 898.48,
+      "duration": 3.68,
+      "text": "logged in with my kind of personal"
+    },
+    {
+      "start": 900.16,
+      "duration": 4.08,
+      "text": "account here. So, what you see is what"
+    },
+    {
+      "start": 902.16,
+      "duration": 4.32,
+      "text": "you get. Now, what I want to do is help"
+    },
+    {
+      "start": 904.24,
+      "duration": 3.44,
+      "text": "you walk through a story of like what"
+    },
+    {
+      "start": 906.48,
+      "duration": 2.48,
+      "text": "does it mean when you're building an"
+    },
+    {
+      "start": 907.68,
+      "duration": 2.96,
+      "text": "application. The very first thing you"
+    },
+    {
+      "start": 908.96,
+      "duration": 3.68,
+      "text": "want to do is discover the right model"
+    },
+    {
+      "start": 910.64,
+      "duration": 4.08,
+      "text": "for you. How can you do that in the"
+    },
+    {
+      "start": 912.64,
+      "duration": 3.76,
+      "text": "GitHub model marketplace? So, the first"
+    },
+    {
+      "start": 914.72,
+      "duration": 4.0,
+      "text": "thing you want to do is go in there and"
+    },
+    {
+      "start": 916.4,
+      "duration": 3.76,
+      "text": "explore the model catalog. So if you go"
+    },
+    {
+      "start": 918.72,
+      "duration": 3.6,
+      "text": "to that, you'll see it says select a"
+    },
+    {
+      "start": 920.16,
+      "duration": 3.44,
+      "text": "model. And if you drop this down, you'll"
+    },
+    {
+      "start": 922.32,
+      "duration": 3.84,
+      "text": "actually see at the bottom something"
+    },
+    {
+      "start": 923.6,
+      "duration": 4.32,
+      "text": "that says view all models. So just keep"
+    },
+    {
+      "start": 926.16,
+      "duration": 3.68,
+      "text": "in mind that you may not have access to"
+    },
+    {
+      "start": 927.92,
+      "duration": 4.64,
+      "text": "all the models in the marketplace, but"
+    },
+    {
+      "start": 929.84,
+      "duration": 5.04,
+      "text": "you can find out what exists and you can"
+    },
+    {
+      "start": 932.56,
+      "duration": 4.0,
+      "text": "use these filters. So I can say charala"
+    },
+    {
+      "start": 934.88,
+      "duration": 3.6,
+      "text": "just mentioned coair. I'm like, I'd like"
+    },
+    {
+      "start": 936.56,
+      "duration": 4.16,
+      "text": "to know what coair models are there. And"
+    },
+    {
+      "start": 938.48,
+      "duration": 4.16,
+      "text": "wait, there are some models in here that"
+    },
+    {
+      "start": 940.72,
+      "duration": 5.68,
+      "text": "will help me with my rag based"
+    },
+    {
+      "start": 942.64,
+      "duration": 6.08,
+      "text": "approaches. Or perhaps I want to say I'd"
+    },
+    {
+      "start": 946.4,
+      "duration": 3.64,
+      "text": "like to know embeddings right for rag"
+    },
+    {
+      "start": 948.72,
+      "duration": 4.56,
+      "text": "what what models can I use for"
+    },
+    {
+      "start": 950.04,
+      "duration": 5.08,
+      "text": "embeddings and here you go I might also"
+    },
+    {
+      "start": 953.28,
+      "duration": 3.36,
+      "text": "be able to use other criteria like I"
+    },
+    {
+      "start": 955.12,
+      "duration": 2.96,
+      "text": "want to see models that have a large"
+    },
+    {
+      "start": 956.64,
+      "duration": 3.04,
+      "text": "context window perhaps a lot of data"
+    },
+    {
+      "start": 958.08,
+      "duration": 4.16,
+      "text": "that I need to provide with my prompt"
+    },
+    {
+      "start": 959.68,
+      "duration": 4.48,
+      "text": "right and you can do that too but when"
+    },
+    {
+      "start": 962.24,
+      "duration": 3.92,
+      "text": "you start trying to explore this on your"
+    },
+    {
+      "start": 964.16,
+      "duration": 4.32,
+      "text": "own remember right now all you had is a"
+    },
+    {
+      "start": 966.16,
+      "duration": 4.96,
+      "text": "GitHub account you want to go back to"
+    },
+    {
+      "start": 968.48,
+      "duration": 6.16,
+      "text": "that root uh page and then pick a model"
+    },
+    {
+      "start": 971.12,
+      "duration": 5.04,
+      "text": "from here So, let me go back to where we"
+    },
+    {
+      "start": 974.64,
+      "duration": 3.52,
+      "text": "were in the slides and say we've"
+    },
+    {
+      "start": 976.16,
+      "duration": 4.0,
+      "text": "discovered models. We know what's"
+    },
+    {
+      "start": 978.16,
+      "duration": 4.08,
+      "text": "existing. Let's take one for a deep"
+    },
+    {
+      "start": 980.16,
+      "duration": 4.48,
+      "text": "dive. So, we're going to pick and I'm"
+    },
+    {
+      "start": 982.24,
+      "duration": 3.6,
+      "text": "going to go with GPT40. And mind you, I"
+    },
+    {
+      "start": 984.64,
+      "duration": 3.6,
+      "text": "could have clicked one of these prompts"
+    },
+    {
+      "start": 985.84,
+      "duration": 4.96,
+      "text": "to get there as well. And let's go ahead"
+    },
+    {
+      "start": 988.24,
+      "duration": 4.8,
+      "text": "and say uh explain the basics of machine"
+    },
+    {
+      "start": 990.8,
+      "duration": 3.76,
+      "text": "learning. Right? So, now with zero"
+    },
+    {
+      "start": 993.04,
+      "duration": 3.68,
+      "text": "effort on my part, all I've done is log"
+    },
+    {
+      "start": 994.56,
+      "duration": 3.76,
+      "text": "in and go to that page. I'm able to go"
+    },
+    {
+      "start": 996.72,
+      "duration": 2.72,
+      "text": "play with these models and I didn't need"
+    },
+    {
+      "start": 998.32,
+      "duration": 2.88,
+      "text": "anything. I didn't need an Azure"
+    },
+    {
+      "start": 999.44,
+      "duration": 3.84,
+      "text": "account. I didn't need anything else."
+    },
+    {
+      "start": 1001.2,
+      "duration": 4.16,
+      "text": "But I can intuitively get a sense of how"
+    },
+    {
+      "start": 1003.28,
+      "duration": 4.96,
+      "text": "this model works. Look, it's answering"
+    },
+    {
+      "start": 1005.36,
+      "duration": 5.76,
+      "text": "this question in great depth, right?"
+    },
+    {
+      "start": 1008.24,
+      "duration": 5.68,
+      "text": "Great. So, we know how this works. But"
+    },
+    {
+      "start": 1011.12,
+      "duration": 4.4,
+      "text": "what's the next step? We've discovered"
+    },
+    {
+      "start": 1013.92,
+      "duration": 4.24,
+      "text": "models, but remember, there are many"
+    },
+    {
+      "start": 1015.52,
+      "duration": 4.48,
+      "text": "models in the GitHub marketplace. What"
+    },
+    {
+      "start": 1018.16,
+      "duration": 4.48,
+      "text": "if I wanted to see which one was better"
+    },
+    {
+      "start": 1020.0,
+      "duration": 4.88,
+      "text": "among the choices? How can I compare two"
+    },
+    {
+      "start": 1022.64,
+      "duration": 4.16,
+      "text": "models? Well, the GitHub model"
+    },
+    {
+      "start": 1024.88,
+      "duration": 3.2,
+      "text": "marketplace has a feature for that. I"
+    },
+    {
+      "start": 1026.8,
+      "duration": 4.0,
+      "text": "know I've picked this one and I want to"
+    },
+    {
+      "start": 1028.08,
+      "duration": 4.96,
+      "text": "see how does this perform compared to I"
+    },
+    {
+      "start": 1030.8,
+      "duration": 5.12,
+      "text": "don't know let's do deepseat because she"
+    },
+    {
+      "start": 1033.04,
+      "duration": 5.12,
+      "text": "mentioned it right and when I do this it"
+    },
+    {
+      "start": 1035.92,
+      "duration": 4.08,
+      "text": "actually sets me up with the same uh"
+    },
+    {
+      "start": 1038.16,
+      "duration": 3.92,
+      "text": "with a kind of sideby-side comparison"
+    },
+    {
+      "start": 1040.0,
+      "duration": 3.2,
+      "text": "I'm going to clear the chat history but"
+    },
+    {
+      "start": 1042.08,
+      "duration": 3.52,
+      "text": "now I can do something really"
+    },
+    {
+      "start": 1043.2,
+      "duration": 4.48,
+      "text": "interesting I can say hey explain the"
+    },
+    {
+      "start": 1045.6,
+      "duration": 4.72,
+      "text": "basics of machine learning but watch"
+    },
+    {
+      "start": 1047.68,
+      "duration": 5.28,
+      "text": "closely I click this and both of them"
+    },
+    {
+      "start": 1050.32,
+      "duration": 5.28,
+      "text": "are synchronized on that prompt and you"
+    },
+    {
+      "start": 1052.96,
+      "duration": 6.24,
+      "text": "can literally see side by side how they"
+    },
+    {
+      "start": 1055.6,
+      "duration": 5.72,
+      "text": "differ. GPD40 is basically going off and"
+    },
+    {
+      "start": 1059.2,
+      "duration": 5.04,
+      "text": "answering the question the way it always"
+    },
+    {
+      "start": 1061.32,
+      "duration": 4.84,
+      "text": "does. Deepseek is thinking through it."
+    },
+    {
+      "start": 1064.24,
+      "duration": 3.68,
+      "text": "It's a reasoning model and you can see"
+    },
+    {
+      "start": 1066.16,
+      "duration": 3.44,
+      "text": "it's thinking, okay, what are you trying"
+    },
+    {
+      "start": 1067.92,
+      "duration": 4.0,
+      "text": "to get at? Let me see what I should do."
+    },
+    {
+      "start": 1069.6,
+      "duration": 4.08,
+      "text": "And it's plotting out it step by step."
+    },
+    {
+      "start": 1071.92,
+      "duration": 4.56,
+      "text": "And if you kind of just watch for a few"
+    },
+    {
+      "start": 1073.68,
+      "duration": 4.56,
+      "text": "seconds, you'll see open uh GPD 40 will"
+    },
+    {
+      "start": 1076.48,
+      "duration": 4.0,
+      "text": "be done and have a result for you and"
+    },
+    {
+      "start": 1078.24,
+      "duration": 4.16,
+      "text": "DeepSQ will probably continue to sync."
+    },
+    {
+      "start": 1080.48,
+      "duration": 3.76,
+      "text": "Now, depending on your use case, one or"
+    },
+    {
+      "start": 1082.4,
+      "duration": 3.12,
+      "text": "the other might be better. For now, I"
+    },
+    {
+      "start": 1084.24,
+      "duration": 2.8,
+      "text": "just wanted to give you a sense of how"
+    },
+    {
+      "start": 1085.52,
+      "duration": 3.28,
+      "text": "that works. So, let's stop this right"
+    },
+    {
+      "start": 1087.04,
+      "duration": 3.6,
+      "text": "now. And looking at it, I'm like, you"
+    },
+    {
+      "start": 1088.8,
+      "duration": 4.16,
+      "text": "know what? I think I'm going to go with"
+    },
+    {
+      "start": 1090.64,
+      "duration": 4.32,
+      "text": "GPT40 for now. So, let's go ahead and"
+    },
+    {
+      "start": 1092.96,
+      "duration": 4.32,
+      "text": "close this out and we'll continue to"
+    },
+    {
+      "start": 1094.96,
+      "duration": 4.48,
+      "text": "work with this. So, now you've seen"
+    },
+    {
+      "start": 1097.28,
+      "duration": 3.76,
+      "text": "feature number two. I can compare two"
+    },
+    {
+      "start": 1099.44,
+      "duration": 3.28,
+      "text": "models on the playground. And by the"
+    },
+    {
+      "start": 1101.04,
+      "duration": 4.56,
+      "text": "way, I forgot to mention it, but you can"
+    },
+    {
+      "start": 1102.72,
+      "duration": 5.76,
+      "text": "actually see, you know, how much uh time"
+    },
+    {
+      "start": 1105.6,
+      "duration": 5.76,
+      "text": "did it take, how much uh kind of tokens"
+    },
+    {
+      "start": 1108.48,
+      "duration": 4.72,
+      "text": "does it use up, etc."
+    },
+    {
+      "start": 1111.36,
+      "duration": 3.04,
+      "text": "So once you've got to this stage and got"
+    },
+    {
+      "start": 1113.2,
+      "duration": 2.48,
+      "text": "an intuitive understanding, let's say"
+    },
+    {
+      "start": 1114.4,
+      "duration": 3.12,
+      "text": "you've decided, okay, I've compared"
+    },
+    {
+      "start": 1115.68,
+      "duration": 4.64,
+      "text": "them, I'm picking this one. What do you"
+    },
+    {
+      "start": 1117.52,
+      "duration": 4.88,
+      "text": "do next? Next, you want to start"
+    },
+    {
+      "start": 1120.32,
+      "duration": 3.36,
+      "text": "prototyping. So the the test prompt that"
+    },
+    {
+      "start": 1122.4,
+      "duration": 2.96,
+      "text": "you put in there was something that was"
+    },
+    {
+      "start": 1123.68,
+      "duration": 3.28,
+      "text": "just there. But let's say you are now"
+    },
+    {
+      "start": 1125.36,
+      "duration": 4.48,
+      "text": "building an application. And your"
+    },
+    {
+      "start": 1126.96,
+      "duration": 4.8,
+      "text": "application is a pirate that's going to"
+    },
+    {
+      "start": 1129.84,
+      "duration": 4.24,
+      "text": "basically talk about the the data in"
+    },
+    {
+      "start": 1131.76,
+      "duration": 5.12,
+      "text": "your enterprise retail store. Maybe"
+    },
+    {
+      "start": 1134.08,
+      "duration": 4.96,
+      "text": "that's your use case. What can you do?"
+    },
+    {
+      "start": 1136.88,
+      "duration": 4.08,
+      "text": "Remember that we picked this model. I'm"
+    },
+    {
+      "start": 1139.04,
+      "duration": 3.2,
+      "text": "going to go ahead and clear it. Now you"
+    },
+    {
+      "start": 1140.96,
+      "duration": 4.32,
+      "text": "can try out this really interesting"
+    },
+    {
+      "start": 1142.24,
+      "duration": 5.12,
+      "text": "feature in GitHub called prompt editor."
+    },
+    {
+      "start": 1145.28,
+      "duration": 4.32,
+      "text": "What does prompt editor do? Prompt"
+    },
+    {
+      "start": 1147.36,
+      "duration": 5.2,
+      "text": "editor actually starts up an app-like"
+    },
+    {
+      "start": 1149.6,
+      "duration": 5.6,
+      "text": "interface that kind of lets you engineer"
+    },
+    {
+      "start": 1152.56,
+      "duration": 4.8,
+      "text": "iteratively your prompt. So let's take a"
+    },
+    {
+      "start": 1155.2,
+      "duration": 3.68,
+      "text": "look at what that looks like. I already"
+    },
+    {
+      "start": 1157.36,
+      "duration": 3.12,
+      "text": "had a system prompt in there. I'm an"
+    },
+    {
+      "start": 1158.88,
+      "duration": 4.0,
+      "text": "assistant who speaks like a pirate. I"
+    },
+    {
+      "start": 1160.48,
+      "duration": 4.0,
+      "text": "respond in limix. And I say your answer"
+    },
+    {
+      "start": 1162.88,
+      "duration": 4.96,
+      "text": "should be presented as short bulleted"
+    },
+    {
+      "start": 1164.48,
+      "duration": 4.88,
+      "text": "list with a maximum of five items."
+    },
+    {
+      "start": 1167.84,
+      "duration": 2.88,
+      "text": "But I'm actually going to show you how"
+    },
+    {
+      "start": 1169.36,
+      "duration": 3.2,
+      "text": "this works first and then show you this"
+    },
+    {
+      "start": 1170.72,
+      "duration": 4.56,
+      "text": "really cool feature. So we can fill in"
+    },
+    {
+      "start": 1172.56,
+      "duration": 5.64,
+      "text": "our system prompt and then I'm going to"
+    },
+    {
+      "start": 1175.28,
+      "duration": 6.64,
+      "text": "go ahead and say uh let's go and run"
+    },
+    {
+      "start": 1178.2,
+      "duration": 6.6,
+      "text": "this or use this model. Oh, sorry. Wait"
+    },
+    {
+      "start": 1181.92,
+      "duration": 4.36,
+      "text": "a second. Looks like I need to update"
+    },
+    {
+      "start": 1184.8,
+      "duration": 3.84,
+      "text": "this"
+    },
+    {
+      "start": 1186.28,
+      "duration": 6.2,
+      "text": "again. Okay, I have to enter a question."
+    },
+    {
+      "start": 1188.64,
+      "duration": 7.28,
+      "text": "So I'm going to say um tell me about uh"
+    },
+    {
+      "start": 1192.48,
+      "duration": 6.08,
+      "text": "the Eiffel Tower."
+    },
+    {
+      "start": 1195.92,
+      "duration": 5.8,
+      "text": "Okay. And now it says run. So I've got"
+    },
+    {
+      "start": 1198.56,
+      "duration": 6.32,
+      "text": "myself a test prompt that reflects my"
+    },
+    {
+      "start": 1201.72,
+      "duration": 6.2,
+      "text": "application and it followed my system"
+    },
+    {
+      "start": 1204.88,
+      "duration": 4.8,
+      "text": "prompt. But wait, remember I wanted to"
+    },
+    {
+      "start": 1207.92,
+      "duration": 3.56,
+      "text": "have this talk like a pirate and this"
+    },
+    {
+      "start": 1209.68,
+      "duration": 3.92,
+      "text": "enterprise retailer selling tour bus"
+    },
+    {
+      "start": 1211.48,
+      "duration": 4.84,
+      "text": "tickets. I can do something really"
+    },
+    {
+      "start": 1213.6,
+      "duration": 5.36,
+      "text": "interesting. I can go ahead and create a"
+    },
+    {
+      "start": 1216.32,
+      "duration": 5.04,
+      "text": "variable. And when I do that, I can edit"
+    },
+    {
+      "start": 1218.96,
+      "duration": 4.24,
+      "text": "this variable and I can fill in the"
+    },
+    {
+      "start": 1221.36,
+      "duration": 4.64,
+      "text": "values. So I can say notam and Eiffel"
+    },
+    {
+      "start": 1223.2,
+      "duration": 5.52,
+      "text": "Tower as an example. And what this does"
+    },
+    {
+      "start": 1226.0,
+      "duration": 4.48,
+      "text": "for me and I save this. What this does"
+    },
+    {
+      "start": 1228.72,
+      "duration": 5.12,
+      "text": "for me is it gives me a standardized"
+    },
+    {
+      "start": 1230.48,
+      "duration": 5.36,
+      "text": "prompt now. And now if I run this, it's"
+    },
+    {
+      "start": 1233.84,
+      "duration": 4.56,
+      "text": "actually going to run this by putting"
+    },
+    {
+      "start": 1235.84,
+      "duration": 5.76,
+      "text": "those two uh variables or filling those"
+    },
+    {
+      "start": 1238.4,
+      "duration": 6.16,
+      "text": "variables in with the data in my uh"
+    },
+    {
+      "start": 1241.6,
+      "duration": 5.2,
+      "text": "stored value. Why is this useful?"
+    },
+    {
+      "start": 1244.56,
+      "duration": 5.2,
+      "text": "Because now I can switch my pro model to"
+    },
+    {
+      "start": 1246.8,
+      "duration": 4.32,
+      "text": "something else. Uh I can take form mini"
+    },
+    {
+      "start": 1249.76,
+      "duration": 3.92,
+      "text": "didn't do anything else and I can go"
+    },
+    {
+      "start": 1251.12,
+      "duration": 4.32,
+      "text": "ahead and engineer this again. But I can"
+    },
+    {
+      "start": 1253.68,
+      "duration": 3.52,
+      "text": "do better. I can go and say please"
+    },
+    {
+      "start": 1255.44,
+      "duration": 2.88,
+      "text": "improve this prompt and say okay what"
+    },
+    {
+      "start": 1257.2,
+      "duration": 8.32,
+      "text": "how would you like to improve I'd like"
+    },
+    {
+      "start": 1258.32,
+      "duration": 7.2,
+      "text": "to improve this by always uh end with R"
+    },
+    {
+      "start": 1265.56,
+      "duration": 3.8,
+      "text": "and and ask a"
+    },
+    {
+      "start": 1269.88,
+      "duration": 5.08,
+      "text": "question right and if I improve this"
+    },
+    {
+      "start": 1272.64,
+      "duration": 5.44,
+      "text": "prompt it says do you want me to use"
+    },
+    {
+      "start": 1274.96,
+      "duration": 5.08,
+      "text": "this improve prompt I say yes now when I"
+    },
+    {
+      "start": 1278.08,
+      "duration": 4.64,
+      "text": "go ahead and run"
+    },
+    {
+      "start": 1280.04,
+      "duration": 5.0,
+      "text": "it I have got it do exactly what I"
+    },
+    {
+      "start": 1282.72,
+      "duration": 4.88,
+      "text": "wanted it to do and iterated the prompt"
+    },
+    {
+      "start": 1285.04,
+      "duration": 5.2,
+      "text": "right in my prompt editor. Now, this is"
+    },
+    {
+      "start": 1287.6,
+      "duration": 4.88,
+      "text": "a super cool feature to help us kind of"
+    },
+    {
+      "start": 1290.24,
+      "duration": 4.0,
+      "text": "figure out iteratively how our"
+    },
+    {
+      "start": 1292.48,
+      "duration": 3.6,
+      "text": "application goes from that very basic"
+    },
+    {
+      "start": 1294.24,
+      "duration": 3.68,
+      "text": "prompt to where we start kind of"
+    },
+    {
+      "start": 1296.08,
+      "duration": 3.48,
+      "text": "engineering a prototype. Now, I should"
+    },
+    {
+      "start": 1297.92,
+      "duration": 4.16,
+      "text": "also point out that if you go into the"
+    },
+    {
+      "start": 1299.56,
+      "duration": 5.32,
+      "text": "playground, you can go ahead and see the"
+    },
+    {
+      "start": 1302.08,
+      "duration": 4.72,
+      "text": "parameters and modify them as well. All"
+    },
+    {
+      "start": 1304.88,
+      "duration": 3.52,
+      "text": "right, so we've kind of got through the"
+    },
+    {
+      "start": 1306.8,
+      "duration": 3.76,
+      "text": "part where we've prototyped something."
+    },
+    {
+      "start": 1308.4,
+      "duration": 3.6,
+      "text": "So, I've got myself a very basic prompt."
+    },
+    {
+      "start": 1310.56,
+      "duration": 3.04,
+      "text": "What do I do next? cuz I'm not going to"
+    },
+    {
+      "start": 1312.0,
+      "duration": 3.76,
+      "text": "be able to ship this playground with my"
+    },
+    {
+      "start": 1313.6,
+      "duration": 5.6,
+      "text": "product, right? What I need is to move"
+    },
+    {
+      "start": 1315.76,
+      "duration": 6.64,
+      "text": "it to code. And this is where GitHub"
+    },
+    {
+      "start": 1319.2,
+      "duration": 5.52,
+      "text": "makes that even easier. So now I've gone"
+    },
+    {
+      "start": 1322.4,
+      "duration": 6.24,
+      "text": "ahead and I basically did my prompt"
+    },
+    {
+      "start": 1324.72,
+      "duration": 6.0,
+      "text": "editor and I say, hey, I'd like to click"
+    },
+    {
+      "start": 1328.64,
+      "duration": 4.0,
+      "text": "use this model and I'd like to actually"
+    },
+    {
+      "start": 1330.72,
+      "duration": 2.76,
+      "text": "get a code version of this. Can you make"
+    },
+    {
+      "start": 1332.64,
+      "duration": 2.8,
+      "text": "it"
+    },
+    {
+      "start": 1333.48,
+      "duration": 3.64,
+      "text": "happen? This is where there are two"
+    },
+    {
+      "start": 1335.44,
+      "duration": 3.2,
+      "text": "things and I want to start one of them"
+    },
+    {
+      "start": 1337.12,
+      "duration": 3.6,
+      "text": "up because it takes a little while to"
+    },
+    {
+      "start": 1338.64,
+      "duration": 4.32,
+      "text": "start up. So, uh, let me see if it's"
+    },
+    {
+      "start": 1340.72,
+      "duration": 5.12,
+      "text": "still alive. Uh, if I actually click run"
+    },
+    {
+      "start": 1342.96,
+      "duration": 5.12,
+      "text": "code space, um, I had it running before,"
+    },
+    {
+      "start": 1345.84,
+      "duration": 4.4,
+      "text": "but it sometimes stops. Okay, it's still"
+    },
+    {
+      "start": 1348.08,
+      "duration": 3.84,
+      "text": "running. So, we'll leave it here and"
+    },
+    {
+      "start": 1350.24,
+      "duration": 3.72,
+      "text": "come back. But I'll I'll show you what"
+    },
+    {
+      "start": 1351.92,
+      "duration": 5.36,
+      "text": "it does. So, when you come into this"
+    },
+    {
+      "start": 1353.96,
+      "duration": 5.24,
+      "text": "part, what you see is it says, okay,"
+    },
+    {
+      "start": 1357.28,
+      "duration": 4.4,
+      "text": "you've got this application, you can"
+    },
+    {
+      "start": 1359.2,
+      "duration": 4.8,
+      "text": "give you a code snippet, but you have an"
+    },
+    {
+      "start": 1361.68,
+      "duration": 4.0,
+      "text": "option. I can pick a language. Most of"
+    },
+    {
+      "start": 1364.0,
+      "duration": 3.36,
+      "text": "the standard languages are there. And I"
+    },
+    {
+      "start": 1365.68,
+      "duration": 4.32,
+      "text": "can pick an SDK. Remember, I'm using an"
+    },
+    {
+      "start": 1367.36,
+      "duration": 4.88,
+      "text": "open AAI model. I can use the open AI"
+    },
+    {
+      "start": 1370.0,
+      "duration": 5.04,
+      "text": "SDK model, sure, and it's going to give"
+    },
+    {
+      "start": 1372.24,
+      "duration": 3.92,
+      "text": "me the code that I can start with, but I"
+    },
+    {
+      "start": 1375.04,
+      "duration": 3.52,
+      "text": "can also switch to something called the"
+    },
+    {
+      "start": 1376.16,
+      "duration": 5.04,
+      "text": "Azure AI inference SDK. And the value"
+    },
+    {
+      "start": 1378.56,
+      "duration": 4.24,
+      "text": "for this is this is an abstraction that"
+    },
+    {
+      "start": 1381.2,
+      "duration": 3.76,
+      "text": "will work with all the models. So I can"
+    },
+    {
+      "start": 1382.8,
+      "duration": 4.48,
+      "text": "write my code once to the Azure AI"
+    },
+    {
+      "start": 1384.96,
+      "duration": 4.4,
+      "text": "inference SDK and it maps to the"
+    },
+    {
+      "start": 1387.28,
+      "duration": 5.36,
+      "text": "underlying SDKs. So it makes it easier"
+    },
+    {
+      "start": 1389.36,
+      "duration": 4.8,
+      "text": "for me to swap my models out later. But"
+    },
+    {
+      "start": 1392.64,
+      "duration": 3.52,
+      "text": "if I want to test this, I can just click"
+    },
+    {
+      "start": 1394.16,
+      "duration": 3.44,
+      "text": "run with code spaces and it will launch"
+    },
+    {
+      "start": 1396.16,
+      "duration": 2.88,
+      "text": "a code space. Now, for me, it says,"
+    },
+    {
+      "start": 1397.6,
+      "duration": 3.52,
+      "text": "\"Would you like to resume the code space"
+    },
+    {
+      "start": 1399.04,
+      "duration": 3.36,
+      "text": "you already have?\" I already have it"
+    },
+    {
+      "start": 1401.12,
+      "duration": 3.68,
+      "text": "over here. So, I'm going to let it go"
+    },
+    {
+      "start": 1402.4,
+      "duration": 4.72,
+      "text": "and stick stick with this. But now, what"
+    },
+    {
+      "start": 1404.8,
+      "duration": 5.04,
+      "text": "I can do is I can actually take this and"
+    },
+    {
+      "start": 1407.12,
+      "duration": 4.8,
+      "text": "fingers crossed that this will work. I"
+    },
+    {
+      "start": 1409.84,
+      "duration": 4.24,
+      "text": "can go ahead and pick up this code that"
+    },
+    {
+      "start": 1411.92,
+      "duration": 4.48,
+      "text": "it gives me. So, let's go and try this"
+    },
+    {
+      "start": 1414.08,
+      "duration": 4.72,
+      "text": "out. Do you see that when I put this in"
+    },
+    {
+      "start": 1416.4,
+      "duration": 5.12,
+      "text": "here, it gives me some code that I can"
+    },
+    {
+      "start": 1418.8,
+      "duration": 5.76,
+      "text": "use. I can go ahead and copy this over"
+    },
+    {
+      "start": 1421.52,
+      "duration": 4.8,
+      "text": "into this code space. I have I think I"
+    },
+    {
+      "start": 1424.56,
+      "duration": 4.72,
+      "text": "might have a sample over here. So here's"
+    },
+    {
+      "start": 1426.32,
+      "duration": 6.16,
+      "text": "from the UI and I can actually just now"
+    },
+    {
+      "start": 1429.28,
+      "duration": 5.84,
+      "text": "before I go into how this works. I copy"
+    },
+    {
+      "start": 1432.48,
+      "duration": 5.84,
+      "text": "that code over and I can run it. So when"
+    },
+    {
+      "start": 1435.12,
+      "duration": 5.92,
+      "text": "I run it now I kind of engineered my"
+    },
+    {
+      "start": 1438.32,
+      "duration": 5.6,
+      "text": "prompt in the playground and I can come"
+    },
+    {
+      "start": 1441.04,
+      "duration": 4.72,
+      "text": "into a code space and now in this code"
+    },
+    {
+      "start": 1443.92,
+      "duration": 4.56,
+      "text": "you can see it's answering the question"
+    },
+    {
+      "start": 1445.76,
+      "duration": 6.4,
+      "text": "right here. So I literally just moved"
+    },
+    {
+      "start": 1448.48,
+      "duration": 5.84,
+      "text": "from a playground into a code in my VS"
+    },
+    {
+      "start": 1452.16,
+      "duration": 3.36,
+      "text": "code editor. So I'm going to come back"
+    },
+    {
+      "start": 1454.32,
+      "duration": 3.84,
+      "text": "and talk to you a little bit about what"
+    },
+    {
+      "start": 1455.52,
+      "duration": 4.76,
+      "text": "that is. But the two things I want you"
+    },
+    {
+      "start": 1458.16,
+      "duration": 4.88,
+      "text": "to take away is the Azure AI inference"
+    },
+    {
+      "start": 1460.28,
+      "duration": 4.76,
+      "text": "SDK capability that this provides out of"
+    },
+    {
+      "start": 1463.04,
+      "duration": 4.8,
+      "text": "the box lets you derisk your model"
+    },
+    {
+      "start": 1465.04,
+      "duration": 5.04,
+      "text": "choice. Second, by moving from here into"
+    },
+    {
+      "start": 1467.84,
+      "duration": 3.68,
+      "text": "code spaces, you can now switch models"
+    },
+    {
+      "start": 1470.08,
+      "duration": 3.6,
+      "text": "and do other things and I'll show you"
+    },
+    {
+      "start": 1471.52,
+      "duration": 3.44,
+      "text": "that in a second. But last but not"
+    },
+    {
+      "start": 1473.68,
+      "duration": 2.56,
+      "text": "least, you will notice that there's"
+    },
+    {
+      "start": 1474.96,
+      "duration": 3.76,
+      "text": "actually a place where you can get a"
+    },
+    {
+      "start": 1476.24,
+      "duration": 4.24,
+      "text": "production key. At this point, you are"
+    },
+    {
+      "start": 1478.72,
+      "duration": 4.0,
+      "text": "still using GitHub models and GitHub"
+    },
+    {
+      "start": 1480.48,
+      "duration": 4.08,
+      "text": "models does have rate limits. It's meant"
+    },
+    {
+      "start": 1482.72,
+      "duration": 4.32,
+      "text": "for you to kind of play with and"
+    },
+    {
+      "start": 1484.56,
+      "duration": 5.12,
+      "text": "understand how things work. But when you"
+    },
+    {
+      "start": 1487.04,
+      "duration": 4.32,
+      "text": "are ready to actually ship, you probably"
+    },
+    {
+      "start": 1489.68,
+      "duration": 4.16,
+      "text": "want to ship to a production environment"
+    },
+    {
+      "start": 1491.36,
+      "duration": 3.92,
+      "text": "that can give you additional guarantees."
+    },
+    {
+      "start": 1493.84,
+      "duration": 3.68,
+      "text": "And this is where you can look at the"
+    },
+    {
+      "start": 1495.28,
+      "duration": 3.84,
+      "text": "Azure AI production key and follow"
+    },
+    {
+      "start": 1497.52,
+      "duration": 2.92,
+      "text": "through that wizard to actually move"
+    },
+    {
+      "start": 1499.12,
+      "duration": 3.76,
+      "text": "your code into"
+    },
+    {
+      "start": 1500.44,
+      "duration": 3.88,
+      "text": "Azure. But last but not least, let's see"
+    },
+    {
+      "start": 1502.88,
+      "duration": 3.36,
+      "text": "if we can actually get time. Let's see"
+    },
+    {
+      "start": 1504.32,
+      "duration": 4.8,
+      "text": "what I'm doing on time. I think I might"
+    },
+    {
+      "start": 1506.24,
+      "duration": 4.88,
+      "text": "have a few minutes. Uh what what do I"
+    },
+    {
+      "start": 1509.12,
+      "duration": 4.08,
+      "text": "what do I do next? So over here develop"
+    },
+    {
+      "start": 1511.12,
+      "duration": 3.44,
+      "text": "using the API. The last thing I want to"
+    },
+    {
+      "start": 1513.2,
+      "duration": 3.12,
+      "text": "show you and we'll come back and talk"
+    },
+    {
+      "start": 1514.56,
+      "duration": 3.12,
+      "text": "about how this GitHub works if we have"
+    },
+    {
+      "start": 1516.32,
+      "duration": 3.6,
+      "text": "time. But I want to just show you one"
+    },
+    {
+      "start": 1517.68,
+      "duration": 4.32,
+      "text": "last thing. There are a couple more. You"
+    },
+    {
+      "start": 1519.92,
+      "duration": 3.84,
+      "text": "can take those QR codes off the bottom"
+    },
+    {
+      "start": 1522.0,
+      "duration": 3.6,
+      "text": "there to go look at it. GitHub also"
+    },
+    {
+      "start": 1523.76,
+      "duration": 3.84,
+      "text": "provides a couple of additional tools."
+    },
+    {
+      "start": 1525.6,
+      "duration": 4.4,
+      "text": "So if you're like me, you might want to"
+    },
+    {
+      "start": 1527.6,
+      "duration": 3.44,
+      "text": "work with the CLI or perhaps you like VS"
+    },
+    {
+      "start": 1530.0,
+      "duration": 3.04,
+      "text": "Code as an editor and you want to"
+    },
+    {
+      "start": 1531.04,
+      "duration": 3.52,
+      "text": "install the extension. They have a"
+    },
+    {
+      "start": 1533.04,
+      "duration": 3.52,
+      "text": "couple of uh tools on their"
+    },
+    {
+      "start": 1534.56,
+      "duration": 4.16,
+      "text": "documentation site that you can try out."
+    },
+    {
+      "start": 1536.56,
+      "duration": 3.84,
+      "text": "Let's see if we can try the GitHub"
+    },
+    {
+      "start": 1538.72,
+      "duration": 3.12,
+      "text": "extension. What this lets you do is you"
+    },
+    {
+      "start": 1540.4,
+      "duration": 4.0,
+      "text": "can actually install the GitHub"
+    },
+    {
+      "start": 1541.84,
+      "duration": 4.16,
+      "text": "extension in your code spaces. I think"
+    },
+    {
+      "start": 1544.4,
+      "duration": 4.16,
+      "text": "I'd already installed it ahead of time."
+    },
+    {
+      "start": 1546.0,
+      "duration": 5.68,
+      "text": "So, let me just make sure. So, uh we can"
+    },
+    {
+      "start": 1548.56,
+      "duration": 6.4,
+      "text": "go ahead and pick that up. It says GH uh"
+    },
+    {
+      "start": 1551.68,
+      "duration": 4.56,
+      "text": "extension install. So, I think I had"
+    },
+    {
+      "start": 1554.96,
+      "duration": 3.28,
+      "text": "actually installed it and it'll tell you"
+    },
+    {
+      "start": 1556.24,
+      "duration": 3.84,
+      "text": "it's already there. And now I can"
+    },
+    {
+      "start": 1558.24,
+      "duration": 4.64,
+      "text": "actually ask it a question. So, I can"
+    },
+    {
+      "start": 1560.08,
+      "duration": 4.88,
+      "text": "say GH models run. Pick a model and then"
+    },
+    {
+      "start": 1562.88,
+      "duration": 6.8,
+      "text": "ask a question. So, I can do this right"
+    },
+    {
+      "start": 1564.96,
+      "duration": 4.72,
+      "text": "here. So I can say GH models"
+    },
+    {
+      "start": 1570.28,
+      "duration": 7.0,
+      "text": "run. I'm so bad at typing. So"
+    },
+    {
+      "start": 1573.72,
+      "duration": 7.32,
+      "text": "sorry. And then I can say uh GPT40 for"
+    },
+    {
+      "start": 1577.28,
+      "duration": 7.44,
+      "text": "example and say tell me about uh what"
+    },
+    {
+      "start": 1581.04,
+      "duration": 6.68,
+      "text": "are the popular attractions in Paris,"
+    },
+    {
+      "start": 1584.72,
+      "duration": 3.0,
+      "text": "right?"
+    },
+    {
+      "start": 1587.84,
+      "duration": 5.92,
+      "text": "And if we got this right, it basically"
+    },
+    {
+      "start": 1590.72,
+      "duration": 6.16,
+      "text": "allows us to get our prompt engineering"
+    },
+    {
+      "start": 1593.76,
+      "duration": 4.8,
+      "text": "done in the command line as well. So now"
+    },
+    {
+      "start": 1596.88,
+      "duration": 3.2,
+      "text": "within the span of 15 minutes, we've"
+    },
+    {
+      "start": 1598.56,
+      "duration": 3.2,
+      "text": "gone from discovering a model on GitHub"
+    },
+    {
+      "start": 1600.08,
+      "duration": 3.2,
+      "text": "marketplace, sorting through and"
+    },
+    {
+      "start": 1601.76,
+      "duration": 3.76,
+      "text": "comparing it with other models to see"
+    },
+    {
+      "start": 1603.28,
+      "duration": 4.0,
+      "text": "how it works for a typical prompt,"
+    },
+    {
+      "start": 1605.52,
+      "duration": 3.68,
+      "text": "taking it into a prompt editor and"
+    },
+    {
+      "start": 1607.28,
+      "duration": 4.32,
+      "text": "reinforcing and iterating on the prompt"
+    },
+    {
+      "start": 1609.2,
+      "duration": 4.56,
+      "text": "template, taking that into code,"
+    },
+    {
+      "start": 1611.6,
+      "duration": 4.32,
+      "text": "bringing the code into my code spaces,"
+    },
+    {
+      "start": 1613.76,
+      "duration": 3.84,
+      "text": "and now I can use code spaces as a"
+    },
+    {
+      "start": 1615.92,
+      "duration": 3.64,
+      "text": "development environment to continue"
+    },
+    {
+      "start": 1617.6,
+      "duration": 4.16,
+      "text": "working and orchestrating more complex"
+    },
+    {
+      "start": 1619.56,
+      "duration": 3.88,
+      "text": "workflows. Now the power of this is"
+    },
+    {
+      "start": 1621.76,
+      "duration": 4.0,
+      "text": "actually through something called a fine"
+    },
+    {
+      "start": 1623.44,
+      "duration": 3.52,
+      "text": "grain access token. Once you set, you"
+    },
+    {
+      "start": 1625.76,
+      "duration": 2.96,
+      "text": "can follow those instructions in the"
+    },
+    {
+      "start": 1626.96,
+      "duration": 3.68,
+      "text": "docs. Once you set up a GitHub token,"
+    },
+    {
+      "start": 1628.72,
+      "duration": 3.92,
+      "text": "what I do is I basically have it"
+    },
+    {
+      "start": 1630.64,
+      "duration": 3.52,
+      "text": "provided access to all my AI project"
+    },
+    {
+      "start": 1632.64,
+      "duration": 3.44,
+      "text": "repositories. So, it's one of the"
+    },
+    {
+      "start": 1634.16,
+      "duration": 3.76,
+      "text": "default environment variables in there."
+    },
+    {
+      "start": 1636.08,
+      "duration": 4.88,
+      "text": "And now I can use GitHub models pretty"
+    },
+    {
+      "start": 1637.92,
+      "duration": 4.8,
+      "text": "much everywhere. So, I think we have a"
+    },
+    {
+      "start": 1640.96,
+      "duration": 4.32,
+      "text": "couple of minutes. Uh, I know I went"
+    },
+    {
+      "start": 1642.72,
+      "duration": 4.4,
+      "text": "through this really rapidly, but I want"
+    },
+    {
+      "start": 1645.28,
+      "duration": 4.24,
+      "text": "to basically have you also follow up on"
+    },
+    {
+      "start": 1647.12,
+      "duration": 4.08,
+      "text": "two things. One, almost every model we"
+    },
+    {
+      "start": 1649.52,
+      "duration": 4.4,
+      "text": "have, we really want to emphasize that"
+    },
+    {
+      "start": 1651.2,
+      "duration": 4.32,
+      "text": "responsible AI matters. And so if you go"
+    },
+    {
+      "start": 1653.92,
+      "duration": 2.88,
+      "text": "into the GitHub documentation, you will"
+    },
+    {
+      "start": 1655.52,
+      "duration": 3.72,
+      "text": "find out what they're doing for"
+    },
+    {
+      "start": 1656.8,
+      "duration": 5.52,
+      "text": "responsible use of GitHub"
+    },
+    {
+      "start": 1659.24,
+      "duration": 4.84,
+      "text": "models. Next week, this was a rapid deep"
+    },
+    {
+      "start": 1662.32,
+      "duration": 3.44,
+      "text": "dive into GitHub models. Next week,"
+    },
+    {
+      "start": 1664.08,
+      "duration": 3.52,
+      "text": "we'll have Jennifer Marsman joining us"
+    },
+    {
+      "start": 1665.76,
+      "duration": 4.0,
+      "text": "to talk about reasoning models. She's"
+    },
+    {
+      "start": 1667.6,
+      "duration": 4.08,
+      "text": "going to do a deep dive into 01 and look"
+    },
+    {
+      "start": 1669.76,
+      "duration": 3.6,
+      "text": "at things like Deepseek and give you a"
+    },
+    {
+      "start": 1671.68,
+      "duration": 3.28,
+      "text": "sense of what reasoning models are and"
+    },
+    {
+      "start": 1673.36,
+      "duration": 4.0,
+      "text": "why you should use them and when you"
+    },
+    {
+      "start": 1674.96,
+      "duration": 3.92,
+      "text": "should not use them. But I'll leave you"
+    },
+    {
+      "start": 1677.36,
+      "duration": 5.2,
+      "text": "with one last thing before we go into"
+    },
+    {
+      "start": 1678.88,
+      "duration": 5.56,
+      "text": "Q&A. Um, this was a fast spotlight"
+    },
+    {
+      "start": 1682.56,
+      "duration": 4.16,
+      "text": "introduction to GitHub models and"
+    },
+    {
+      "start": 1684.44,
+      "duration": 4.6,
+      "text": "marketplace, but there's actually a lot"
+    },
+    {
+      "start": 1686.72,
+      "duration": 4.4,
+      "text": "more that I didn't even get to show you."
+    },
+    {
+      "start": 1689.04,
+      "duration": 4.56,
+      "text": "For instance, there is actually an"
+    },
+    {
+      "start": 1691.12,
+      "duration": 5.2,
+      "text": "extensive set of samples that you can"
+    },
+    {
+      "start": 1693.6,
+      "duration": 5.44,
+      "text": "play with. You can basically go and look"
+    },
+    {
+      "start": 1696.32,
+      "duration": 5.52,
+      "text": "at the GitHub code spaces template and"
+    },
+    {
+      "start": 1699.04,
+      "duration": 5.28,
+      "text": "look at OpenAI uh cookbooks. You can"
+    },
+    {
+      "start": 1701.84,
+      "duration": 4.16,
+      "text": "look at cookbooks for uh Azi inference"
+    },
+    {
+      "start": 1704.32,
+      "duration": 3.68,
+      "text": "SDK. You have a whole lot of starter"
+    },
+    {
+      "start": 1706.0,
+      "duration": 4.48,
+      "text": "code to go from. If you would be"
+    },
+    {
+      "start": 1708.0,
+      "duration": 4.96,
+      "text": "interested in seeing those in action,"
+    },
+    {
+      "start": 1710.48,
+      "duration": 4.0,
+      "text": "come join us at the office hours. So,"
+    },
+    {
+      "start": 1712.96,
+      "duration": 3.92,
+      "text": "the conversation will be happening"
+    },
+    {
+      "start": 1714.48,
+      "duration": 4.56,
+      "text": "Friday. Join us on Discord. That's the"
+    },
+    {
+      "start": 1716.88,
+      "duration": 3.84,
+      "text": "second link in there. Come over to"
+    },
+    {
+      "start": 1719.04,
+      "duration": 3.6,
+      "text": "Discord. We'll hang out. I'm actually"
+    },
+    {
+      "start": 1720.72,
+      "duration": 3.52,
+      "text": "going to take my time there to go"
+    },
+    {
+      "start": 1722.64,
+      "duration": 3.28,
+      "text": "through this and figure out what works,"
+    },
+    {
+      "start": 1724.24,
+      "duration": 3.12,
+      "text": "what didn't, and answer questions. Let's"
+    },
+    {
+      "start": 1725.92,
+      "duration": 3.44,
+      "text": "play with prompts and figure out what we"
+    },
+    {
+      "start": 1727.36,
+      "duration": 4.0,
+      "text": "can do. And everything we talked about"
+    },
+    {
+      "start": 1729.36,
+      "duration": 4.52,
+      "text": "today, the resources will be available."
+    },
+    {
+      "start": 1731.36,
+      "duration": 4.32,
+      "text": "and the third URL which is"
+    },
+    {
+      "start": 1733.88,
+      "duration": 4.92,
+      "text": "ak.ms/modelmunddays. Keep an eye out for"
+    },
+    {
+      "start": 1735.68,
+      "duration": 5.36,
+      "text": "an update later today. And I know I went"
+    },
+    {
+      "start": 1738.8,
+      "duration": 4.64,
+      "text": "really really fast so I kind of missed"
+    },
+    {
+      "start": 1741.04,
+      "duration": 4.64,
+      "text": "all the questions. Uh let's get Charmela"
+    },
+    {
+      "start": 1743.44,
+      "duration": 4.96,
+      "text": "back and then uh we'll take a quick look"
+    },
+    {
+      "start": 1745.68,
+      "duration": 5.6,
+      "text": "at uh what kinds of questions are coming"
+    },
+    {
+      "start": 1748.4,
+      "duration": 4.32,
+      "text": "through. Uh I can't actually see the"
+    },
+    {
+      "start": 1751.28,
+      "duration": 4.08,
+      "text": "comments right now. So was there"
+    },
+    {
+      "start": 1752.72,
+      "duration": 4.8,
+      "text": "anything? Yes. Uh we there was a"
+    },
+    {
+      "start": 1755.36,
+      "duration": 4.64,
+      "text": "question around playground. Uh is the"
+    },
+    {
+      "start": 1757.52,
+      "duration": 5.28,
+      "text": "playground multimodal? And I I see that"
+    },
+    {
+      "start": 1760.0,
+      "duration": 5.92,
+      "text": "uh Lee and uh David have been answering"
+    },
+    {
+      "start": 1762.8,
+      "duration": 4.88,
+      "text": "that, but if you have any top like"
+    },
+    {
+      "start": 1765.92,
+      "duration": 4.0,
+      "text": "anything you want to cover around"
+    },
+    {
+      "start": 1767.68,
+      "duration": 5.28,
+      "text": "playground multimodality, please go"
+    },
+    {
+      "start": 1769.92,
+      "duration": 4.4,
+      "text": "ahead. Oh, you know, I this is why I"
+    },
+    {
+      "start": 1772.96,
+      "duration": 3.28,
+      "text": "need to pre-record some of these. There"
+    },
+    {
+      "start": 1774.32,
+      "duration": 3.44,
+      "text": "was this really cool uh demo I wanted to"
+    },
+    {
+      "start": 1776.24,
+      "duration": 2.4,
+      "text": "show you where you can actually if you"
+    },
+    {
+      "start": 1777.76,
+      "duration": 2.96,
+      "text": "pick so if you're thinking of"
+    },
+    {
+      "start": 1778.64,
+      "duration": 4.56,
+      "text": "multimodality, right? Um you're saying,"
+    },
+    {
+      "start": 1780.72,
+      "duration": 4.4,
+      "text": "can I actually do things like maybe ask"
+    },
+    {
+      "start": 1783.2,
+      "duration": 3.6,
+      "text": "a question with an image? So I think I"
+    },
+    {
+      "start": 1785.12,
+      "duration": 3.92,
+      "text": "is this the one I think I'd shown? Let"
+    },
+    {
+      "start": 1786.8,
+      "duration": 4.08,
+      "text": "me see if I can do this live. So I can"
+    },
+    {
+      "start": 1789.04,
+      "duration": 4.36,
+      "text": "actually for instance upload an image"
+    },
+    {
+      "start": 1790.88,
+      "duration": 5.36,
+      "text": "and say tell me what you"
+    },
+    {
+      "start": 1793.4,
+      "duration": 4.28,
+      "text": "see. Now remember I'll we'll come back"
+    },
+    {
+      "start": 1796.24,
+      "duration": 3.2,
+      "text": "to this. If you go into the model"
+    },
+    {
+      "start": 1797.68,
+      "duration": 3.68,
+      "text": "catalog filter you can actually go in"
+    },
+    {
+      "start": 1799.44,
+      "duration": 3.76,
+      "text": "and look at filter by capability. You"
+    },
+    {
+      "start": 1801.36,
+      "duration": 4.0,
+      "text": "can filter by which models are good for"
+    },
+    {
+      "start": 1803.2,
+      "duration": 3.52,
+      "text": "agents which is good for multimodal etc."
+    },
+    {
+      "start": 1805.36,
+      "duration": 3.04,
+      "text": "But I wanted to give you a sense of how"
+    },
+    {
+      "start": 1806.72,
+      "duration": 3.84,
+      "text": "easy it is for you to like intuitively"
+    },
+    {
+      "start": 1808.4,
+      "duration": 3.84,
+      "text": "try to play with this. Right? So here I"
+    },
+    {
+      "start": 1810.56,
+      "duration": 3.76,
+      "text": "gave it the same screenshot I put on the"
+    },
+    {
+      "start": 1812.24,
+      "duration": 4.32,
+      "text": "screen and it's able to actually render"
+    },
+    {
+      "start": 1814.32,
+      "duration": 4.48,
+      "text": "it and say oh okay these are the links I"
+    },
+    {
+      "start": 1816.56,
+      "duration": 4.32,
+      "text": "see and I can kind of go off and have"
+    },
+    {
+      "start": 1818.8,
+      "duration": 4.24,
+      "text": "conversations around them. If you have"
+    },
+    {
+      "start": 1820.88,
+      "duration": 4.32,
+      "text": "specific questions, please please please"
+    },
+    {
+      "start": 1823.04,
+      "duration": 4.56,
+      "text": "do either put an issue in our GitHub"
+    },
+    {
+      "start": 1825.2,
+      "duration": 4.64,
+      "text": "repo or come over to Discord this"
+    },
+    {
+      "start": 1827.6,
+      "duration": 4.56,
+      "text": "Friday. We will be hanging out uh 1:30"
+    },
+    {
+      "start": 1829.84,
+      "duration": 4.16,
+      "text": "in the afternoon uh Eastern time. But"
+    },
+    {
+      "start": 1832.16,
+      "duration": 3.28,
+      "text": "also there is a model Monday's channel"
+    },
+    {
+      "start": 1834.0,
+      "duration": 3.52,
+      "text": "over there and I'll be hopping over"
+    },
+    {
+      "start": 1835.44,
+      "duration": 4.4,
+      "text": "there after that after today uh to"
+    },
+    {
+      "start": 1837.52,
+      "duration": 5.04,
+      "text": "answer any other questions. Um and yeah,"
+    },
+    {
+      "start": 1839.84,
+      "duration": 4.32,
+      "text": "Charma, anything else I missed? No."
+    },
+    {
+      "start": 1842.56,
+      "duration": 3.28,
+      "text": "Yeah, you did a great job covering"
+    },
+    {
+      "start": 1844.16,
+      "duration": 4.32,
+      "text": "everything. I think even though it was"
+    },
+    {
+      "start": 1845.84,
+      "duration": 5.52,
+      "text": "rapid, I I we a lot of people found it"
+    },
+    {
+      "start": 1848.48,
+      "duration": 4.96,
+      "text": "pretty useful. So that's awesome and yes"
+    },
+    {
+      "start": 1851.36,
+      "duration": 4.72,
+      "text": "everyone please keep coming back every"
+    },
+    {
+      "start": 1853.44,
+      "duration": 4.56,
+      "text": "Monday around the same time and join us"
+    },
+    {
+      "start": 1856.08,
+      "duration": 3.6,
+      "text": "in more sessions. There are going to be"
+    },
+    {
+      "start": 1858.0,
+      "duration": 4.64,
+      "text": "more interesting topics that we want to"
+    },
+    {
+      "start": 1859.68,
+      "duration": 4.96,
+      "text": "cover and as Nita said please let us"
+    },
+    {
+      "start": 1862.64,
+      "duration": 4.64,
+      "text": "know either through the discord channel"
+    },
+    {
+      "start": 1864.64,
+      "duration": 5.44,
+      "text": "or in comments here if what other topics"
+    },
+    {
+      "start": 1867.28,
+      "duration": 4.88,
+      "text": "you would like to see us cover."
+    },
+    {
+      "start": 1870.08,
+      "duration": 4.0,
+      "text": "Absolutely. And please do come hang out"
+    },
+    {
+      "start": 1872.16,
+      "duration": 3.28,
+      "text": "on Discord. I want to hear what you're"
+    },
+    {
+      "start": 1874.08,
+      "duration": 2.64,
+      "text": "doing, what you're working with. Show"
+    },
+    {
+      "start": 1875.44,
+      "duration": 3.2,
+      "text": "and tell what you've kind of played"
+    },
+    {
+      "start": 1876.72,
+      "duration": 5.2,
+      "text": "with. plan, get our models and give us"
+    },
+    {
+      "start": 1878.64,
+      "duration": 4.88,
+      "text": "feedback. Uh, and uh, don't forget, sign"
+    },
+    {
+      "start": 1881.92,
+      "duration": 2.88,
+      "text": "up now because next week we'll be"
+    },
+    {
+      "start": 1883.52,
+      "duration": 3.28,
+      "text": "looking at reasoning models with"
+    },
+    {
+      "start": 1884.8,
+      "duration": 3.92,
+      "text": "Jennifer Marsman. And thank you all for"
+    },
+    {
+      "start": 1886.8,
+      "duration": 3.6,
+      "text": "joining us. And Nita, can you go back to"
+    },
+    {
+      "start": 1888.72,
+      "duration": 3.44,
+      "text": "the other slide with the QR code?"
+    },
+    {
+      "start": 1890.4,
+      "duration": 4.32,
+      "text": "Someone was asking, is there going to be"
+    },
+    {
+      "start": 1892.16,
+      "duration": 4.4,
+      "text": "did you mention office hours? Yes. Yes."
+    },
+    {
+      "start": 1894.72,
+      "duration": 4.4,
+      "text": "So, this is the one slide that I would"
+    },
+    {
+      "start": 1896.56,
+      "duration": 4.08,
+      "text": "say just screenshot and keep it. Um, but"
+    },
+    {
+      "start": 1899.12,
+      "duration": 3.72,
+      "text": "the links at the bottom are there. The"
+    },
+    {
+      "start": 1900.64,
+      "duration": 4.64,
+      "text": "one source you want to go to is"
+    },
+    {
+      "start": 1902.84,
+      "duration": 4.84,
+      "text": "ak.msmodely Monday. If you like the"
+    },
+    {
+      "start": 1905.28,
+      "duration": 4.32,
+      "text": "series, please like it. and fork like it"
+    },
+    {
+      "start": 1907.68,
+      "duration": 3.84,
+      "text": "for now, but I will be putting some of"
+    },
+    {
+      "start": 1909.6,
+      "duration": 3.68,
+      "text": "the examples that I did in there. So,"
+    },
+    {
+      "start": 1911.52,
+      "duration": 3.76,
+      "text": "we'd love to have you fork and actually"
+    },
+    {
+      "start": 1913.28,
+      "duration": 4.48,
+      "text": "try those out yourself. Come to office"
+    },
+    {
+      "start": 1915.28,
+      "duration": 4.24,
+      "text": "hours to find out how. But yes, uh those"
+    },
+    {
+      "start": 1917.76,
+      "duration": 3.12,
+      "text": "are the three links. The live stream,"
+    },
+    {
+      "start": 1919.52,
+      "duration": 2.64,
+      "text": "that first link will take you to a"
+    },
+    {
+      "start": 1920.88,
+      "duration": 3.68,
+      "text": "series page where you'll know where the"
+    },
+    {
+      "start": 1922.16,
+      "duration": 3.92,
+      "text": "next episode is. Discord is where you"
+    },
+    {
+      "start": 1924.56,
+      "duration": 3.36,
+      "text": "can join to come chat with us. And the"
+    },
+    {
+      "start": 1926.08,
+      "duration": 5.44,
+      "text": "repo is where all these resources will"
+    },
+    {
+      "start": 1927.92,
+      "duration": 7.04,
+      "text": "be put in at the end of each day. Yep."
+    },
+    {
+      "start": 1931.52,
+      "duration": 5.2,
+      "text": "Awesome. This is great."
+    },
+    {
+      "start": 1934.96,
+      "duration": 3.92,
+      "text": "Yeah. So, thank you all very much. We"
+    },
+    {
+      "start": 1936.72,
+      "duration": 3.68,
+      "text": "hope you enjoyed it. Uh, and uh, look"
+    },
+    {
+      "start": 1938.88,
+      "duration": 3.36,
+      "text": "forward to seeing you in the next Model"
+    },
+    {
+      "start": 1940.4,
+      "duration": 4.84,
+      "text": "Mondays."
+    },
+    {
+      "start": 1942.24,
+      "duration": 3.0,
+      "text": "Ciao."
+    }
+  ]
+}

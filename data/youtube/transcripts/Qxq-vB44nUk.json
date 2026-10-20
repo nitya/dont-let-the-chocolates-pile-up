@@ -1,0 +1,5508 @@
+{
+  "videoId": "Qxq-vB44nUk",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:00:32+00:00",
+  "segments": [
+    {
+      "start": 2.6,
+      "duration": 4.36,
+      "text": "Hi everyone. Thank you for joining us"
+    },
+    {
+      "start": 4.72,
+      "duration": 4.88,
+      "text": "for our next live stream."
+    },
+    {
+      "start": 6.96,
+      "duration": 4.16,
+      "text": "I'll be your producer for this session."
+    },
+    {
+      "start": 9.6,
+      "duration": 3.36,
+      "text": "Before we start, I do have some quick"
+    },
+    {
+      "start": 11.12,
+      "duration": 3.32,
+      "text": "housekeeping."
+    },
+    {
+      "start": 12.96,
+      "duration": 3.96,
+      "text": "Please take a moment to read our code of"
+    },
+    {
+      "start": 14.44,
+      "duration": 3.88,
+      "text": "conduct."
+    },
+    {
+      "start": 16.92,
+      "duration": 3.0,
+      "text": "We seek to provide a respectful"
+    },
+    {
+      "start": 18.32,
+      "duration": 3.64,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 19.92,
+      "duration": 4.0,
+      "text": "presenters."
+    },
+    {
+      "start": 21.96,
+      "duration": 4.0,
+      "text": "While we absolutely encourage engagement"
+    },
+    {
+      "start": 23.92,
+      "duration": 3.92,
+      "text": "in the chat, we ask that you please be"
+    },
+    {
+      "start": 25.96,
+      "duration": 5.6,
+      "text": "mindful of your commentary, remain"
+    },
+    {
+      "start": 27.84,
+      "duration": 3.72,
+      "text": "professional and on topic."
+    },
+    {
+      "start": 31.76,
+      "duration": 3.56,
+      "text": "Keep an eye on that chat. We'll be"
+    },
+    {
+      "start": 33.44,
+      "duration": 3.76,
+      "text": "dropping helpful links and checking for"
+    },
+    {
+      "start": 35.32,
+      "duration": 4.32,
+      "text": "questions for our presenters to answer"
+    },
+    {
+      "start": 37.2,
+      "duration": 4.72,
+      "text": "live."
+    },
+    {
+      "start": 39.64,
+      "duration": 4.44,
+      "text": "Our session is being recorded. It will"
+    },
+    {
+      "start": 41.92,
+      "duration": 4.96,
+      "text": "be available to view on demand right"
+    },
+    {
+      "start": 44.08,
+      "duration": 4.64,
+      "text": "here on the Reactor channel."
+    },
+    {
+      "start": 46.88,
+      "duration": 3.92,
+      "text": "With that, I'd love to turn it over to"
+    },
+    {
+      "start": 48.72,
+      "duration": 4.56,
+      "text": "our speakers for today. Thank you for"
+    },
+    {
+      "start": 50.8,
+      "duration": 2.48,
+      "text": "joining."
+    },
+    {
+      "start": 53.32,
+      "duration": 4.6,
+      "text": "Thank you, Anna. Thank you for the"
+    },
+    {
+      "start": 54.92,
+      "duration": 5.76,
+      "text": "introduction. And hi everyone."
+    },
+    {
+      "start": 57.92,
+      "duration": 5.52,
+      "text": "Welcome to another episode of Modern"
+    },
+    {
+      "start": 60.68,
+      "duration": 5.96,
+      "text": "Mondays. Actually, welcome to the final"
+    },
+    {
+      "start": 63.44,
+      "duration": 5.56,
+      "text": "episode of season 3 of Modern Mondays. I"
+    },
+    {
+      "start": 66.64,
+      "duration": 5.32,
+      "text": "have the honor today to kind of wrap up"
+    },
+    {
+      "start": 69.0,
+      "duration": 4.88,
+      "text": "uh season 3 of Modern Mondays."
+    },
+    {
+      "start": 71.96,
+      "duration": 4.84,
+      "text": "As you join, let us know where you join"
+    },
+    {
+      "start": 73.88,
+      "duration": 5.64,
+      "text": "from and if it's your first time joining"
+    },
+    {
+      "start": 76.8,
+      "duration": 5.4,
+      "text": "a Modern Mondays episode or if you are"
+    },
+    {
+      "start": 79.52,
+      "duration": 5.4,
+      "text": "sort of familiar with the show already."
+    },
+    {
+      "start": 82.2,
+      "duration": 4.64,
+      "text": "Um and if you have any feedback, of"
+    },
+    {
+      "start": 84.92,
+      "duration": 4.92,
+      "text": "course, please let us know as we are"
+    },
+    {
+      "start": 86.84,
+      "duration": 4.08,
+      "text": "kind of baking new things for the next"
+    },
+    {
+      "start": 89.84,
+      "duration": 3.88,
+      "text": "season."
+    },
+    {
+      "start": 90.92,
+      "duration": 4.84,
+      "text": "Uh I'm Carlotta Salucha. I'm a senior AI"
+    },
+    {
+      "start": 93.72,
+      "duration": 3.92,
+      "text": "advocate in the developer relationship"
+    },
+    {
+      "start": 95.76,
+      "duration": 3.92,
+      "text": "team at Microsoft."
+    },
+    {
+      "start": 97.64,
+      "duration": 4.48,
+      "text": "Uh and I'll be your host for this uh for"
+    },
+    {
+      "start": 99.68,
+      "duration": 5.0,
+      "text": "today's episode. Um if it's the first"
+    },
+    {
+      "start": 102.12,
+      "duration": 4.68,
+      "text": "time for you joining the show, uh Modern"
+    },
+    {
+      "start": 104.68,
+      "duration": 4.16,
+      "text": "Mondays is a series running on Microsoft"
+    },
+    {
+      "start": 106.8,
+      "duration": 4.6,
+      "text": "Reactor every Monday"
+    },
+    {
+      "start": 108.84,
+      "duration": 4.8,
+      "text": "designed with the mission of helping AI"
+    },
+    {
+      "start": 111.4,
+      "duration": 5.08,
+      "text": "engineers and AI developers in the"
+    },
+    {
+      "start": 113.64,
+      "duration": 4.84,
+      "text": "authentic AI model journey and also to"
+    },
+    {
+      "start": 116.48,
+      "duration": 4.72,
+      "text": "stay kind of up-to-date with the latest"
+    },
+    {
+      "start": 118.48,
+      "duration": 5.16,
+      "text": "news from the AI world that these days"
+    },
+    {
+      "start": 121.2,
+      "duration": 4.88,
+      "text": "are, you know, uh sometimes might be a"
+    },
+    {
+      "start": 123.64,
+      "duration": 5.68,
+      "text": "bit might might feel a bit over"
+    },
+    {
+      "start": 126.08,
+      "duration": 5.88,
+      "text": "overwhelming. Um we also host AMAs on"
+    },
+    {
+      "start": 129.32,
+      "duration": 3.48,
+      "text": "Fridays. We are going to have another"
+    },
+    {
+      "start": 131.96,
+      "duration": 4.12,
+      "text": "um"
+    },
+    {
+      "start": 132.8,
+      "duration": 5.8,
+      "text": "AMA this Friday on Microsoft Foundry"
+    },
+    {
+      "start": 136.08,
+      "duration": 5.12,
+      "text": "Discord community, but I'll give you all"
+    },
+    {
+      "start": 138.6,
+      "duration": 5.32,
+      "text": "the details later and Anna will be"
+    },
+    {
+      "start": 141.2,
+      "duration": 4.52,
+      "text": "sharing some useful links uh on the chat"
+    },
+    {
+      "start": 143.92,
+      "duration": 4.64,
+      "text": "as well."
+    },
+    {
+      "start": 145.72,
+      "duration": 6.08,
+      "text": "Uh and I see Nija from New York. Uh I"
+    },
+    {
+      "start": 148.56,
+      "duration": 7.2,
+      "text": "see I see uh Jimmy from Singapore. I'm"
+    },
+    {
+      "start": 151.8,
+      "duration": 6.2,
+      "text": "joining from Italy. Uh it's always uh"
+    },
+    {
+      "start": 155.76,
+      "duration": 3.88,
+      "text": "cool to see all all these people joining"
+    },
+    {
+      "start": 158.0,
+      "duration": 3.16,
+      "text": "from all over the world. Thanks for"
+    },
+    {
+      "start": 159.64,
+      "duration": 3.84,
+      "text": "joining"
+    },
+    {
+      "start": 161.16,
+      "duration": 4.76,
+      "text": "uh today's episode. So, as I mentioned"
+    },
+    {
+      "start": 163.48,
+      "duration": 4.4,
+      "text": "before, today's episode with today's"
+    },
+    {
+      "start": 165.92,
+      "duration": 4.04,
+      "text": "episode we kind of wrap up the third"
+    },
+    {
+      "start": 167.88,
+      "duration": 4.08,
+      "text": "season of Modern Mondays, but don't"
+    },
+    {
+      "start": 169.96,
+      "duration": 5.16,
+      "text": "worry, we are baking great stuff for you"
+    },
+    {
+      "start": 171.96,
+      "duration": 5.76,
+      "text": "post Microsoft Build. Microsoft Build is"
+    },
+    {
+      "start": 175.12,
+      "duration": 5.48,
+      "text": "uh one of the biggest Microsoft events"
+    },
+    {
+      "start": 177.72,
+      "duration": 4.56,
+      "text": "for developers happening uh on the 2nd"
+    },
+    {
+      "start": 180.6,
+      "duration": 4.12,
+      "text": "and 3rd June"
+    },
+    {
+      "start": 182.28,
+      "duration": 4.76,
+      "text": "uh in San Francisco and online, so you"
+    },
+    {
+      "start": 184.72,
+      "duration": 4.2,
+      "text": "can uh kind of catch up with all the"
+    },
+    {
+      "start": 187.04,
+      "duration": 4.72,
+      "text": "sessions uh"
+    },
+    {
+      "start": 188.92,
+      "duration": 5.12,
+      "text": "online as well. Um so, uh for Modern"
+    },
+    {
+      "start": 191.76,
+      "duration": 5.04,
+      "text": "Mondays, stay tuned and keep an eye on"
+    },
+    {
+      "start": 194.04,
+      "duration": 5.44,
+      "text": "the GitHub repo where we post all the"
+    },
+    {
+      "start": 196.8,
+      "duration": 3.92,
+      "text": "content for the series and the Reactor"
+    },
+    {
+      "start": 199.48,
+      "duration": 3.8,
+      "text": "page"
+    },
+    {
+      "start": 200.72,
+      "duration": 5.52,
+      "text": "um so you can, you know, stay up-to-date"
+    },
+    {
+      "start": 203.28,
+      "duration": 5.48,
+      "text": "and uh see all the announcements."
+    },
+    {
+      "start": 206.24,
+      "duration": 4.76,
+      "text": "Um so, for those of you who are familiar"
+    },
+    {
+      "start": 208.76,
+      "duration": 4.72,
+      "text": "with the show, uh today's episode will"
+    },
+    {
+      "start": 211.0,
+      "duration": 5.08,
+      "text": "be a little bit different. It will be"
+    },
+    {
+      "start": 213.48,
+      "duration": 5.64,
+      "text": "everything about tech spotlights. We"
+    },
+    {
+      "start": 216.08,
+      "duration": 6.96,
+      "text": "have two guest speakers showcasing"
+    },
+    {
+      "start": 219.12,
+      "duration": 6.96,
+      "text": "practical demos. Um so,"
+    },
+    {
+      "start": 223.04,
+      "duration": 6.28,
+      "text": "let me uh share the two guest speakers"
+    },
+    {
+      "start": 226.08,
+      "duration": 5.6,
+      "text": "we are going to have today. Um"
+    },
+    {
+      "start": 229.32,
+      "duration": 5.0,
+      "text": "we are going to have, first of all, uh"
+    },
+    {
+      "start": 231.68,
+      "duration": 4.92,
+      "text": "Jianji Li uh walking us through the"
+    },
+    {
+      "start": 234.32,
+      "duration": 4.92,
+      "text": "end-to-end journey of the authentic AI"
+    },
+    {
+      "start": 236.6,
+      "duration": 5.0,
+      "text": "development with Microsoft Foundry"
+    },
+    {
+      "start": 239.24,
+      "duration": 4.68,
+      "text": "Toolkit for Visual Studio Code. And then"
+    },
+    {
+      "start": 241.6,
+      "duration": 6.08,
+      "text": "we are going to talk to Felicia Shaw"
+    },
+    {
+      "start": 243.92,
+      "duration": 5.84,
+      "text": "about observability skills for uh GitHub"
+    },
+    {
+      "start": 247.68,
+      "duration": 5.68,
+      "text": "Copilot."
+    },
+    {
+      "start": 249.76,
+      "duration": 5.68,
+      "text": "Uh okay, I see much I I see lots of uh a"
+    },
+    {
+      "start": 253.36,
+      "duration": 4.24,
+      "text": "few comments in the chat, people sharing"
+    },
+    {
+      "start": 255.44,
+      "duration": 3.64,
+      "text": "where they are uh joining from."
+    },
+    {
+      "start": 257.6,
+      "duration": 2.04,
+      "text": "Düsseldorf,"
+    },
+    {
+      "start": 259.08,
+      "duration": 3.72,
+      "text": "uh"
+    },
+    {
+      "start": 259.64,
+      "duration": 6.36,
+      "text": "Kampala, Uganda, Phoenix, uh Bermuda."
+    },
+    {
+      "start": 262.8,
+      "duration": 6.4,
+      "text": "Well, wonderful. Thank you so much. Um"
+    },
+    {
+      "start": 266.0,
+      "duration": 6.76,
+      "text": "okay, so let's get started."
+    },
+    {
+      "start": 269.2,
+      "duration": 5.92,
+      "text": "As I said, um we are going to start with"
+    },
+    {
+      "start": 272.76,
+      "duration": 4.76,
+      "text": "um the Foundry um building agents with"
+    },
+    {
+      "start": 275.12,
+      "duration": 4.6,
+      "text": "Foundry Toolkit for Visual Studio Code."
+    },
+    {
+      "start": 277.52,
+      "duration": 5.24,
+      "text": "Um unfortunately, Jianji couldn't join"
+    },
+    {
+      "start": 279.72,
+      "duration": 6.12,
+      "text": "us today live as it's night where he"
+    },
+    {
+      "start": 282.76,
+      "duration": 4.84,
+      "text": "lives. Um but he shared with us a"
+    },
+    {
+      "start": 285.84,
+      "duration": 4.56,
+      "text": "beautiful practical demo that we are"
+    },
+    {
+      "start": 287.6,
+      "duration": 5.32,
+      "text": "going to watch uh in a minute. Uh Jianji"
+    },
+    {
+      "start": 290.4,
+      "duration": 4.72,
+      "text": "is a senior PM in Microsoft developer"
+    },
+    {
+      "start": 292.92,
+      "duration": 5.56,
+      "text": "division and he's part of the Microsoft"
+    },
+    {
+      "start": 295.12,
+      "duration": 5.0,
+      "text": "Foundry Toolkit product group. Um you're"
+    },
+    {
+      "start": 298.48,
+      "duration": 4.84,
+      "text": "going to you're going to have the chance"
+    },
+    {
+      "start": 300.12,
+      "duration": 5.72,
+      "text": "to meet him live on Discord on Friday,"
+    },
+    {
+      "start": 303.32,
+      "duration": 4.84,
+      "text": "so make sure to, you know, um"
+    },
+    {
+      "start": 305.84,
+      "duration": 4.6,
+      "text": "join the Microsoft Foundry Discord"
+    },
+    {
+      "start": 308.16,
+      "duration": 5.32,
+      "text": "community and join us on Friday so you"
+    },
+    {
+      "start": 310.44,
+      "duration": 3.88,
+      "text": "can talk to him directly. Um"
+    },
+    {
+      "start": 313.48,
+      "duration": 3.68,
+      "text": "uh"
+    },
+    {
+      "start": 314.32,
+      "duration": 6.2,
+      "text": "but again, today uh we have a very nice"
+    },
+    {
+      "start": 317.16,
+      "duration": 3.92,
+      "text": "demo uh he recorded for us. But before"
+    },
+    {
+      "start": 320.52,
+      "duration": 2.6,
+      "text": "um"
+    },
+    {
+      "start": 321.08,
+      "duration": 3.88,
+      "text": "before watching it,"
+    },
+    {
+      "start": 323.12,
+      "duration": 4.64,
+      "text": "uh for those of you who might have"
+    },
+    {
+      "start": 324.96,
+      "duration": 4.32,
+      "text": "missed the news last week, let me share"
+    },
+    {
+      "start": 327.76,
+      "duration": 5.4,
+      "text": "that um"
+    },
+    {
+      "start": 329.28,
+      "duration": 6.72,
+      "text": "we um announced the general availability"
+    },
+    {
+      "start": 333.16,
+      "duration": 5.48,
+      "text": "of Microsoft Foundry uh Toolkit for"
+    },
+    {
+      "start": 336.0,
+      "duration": 4.76,
+      "text": "Visual Studio Code. Um so, the extension"
+    },
+    {
+      "start": 338.64,
+      "duration": 5.36,
+      "text": "was previously known with the name of"
+    },
+    {
+      "start": 340.76,
+      "duration": 5.32,
+      "text": "the AI Toolkit. Uh so, uh you might be"
+    },
+    {
+      "start": 344.0,
+      "duration": 5.44,
+      "text": "familiar with that name. Uh and by the"
+    },
+    {
+      "start": 346.08,
+      "duration": 4.64,
+      "text": "way, I'm I'm very curious if anyone here"
+    },
+    {
+      "start": 349.44,
+      "duration": 4.52,
+      "text": "uh has any"
+    },
+    {
+      "start": 350.72,
+      "duration": 6.08,
+      "text": "um you know, is familiar already with"
+    },
+    {
+      "start": 353.96,
+      "duration": 5.8,
+      "text": "uh with this extension uh and if so, let"
+    },
+    {
+      "start": 356.8,
+      "duration": 6.44,
+      "text": "us know um if you used it in your in"
+    },
+    {
+      "start": 359.76,
+      "duration": 6.24,
+      "text": "your projects and how how you used it."
+    },
+    {
+      "start": 363.24,
+      "duration": 5.28,
+      "text": "Um so, the new name Microsoft Foundry"
+    },
+    {
+      "start": 366.0,
+      "duration": 4.8,
+      "text": "Toolkit for Visual Studio Code reflects"
+    },
+    {
+      "start": 368.52,
+      "duration": 4.68,
+      "text": "uh where we are heading to. Um so, a"
+    },
+    {
+      "start": 370.8,
+      "duration": 5.24,
+      "text": "single unified developer experience"
+    },
+    {
+      "start": 373.2,
+      "duration": 4.68,
+      "text": "within your IDE, Visual Studio Code, uh"
+    },
+    {
+      "start": 376.04,
+      "duration": 4.36,
+      "text": "for everything on the Microsoft Foundry"
+    },
+    {
+      "start": 377.88,
+      "duration": 3.92,
+      "text": "platform. Um"
+    },
+    {
+      "start": 380.4,
+      "duration": 3.84,
+      "text": "and um"
+    },
+    {
+      "start": 381.8,
+      "duration": 5.76,
+      "text": "let me share also some uh useful"
+    },
+    {
+      "start": 384.24,
+      "duration": 5.48,
+      "text": "resources so you can uh see all the uh"
+    },
+    {
+      "start": 387.56,
+      "duration": 4.28,
+      "text": "all the details. Uh so, first of all, to"
+    },
+    {
+      "start": 389.72,
+      "duration": 5.16,
+      "text": "install the extension, which might be,"
+    },
+    {
+      "start": 391.84,
+      "duration": 5.36,
+      "text": "you know, your kind of first step, um"
+    },
+    {
+      "start": 394.88,
+      "duration": 5.32,
+      "text": "you can follow this link in here,"
+    },
+    {
+      "start": 397.2,
+      "duration": 3.0,
+      "text": "aka.ms/foundrytk."
+    },
+    {
+      "start": 400.44,
+      "duration": 3.8,
+      "text": "Again, all these links will be shared in"
+    },
+    {
+      "start": 402.0,
+      "duration": 5.08,
+      "text": "the chat as well. Um"
+    },
+    {
+      "start": 404.24,
+      "duration": 4.84,
+      "text": "and then if you want to read, um there's"
+    },
+    {
+      "start": 407.08,
+      "duration": 5.04,
+      "text": "a couple of blogs that you might want to"
+    },
+    {
+      "start": 409.08,
+      "duration": 6.72,
+      "text": "read um that we published last week. One"
+    },
+    {
+      "start": 412.12,
+      "duration": 5.76,
+      "text": "is the uh GA announcement blog and there"
+    },
+    {
+      "start": 415.8,
+      "duration": 4.48,
+      "text": "that contains, you know, a few other uh"
+    },
+    {
+      "start": 417.88,
+      "duration": 4.64,
+      "text": "useful resources for you to get started"
+    },
+    {
+      "start": 420.28,
+      "duration": 5.48,
+      "text": "and also the deep dive blog where you're"
+    },
+    {
+      "start": 422.52,
+      "duration": 6.6,
+      "text": "going to find some more uh"
+    },
+    {
+      "start": 425.76,
+      "duration": 6.4,
+      "text": "detailed um descriptions of the latest"
+    },
+    {
+      "start": 429.12,
+      "duration": 4.92,
+      "text": "and greatest features released in the uh"
+    },
+    {
+      "start": 432.16,
+      "duration": 6.12,
+      "text": "latest release of the Microsoft Foundry"
+    },
+    {
+      "start": 434.04,
+      "duration": 6.72,
+      "text": "Toolkit for Visual Studio Code. Um okay,"
+    },
+    {
+      "start": 438.28,
+      "duration": 4.92,
+      "text": "uh enough talking. Let let me roll uh"
+    },
+    {
+      "start": 440.76,
+      "duration": 5.32,
+      "text": "the video out and then after that, I'll"
+    },
+    {
+      "start": 443.2,
+      "duration": 4.56,
+      "text": "try answering a few questions. Um"
+    },
+    {
+      "start": 446.08,
+      "duration": 4.44,
+      "text": "so, if you have some questions, feel"
+    },
+    {
+      "start": 447.76,
+      "duration": 4.2,
+      "text": "free to post them in the in the chat. Uh"
+    },
+    {
+      "start": 450.52,
+      "duration": 4.08,
+      "text": "I'll try answering a few questions in"
+    },
+    {
+      "start": 451.96,
+      "duration": 5.84,
+      "text": "the live streaming and then uh I will"
+    },
+    {
+      "start": 454.6,
+      "duration": 6.16,
+      "text": "collect a few other questions for Jianji"
+    },
+    {
+      "start": 457.8,
+      "duration": 4.92,
+      "text": "uh to respond to you directly uh during"
+    },
+    {
+      "start": 460.76,
+      "duration": 3.36,
+      "text": "the Foundry discussion we are going to"
+    },
+    {
+      "start": 462.72,
+      "duration": 5.56,
+      "text": "have on Friday."
+    },
+    {
+      "start": 464.12,
+      "duration": 4.16,
+      "text": "Uh but now, let's roll the video out."
+    },
+    {
+      "start": 468.88,
+      "duration": 3.48,
+      "text": "Jianji, sorry I can"
+    },
+    {
+      "start": 473.04,
+      "duration": 5.4,
+      "text": "cannot join you on the live event. I"
+    },
+    {
+      "start": 475.64,
+      "duration": 5.6,
+      "text": "want to share"
+    },
+    {
+      "start": 478.44,
+      "duration": 5.08,
+      "text": "the demo with all of you for Foundry"
+    },
+    {
+      "start": 481.24,
+      "duration": 4.68,
+      "text": "Toolkit for Visual Studio Code."
+    },
+    {
+      "start": 483.52,
+      "duration": 5.28,
+      "text": "So, if you have heard AI Toolkit"
+    },
+    {
+      "start": 485.92,
+      "duration": 5.04,
+      "text": "um before, now we are evolving AI"
+    },
+    {
+      "start": 488.8,
+      "duration": 4.4,
+      "text": "Toolkit and we branded that to Foundry"
+    },
+    {
+      "start": 490.96,
+      "duration": 4.2,
+      "text": "Toolkit for Visual Studio Code. This"
+    },
+    {
+      "start": 493.2,
+      "duration": 5.96,
+      "text": "kind of indicates where we are headed"
+    },
+    {
+      "start": 495.16,
+      "duration": 5.68,
+      "text": "for. We are uh heavily optimized for"
+    },
+    {
+      "start": 499.16,
+      "duration": 4.6,
+      "text": "Foundry platform now."
+    },
+    {
+      "start": 500.84,
+      "duration": 5.0,
+      "text": "So, today I would love to give you a"
+    },
+    {
+      "start": 503.76,
+      "duration": 3.72,
+      "text": "comprehensive walk-through on what's the"
+    },
+    {
+      "start": 505.84,
+      "duration": 4.76,
+      "text": "new capability"
+    },
+    {
+      "start": 507.48,
+      "duration": 6.24,
+      "text": "here. So, first of all, Foundry Toolkit"
+    },
+    {
+      "start": 510.6,
+      "duration": 5.12,
+      "text": "um is a VS Code extension. Um so, you"
+    },
+    {
+      "start": 513.72,
+      "duration": 3.6,
+      "text": "can install the Foundry Toolkit from"
+    },
+    {
+      "start": 515.72,
+      "duration": 4.08,
+      "text": "Visual Studio Code extension"
+    },
+    {
+      "start": 517.32,
+      "duration": 4.88,
+      "text": "marketplace. If you simply search Visual"
+    },
+    {
+      "start": 519.8,
+      "duration": 5.88,
+      "text": "Studio Code, you will see this page and"
+    },
+    {
+      "start": 522.2,
+      "duration": 5.2,
+      "text": "then you can install into"
+    },
+    {
+      "start": 525.68,
+      "duration": 2.56,
+      "text": "your Visual Studio Code."
+    },
+    {
+      "start": 527.4,
+      "duration": 3.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 528.24,
+      "duration": 5.52,
+      "text": "Now, let's switch to the primary view of"
+    },
+    {
+      "start": 531.08,
+      "duration": 5.0,
+      "text": "Foundry Toolkit. This is where all the"
+    },
+    {
+      "start": 533.76,
+      "duration": 4.88,
+      "text": "interactions and features"
+    },
+    {
+      "start": 536.08,
+      "duration": 5.48,
+      "text": "are are being built for. So, you will"
+    },
+    {
+      "start": 538.64,
+      "duration": 5.6,
+      "text": "see two primary sections. One is called"
+    },
+    {
+      "start": 541.56,
+      "duration": 5.56,
+      "text": "my resources. Those are the resources"
+    },
+    {
+      "start": 544.24,
+      "duration": 6.08,
+      "text": "that you interact with the tools or"
+    },
+    {
+      "start": 547.12,
+      "duration": 5.6,
+      "text": "added to the tools and you can have easy"
+    },
+    {
+      "start": 550.32,
+      "duration": 4.32,
+      "text": "and quick access here. For example, this"
+    },
+    {
+      "start": 552.72,
+      "duration": 5.16,
+      "text": "is my"
+    },
+    {
+      "start": 554.64,
+      "duration": 6.96,
+      "text": "um Foundry project. I can easily access"
+    },
+    {
+      "start": 557.88,
+      "duration": 7.12,
+      "text": "all my models and prompt agents I built,"
+    },
+    {
+      "start": 561.6,
+      "duration": 4.48,
+      "text": "workflows and hosted agents, etc. Yeah,"
+    },
+    {
+      "start": 565.0,
+      "duration": 3.44,
+      "text": "it has"
+    },
+    {
+      "start": 566.08,
+      "duration": 5.48,
+      "text": "uh a lot of other things as well. For"
+    },
+    {
+      "start": 568.44,
+      "duration": 5.28,
+      "text": "example, local resources that you added,"
+    },
+    {
+      "start": 571.56,
+      "duration": 5.52,
+      "text": "for example, the local"
+    },
+    {
+      "start": 573.72,
+      "duration": 4.12,
+      "text": "uh models that you added to the tool."
+    },
+    {
+      "start": 577.08,
+      "duration": 3.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 577.84,
+      "duration": 5.4,
+      "text": "And the developer tools section are the"
+    },
+    {
+      "start": 580.4,
+      "duration": 5.08,
+      "text": "places you will be using most"
+    },
+    {
+      "start": 583.24,
+      "duration": 4.84,
+      "text": "frequently. This is how all the features"
+    },
+    {
+      "start": 585.48,
+      "duration": 5.36,
+      "text": "are located. We can take a quick tour"
+    },
+    {
+      "start": 588.08,
+      "duration": 5.4,
+      "text": "from here. So, in the discover tab, we"
+    },
+    {
+      "start": 590.84,
+      "duration": 6.2,
+      "text": "have two catalogs that you can browse."
+    },
+    {
+      "start": 593.48,
+      "duration": 5.76,
+      "text": "One is model catalog and another one is"
+    },
+    {
+      "start": 597.04,
+      "duration": 4.2,
+      "text": "tool catalog. Tool catalog"
+    },
+    {
+      "start": 599.24,
+      "duration": 5.08,
+      "text": "um is a"
+    },
+    {
+      "start": 601.24,
+      "duration": 5.44,
+      "text": "centralized hub page for you to explore"
+    },
+    {
+      "start": 604.32,
+      "duration": 3.88,
+      "text": "NCP tools that you can add to your AI"
+    },
+    {
+      "start": 606.68,
+      "duration": 4.72,
+      "text": "agents."
+    },
+    {
+      "start": 608.2,
+      "duration": 5.4,
+      "text": "Yeah, and now moving to the"
+    },
+    {
+      "start": 611.4,
+      "duration": 5.12,
+      "text": "build section, we have all the tools"
+    },
+    {
+      "start": 613.6,
+      "duration": 5.76,
+      "text": "that relate to building AI agents and"
+    },
+    {
+      "start": 616.52,
+      "duration": 5.92,
+      "text": "also working with models, which we can"
+    },
+    {
+      "start": 619.36,
+      "duration": 4.32,
+      "text": "um cover later. And in the monitor page"
+    },
+    {
+      "start": 622.44,
+      "duration": 4.36,
+      "text": "are"
+    },
+    {
+      "start": 623.68,
+      "duration": 4.28,
+      "text": "the tools that kind of facilitates you"
+    },
+    {
+      "start": 626.8,
+      "duration": 4.2,
+      "text": "on"
+    },
+    {
+      "start": 627.96,
+      "duration": 5.8,
+      "text": "uh observability such as trace your AI"
+    },
+    {
+      "start": 631.0,
+      "duration": 6.52,
+      "text": "agents or evaluating your AI agents. And"
+    },
+    {
+      "start": 633.76,
+      "duration": 6.76,
+      "text": "one that's uh specific to uh"
+    },
+    {
+      "start": 637.52,
+      "duration": 6.76,
+      "text": "profiling on local models. Yeah."
+    },
+    {
+      "start": 640.52,
+      "duration": 6.4,
+      "text": "For today's demo, I'm going to focus on"
+    },
+    {
+      "start": 644.28,
+      "duration": 5.12,
+      "text": "the two the critical path for developers"
+    },
+    {
+      "start": 646.92,
+      "duration": 6.2,
+      "text": "building AI agents using the Foundry"
+    },
+    {
+      "start": 649.4,
+      "duration": 6.36,
+      "text": "toolkit. Um so, in order to spin up a AI"
+    },
+    {
+      "start": 653.12,
+      "duration": 5.52,
+      "text": "agent really fast with the tool, I think"
+    },
+    {
+      "start": 655.76,
+      "duration": 5.0,
+      "text": "the first step we all wanted to do is uh"
+    },
+    {
+      "start": 658.64,
+      "duration": 5.24,
+      "text": "to have a model that AI agent will be"
+    },
+    {
+      "start": 660.76,
+      "duration": 5.28,
+      "text": "using. So, this is where we can"
+    },
+    {
+      "start": 663.88,
+      "duration": 5.12,
+      "text": "uh explore millions of uh mix through"
+    },
+    {
+      "start": 666.04,
+      "duration": 5.52,
+      "text": "hundreds of models in the model catalog."
+    },
+    {
+      "start": 669.0,
+      "duration": 6.24,
+      "text": "So, the the Foundry toolkit model"
+    },
+    {
+      "start": 671.56,
+      "duration": 7.08,
+      "text": "catalog hosts uh models from various"
+    },
+    {
+      "start": 675.24,
+      "duration": 6.24,
+      "text": "providers um such as Answer Pack, um"
+    },
+    {
+      "start": 678.64,
+      "duration": 4.68,
+      "text": "GitHub, and of course Microsoft Foundry,"
+    },
+    {
+      "start": 681.48,
+      "duration": 4.6,
+      "text": "and also some local"
+    },
+    {
+      "start": 683.32,
+      "duration": 5.8,
+      "text": "model providers such as llama"
+    },
+    {
+      "start": 686.08,
+      "duration": 5.76,
+      "text": "um and Foundry local as well."
+    },
+    {
+      "start": 689.12,
+      "duration": 4.92,
+      "text": "Yeah, so we also have uh various"
+    },
+    {
+      "start": 691.84,
+      "duration": 6.0,
+      "text": "publishers like the most the models"
+    },
+    {
+      "start": 694.04,
+      "duration": 7.0,
+      "text": "hosted by for example for models hosted"
+    },
+    {
+      "start": 697.84,
+      "duration": 5.88,
+      "text": "by Foundry, we have different publisher."
+    },
+    {
+      "start": 701.04,
+      "duration": 3.44,
+      "text": "Um for example, we can see"
+    },
+    {
+      "start": 703.72,
+      "duration": 4.48,
+      "text": "uh"
+    },
+    {
+      "start": 704.48,
+      "duration": 4.76,
+      "text": "Fireworks model which kind of provides"
+    },
+    {
+      "start": 708.2,
+      "duration": 3.2,
+      "text": "um"
+    },
+    {
+      "start": 709.24,
+      "duration": 3.2,
+      "text": "model access."
+    },
+    {
+      "start": 711.4,
+      "duration": 2.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 712.44,
+      "duration": 3.32,
+      "text": "Uh in the model catalog, you can"
+    },
+    {
+      "start": 714.24,
+      "duration": 5.08,
+      "text": "actually easily"
+    },
+    {
+      "start": 715.76,
+      "duration": 6.56,
+      "text": "um deploy model. Um so, let's try to um"
+    },
+    {
+      "start": 719.32,
+      "duration": 4.64,
+      "text": "deploy model from Microsoft Foundry."
+    },
+    {
+      "start": 722.32,
+      "duration": 5.0,
+      "text": "Yeah, let's uh"
+    },
+    {
+      "start": 723.96,
+      "duration": 6.72,
+      "text": "um try to deploy one with"
+    },
+    {
+      "start": 727.32,
+      "duration": 7.52,
+      "text": "Deep Seek. Yeah, we can try deploy"
+    },
+    {
+      "start": 730.68,
+      "duration": 5.12,
+      "text": "a Deep Seek base 3.1."
+    },
+    {
+      "start": 734.84,
+      "duration": 3.4,
+      "text": "Yeah, let's"
+    },
+    {
+      "start": 735.8,
+      "duration": 3.92,
+      "text": "click the deploy button."
+    },
+    {
+      "start": 738.24,
+      "duration": 4.6,
+      "text": "So, it will"
+    },
+    {
+      "start": 739.72,
+      "duration": 6.24,
+      "text": "um take you to a full page where you can"
+    },
+    {
+      "start": 742.84,
+      "duration": 3.12,
+      "text": "enter the details."
+    },
+    {
+      "start": 746.05,
+      "duration": 2.02,
+      "text": ">> [snorts]"
+    },
+    {
+      "start": 749.4,
+      "duration": 5.72,
+      "text": ">> Yeah, I'll just set the model uh is for"
+    },
+    {
+      "start": 752.44,
+      "duration": 5.6,
+      "text": "Deep Seek base 3.1, and I can give you a"
+    },
+    {
+      "start": 755.12,
+      "duration": 5.84,
+      "text": "custom deploy name, so"
+    },
+    {
+      "start": 758.04,
+      "duration": 5.28,
+      "text": "um I can"
+    },
+    {
+      "start": 760.96,
+      "duration": 4.92,
+      "text": "find it later."
+    },
+    {
+      "start": 763.32,
+      "duration": 6.0,
+      "text": "Yeah, everything else I'll just set as"
+    },
+    {
+      "start": 765.88,
+      "duration": 4.96,
+      "text": "um default one, so I can slightly"
+    },
+    {
+      "start": 769.32,
+      "duration": 3.96,
+      "text": "increase the"
+    },
+    {
+      "start": 770.84,
+      "duration": 6.16,
+      "text": "uh token per minute settings."
+    },
+    {
+      "start": 773.28,
+      "duration": 3.72,
+      "text": "And now I'll hit deploy."
+    },
+    {
+      "start": 778.36,
+      "duration": 4.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 779.32,
+      "duration": 5.72,
+      "text": "So, yeah, easy as that. So, your model"
+    },
+    {
+      "start": 782.44,
+      "duration": 4.56,
+      "text": "has been deployed. Now, we can navigate"
+    },
+    {
+      "start": 785.04,
+      "duration": 2.56,
+      "text": "back to the models"
+    },
+    {
+      "start": 787.0,
+      "duration": 2.92,
+      "text": "uh"
+    },
+    {
+      "start": 787.6,
+      "duration": 5.08,
+      "text": "list in the tree view. Maybe if you"
+    },
+    {
+      "start": 789.92,
+      "duration": 2.76,
+      "text": "refresh."
+    },
+    {
+      "start": 795.28,
+      "duration": 6.08,
+      "text": "Yeah, you will see this is um"
+    },
+    {
+      "start": 798.0,
+      "duration": 4.44,
+      "text": "the model I just I just deployed with"
+    },
+    {
+      "start": 801.36,
+      "duration": 4.56,
+      "text": "the"
+    },
+    {
+      "start": 802.44,
+      "duration": 3.48,
+      "text": "updated rate limit."
+    },
+    {
+      "start": 807.0,
+      "duration": 5.32,
+      "text": "Yeah, you can you can see that uh the"
+    },
+    {
+      "start": 810.4,
+      "duration": 3.48,
+      "text": "model is streaming back all the"
+    },
+    {
+      "start": 812.32,
+      "duration": 3.08,
+      "text": "informations."
+    },
+    {
+      "start": 813.88,
+      "duration": 3.88,
+      "text": "Um I can"
+    },
+    {
+      "start": 815.4,
+      "duration": 6.52,
+      "text": "easily tell that it's working as"
+    },
+    {
+      "start": 817.76,
+      "duration": 6.24,
+      "text": "expected. So, next thing is I can uh"
+    },
+    {
+      "start": 821.92,
+      "duration": 3.08,
+      "text": "either do view code."
+    },
+    {
+      "start": 824.0,
+      "duration": 4.24,
+      "text": "Uh"
+    },
+    {
+      "start": 825.0,
+      "duration": 5.32,
+      "text": "For example, it gives me um a a complete"
+    },
+    {
+      "start": 828.24,
+      "duration": 4.68,
+      "text": "code snippet in the agent framework"
+    },
+    {
+      "start": 830.32,
+      "duration": 6.0,
+      "text": "where I can integrate this model in my"
+    },
+    {
+      "start": 832.92,
+      "duration": 4.44,
+      "text": "application if I'm building a unpowered"
+    },
+    {
+      "start": 836.32,
+      "duration": 4.24,
+      "text": "apps."
+    },
+    {
+      "start": 837.36,
+      "duration": 4.56,
+      "text": "Or uh I can even do a compare uh like I"
+    },
+    {
+      "start": 840.56,
+      "duration": 4.08,
+      "text": "can compare"
+    },
+    {
+      "start": 841.92,
+      "duration": 2.72,
+      "text": "the Deep Seek"
+    },
+    {
+      "start": 844.88,
+      "duration": 5.48,
+      "text": "Deep Seek model with a GPT-5 model to"
+    },
+    {
+      "start": 847.88,
+      "duration": 4.2,
+      "text": "see which one"
+    },
+    {
+      "start": 850.36,
+      "duration": 4.36,
+      "text": "is better. So,"
+    },
+    {
+      "start": 852.08,
+      "duration": 6.76,
+      "text": "in this side-by-side compare view"
+    },
+    {
+      "start": 854.72,
+      "duration": 8.08,
+      "text": "I can trigger the same prompt um for"
+    },
+    {
+      "start": 858.84,
+      "duration": 6.76,
+      "text": "each model and to see um how"
+    },
+    {
+      "start": 862.8,
+      "duration": 4.88,
+      "text": "what's the response look like like, so I"
+    },
+    {
+      "start": 865.6,
+      "duration": 5.76,
+      "text": "can decide"
+    },
+    {
+      "start": 867.68,
+      "duration": 6.2,
+      "text": "which model uh really fits my need."
+    },
+    {
+      "start": 871.36,
+      "duration": 4.72,
+      "text": "The GPT-5 isn't returning"
+    },
+    {
+      "start": 873.88,
+      "duration": 4.88,
+      "text": "uh response fast enough. I guess it's"
+    },
+    {
+      "start": 876.08,
+      "duration": 5.4,
+      "text": "because I have rate limits configured"
+    },
+    {
+      "start": 878.76,
+      "duration": 2.72,
+      "text": "differently."
+    },
+    {
+      "start": 881.8,
+      "duration": 5.28,
+      "text": "Uh so, you can from here, you can uh"
+    },
+    {
+      "start": 884.0,
+      "duration": 6.44,
+      "text": "continue with whichever model um you"
+    },
+    {
+      "start": 887.08,
+      "duration": 6.48,
+      "text": "feel like best fits your requirements"
+    },
+    {
+      "start": 890.44,
+      "duration": 3.12,
+      "text": "and business needs."
+    },
+    {
+      "start": 895.64,
+      "duration": 4.84,
+      "text": "Uh now, we can see the agent is"
+    },
+    {
+      "start": 897.76,
+      "duration": 7.4,
+      "text": "streaming back the responses."
+    },
+    {
+      "start": 900.48,
+      "duration": 7.24,
+      "text": "And the little box uh indicates it's um"
+    },
+    {
+      "start": 905.16,
+      "duration": 5.64,
+      "text": "uh calling the web search tool. So, it"
+    },
+    {
+      "start": 907.72,
+      "duration": 6.28,
+      "text": "sends the query and do fetching"
+    },
+    {
+      "start": 910.8,
+      "duration": 4.6,
+      "text": "information from web search. So, it is"
+    },
+    {
+      "start": 914.0,
+      "duration": 4.64,
+      "text": "performing"
+    },
+    {
+      "start": 915.4,
+      "duration": 3.24,
+      "text": "a lot of web search"
+    },
+    {
+      "start": 919.24,
+      "duration": 2.88,
+      "text": "instances."
+    },
+    {
+      "start": 924.76,
+      "duration": 5.84,
+      "text": "Yeah, that's kind of um"
+    },
+    {
+      "start": 926.84,
+      "duration": 4.72,
+      "text": "how a very basic AI agent"
+    },
+    {
+      "start": 930.6,
+      "duration": 3.08,
+      "text": "um"
+    },
+    {
+      "start": 931.56,
+      "duration": 5.72,
+      "text": "works and how you can create a basic"
+    },
+    {
+      "start": 933.68,
+      "duration": 6.56,
+      "text": "prompt-based AI agents uh in in a couple"
+    },
+    {
+      "start": 937.28,
+      "duration": 3.76,
+      "text": "minutes. And if you are happy"
+    },
+    {
+      "start": 940.24,
+      "duration": 2.56,
+      "text": "with"
+    },
+    {
+      "start": 941.04,
+      "duration": 3.92,
+      "text": "um"
+    },
+    {
+      "start": 942.8,
+      "duration": 3.72,
+      "text": "with your results, you can easily save"
+    },
+    {
+      "start": 944.96,
+      "duration": 5.04,
+      "text": "this agent"
+    },
+    {
+      "start": 946.52,
+      "duration": 3.48,
+      "text": "um to the Foundry."
+    },
+    {
+      "start": 950.2,
+      "duration": 5.6,
+      "text": "Yeah, and from here, you can select the"
+    },
+    {
+      "start": 952.56,
+      "duration": 6.24,
+      "text": "view code function um like you can view"
+    },
+    {
+      "start": 955.8,
+      "duration": 5.68,
+      "text": "code snippet that tells you how to"
+    },
+    {
+      "start": 958.8,
+      "duration": 4.84,
+      "text": "integrate uh with this uh with this"
+    },
+    {
+      "start": 961.48,
+      "duration": 5.28,
+      "text": "agent in your application. You can call"
+    },
+    {
+      "start": 963.64,
+      "duration": 6.2,
+      "text": "the endpoint and trigger um"
+    },
+    {
+      "start": 966.76,
+      "duration": 5.44,
+      "text": "the agent from there."
+    },
+    {
+      "start": 969.84,
+      "duration": 5.76,
+      "text": "Yeah, I think the answer looks pretty"
+    },
+    {
+      "start": 972.2,
+      "duration": 7.96,
+      "text": "good. It has all the references from"
+    },
+    {
+      "start": 975.6,
+      "duration": 6.84,
+      "text": "from web searches. Yeah. And also uh"
+    },
+    {
+      "start": 980.16,
+      "duration": 4.32,
+      "text": "from here, like uh you can see that"
+    },
+    {
+      "start": 982.44,
+      "duration": 3.56,
+      "text": "after I save it to Foundry,"
+    },
+    {
+      "start": 984.48,
+      "duration": 3.88,
+      "text": "automatically it creates a new version"
+    },
+    {
+      "start": 986.0,
+      "duration": 5.52,
+      "text": "for me. So, all all these agents are"
+    },
+    {
+      "start": 988.36,
+      "duration": 4.84,
+      "text": "designed and implemented without leaving"
+    },
+    {
+      "start": 991.52,
+      "duration": 3.6,
+      "text": "uh Visual Studio Code, which is pretty"
+    },
+    {
+      "start": 993.2,
+      "duration": 3.8,
+      "text": "nice. Yeah, and and in the agent"
+    },
+    {
+      "start": 995.12,
+      "duration": 4.76,
+      "text": "builder, there's a lot more things you"
+    },
+    {
+      "start": 997.0,
+      "duration": 4.64,
+      "text": "can do. Um for example, you can view"
+    },
+    {
+      "start": 999.88,
+      "duration": 4.96,
+      "text": "conversations to"
+    },
+    {
+      "start": 1001.64,
+      "duration": 6.28,
+      "text": "um drill down what's uh happening inside"
+    },
+    {
+      "start": 1004.84,
+      "duration": 4.56,
+      "text": "the AI agent if you are"
+    },
+    {
+      "start": 1007.92,
+      "duration": 2.68,
+      "text": "uh if you are"
+    },
+    {
+      "start": 1009.4,
+      "duration": 3.4,
+      "text": "um"
+    },
+    {
+      "start": 1010.6,
+      "duration": 5.96,
+      "text": "hitting some issues. Or you can also"
+    },
+    {
+      "start": 1012.8,
+      "duration": 5.4,
+      "text": "switch to the evaluation tab to see um"
+    },
+    {
+      "start": 1016.56,
+      "duration": 4.92,
+      "text": "how you can"
+    },
+    {
+      "start": 1018.2,
+      "duration": 6.2,
+      "text": "you know uh create a uh scaffold a test"
+    },
+    {
+      "start": 1021.48,
+      "duration": 5.96,
+      "text": "with like evaluation code to evaluate"
+    },
+    {
+      "start": 1024.4,
+      "duration": 6.8,
+      "text": "the performance of your AI agent."
+    },
+    {
+      "start": 1027.44,
+      "duration": 8.12,
+      "text": "Yeah. So, that's pretty much about the"
+    },
+    {
+      "start": 1031.2,
+      "duration": 4.36,
+      "text": "um low-code-based prompt agents."
+    },
+    {
+      "start": 1038.16,
+      "duration": 6.64,
+      "text": "Yeah, now that you can see we are ready"
+    },
+    {
+      "start": 1040.8,
+      "duration": 7.48,
+      "text": "um have a feedback from"
+    },
+    {
+      "start": 1044.8,
+      "duration": 4.76,
+      "text": "uh from the final workflow. So,"
+    },
+    {
+      "start": 1048.28,
+      "duration": 3.92,
+      "text": "we can"
+    },
+    {
+      "start": 1049.56,
+      "duration": 6.24,
+      "text": "navigate to"
+    },
+    {
+      "start": 1052.2,
+      "duration": 4.72,
+      "text": "um to the uh to each node to revisit its"
+    },
+    {
+      "start": 1055.8,
+      "duration": 5.28,
+      "text": "um"
+    },
+    {
+      "start": 1056.92,
+      "duration": 6.92,
+      "text": "um input so, when user says uh says like"
+    },
+    {
+      "start": 1061.08,
+      "duration": 4.2,
+      "text": "write a piece about what is Foundry, so"
+    },
+    {
+      "start": 1063.84,
+      "duration": 5.6,
+      "text": "the"
+    },
+    {
+      "start": 1065.28,
+      "duration": 7.16,
+      "text": "writer actually draft a writing piece."
+    },
+    {
+      "start": 1069.44,
+      "duration": 5.24,
+      "text": "And then the reviewer took that as an as"
+    },
+    {
+      "start": 1072.44,
+      "duration": 5.52,
+      "text": "an input and provided"
+    },
+    {
+      "start": 1074.68,
+      "duration": 6.2,
+      "text": "like the actionable um feedback. So,"
+    },
+    {
+      "start": 1077.96,
+      "duration": 5.6,
+      "text": "this is uh actually um pretty useful"
+    },
+    {
+      "start": 1080.88,
+      "duration": 4.48,
+      "text": "debugging information, especially when"
+    },
+    {
+      "start": 1083.56,
+      "duration": 3.8,
+      "text": "uh something goes wrong. And then there"
+    },
+    {
+      "start": 1085.36,
+      "duration": 5.04,
+      "text": "are all the events emitted during the"
+    },
+    {
+      "start": 1087.36,
+      "duration": 5.12,
+      "text": "workflow execution. And uh"
+    },
+    {
+      "start": 1090.4,
+      "duration": 4.04,
+      "text": "if there are any error on the event, you"
+    },
+    {
+      "start": 1092.48,
+      "duration": 5.16,
+      "text": "can take it to Copilot"
+    },
+    {
+      "start": 1094.44,
+      "duration": 3.92,
+      "text": "um to fix. And also from here, we have"
+    },
+    {
+      "start": 1097.64,
+      "duration": 2.48,
+      "text": "uh"
+    },
+    {
+      "start": 1098.36,
+      "duration": 4.16,
+      "text": "uh tracing features."
+    },
+    {
+      "start": 1100.12,
+      "duration": 5.52,
+      "text": "Uh if you have you can uh you know use"
+    },
+    {
+      "start": 1102.52,
+      "duration": 5.76,
+      "text": "this setup tracing um for Copilot to set"
+    },
+    {
+      "start": 1105.64,
+      "duration": 5.2,
+      "text": "up the tracing features in your"
+    },
+    {
+      "start": 1108.28,
+      "duration": 4.6,
+      "text": "uh in your code uh which is just a"
+    },
+    {
+      "start": 1110.84,
+      "duration": 3.68,
+      "text": "couple line of uh"
+    },
+    {
+      "start": 1112.88,
+      "duration": 4.16,
+      "text": "uh"
+    },
+    {
+      "start": 1114.52,
+      "duration": 5.2,
+      "text": "configuration. Uh it follows the open"
+    },
+    {
+      "start": 1117.04,
+      "duration": 3.96,
+      "text": "telemetry standards where you can export"
+    },
+    {
+      "start": 1119.72,
+      "duration": 3.84,
+      "text": "your trace"
+    },
+    {
+      "start": 1121.0,
+      "duration": 4.88,
+      "text": "uh to the local VS Code uh Foundry"
+    },
+    {
+      "start": 1123.56,
+      "duration": 4.32,
+      "text": "toolkit exporter,"
+    },
+    {
+      "start": 1125.88,
+      "duration": 5.56,
+      "text": "uh and then the local tracing feature"
+    },
+    {
+      "start": 1127.88,
+      "duration": 6.96,
+      "text": "will work. So, you can"
+    },
+    {
+      "start": 1131.44,
+      "duration": 6.08,
+      "text": "see this is the new trace I just invoked"
+    },
+    {
+      "start": 1134.84,
+      "duration": 6.04,
+      "text": "uh during last run, and then we can"
+    },
+    {
+      "start": 1137.52,
+      "duration": 5.28,
+      "text": "you know uh check inside what has been"
+    },
+    {
+      "start": 1140.88,
+      "duration": 5.92,
+      "text": "uh what's the really all the details"
+    },
+    {
+      "start": 1142.8,
+      "duration": 7.24,
+      "text": "about um this uh agent execution."
+    },
+    {
+      "start": 1146.8,
+      "duration": 6.6,
+      "text": "Yeah, so this one is uh uh executor"
+    },
+    {
+      "start": 1150.04,
+      "duration": 5.84,
+      "text": "writer, and then this is executor um"
+    },
+    {
+      "start": 1153.4,
+      "duration": 5.84,
+      "text": "reviewer. So,"
+    },
+    {
+      "start": 1155.88,
+      "duration": 7.2,
+      "text": "you can see uh like the uh system"
+    },
+    {
+      "start": 1159.24,
+      "duration": 7.24,
+      "text": "prompt, you can see uh what it has been"
+    },
+    {
+      "start": 1163.08,
+      "duration": 5.8,
+      "text": "output from the agent invoke. Yeah, same"
+    },
+    {
+      "start": 1166.48,
+      "duration": 5.48,
+      "text": "as uh reviewer"
+    },
+    {
+      "start": 1168.88,
+      "duration": 6.88,
+      "text": "agent as well. So, this is a very um"
+    },
+    {
+      "start": 1171.96,
+      "duration": 7.44,
+      "text": "typical uh agent workflow execution. So,"
+    },
+    {
+      "start": 1175.76,
+      "duration": 6.32,
+      "text": "it has a writer, the um"
+    },
+    {
+      "start": 1179.4,
+      "duration": 5.64,
+      "text": "uh uh the edge group process, and and"
+    },
+    {
+      "start": 1182.08,
+      "duration": 2.96,
+      "text": "then the reviewer."
+    },
+    {
+      "start": 1185.2,
+      "duration": 4.84,
+      "text": "So, that's the feature about agent"
+    },
+    {
+      "start": 1188.32,
+      "duration": 4.44,
+      "text": "inspector. If you close that agent"
+    },
+    {
+      "start": 1190.04,
+      "duration": 6.64,
+      "text": "inspector, you can always uh go from"
+    },
+    {
+      "start": 1192.76,
+      "duration": 8.0,
+      "text": "here to um in the in the tree view under"
+    },
+    {
+      "start": 1196.68,
+      "duration": 6.12,
+      "text": "view tab to review that again. Now,"
+    },
+    {
+      "start": 1200.76,
+      "duration": 2.04,
+      "text": "um"
+    },
+    {
+      "start": 1204.6,
+      "duration": 4.2,
+      "text": "you can choose your custom container"
+    },
+    {
+      "start": 1206.28,
+      "duration": 5.28,
+      "text": "registry as well."
+    },
+    {
+      "start": 1208.8,
+      "duration": 5.12,
+      "text": "Um so, after the deployment, what you"
+    },
+    {
+      "start": 1211.56,
+      "duration": 6.2,
+      "text": "can do is you can"
+    },
+    {
+      "start": 1213.92,
+      "duration": 5.32,
+      "text": "switch over to the remote agent"
+    },
+    {
+      "start": 1217.76,
+      "duration": 3.36,
+      "text": "playground."
+    },
+    {
+      "start": 1219.24,
+      "duration": 5.32,
+      "text": "Um this is the place where you can"
+    },
+    {
+      "start": 1221.12,
+      "duration": 6.72,
+      "text": "interact with your agent that's been"
+    },
+    {
+      "start": 1224.56,
+      "duration": 5.88,
+      "text": "deployed. So, this is one I previously"
+    },
+    {
+      "start": 1227.84,
+      "duration": 5.32,
+      "text": "deployed. So, you can try to interact"
+    },
+    {
+      "start": 1230.44,
+      "duration": 5.8,
+      "text": "with it and then the agents"
+    },
+    {
+      "start": 1233.16,
+      "duration": 7.08,
+      "text": "will also respond to you in a real time"
+    },
+    {
+      "start": 1236.24,
+      "duration": 5.84,
+      "text": "in the playground. Provides a nice"
+    },
+    {
+      "start": 1240.24,
+      "duration": 3.96,
+      "text": "view for"
+    },
+    {
+      "start": 1242.08,
+      "duration": 4.2,
+      "text": "visualizing that responses. Yeah, and"
+    },
+    {
+      "start": 1244.2,
+      "duration": 3.36,
+      "text": "also in the meantime,"
+    },
+    {
+      "start": 1246.28,
+      "duration": 2.68,
+      "text": "you can"
+    },
+    {
+      "start": 1247.56,
+      "duration": 4.2,
+      "text": "kind of"
+    },
+    {
+      "start": 1248.96,
+      "duration": 5.52,
+      "text": "check out all the logs that are coming"
+    },
+    {
+      "start": 1251.76,
+      "duration": 4.72,
+      "text": "from your agent. So, these are also"
+    },
+    {
+      "start": 1254.48,
+      "duration": 4.92,
+      "text": "particularly helpful"
+    },
+    {
+      "start": 1256.48,
+      "duration": 4.76,
+      "text": "to you can you know resolve some errors"
+    },
+    {
+      "start": 1259.4,
+      "duration": 4.28,
+      "text": "with Copilot"
+    },
+    {
+      "start": 1261.24,
+      "duration": 5.64,
+      "text": "if your agent encounters critical"
+    },
+    {
+      "start": 1263.68,
+      "duration": 6.64,
+      "text": "errors. Yeah, you can also search for"
+    },
+    {
+      "start": 1266.88,
+      "duration": 5.2,
+      "text": "different logs and find out the"
+    },
+    {
+      "start": 1270.32,
+      "duration": 4.04,
+      "text": "system"
+    },
+    {
+      "start": 1272.08,
+      "duration": 5.28,
+      "text": "log information as well or start a new"
+    },
+    {
+      "start": 1274.36,
+      "duration": 4.76,
+      "text": "conversation here or view"
+    },
+    {
+      "start": 1277.36,
+      "duration": 3.72,
+      "text": "previous conversations. It has all the"
+    },
+    {
+      "start": 1279.12,
+      "duration": 4.16,
+      "text": "conversations from here"
+    },
+    {
+      "start": 1281.08,
+      "duration": 3.24,
+      "text": "and all your agent details are shown"
+    },
+    {
+      "start": 1283.28,
+      "duration": 2.6,
+      "text": "here."
+    },
+    {
+      "start": 1284.32,
+      "duration": 4.56,
+      "text": "Yeah, this"
+    },
+    {
+      "start": 1285.88,
+      "duration": 4.32,
+      "text": "wraps the entire demo where we showed"
+    },
+    {
+      "start": 1288.88,
+      "duration": 2.88,
+      "text": "you"
+    },
+    {
+      "start": 1290.2,
+      "duration": 3.44,
+      "text": "how we can"
+    },
+    {
+      "start": 1291.76,
+      "duration": 3.92,
+      "text": "you know, do everything starting from"
+    },
+    {
+      "start": 1293.64,
+      "duration": 3.12,
+      "text": "model to the agent development without"
+    },
+    {
+      "start": 1295.68,
+      "duration": 3.44,
+      "text": "leaving"
+    },
+    {
+      "start": 1296.76,
+      "duration": 5.0,
+      "text": "Visual Studio Code. But as you can see,"
+    },
+    {
+      "start": 1299.12,
+      "duration": 4.04,
+      "text": "the Foundry Tool Kit is a"
+    },
+    {
+      "start": 1301.76,
+      "duration": 4.4,
+      "text": "pretty comprehensive tool. There are a"
+    },
+    {
+      "start": 1303.16,
+      "duration": 5.96,
+      "text": "lot of features we did not touch"
+    },
+    {
+      "start": 1306.16,
+      "duration": 6.12,
+      "text": "thoroughly like evaluation."
+    },
+    {
+      "start": 1309.12,
+      "duration": 4.88,
+      "text": "That's also a very important topic. But"
+    },
+    {
+      "start": 1312.28,
+      "duration": 2.84,
+      "text": "I think the next speaker will introduce"
+    },
+    {
+      "start": 1314.0,
+      "duration": 3.88,
+      "text": "you"
+    },
+    {
+      "start": 1315.12,
+      "duration": 5.76,
+      "text": "to how you can do observability for your"
+    },
+    {
+      "start": 1317.88,
+      "duration": 5.8,
+      "text": "Foundry-based agents as well."
+    },
+    {
+      "start": 1320.88,
+      "duration": 4.92,
+      "text": "Yeah, so that's all about the demo."
+    },
+    {
+      "start": 1323.68,
+      "duration": 4.08,
+      "text": "If you have any questions,"
+    },
+    {
+      "start": 1325.8,
+      "duration": 4.12,
+      "text": "call out the host role."
+    },
+    {
+      "start": 1327.76,
+      "duration": 4.68,
+      "text": "Let me know and we can"
+    },
+    {
+      "start": 1329.92,
+      "duration": 5.36,
+      "text": "address"
+    },
+    {
+      "start": 1332.44,
+      "duration": 5.92,
+      "text": "for all the questions you had."
+    },
+    {
+      "start": 1335.28,
+      "duration": 3.08,
+      "text": "Thank you for your time."
+    },
+    {
+      "start": 1341.32,
+      "duration": 4.64,
+      "text": "Okay, perfect."
+    },
+    {
+      "start": 1343.4,
+      "duration": 5.36,
+      "text": "This was the demo from Zhanji and I see"
+    },
+    {
+      "start": 1345.96,
+      "duration": 4.76,
+      "text": "a few questions I would like to address"
+    },
+    {
+      "start": 1348.76,
+      "duration": 5.08,
+      "text": "in the chat."
+    },
+    {
+      "start": 1350.72,
+      "duration": 6.72,
+      "text": "So, the first one is from Chandu. Is"
+    },
+    {
+      "start": 1353.84,
+      "duration": 6.84,
+      "text": "that model deployed to cloud or local?"
+    },
+    {
+      "start": 1357.44,
+      "duration": 6.6,
+      "text": "So, at the in the demo the that Zhanji"
+    },
+    {
+      "start": 1360.68,
+      "duration": 6.52,
+      "text": "recorded, the model is deployed to the"
+    },
+    {
+      "start": 1364.04,
+      "duration": 6.48,
+      "text": "cloud to Microsoft Foundry."
+    },
+    {
+      "start": 1367.2,
+      "duration": 5.24,
+      "text": "But with the Microsoft Foundry Tool Kit,"
+    },
+    {
+      "start": 1370.52,
+      "duration": 3.64,
+      "text": "you can"
+    },
+    {
+      "start": 1372.44,
+      "duration": 4.96,
+      "text": "you can choose between different"
+    },
+    {
+      "start": 1374.16,
+      "duration": 7.72,
+      "text": "publisher and these include like GitHub"
+    },
+    {
+      "start": 1377.4,
+      "duration": 4.48,
+      "text": "hosted models for example, but also"
+    },
+    {
+      "start": 1382.2,
+      "duration": 5.48,
+      "text": "models"
+    },
+    {
+      "start": 1384.96,
+      "duration": 5.04,
+      "text": "within Microsoft Foundry local, so local"
+    },
+    {
+      "start": 1387.68,
+      "duration": 6.56,
+      "text": "models, but also models for example"
+    },
+    {
+      "start": 1390.0,
+      "duration": 7.6,
+      "text": "imported for from Ollama. So,"
+    },
+    {
+      "start": 1394.24,
+      "duration": 5.76,
+      "text": "you can definitely use local models with"
+    },
+    {
+      "start": 1397.6,
+      "duration": 5.48,
+      "text": "the Foundry Microsoft Foundry Tool Kit"
+    },
+    {
+      "start": 1400.0,
+      "duration": 5.16,
+      "text": "for Visual Studio Code as well."
+    },
+    {
+      "start": 1403.08,
+      "duration": 4.52,
+      "text": "And then I see a couple of other"
+    },
+    {
+      "start": 1405.16,
+      "duration": 5.28,
+      "text": "questions from Nixon."
+    },
+    {
+      "start": 1407.6,
+      "duration": 5.4,
+      "text": "I imagine that save simply persist it,"
+    },
+    {
+      "start": 1410.44,
+      "duration": 6.08,
+      "text": "but while testing the agent as presented"
+    },
+    {
+      "start": 1413.0,
+      "duration": 5.08,
+      "text": "here will still occur cost, right? Yes,"
+    },
+    {
+      "start": 1416.52,
+      "duration": 3.04,
+      "text": "that's right"
+    },
+    {
+      "start": 1418.08,
+      "duration": 4.12,
+      "text": "because"
+    },
+    {
+      "start": 1419.56,
+      "duration": 5.44,
+      "text": "basically the first thing you do when"
+    },
+    {
+      "start": 1422.2,
+      "duration": 6.2,
+      "text": "you want to get started"
+    },
+    {
+      "start": 1425.0,
+      "duration": 7.08,
+      "text": "working with agentic application in in"
+    },
+    {
+      "start": 1428.4,
+      "duration": 7.44,
+      "text": "Foundry Tool Kit is you configure your"
+    },
+    {
+      "start": 1432.08,
+      "duration": 7.2,
+      "text": "Foundry project within the"
+    },
+    {
+      "start": 1435.84,
+      "duration": 6.44,
+      "text": "the extension. And then basically when"
+    },
+    {
+      "start": 1439.28,
+      "duration": 4.76,
+      "text": "you save the agent, you save this agent"
+    },
+    {
+      "start": 1442.28,
+      "duration": 4.88,
+      "text": "to"
+    },
+    {
+      "start": 1444.04,
+      "duration": 6.08,
+      "text": "to your Foundry project. But even before"
+    },
+    {
+      "start": 1447.16,
+      "duration": 6.8,
+      "text": "saving the agent, you are"
+    },
+    {
+      "start": 1450.12,
+      "duration": 5.32,
+      "text": "you are using your agent."
+    },
+    {
+      "start": 1453.96,
+      "duration": 3.2,
+      "text": "You are for example using Microsoft"
+    },
+    {
+      "start": 1455.44,
+      "duration": 3.92,
+      "text": "Foundry"
+    },
+    {
+      "start": 1457.16,
+      "duration": 5.04,
+      "text": "as in the demo, you are using Microsoft"
+    },
+    {
+      "start": 1459.36,
+      "duration": 4.04,
+      "text": "Foundry models in your agent. So, you"
+    },
+    {
+      "start": 1462.2,
+      "duration": 3.96,
+      "text": "are"
+    },
+    {
+      "start": 1463.4,
+      "duration": 4.88,
+      "text": "using the model as a service with with"
+    },
+    {
+      "start": 1466.16,
+      "duration": 5.92,
+      "text": "an endpoint and so you"
+    },
+    {
+      "start": 1468.28,
+      "duration": 6.96,
+      "text": "you pay for your token usage as well as"
+    },
+    {
+      "start": 1472.08,
+      "duration": 7.72,
+      "text": "tools usage if there's any tools added"
+    },
+    {
+      "start": 1475.24,
+      "duration": 8.28,
+      "text": "to your local agent as well. And"
+    },
+    {
+      "start": 1479.8,
+      "duration": 6.64,
+      "text": "great feedback about the"
+    },
+    {
+      "start": 1483.52,
+      "duration": 5.2,
+      "text": "the the local view."
+    },
+    {
+      "start": 1486.44,
+      "duration": 7.2,
+      "text": "Thanks for sharing. The the group will"
+    },
+    {
+      "start": 1488.72,
+      "duration": 9.68,
+      "text": "be happy to hear your your feedback."
+    },
+    {
+      "start": 1493.64,
+      "duration": 7.48,
+      "text": "And then I see another question around"
+    },
+    {
+      "start": 1498.4,
+      "duration": 5.84,
+      "text": "that you kind of recognized the agent"
+    },
+    {
+      "start": 1501.12,
+      "duration": 5.28,
+      "text": "framework Dev UI Inspector layout and"
+    },
+    {
+      "start": 1504.24,
+      "duration": 4.24,
+      "text": "then and yes, that's"
+    },
+    {
+      "start": 1506.4,
+      "duration": 6.24,
+      "text": "that's kind of the same"
+    },
+    {
+      "start": 1508.48,
+      "duration": 5.48,
+      "text": "Dev UI the the same Inspector view. So,"
+    },
+    {
+      "start": 1512.64,
+      "duration": 4.04,
+      "text": "good catch."
+    },
+    {
+      "start": 1513.96,
+      "duration": 4.68,
+      "text": "Okay,"
+    },
+    {
+      "start": 1516.68,
+      "duration": 3.76,
+      "text": "I think I've kind of addressed all the"
+    },
+    {
+      "start": 1518.64,
+      "duration": 3.72,
+      "text": "questions. If you have more questions,"
+    },
+    {
+      "start": 1520.44,
+      "duration": 3.8,
+      "text": "please continue to pass them in the chat"
+    },
+    {
+      "start": 1522.36,
+      "duration": 5.04,
+      "text": "because as I mentioned before, we're"
+    },
+    {
+      "start": 1524.24,
+      "duration": 5.2,
+      "text": "going to have an AMA on Friday"
+    },
+    {
+      "start": 1527.4,
+      "duration": 4.84,
+      "text": "Zhanji."
+    },
+    {
+      "start": 1529.44,
+      "duration": 2.8,
+      "text": "But now,"
+    },
+    {
+      "start": 1532.6,
+      "duration": 8.2,
+      "text": "let me jump to our next"
+    },
+    {
+      "start": 1536.8,
+      "duration": 6.84,
+      "text": "section, our next topic covering"
+    },
+    {
+      "start": 1540.8,
+      "duration": 5.64,
+      "text": "Microsoft Foundry observability skills"
+    },
+    {
+      "start": 1543.64,
+      "duration": 6.08,
+      "text": "within GitHub Copilot."
+    },
+    {
+      "start": 1546.44,
+      "duration": 5.76,
+      "text": "It's very kind of related to what we"
+    },
+    {
+      "start": 1549.72,
+      "duration": 2.48,
+      "text": "were"
+    },
+    {
+      "start": 1552.48,
+      "duration": 4.76,
+      "text": "covering before and because"
+    },
+    {
+      "start": 1555.28,
+      "duration": 4.2,
+      "text": "the Microsoft Foundry skill comes"
+    },
+    {
+      "start": 1557.24,
+      "duration": 4.16,
+      "text": "together with the Foundry developer Tool"
+    },
+    {
+      "start": 1559.48,
+      "duration": 3.56,
+      "text": "Kit. So, if you don't need to install"
+    },
+    {
+      "start": 1561.4,
+      "duration": 4.2,
+      "text": "anything"
+    },
+    {
+      "start": 1563.04,
+      "duration": 3.92,
+      "text": "in addition to the Foundry developer"
+    },
+    {
+      "start": 1565.6,
+      "duration": 3.92,
+      "text": "Tool Kit."
+    },
+    {
+      "start": 1566.96,
+      "duration": 4.24,
+      "text": "But for that, I'm pleased to welcome on"
+    },
+    {
+      "start": 1569.52,
+      "duration": 5.08,
+      "text": "stage"
+    },
+    {
+      "start": 1571.2,
+      "duration": 4.68,
+      "text": "our guest Felicia Shah, senior PM at"
+    },
+    {
+      "start": 1574.6,
+      "duration": 3.48,
+      "text": "CoreAI."
+    },
+    {
+      "start": 1575.88,
+      "duration": 5.2,
+      "text": "Hi Felicia, how are you doing? Hello"
+    },
+    {
+      "start": 1578.08,
+      "duration": 5.04,
+      "text": "Carlotta. Good, how are you?"
+    },
+    {
+      "start": 1581.08,
+      "duration": 3.92,
+      "text": "I'm doing good. I'm doing good. Glad to"
+    },
+    {
+      "start": 1583.12,
+      "duration": 5.8,
+      "text": "have you on"
+    },
+    {
+      "start": 1585.0,
+      "duration": 6.16,
+      "text": "on the show today. So, do you want to"
+    },
+    {
+      "start": 1588.92,
+      "duration": 4.04,
+      "text": "quickly introduce a bit your role in"
+    },
+    {
+      "start": 1591.16,
+      "duration": 4.52,
+      "text": "Microsoft, Felicia?"
+    },
+    {
+      "start": 1592.96,
+      "duration": 5.76,
+      "text": "Yeah, I'm a product manager on the"
+    },
+    {
+      "start": 1595.68,
+      "duration": 5.12,
+      "text": "Foundry observability team. So, our team"
+    },
+    {
+      "start": 1598.72,
+      "duration": 5.2,
+      "text": "builds much of the"
+    },
+    {
+      "start": 1600.8,
+      "duration": 5.72,
+      "text": "back end of what you saw AIT case"
+    },
+    {
+      "start": 1603.92,
+      "duration": 5.76,
+      "text": "service. So, a lot of the evaluations"
+    },
+    {
+      "start": 1606.52,
+      "duration": 6.92,
+      "text": "and insights and um"
+    },
+    {
+      "start": 1609.68,
+      "duration": 5.24,
+      "text": "data generation management."
+    },
+    {
+      "start": 1613.44,
+      "duration": 3.8,
+      "text": "And uh"
+    },
+    {
+      "start": 1614.92,
+      "duration": 4.52,
+      "text": "I am particularly working on the"
+    },
+    {
+      "start": 1617.24,
+      "duration": 5.76,
+      "text": "end-to-end experience of how all of this"
+    },
+    {
+      "start": 1619.44,
+      "duration": 5.08,
+      "text": "fits in together to help developers"
+    },
+    {
+      "start": 1623.0,
+      "duration": 4.2,
+      "text": "build"
+    },
+    {
+      "start": 1624.52,
+      "duration": 5.88,
+      "text": "agents in this new world where"
+    },
+    {
+      "start": 1627.2,
+      "duration": 4.96,
+      "text": "eval-based agents is going to be your"
+    },
+    {
+      "start": 1630.4,
+      "duration": 3.92,
+      "text": "new version of your test-driven"
+    },
+    {
+      "start": 1632.16,
+      "duration": 4.64,
+      "text": "development if you remember that. So,"
+    },
+    {
+      "start": 1634.32,
+      "duration": 3.92,
+      "text": "that is the focus of"
+    },
+    {
+      "start": 1636.8,
+      "duration": 3.4,
+      "text": "my team."
+    },
+    {
+      "start": 1638.24,
+      "duration": 3.84,
+      "text": "Yeah, very interesting."
+    },
+    {
+      "start": 1640.2,
+      "duration": 4.76,
+      "text": "Thanks for sharing."
+    },
+    {
+      "start": 1642.08,
+      "duration": 5.72,
+      "text": "And do you want to maybe share a bit"
+    },
+    {
+      "start": 1644.96,
+      "duration": 5.04,
+      "text": "more? I know you have a couple of"
+    },
+    {
+      "start": 1647.8,
+      "duration": 5.48,
+      "text": "you prepared a couple of"
+    },
+    {
+      "start": 1650.0,
+      "duration": 6.56,
+      "text": "practical demos for us to see"
+    },
+    {
+      "start": 1653.28,
+      "duration": 6.12,
+      "text": "about Microsoft Foundry skill and"
+    },
+    {
+      "start": 1656.56,
+      "duration": 5.8,
+      "text": "specifically the observability skills."
+    },
+    {
+      "start": 1659.4,
+      "duration": 4.76,
+      "text": "Do you want to give us a bit more"
+    },
+    {
+      "start": 1662.36,
+      "duration": 3.32,
+      "text": "context before rolling out the videos"
+    },
+    {
+      "start": 1664.16,
+      "duration": 2.72,
+      "text": "maybe?"
+    },
+    {
+      "start": 1665.68,
+      "duration": 3.8,
+      "text": "Yeah,"
+    },
+    {
+      "start": 1666.88,
+      "duration": 5.04,
+      "text": "one of the things that we're using this"
+    },
+    {
+      "start": 1669.48,
+      "duration": 3.68,
+      "text": "skill for is that it's"
+    },
+    {
+      "start": 1671.92,
+      "duration": 4.04,
+      "text": "the"
+    },
+    {
+      "start": 1673.16,
+      "duration": 4.96,
+      "text": "skill the skill composes the MCP tools"
+    },
+    {
+      "start": 1675.96,
+      "duration": 4.08,
+      "text": "that you know, basically call the back"
+    },
+    {
+      "start": 1678.12,
+      "duration": 4.56,
+      "text": "end services of the Foundry eval and the"
+    },
+    {
+      "start": 1680.04,
+      "duration": 5.6,
+      "text": "tracing and optimizations and the agent"
+    },
+    {
+      "start": 1682.68,
+      "duration": 4.92,
+      "text": "service. So, the skill is your"
+    },
+    {
+      "start": 1685.64,
+      "duration": 3.68,
+      "text": "your orchestration layer. So, when"
+    },
+    {
+      "start": 1687.6,
+      "duration": 3.08,
+      "text": "you're a developer instead of thinking"
+    },
+    {
+      "start": 1689.32,
+      "duration": 4.08,
+      "text": "about"
+    },
+    {
+      "start": 1690.68,
+      "duration": 3.6,
+      "text": "what do I do next? Like how do I"
+    },
+    {
+      "start": 1693.4,
+      "duration": 3.08,
+      "text": "um"
+    },
+    {
+      "start": 1694.28,
+      "duration": 3.84,
+      "text": "evaluate this? How do I update my evals?"
+    },
+    {
+      "start": 1696.48,
+      "duration": 3.48,
+      "text": "What should I do to my data sets? How do"
+    },
+    {
+      "start": 1698.12,
+      "duration": 3.0,
+      "text": "I hook in the traces?"
+    },
+    {
+      "start": 1699.96,
+      "duration": 5.24,
+      "text": "Um"
+    },
+    {
+      "start": 1701.12,
+      "duration": 7.24,
+      "text": "we have built a semi-automated agentic"
+    },
+    {
+      "start": 1705.2,
+      "duration": 4.92,
+      "text": "loop that allows you and prompts you to"
+    },
+    {
+      "start": 1708.36,
+      "duration": 4.0,
+      "text": "do the next step. It helps you set up"
+    },
+    {
+      "start": 1710.12,
+      "duration": 5.12,
+      "text": "this like continuous eval loop that"
+    },
+    {
+      "start": 1712.36,
+      "duration": 6.04,
+      "text": "helps you against regressions and like"
+    },
+    {
+      "start": 1715.24,
+      "duration": 5.76,
+      "text": "you can diagnose and you can debug and"
+    },
+    {
+      "start": 1718.4,
+      "duration": 4.72,
+      "text": "you can then learn from that and that's"
+    },
+    {
+      "start": 1721.0,
+      "duration": 4.0,
+      "text": "what the skill helps do. So, you do the"
+    },
+    {
+      "start": 1723.12,
+      "duration": 4.56,
+      "text": "evaluation, the diagnosis, the"
+    },
+    {
+      "start": 1725.0,
+      "duration": 4.08,
+      "text": "debugging, the learning"
+    },
+    {
+      "start": 1727.68,
+      "duration": 3.52,
+      "text": "and then you"
+    },
+    {
+      "start": 1729.08,
+      "duration": 6.04,
+      "text": "make sure that when you roll something"
+    },
+    {
+      "start": 1731.2,
+      "duration": 5.56,
+      "text": "out, you upkeep this eval suite."
+    },
+    {
+      "start": 1735.12,
+      "duration": 4.16,
+      "text": "So, the skill is orchestration layer,"
+    },
+    {
+      "start": 1736.76,
+      "duration": 6.24,
+      "text": "you know, as we know. Yeah."
+    },
+    {
+      "start": 1739.28,
+      "duration": 7.84,
+      "text": "Yeah, and I know the the demos you"
+    },
+    {
+      "start": 1743.0,
+      "duration": 4.12,
+      "text": "brought us, they one is"
+    },
+    {
+      "start": 1747.4,
+      "duration": 5.4,
+      "text": "one is about Microsoft Foundry"
+    },
+    {
+      "start": 1750.04,
+      "duration": 4.32,
+      "text": "observability skill in the Visual Studio"
+    },
+    {
+      "start": 1752.8,
+      "duration": 3.84,
+      "text": "Copilot"
+    },
+    {
+      "start": 1754.36,
+      "duration": 4.48,
+      "text": "experience, so within the chat. And then"
+    },
+    {
+      "start": 1756.64,
+      "duration": 3.84,
+      "text": "we have another demo within GitHub"
+    },
+    {
+      "start": 1758.84,
+      "duration": 3.84,
+      "text": "Copilot CLI"
+    },
+    {
+      "start": 1760.48,
+      "duration": 4.12,
+      "text": "since"
+    },
+    {
+      "start": 1762.68,
+      "duration": 4.08,
+      "text": "the Microsoft Foundry skill"
+    },
+    {
+      "start": 1764.6,
+      "duration": 4.8,
+      "text": "is available across these kind of"
+    },
+    {
+      "start": 1766.76,
+      "duration": 6.24,
+      "text": "different experiences um"
+    },
+    {
+      "start": 1769.4,
+      "duration": 6.64,
+      "text": "within the IDE, but also outside of it."
+    },
+    {
+      "start": 1773.0,
+      "duration": 5.2,
+      "text": "And so, if you if you agree, Felicia,"
+    },
+    {
+      "start": 1776.04,
+      "duration": 4.68,
+      "text": "I can maybe start rolling out the first"
+    },
+    {
+      "start": 1778.2,
+      "duration": 4.36,
+      "text": "demo video and then we can"
+    },
+    {
+      "start": 1780.72,
+      "duration": 4.2,
+      "text": "comment a bit and see if there's any"
+    },
+    {
+      "start": 1782.56,
+      "duration": 6.76,
+      "text": "questions from the chat."
+    },
+    {
+      "start": 1784.92,
+      "duration": 4.4,
+      "text": "Love it. Let's do it. Perfect."
+    },
+    {
+      "start": 1791.32,
+      "duration": 4.12,
+      "text": "Download agent code examples from"
+    },
+    {
+      "start": 1793.16,
+      "duration": 4.96,
+      "text": "Foundry public GitHub repo and let"
+    },
+    {
+      "start": 1795.44,
+      "duration": 4.36,
+      "text": "Copilot test it locally."
+    },
+    {
+      "start": 1798.12,
+      "duration": 3.72,
+      "text": "Copilot will recognize required"
+    },
+    {
+      "start": 1799.8,
+      "duration": 3.84,
+      "text": "environment variables and prompt users"
+    },
+    {
+      "start": 1801.84,
+      "duration": 3.2,
+      "text": "for values."
+    },
+    {
+      "start": 1803.64,
+      "duration": 3.68,
+      "text": "And then we'll help set up local"
+    },
+    {
+      "start": 1805.04,
+      "duration": 5.36,
+      "text": "environment to run the script and try"
+    },
+    {
+      "start": 1807.32,
+      "duration": 3.08,
+      "text": "some test queries."
+    },
+    {
+      "start": 1811.4,
+      "duration": 4.24,
+      "text": "Now users can choose to deploy to"
+    },
+    {
+      "start": 1813.08,
+      "duration": 6.08,
+      "text": "Foundry. Copilot will prompt for any"
+    },
+    {
+      "start": 1815.64,
+      "duration": 3.52,
+      "text": "other resources if needed."
+    },
+    {
+      "start": 1835.48,
+      "duration": 3.92,
+      "text": "After the agent is deployed, Copilot"
+    },
+    {
+      "start": 1837.72,
+      "duration": 4.52,
+      "text": "will help generate test data and"
+    },
+    {
+      "start": 1839.4,
+      "duration": 5.44,
+      "text": "evaluators for agent evaluation based on"
+    },
+    {
+      "start": 1842.24,
+      "duration": 4.72,
+      "text": "agent context like code."
+    },
+    {
+      "start": 1844.84,
+      "duration": 6.2,
+      "text": "Generated data sets and evaluators are"
+    },
+    {
+      "start": 1846.96,
+      "duration": 4.08,
+      "text": "also visible in local directories."
+    },
+    {
+      "start": 1866.28,
+      "duration": 4.36,
+      "text": "User will be prompted to run evaluation"
+    },
+    {
+      "start": 1868.08,
+      "duration": 6.2,
+      "text": "in Foundry, analyze and optimize using"
+    },
+    {
+      "start": 1870.64,
+      "duration": 3.64,
+      "text": "Foundry prompt optimizer."
+    },
+    {
+      "start": 1877.64,
+      "duration": 5.52,
+      "text": "You see here Copilot helps suggest 20"
+    },
+    {
+      "start": 1880.32,
+      "duration": 5.24,
+      "text": "rows of data, eight built-in evaluators"
+    },
+    {
+      "start": 1883.16,
+      "duration": 5.76,
+      "text": "including safety ones and two"
+    },
+    {
+      "start": 1885.56,
+      "duration": 5.44,
+      "text": "agent-specific custom evaluators."
+    },
+    {
+      "start": 1888.92,
+      "duration": 6.36,
+      "text": "Users can also go to Foundry portal to"
+    },
+    {
+      "start": 1891.0,
+      "duration": 4.28,
+      "text": "see the evaluation progress and results."
+    },
+    {
+      "start": 1900.6,
+      "duration": 4.92,
+      "text": "Once evaluation completes, Copilot will"
+    },
+    {
+      "start": 1903.16,
+      "duration": 4.28,
+      "text": "auto analyze and do cluster analysis for"
+    },
+    {
+      "start": 1905.52,
+      "duration": 6.12,
+      "text": "evaluation results pointing out"
+    },
+    {
+      "start": 1907.44,
+      "duration": 4.2,
+      "text": "clustered issues and actions to fix."
+    },
+    {
+      "start": 1915.04,
+      "duration": 4.36,
+      "text": "So you see here we have some bad custom"
+    },
+    {
+      "start": 1917.12,
+      "duration": 6.92,
+      "text": "evaluator to fix as well as agent"
+    },
+    {
+      "start": 1919.4,
+      "duration": 4.64,
+      "text": "prompts to be optimized. Let's fix both."
+    },
+    {
+      "start": 1947.24,
+      "duration": 4.24,
+      "text": "Now that custom evaluator is fixed and a"
+    },
+    {
+      "start": 1949.24,
+      "duration": 4.36,
+      "text": "new agent version is saved, Copilot will"
+    },
+    {
+      "start": 1951.48,
+      "duration": 5.28,
+      "text": "help auto re-evaluate under the same"
+    },
+    {
+      "start": 1953.6,
+      "duration": 3.16,
+      "text": "evaluation group."
+    },
+    {
+      "start": 1958.04,
+      "duration": 3.92,
+      "text": "When the re-evaluation completes,"
+    },
+    {
+      "start": 1959.92,
+      "duration": 4.84,
+      "text": "Copilot will compare and summarize the"
+    },
+    {
+      "start": 1961.96,
+      "duration": 2.8,
+      "text": "differences."
+    },
+    {
+      "start": 1968.76,
+      "duration": 4.36,
+      "text": "Looks like both custom evaluators and"
+    },
+    {
+      "start": 1970.76,
+      "duration": 4.84,
+      "text": "agents are getting better. Copilot will"
+    },
+    {
+      "start": 1973.12,
+      "duration": 4.44,
+      "text": "also help set up CICD pipelines to"
+    },
+    {
+      "start": 1975.6,
+      "duration": 5.32,
+      "text": "ensure agent updates are validated with"
+    },
+    {
+      "start": 1977.56,
+      "duration": 3.36,
+      "text": "these gates before merge."
+    },
+    {
+      "start": 1997.64,
+      "duration": 4.48,
+      "text": "Okay."
+    },
+    {
+      "start": 1999.12,
+      "duration": 6.84,
+      "text": "I really like this kind of evaluation"
+    },
+    {
+      "start": 2002.12,
+      "duration": 6.2,
+      "text": "driven workflow. Felicia, I think that"
+    },
+    {
+      "start": 2005.96,
+      "duration": 5.96,
+      "text": "especially in these kind of complex"
+    },
+    {
+      "start": 2008.32,
+      "duration": 6.16,
+      "text": "agentic AI systems where there's lots of"
+    },
+    {
+      "start": 2011.92,
+      "duration": 5.92,
+      "text": "factors to"
+    },
+    {
+      "start": 2014.48,
+      "duration": 4.6,
+      "text": "consider when you need to"
+    },
+    {
+      "start": 2017.84,
+      "duration": 3.72,
+      "text": "um"
+    },
+    {
+      "start": 2019.08,
+      "duration": 5.04,
+      "text": "like evaluate the system, understand"
+    },
+    {
+      "start": 2021.56,
+      "duration": 4.96,
+      "text": "what's going on in each and every"
+    },
+    {
+      "start": 2024.12,
+      "duration": 4.04,
+      "text": "component, where is the issue if there's"
+    },
+    {
+      "start": 2026.52,
+      "duration": 4.8,
+      "text": "an issue."
+    },
+    {
+      "start": 2028.16,
+      "duration": 5.68,
+      "text": "Uh it's very um clean and clear, you"
+    },
+    {
+      "start": 2031.32,
+      "duration": 5.8,
+      "text": "know, this kind of workflow"
+    },
+    {
+      "start": 2033.84,
+      "duration": 7.04,
+      "text": "um to uh troubleshoot the issues and uh"
+    },
+    {
+      "start": 2037.12,
+      "duration": 4.4,
+      "text": "optimize uh the code um"
+    },
+    {
+      "start": 2040.88,
+      "duration": 2.8,
+      "text": "uh"
+    },
+    {
+      "start": 2041.52,
+      "duration": 4.88,
+      "text": "you you know um"
+    },
+    {
+      "start": 2043.68,
+      "duration": 7.24,
+      "text": "as early as possible. Uh not as a final"
+    },
+    {
+      "start": 2046.4,
+      "duration": 4.52,
+      "text": "step but within your workflow."
+    },
+    {
+      "start": 2051.2,
+      "duration": 4.2,
+      "text": "Yeah. Yeah, exactly, Carlota. That's"
+    },
+    {
+      "start": 2053.0,
+      "duration": 4.24,
+      "text": "definitely how we think about it and we"
+    },
+    {
+      "start": 2055.4,
+      "duration": 3.92,
+      "text": "I think we think about it as"
+    },
+    {
+      "start": 2057.24,
+      "duration": 4.64,
+      "text": "you know, when you initially"
+    },
+    {
+      "start": 2059.32,
+      "duration": 4.56,
+      "text": "in the pre-AI days of development, you"
+    },
+    {
+      "start": 2061.88,
+      "duration": 3.52,
+      "text": "had test coverage. You had the way in"
+    },
+    {
+      "start": 2063.88,
+      "duration": 2.72,
+      "text": "which you"
+    },
+    {
+      "start": 2065.4,
+      "duration": 3.52,
+      "text": "you know, wrote unit tests and"
+    },
+    {
+      "start": 2066.6,
+      "duration": 4.68,
+      "text": "integration tests and you had all these"
+    },
+    {
+      "start": 2068.92,
+      "duration": 5.32,
+      "text": "um you know, Playwright, for example, is"
+    },
+    {
+      "start": 2071.28,
+      "duration": 5.96,
+      "text": "like a way for you to go and you know,"
+    },
+    {
+      "start": 2074.24,
+      "duration": 6.28,
+      "text": "do really good test simulations. So I"
+    },
+    {
+      "start": 2077.24,
+      "duration": 5.68,
+      "text": "think of evals is just that. It's it's"
+    },
+    {
+      "start": 2080.52,
+      "duration": 5.32,
+      "text": "it's just something that is more rooted"
+    },
+    {
+      "start": 2082.92,
+      "duration": 5.96,
+      "text": "in like data science. It has its own"
+    },
+    {
+      "start": 2085.84,
+      "duration": 4.92,
+      "text": "ways of how it evaluates things against"
+    },
+    {
+      "start": 2088.88,
+      "duration": 3.36,
+      "text": "a non-deterministic"
+    },
+    {
+      "start": 2090.76,
+      "duration": 2.84,
+      "text": "thing that you're evaluating against. So"
+    },
+    {
+      "start": 2092.24,
+      "duration": 3.4,
+      "text": "it's a completely different thing than"
+    },
+    {
+      "start": 2093.6,
+      "duration": 4.28,
+      "text": "writing tests, right? Because tests are"
+    },
+    {
+      "start": 2095.64,
+      "duration": 3.68,
+      "text": "inherently deterministic. So there is a"
+    },
+    {
+      "start": 2097.88,
+      "duration": 4.16,
+      "text": "lot of um"
+    },
+    {
+      "start": 2099.32,
+      "duration": 4.04,
+      "text": "science that goes behind why certain"
+    },
+    {
+      "start": 2102.04,
+      "duration": 2.92,
+      "text": "evaluators are used, why you have"
+    },
+    {
+      "start": 2103.36,
+      "duration": 3.28,
+      "text": "context-specific evaluators, you have"
+    },
+    {
+      "start": 2104.96,
+      "duration": 3.68,
+      "text": "these we have new features called"
+    },
+    {
+      "start": 2106.64,
+      "duration": 5.48,
+      "text": "adaptive rubrics that are adapted to"
+    },
+    {
+      "start": 2108.64,
+      "duration": 5.64,
+      "text": "your specific agent and your specific um"
+    },
+    {
+      "start": 2112.12,
+      "duration": 4.2,
+      "text": "success criteria and adapts to how the"
+    },
+    {
+      "start": 2114.28,
+      "duration": 3.68,
+      "text": "agent behaves so that you can keep up"
+    },
+    {
+      "start": 2116.32,
+      "duration": 5.0,
+      "text": "with the quality of your agent's"
+    },
+    {
+      "start": 2117.96,
+      "duration": 6.0,
+      "text": "performance. So as developers"
+    },
+    {
+      "start": 2121.32,
+      "duration": 5.48,
+      "text": "move towards building more and more"
+    },
+    {
+      "start": 2123.96,
+      "duration": 6.44,
+      "text": "agents to take over logic of their apps,"
+    },
+    {
+      "start": 2126.8,
+      "duration": 6.04,
+      "text": "it becomes very integral for them to ad"
+    },
+    {
+      "start": 2130.4,
+      "duration": 4.96,
+      "text": "adopt evaluators"
+    },
+    {
+      "start": 2132.84,
+      "duration": 5.64,
+      "text": "uh because otherwise they're going in"
+    },
+    {
+      "start": 2135.36,
+      "duration": 5.12,
+      "text": "blind and flying blind in terms of like"
+    },
+    {
+      "start": 2138.48,
+      "duration": 4.28,
+      "text": "handing over logic of something that"
+    },
+    {
+      "start": 2140.48,
+      "duration": 5.68,
+      "text": "they could um you know, investigate and"
+    },
+    {
+      "start": 2142.76,
+      "duration": 5.36,
+      "text": "mitigate and uh regression test but with"
+    },
+    {
+      "start": 2146.16,
+      "duration": 4.28,
+      "text": "the agentic parts of their logic, now"
+    },
+    {
+      "start": 2148.12,
+      "duration": 5.28,
+      "text": "they don't have as many of those skills,"
+    },
+    {
+      "start": 2150.44,
+      "duration": 5.84,
+      "text": "no pun intended to the skills. So that's"
+    },
+    {
+      "start": 2153.4,
+      "duration": 5.96,
+      "text": "one of the purpose of observability is"
+    },
+    {
+      "start": 2156.28,
+      "duration": 6.24,
+      "text": "to bring that muscle into development."
+    },
+    {
+      "start": 2159.36,
+      "duration": 6.0,
+      "text": "And this really helps you do that."
+    },
+    {
+      "start": 2162.52,
+      "duration": 4.56,
+      "text": "Yeah, 100% and that's great that"
+    },
+    {
+      "start": 2165.36,
+      "duration": 4.92,
+      "text": "everything is integrated in GitHub"
+    },
+    {
+      "start": 2167.08,
+      "duration": 5.84,
+      "text": "Copilot, you know, so that developer can"
+    },
+    {
+      "start": 2170.28,
+      "duration": 4.52,
+      "text": "do everything within again within the"
+    },
+    {
+      "start": 2172.92,
+      "duration": 3.12,
+      "text": "IDE without leaving the development"
+    },
+    {
+      "start": 2174.8,
+      "duration": 2.32,
+      "text": "environment."
+    },
+    {
+      "start": 2176.04,
+      "duration": 3.44,
+      "text": "Um"
+    },
+    {
+      "start": 2177.12,
+      "duration": 4.48,
+      "text": "Okay, I I cannot see any questions in"
+    },
+    {
+      "start": 2179.48,
+      "duration": 4.2,
+      "text": "the chat so far. Again, if you have any"
+    },
+    {
+      "start": 2181.6,
+      "duration": 4.0,
+      "text": "questions, please post them in the chat."
+    },
+    {
+      "start": 2183.68,
+      "duration": 3.96,
+      "text": "We're going to address them directly"
+    },
+    {
+      "start": 2185.6,
+      "duration": 4.04,
+      "text": "with Felicia."
+    },
+    {
+      "start": 2187.64,
+      "duration": 5.0,
+      "text": "Um but at this point I would say let's"
+    },
+    {
+      "start": 2189.64,
+      "duration": 4.28,
+      "text": "roll over the the other video that will"
+    },
+    {
+      "start": 2192.64,
+      "duration": 2.4,
+      "text": "cover"
+    },
+    {
+      "start": 2193.92,
+      "duration": 2.96,
+      "text": "um"
+    },
+    {
+      "start": 2195.04,
+      "duration": 4.44,
+      "text": "Microsoft Foundry observability skills"
+    },
+    {
+      "start": 2196.88,
+      "duration": 6.52,
+      "text": "within the Copilot CLI and then again"
+    },
+    {
+      "start": 2199.48,
+      "duration": 3.92,
+      "text": "we're going to chat a bit about it."
+    },
+    {
+      "start": 2217.4,
+      "duration": 4.88,
+      "text": "Users can directly ask for trace"
+    },
+    {
+      "start": 2219.6,
+      "duration": 6.68,
+      "text": "information and Copilot will detect"
+    },
+    {
+      "start": 2222.28,
+      "duration": 4.0,
+      "text": "agent info from current folder."
+    },
+    {
+      "start": 2234.64,
+      "duration": 4.68,
+      "text": "Users can choose to do failure analysis,"
+    },
+    {
+      "start": 2237.16,
+      "duration": 3.84,
+      "text": "dive into trace view or improve the"
+    },
+    {
+      "start": 2239.32,
+      "duration": 3.72,
+      "text": "agent directly."
+    },
+    {
+      "start": 2241.0,
+      "duration": 5.92,
+      "text": "Copilot will retrieve app insights"
+    },
+    {
+      "start": 2243.04,
+      "duration": 3.88,
+      "text": "information from Foundry project."
+    },
+    {
+      "start": 2284.08,
+      "duration": 2.24,
+      "text": "You"
+    },
+    {
+      "start": 2286.36,
+      "duration": 5.92,
+      "text": "Users can also query by any response ID"
+    },
+    {
+      "start": 2289.64,
+      "duration": 5.32,
+      "text": "or conversation ID to get a detailed"
+    },
+    {
+      "start": 2292.28,
+      "duration": 3.8,
+      "text": "view including evaluation results as"
+    },
+    {
+      "start": 2294.96,
+      "duration": 3.36,
+      "text": "well."
+    },
+    {
+      "start": 2296.08,
+      "duration": 4.64,
+      "text": "Users can also choose to optimize from"
+    },
+    {
+      "start": 2298.32,
+      "duration": 2.4,
+      "text": "there."
+    },
+    {
+      "start": 2315.4,
+      "duration": 4.88,
+      "text": "It's also quite easy to get an overview"
+    },
+    {
+      "start": 2317.96,
+      "duration": 6.8,
+      "text": "of all traces in the past 1 month, for"
+    },
+    {
+      "start": 2320.28,
+      "duration": 4.48,
+      "text": "example, and add any dimension."
+    },
+    {
+      "start": 2412.96,
+      "duration": 3.68,
+      "text": ">> Okay, that's it for the second demo as"
+    },
+    {
+      "start": 2415.68,
+      "duration": 1.72,
+      "text": "well."
+    },
+    {
+      "start": 2416.64,
+      "duration": 2.28,
+      "text": "Um"
+    },
+    {
+      "start": 2417.4,
+      "duration": 4.32,
+      "text": "so thanks Felicia. Do you do you want"
+    },
+    {
+      "start": 2418.92,
+      "duration": 5.68,
+      "text": "maybe to Do you have any comments,"
+    },
+    {
+      "start": 2421.72,
+      "duration": 3.52,
+      "text": "anything you want to add to what we just"
+    },
+    {
+      "start": 2424.6,
+      "duration": 1.56,
+      "text": "uh"
+    },
+    {
+      "start": 2425.24,
+      "duration": 2.72,
+      "text": "What's"
+    },
+    {
+      "start": 2426.16,
+      "duration": 3.16,
+      "text": "I think it's"
+    },
+    {
+      "start": 2427.96,
+      "duration": 3.64,
+      "text": "I think the only thing I'll say is that"
+    },
+    {
+      "start": 2429.32,
+      "duration": 5.0,
+      "text": "traces become sort of your super"
+    },
+    {
+      "start": 2431.6,
+      "duration": 4.12,
+      "text": "important asset when you're analyzing"
+    },
+    {
+      "start": 2434.32,
+      "duration": 6.04,
+      "text": "any failures, right? It's like your"
+    },
+    {
+      "start": 2435.72,
+      "duration": 7.04,
+      "text": "first step step to um diagnosing and"
+    },
+    {
+      "start": 2440.36,
+      "duration": 5.64,
+      "text": "debugging something that's gone wrong"
+    },
+    {
+      "start": 2442.76,
+      "duration": 5.68,
+      "text": "with your agent. So it just demonstrates"
+    },
+    {
+      "start": 2446.0,
+      "duration": 5.24,
+      "text": "how this is um"
+    },
+    {
+      "start": 2448.44,
+      "duration": 4.56,
+      "text": "easy monitor and you know how we hook up"
+    },
+    {
+      "start": 2451.24,
+      "duration": 1.92,
+      "text": "with that."
+    },
+    {
+      "start": 2453.0,
+      "duration": 3.68,
+      "text": ">> [snorts]"
+    },
+    {
+      "start": 2453.16,
+      "duration": 4.2,
+      "text": ">> Yeah, 100% and again it's great to see"
+    },
+    {
+      "start": 2456.68,
+      "duration": 2.28,
+      "text": "um"
+    },
+    {
+      "start": 2457.36,
+      "duration": 3.92,
+      "text": "you know that you can use the"
+    },
+    {
+      "start": 2458.96,
+      "duration": 4.4,
+      "text": "observability skills not only inside"
+    },
+    {
+      "start": 2461.28,
+      "duration": 4.04,
+      "text": "your ID but also"
+    },
+    {
+      "start": 2463.36,
+      "duration": 4.92,
+      "text": "uh here we are you know in the CLI so"
+    },
+    {
+      "start": 2465.32,
+      "duration": 7.48,
+      "text": "outside the ID we're using logs on Azure"
+    },
+    {
+      "start": 2468.28,
+      "duration": 7.96,
+      "text": "so across development platforms. Um so"
+    },
+    {
+      "start": 2472.8,
+      "duration": 5.36,
+      "text": "we have a question for from Pablo. Uh in"
+    },
+    {
+      "start": 2476.24,
+      "duration": 4.76,
+      "text": "a multi-agent application are the"
+    },
+    {
+      "start": 2478.16,
+      "duration": 6.04,
+      "text": "evaluation results for the outermost"
+    },
+    {
+      "start": 2481.0,
+      "duration": 5.64,
+      "text": "agent only? Is it possible to decide for"
+    },
+    {
+      "start": 2484.2,
+      "duration": 5.84,
+      "text": "each of the agents in the configuration"
+    },
+    {
+      "start": 2486.64,
+      "duration": 4.64,
+      "text": "a different eval when run together?"
+    },
+    {
+      "start": 2490.04,
+      "duration": 3.88,
+      "text": "Yeah, I think this is a really good"
+    },
+    {
+      "start": 2491.28,
+      "duration": 5.2,
+      "text": "question in multi-agent systems and yeah"
+    },
+    {
+      "start": 2493.92,
+      "duration": 5.4,
+      "text": "we we do have um"
+    },
+    {
+      "start": 2496.48,
+      "duration": 8.08,
+      "text": "the ability to actually"
+    },
+    {
+      "start": 2499.32,
+      "duration": 7.12,
+      "text": "span a trace sort of like when one agent"
+    },
+    {
+      "start": 2504.56,
+      "duration": 3.44,
+      "text": "hands it over to another agent, you"
+    },
+    {
+      "start": 2506.44,
+      "duration": 2.88,
+      "text": "know, so um"
+    },
+    {
+      "start": 2508.0,
+      "duration": 3.6,
+      "text": "um"
+    },
+    {
+      "start": 2509.32,
+      "duration": 4.68,
+      "text": "then that other agent goes and runs its"
+    },
+    {
+      "start": 2511.6,
+      "duration": 4.68,
+      "text": "own conversation or goes and like does"
+    },
+    {
+      "start": 2514.0,
+      "duration": 5.4,
+      "text": "its own task. So um"
+    },
+    {
+      "start": 2516.28,
+      "duration": 6.04,
+      "text": "like the multi-session view is like what"
+    },
+    {
+      "start": 2519.4,
+      "duration": 5.52,
+      "text": "we call it and we do pull in all those"
+    },
+    {
+      "start": 2522.32,
+      "duration": 5.72,
+      "text": "like traces back and like are able to"
+    },
+    {
+      "start": 2524.92,
+      "duration": 4.56,
+      "text": "like pull in we call them like spans in"
+    },
+    {
+      "start": 2528.04,
+      "duration": 5.36,
+      "text": "into"
+    },
+    {
+      "start": 2529.48,
+      "duration": 7.76,
+      "text": "um our evaluation. Um and yeah we're"
+    },
+    {
+      "start": 2533.4,
+      "duration": 5.44,
+      "text": "able to actually factor that in um to"
+    },
+    {
+      "start": 2537.24,
+      "duration": 4.32,
+      "text": "how our evals are built. But it's like"
+    },
+    {
+      "start": 2538.84,
+      "duration": 5.52,
+      "text": "an ongoing process in terms of how well"
+    },
+    {
+      "start": 2541.56,
+      "duration": 5.52,
+      "text": "it'll work with multi-agent orchestrated"
+    },
+    {
+      "start": 2544.36,
+      "duration": 2.72,
+      "text": "systems."
+    },
+    {
+      "start": 2547.24,
+      "duration": 4.92,
+      "text": "Thanks Felicia for the answer and thanks"
+    },
+    {
+      "start": 2549.2,
+      "duration": 3.68,
+      "text": "Pablo for for the questions."
+    },
+    {
+      "start": 2552.16,
+      "duration": 3.16,
+      "text": "Um"
+    },
+    {
+      "start": 2552.88,
+      "duration": 5.32,
+      "text": "so if there's"
+    },
+    {
+      "start": 2555.32,
+      "duration": 4.72,
+      "text": "um no more question I would uh just want"
+    },
+    {
+      "start": 2558.2,
+      "duration": 5.0,
+      "text": "to really thank you Felicia for the"
+    },
+    {
+      "start": 2560.04,
+      "duration": 5.08,
+      "text": "demos you shared with us and uh for"
+    },
+    {
+      "start": 2563.2,
+      "duration": 5.36,
+      "text": "answering the questions, for giving all"
+    },
+    {
+      "start": 2565.12,
+      "duration": 6.76,
+      "text": "the context. Um"
+    },
+    {
+      "start": 2568.56,
+      "duration": 5.32,
+      "text": "Again, I think we Yeah, you Anna shared"
+    },
+    {
+      "start": 2571.88,
+      "duration": 5.8,
+      "text": "with you the link"
+    },
+    {
+      "start": 2573.88,
+      "duration": 5.68,
+      "text": "um in the chat uh to um a repo uh where"
+    },
+    {
+      "start": 2577.68,
+      "duration": 3.92,
+      "text": "you can see a sample of using the"
+    },
+    {
+      "start": 2579.56,
+      "duration": 4.28,
+      "text": "Microsoft Foundry observability in a"
+    },
+    {
+      "start": 2581.6,
+      "duration": 3.8,
+      "text": "real-world project. Oh, we we have a"
+    },
+    {
+      "start": 2583.84,
+      "duration": 3.68,
+      "text": "couple of more questions. So Felicia, if"
+    },
+    {
+      "start": 2585.4,
+      "duration": 4.28,
+      "text": "you don't mind uh we can maybe address"
+    },
+    {
+      "start": 2587.52,
+      "duration": 4.88,
+      "text": "them. Uh"
+    },
+    {
+      "start": 2589.68,
+      "duration": 5.4,
+      "text": "Uh we have a follow-up question from"
+    },
+    {
+      "start": 2592.4,
+      "duration": 5.84,
+      "text": "Pablo again. Um is it possible to use a"
+    },
+    {
+      "start": 2595.08,
+      "duration": 5.84,
+      "text": "skill and an MCP server for accessing"
+    },
+    {
+      "start": 2598.24,
+      "duration": 5.68,
+      "text": "the evaluation setup and results from"
+    },
+    {
+      "start": 2600.92,
+      "duration": 7.0,
+      "text": "other large language models or agents as"
+    },
+    {
+      "start": 2603.92,
+      "duration": 6.2,
+      "text": "we can access traces with the Spire?"
+    },
+    {
+      "start": 2607.92,
+      "duration": 4.56,
+      "text": "Yeah, so we actually our skill works for"
+    },
+    {
+      "start": 2610.12,
+      "duration": 4.6,
+      "text": "non I think you're you're probably"
+    },
+    {
+      "start": 2612.48,
+      "duration": 4.24,
+      "text": "asking if it works on non-Foundry"
+    },
+    {
+      "start": 2614.72,
+      "duration": 5.56,
+      "text": "agents. So yes, our skill works on"
+    },
+    {
+      "start": 2616.72,
+      "duration": 6.72,
+      "text": "third-party agents and you can"
+    },
+    {
+      "start": 2620.28,
+      "duration": 5.8,
+      "text": "um utilize the skill for non-hosted"
+    },
+    {
+      "start": 2623.44,
+      "duration": 5.96,
+      "text": "non-Foundry agents. Yes."
+    },
+    {
+      "start": 2626.08,
+      "duration": 5.84,
+      "text": "Great. Uh and then Jace"
+    },
+    {
+      "start": 2629.4,
+      "duration": 5.28,
+      "text": "uh asked if if it Is it easy to"
+    },
+    {
+      "start": 2631.92,
+      "duration": 4.52,
+      "text": "distinguish them based on span ID since"
+    },
+    {
+      "start": 2634.68,
+      "duration": 2.76,
+      "text": "you were talking about different spans"
+    },
+    {
+      "start": 2636.44,
+      "duration": 1.56,
+      "text": "for evaluating different"
+    },
+    {
+      "start": 2637.44,
+      "duration": 2.76,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 2638.0,
+      "duration": 5.56,
+      "text": "um"
+    },
+    {
+      "start": 2640.2,
+      "duration": 5.28,
+      "text": "I'm not sure I like easy to distinguish"
+    },
+    {
+      "start": 2643.56,
+      "duration": 2.84,
+      "text": "um"
+    },
+    {
+      "start": 2645.48,
+      "duration": 4.36,
+      "text": "I I"
+    },
+    {
+      "start": 2646.4,
+      "duration": 5.24,
+      "text": "I guess like maybe like eval"
+    },
+    {
+      "start": 2649.84,
+      "duration": 3.96,
+      "text": "what is easy to distinguish? I'm not I'm"
+    },
+    {
+      "start": 2651.64,
+      "duration": 4.2,
+      "text": "not sure I understand the question"
+    },
+    {
+      "start": 2653.8,
+      "duration": 6.24,
+      "text": "fully."
+    },
+    {
+      "start": 2655.84,
+      "duration": 7.04,
+      "text": "Yeah. Um yeah, maybe Jace you can"
+    },
+    {
+      "start": 2660.04,
+      "duration": 8.12,
+      "text": "uh add some more uh details on your"
+    },
+    {
+      "start": 2662.88,
+      "duration": 5.28,
+      "text": "questions so we can fully answer."
+    },
+    {
+      "start": 2669.56,
+      "duration": 5.4,
+      "text": "By the way, thank thank you everyone for"
+    },
+    {
+      "start": 2672.4,
+      "duration": 4.4,
+      "text": "uh for sharing your questions with us."
+    },
+    {
+      "start": 2674.96,
+      "duration": 3.8,
+      "text": "Appreciate it."
+    },
+    {
+      "start": 2676.8,
+      "duration": 3.52,
+      "text": "You can get like a trace replay so"
+    },
+    {
+      "start": 2678.76,
+      "duration": 4.6,
+      "text": "that's a feature that's coming where you"
+    },
+    {
+      "start": 2680.32,
+      "duration": 5.12,
+      "text": "can like actually look into maybe maybe"
+    },
+    {
+      "start": 2683.36,
+      "duration": 4.52,
+      "text": "they're asking about"
+    },
+    {
+      "start": 2685.44,
+      "duration": 5.72,
+      "text": "being able to find the root cause of"
+    },
+    {
+      "start": 2687.88,
+      "duration": 7.08,
+      "text": "like where this error is coming from. So"
+    },
+    {
+      "start": 2691.16,
+      "duration": 6.28,
+      "text": "yeah, we have a trace replay view um"
+    },
+    {
+      "start": 2694.96,
+      "duration": 4.4,
+      "text": "that's going to be um shipped by build"
+    },
+    {
+      "start": 2697.44,
+      "duration": 5.2,
+      "text": "so you'll be able to see that which is"
+    },
+    {
+      "start": 2699.36,
+      "duration": 3.28,
+      "text": "around the yeah."
+    },
+    {
+      "start": 2703.96,
+      "duration": 3.96,
+      "text": "Um different agent span ID. Yeah, I"
+    },
+    {
+      "start": 2706.24,
+      "duration": 3.16,
+      "text": "think that so I"
+    },
+    {
+      "start": 2707.92,
+      "duration": 3.48,
+      "text": "yes, I think that's what I I was"
+    },
+    {
+      "start": 2709.4,
+      "duration": 4.4,
+      "text": "referring to is being able to like"
+    },
+    {
+      "start": 2711.4,
+      "duration": 5.04,
+      "text": "actually see how the agents like like"
+    },
+    {
+      "start": 2713.8,
+      "duration": 4.0,
+      "text": "interplay. So that's mostly like a trace"
+    },
+    {
+      "start": 2716.44,
+      "duration": 3.04,
+      "text": "replay feature where you can see like"
+    },
+    {
+      "start": 2717.8,
+      "duration": 2.96,
+      "text": "the nested"
+    },
+    {
+      "start": 2719.48,
+      "duration": 3.36,
+      "text": "um"
+    },
+    {
+      "start": 2720.76,
+      "duration": 4.32,
+      "text": "you know view of the spans and like how"
+    },
+    {
+      "start": 2722.84,
+      "duration": 4.84,
+      "text": "that multi multi-agent conversation like"
+    },
+    {
+      "start": 2725.08,
+      "duration": 5.0,
+      "text": "goes through. Yeah."
+    },
+    {
+      "start": 2727.68,
+      "duration": 3.68,
+      "text": "Yeah, good to know it's coming. Um"
+    },
+    {
+      "start": 2730.08,
+      "duration": 3.88,
+      "text": "perfect."
+    },
+    {
+      "start": 2731.36,
+      "duration": 3.88,
+      "text": "Thank you so much Felicia for joining us"
+    },
+    {
+      "start": 2733.96,
+      "duration": 3.6,
+      "text": "today."
+    },
+    {
+      "start": 2735.24,
+      "duration": 5.56,
+      "text": "Again for the demos and answering the"
+    },
+    {
+      "start": 2737.56,
+      "duration": 4.96,
+      "text": "questions from from the community."
+    },
+    {
+      "start": 2740.8,
+      "duration": 4.76,
+      "text": "Um if you want to"
+    },
+    {
+      "start": 2742.52,
+      "duration": 5.48,
+      "text": "uh if you want to uh try out Microsoft"
+    },
+    {
+      "start": 2745.56,
+      "duration": 4.64,
+      "text": "Foundry skills again they come"
+    },
+    {
+      "start": 2748.0,
+      "duration": 3.72,
+      "text": "uh the Foundry developer toolkit so you"
+    },
+    {
+      "start": 2750.2,
+      "duration": 3.96,
+      "text": "can"
+    },
+    {
+      "start": 2751.72,
+      "duration": 4.52,
+      "text": "download the extension in Visual Studio"
+    },
+    {
+      "start": 2754.16,
+      "duration": 5.28,
+      "text": "Code or um"
+    },
+    {
+      "start": 2756.24,
+      "duration": 5.16,
+      "text": "you know uh as you as you have seen from"
+    },
+    {
+      "start": 2759.44,
+      "duration": 4.32,
+      "text": "the latest demo you can also use"
+    },
+    {
+      "start": 2761.4,
+      "duration": 4.68,
+      "text": "Microsoft Foundry skills"
+    },
+    {
+      "start": 2763.76,
+      "duration": 5.28,
+      "text": "uh in the Copilot CLI"
+    },
+    {
+      "start": 2766.08,
+      "duration": 5.04,
+      "text": "uh and in the chat you can see uh the"
+    },
+    {
+      "start": 2769.04,
+      "duration": 4.64,
+      "text": "repo where uh"
+    },
+    {
+      "start": 2771.12,
+      "duration": 4.36,
+      "text": "a sample of using Microsoft Foundry"
+    },
+    {
+      "start": 2773.68,
+      "duration": 4.72,
+      "text": "observability skills in a in a"
+    },
+    {
+      "start": 2775.48,
+      "duration": 4.84,
+      "text": "real-world project. Um any final"
+    },
+    {
+      "start": 2778.4,
+      "duration": 3.64,
+      "text": "thoughts Felicia, anything you want to"
+    },
+    {
+      "start": 2780.32,
+      "duration": 3.32,
+      "text": "add as next step or"
+    },
+    {
+      "start": 2782.04,
+      "duration": 4.12,
+      "text": ">> Yeah, definitely go try out the repo"
+    },
+    {
+      "start": 2783.64,
+      "duration": 4.48,
+      "text": "that I linked with the skill. Um would"
+    },
+    {
+      "start": 2786.16,
+      "duration": 3.96,
+      "text": "love for you to actually try it out and"
+    },
+    {
+      "start": 2788.12,
+      "duration": 3.56,
+      "text": "try using that skill. It's like the one"
+    },
+    {
+      "start": 2790.12,
+      "duration": 3.56,
+      "text": "of the fastest and the easiest ways to"
+    },
+    {
+      "start": 2791.68,
+      "duration": 2.96,
+      "text": "be actually start with observability and"
+    },
+    {
+      "start": 2793.68,
+      "duration": 3.28,
+      "text": "actually even continue with"
+    },
+    {
+      "start": 2794.64,
+      "duration": 4.24,
+      "text": "observability. Um and feel free to like"
+    },
+    {
+      "start": 2796.96,
+      "duration": 4.0,
+      "text": "leave me issues on that repo. I can"
+    },
+    {
+      "start": 2798.88,
+      "duration": 4.68,
+      "text": "respond over there for answers. Like"
+    },
+    {
+      "start": 2800.96,
+      "duration": 4.4,
+      "text": "it's it's a it's a public repo but I can"
+    },
+    {
+      "start": 2803.56,
+      "duration": 3.64,
+      "text": "interface on."
+    },
+    {
+      "start": 2805.36,
+      "duration": 4.08,
+      "text": "Okay. Awesome. Thank you so much. It was"
+    },
+    {
+      "start": 2807.2,
+      "duration": 2.72,
+      "text": "great having you on the show Felicia."
+    },
+    {
+      "start": 2809.44,
+      "duration": 2.48,
+      "text": "Thank you."
+    },
+    {
+      "start": 2809.92,
+      "duration": 2.0,
+      "text": ">> Thanks."
+    },
+    {
+      "start": 2812.08,
+      "duration": 3.44,
+      "text": "Uh nice. So let's"
+    },
+    {
+      "start": 2814.84,
+      "duration": 3.44,
+      "text": "uh"
+    },
+    {
+      "start": 2815.52,
+      "duration": 3.76,
+      "text": "um go back to the deck"
+    },
+    {
+      "start": 2818.28,
+      "duration": 4.48,
+      "text": "um"
+    },
+    {
+      "start": 2819.28,
+      "duration": 6.16,
+      "text": "so we can wrap up for this"
+    },
+    {
+      "start": 2822.76,
+      "duration": 3.52,
+      "text": "um episode. So um"
+    },
+    {
+      "start": 2825.44,
+      "duration": 4.24,
+      "text": "um"
+    },
+    {
+      "start": 2826.28,
+      "duration": 6.72,
+      "text": "as I say this is the final episode for"
+    },
+    {
+      "start": 2829.68,
+      "duration": 5.6,
+      "text": "Modern Mondays episode sorry season 3."
+    },
+    {
+      "start": 2833.0,
+      "duration": 6.44,
+      "text": "Uh but we still have"
+    },
+    {
+      "start": 2835.28,
+      "duration": 7.32,
+      "text": "uh a Foundry Friday AMA this Friday. Um"
+    },
+    {
+      "start": 2839.44,
+      "duration": 5.64,
+      "text": "it will be at an unusual time so please"
+    },
+    {
+      "start": 2842.6,
+      "duration": 4.84,
+      "text": "keep an eye on the slot which is time"
+    },
+    {
+      "start": 2845.08,
+      "duration": 3.64,
+      "text": "slot which is different from the usual"
+    },
+    {
+      "start": 2847.44,
+      "duration": 2.72,
+      "text": "uh slot"
+    },
+    {
+      "start": 2848.72,
+      "duration": 3.0,
+      "text": "uh we"
+    },
+    {
+      "start": 2850.16,
+      "duration": 4.52,
+      "text": "um we usually"
+    },
+    {
+      "start": 2851.72,
+      "duration": 5.44,
+      "text": "uh host our Foundry Friday AMA on the"
+    },
+    {
+      "start": 2854.68,
+      "duration": 4.68,
+      "text": "Microsoft Foundry Discord community."
+    },
+    {
+      "start": 2857.16,
+      "duration": 4.84,
+      "text": "Um and uh this is again to you know"
+    },
+    {
+      "start": 2859.36,
+      "duration": 6.28,
+      "text": "accommodate all the time zones of our"
+    },
+    {
+      "start": 2862.0,
+      "duration": 6.12,
+      "text": "guest speakers um and our host as well."
+    },
+    {
+      "start": 2865.64,
+      "duration": 4.24,
+      "text": "I will be your host for the AMA as well."
+    },
+    {
+      "start": 2868.12,
+      "duration": 5.04,
+      "text": "John G will"
+    },
+    {
+      "start": 2869.88,
+      "duration": 6.24,
+      "text": "um join us um"
+    },
+    {
+      "start": 2873.16,
+      "duration": 5.12,
+      "text": "uh John G will join us live to answer"
+    },
+    {
+      "start": 2876.12,
+      "duration": 4.68,
+      "text": "all your questions related to the"
+    },
+    {
+      "start": 2878.28,
+      "duration": 4.52,
+      "text": "Foundry developer toolkit or if you want"
+    },
+    {
+      "start": 2880.8,
+      "duration": 3.68,
+      "text": "to come with your feedback if you"
+    },
+    {
+      "start": 2882.8,
+      "duration": 4.24,
+      "text": "already tested the extension and you"
+    },
+    {
+      "start": 2884.48,
+      "duration": 4.6,
+      "text": "want to share any feedback with John G"
+    },
+    {
+      "start": 2887.04,
+      "duration": 2.72,
+      "text": "he would be very happy to"
+    },
+    {
+      "start": 2889.08,
+      "duration": 3.44,
+      "text": "uh"
+    },
+    {
+      "start": 2889.76,
+      "duration": 5.92,
+      "text": "to hear it from you as well."
+    },
+    {
+      "start": 2892.52,
+      "duration": 5.52,
+      "text": "Um and as we wrap up again a few uh"
+    },
+    {
+      "start": 2895.68,
+      "duration": 3.68,
+      "text": "links and resources that might be useful"
+    },
+    {
+      "start": 2898.04,
+      "duration": 4.52,
+      "text": "for you."
+    },
+    {
+      "start": 2899.36,
+      "duration": 6.36,
+      "text": "Um you have first link and QR code which"
+    },
+    {
+      "start": 2902.56,
+      "duration": 6.0,
+      "text": "is the Microsoft Reactor page with all"
+    },
+    {
+      "start": 2905.72,
+      "duration": 5.44,
+      "text": "the past episode at this point since"
+    },
+    {
+      "start": 2908.56,
+      "duration": 5.2,
+      "text": "this is the final um"
+    },
+    {
+      "start": 2911.16,
+      "duration": 4.72,
+      "text": "episode of the season but you are going"
+    },
+    {
+      "start": 2913.76,
+      "duration": 5.44,
+      "text": "to have"
+    },
+    {
+      "start": 2915.88,
+      "duration": 5.44,
+      "text": "um them posted there also the upcoming"
+    },
+    {
+      "start": 2919.2,
+      "duration": 4.08,
+      "text": "uh episodes of the new season so keep an"
+    },
+    {
+      "start": 2921.32,
+      "duration": 4.36,
+      "text": "eye on that page. And then you have the"
+    },
+    {
+      "start": 2923.28,
+      "duration": 5.4,
+      "text": "Discord link and QR code"
+    },
+    {
+      "start": 2925.68,
+      "duration": 5.76,
+      "text": "to join Friday AMA and all the upcoming"
+    },
+    {
+      "start": 2928.68,
+      "duration": 6.76,
+      "text": "AMAs um for Modern Mondays that will"
+    },
+    {
+      "start": 2931.44,
+      "duration": 6.0,
+      "text": "come uh in the next months. Um and then"
+    },
+    {
+      "start": 2935.44,
+      "duration": 4.16,
+      "text": "we have the the the GitHub repo where"
+    },
+    {
+      "start": 2937.44,
+      "duration": 6.68,
+      "text": "you're going to find all the demos and"
+    },
+    {
+      "start": 2939.6,
+      "duration": 8.04,
+      "text": "content shared by our guest speakers"
+    },
+    {
+      "start": 2944.12,
+      "duration": 5.88,
+      "text": "uh in in in the in the Modern Mondays uh"
+    },
+    {
+      "start": 2947.64,
+      "duration": 4.24,
+      "text": "show. Uh so thank you so much for"
+    },
+    {
+      "start": 2950.0,
+      "duration": 4.76,
+      "text": "joining us today."
+    },
+    {
+      "start": 2951.88,
+      "duration": 5.04,
+      "text": "Um and um yeah, I'm honored to kind of"
+    },
+    {
+      "start": 2954.76,
+      "duration": 3.92,
+      "text": "wrap up today the"
+    },
+    {
+      "start": 2956.92,
+      "duration": 4.4,
+      "text": "uh the season 3 of Modern Mondays."
+    },
+    {
+      "start": 2958.68,
+      "duration": 5.52,
+      "text": "Hopefully this was uh you know uh"
+    },
+    {
+      "start": 2961.32,
+      "duration": 4.64,
+      "text": "enjoyable and helpful to you"
+    },
+    {
+      "start": 2964.2,
+      "duration": 4.24,
+      "text": "um and uh feel free to share your"
+    },
+    {
+      "start": 2965.96,
+      "duration": 6.36,
+      "text": "feedback with us as well so we can you"
+    },
+    {
+      "start": 2968.44,
+      "duration": 6.64,
+      "text": "know uh improve uh always a bit more one"
+    },
+    {
+      "start": 2972.32,
+      "duration": 4.92,
+      "text": "season uh after the other. Thank Thank"
+    },
+    {
+      "start": 2975.08,
+      "duration": 5.32,
+      "text": "so much everyone and"
+    },
+    {
+      "start": 2977.24,
+      "duration": 8.68,
+      "text": "uh see you on Friday for the uh final"
+    },
+    {
+      "start": 2980.4,
+      "duration": 5.52,
+      "text": "pri- pri- Founder Friday AMA. Thank you."
+    },
+    {
+      "start": 2992.04,
+      "duration": 4.16,
+      "text": "Thank you all for joining, and thanks"
+    },
+    {
+      "start": 2993.68,
+      "duration": 5.0,
+      "text": "again to our speakers."
+    },
+    {
+      "start": 2996.2,
+      "duration": 4.92,
+      "text": "This session is a part of a series."
+    },
+    {
+      "start": 2998.68,
+      "duration": 4.68,
+      "text": "To register for future shows and watch"
+    },
+    {
+      "start": 3001.12,
+      "duration": 6.2,
+      "text": "past episodes on demand, you can follow"
+    },
+    {
+      "start": 3003.36,
+      "duration": 5.24,
+      "text": "the link on the screen or in the chat."
+    },
+    {
+      "start": 3007.32,
+      "duration": 3.76,
+      "text": "We're always looking to improve our"
+    },
+    {
+      "start": 3008.6,
+      "duration": 4.08,
+      "text": "sessions and your experience."
+    },
+    {
+      "start": 3011.08,
+      "duration": 4.0,
+      "text": "If you have any feedback for us, we"
+    },
+    {
+      "start": 3012.68,
+      "duration": 4.32,
+      "text": "would love to hear what you have to say."
+    },
+    {
+      "start": 3015.08,
+      "duration": 3.56,
+      "text": "You can find that link on the screen or"
+    },
+    {
+      "start": 3017.0,
+      "duration": 4.88,
+      "text": "in the chat."
+    },
+    {
+      "start": 3018.64,
+      "duration": 3.24,
+      "text": "And we'll see you at the next one."
+    },
+    {
+      "start": 3029.41,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 3035.96,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 3041.86,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 3050.37,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 3059.54,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 3064.12,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 3085.09,
+      "duration": 2.02,
+      "text": "[music]"
+    }
+  ]
+}

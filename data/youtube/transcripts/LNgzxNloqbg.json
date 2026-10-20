@@ -1,0 +1,7393 @@
+{
+  "videoId": "LNgzxNloqbg",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:00:39+00:00",
+  "segments": [
+    {
+      "start": 6.16,
+      "duration": 3.76,
+      "text": "Hey everyone. Thanks for joining us for"
+    },
+    {
+      "start": 8.48,
+      "duration": 2.88,
+      "text": "the next session of our Model Monday"
+    },
+    {
+      "start": 9.92,
+      "duration": 2.96,
+      "text": "series."
+    },
+    {
+      "start": 11.36,
+      "duration": 3.12,
+      "text": "My name's Anna. I'll be your producer"
+    },
+    {
+      "start": 12.88,
+      "duration": 3.52,
+      "text": "for this session."
+    },
+    {
+      "start": 14.48,
+      "duration": 4.64,
+      "text": "I'm an event planner for Reactor joining"
+    },
+    {
+      "start": 16.4,
+      "duration": 4.36,
+      "text": "you from Redmond, Washington."
+    },
+    {
+      "start": 19.12,
+      "duration": 3.4,
+      "text": "Before we start, I do have some quick"
+    },
+    {
+      "start": 20.76,
+      "duration": 3.12,
+      "text": "housekeeping."
+    },
+    {
+      "start": 22.52,
+      "duration": 3.2,
+      "text": "Please take a moment to read our code of"
+    },
+    {
+      "start": 23.88,
+      "duration": 3.16,
+      "text": "conduct."
+    },
+    {
+      "start": 25.72,
+      "duration": 2.84,
+      "text": "We seek to provide a respectful"
+    },
+    {
+      "start": 27.04,
+      "duration": 3.32,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 28.56,
+      "duration": 3.76,
+      "text": "presenters."
+    },
+    {
+      "start": 30.36,
+      "duration": 4.04,
+      "text": "While we absolutely encourage engagement"
+    },
+    {
+      "start": 32.32,
+      "duration": 3.96,
+      "text": "in the chat, we ask that you please be"
+    },
+    {
+      "start": 34.4,
+      "duration": 4.96,
+      "text": "mindful of your commentary. Remain"
+    },
+    {
+      "start": 36.28,
+      "duration": 4.68,
+      "text": "professional and on topic."
+    },
+    {
+      "start": 39.36,
+      "duration": 3.44,
+      "text": "Keep an eye on that chat. We'll be"
+    },
+    {
+      "start": 40.96,
+      "duration": 3.52,
+      "text": "dropping helpful links and checking for"
+    },
+    {
+      "start": 42.8,
+      "duration": 4.12,
+      "text": "questions for our experts to answer"
+    },
+    {
+      "start": 44.48,
+      "duration": 4.52,
+      "text": "live."
+    },
+    {
+      "start": 46.92,
+      "duration": 4.08,
+      "text": "Our session is being recorded. It will"
+    },
+    {
+      "start": 49.0,
+      "duration": 4.64,
+      "text": "be available to view on demand right"
+    },
+    {
+      "start": 51.0,
+      "duration": 4.08,
+      "text": "here on the Reactor channel."
+    },
+    {
+      "start": 53.64,
+      "duration": 3.56,
+      "text": "With that, I'd love to turn it over to"
+    },
+    {
+      "start": 55.08,
+      "duration": 4.48,
+      "text": "our host for today. April, thanks so"
+    },
+    {
+      "start": 57.2,
+      "duration": 5.64,
+      "text": "much for joining."
+    },
+    {
+      "start": 59.56,
+      "duration": 5.36,
+      "text": "Thanks for having me. Hello everyone."
+    },
+    {
+      "start": 62.84,
+      "duration": 4.48,
+      "text": "Good morning, good afternoon, good"
+    },
+    {
+      "start": 64.92,
+      "duration": 4.84,
+      "text": "evening coming from wherever you are."
+    },
+    {
+      "start": 67.32,
+      "duration": 6.24,
+      "text": "I'm April Giddens and I am here to host"
+    },
+    {
+      "start": 69.76,
+      "duration": 6.04,
+      "text": "this episode of Model Mondays. I do see"
+    },
+    {
+      "start": 73.56,
+      "duration": 4.12,
+      "text": "in the chat that folks are chiming in"
+    },
+    {
+      "start": 75.8,
+      "duration": 4.32,
+      "text": "sharing where they're from. I have some"
+    },
+    {
+      "start": 77.68,
+      "duration": 4.68,
+      "text": "neighbors here from California. I'm in"
+    },
+    {
+      "start": 80.12,
+      "duration": 5.24,
+      "text": "Los Angeles where the sun is shining and"
+    },
+    {
+      "start": 82.36,
+      "duration": 5.44,
+      "text": "I just learned it's going to be 96°"
+    },
+    {
+      "start": 85.36,
+      "duration": 5.08,
+      "text": "where I live next week, which Fahrenheit"
+    },
+    {
+      "start": 87.8,
+      "duration": 4.36,
+      "text": "by the way, which is unheard of this"
+    },
+    {
+      "start": 90.44,
+      "duration": 4.56,
+      "text": "time of the year. Cuz it really doesn't"
+    },
+    {
+      "start": 92.16,
+      "duration": 5.12,
+      "text": "get hot until like summertime. But"
+    },
+    {
+      "start": 95.0,
+      "duration": 3.84,
+      "text": "anyways, I digress. Curious to know"
+    },
+    {
+      "start": 97.28,
+      "duration": 4.36,
+      "text": "where folks are from. I see I have some"
+    },
+    {
+      "start": 98.84,
+      "duration": 4.96,
+      "text": "friends here from Canada, Arizona where"
+    },
+    {
+      "start": 101.64,
+      "duration": 5.2,
+      "text": "I know it's also occasionally hot as"
+    },
+    {
+      "start": 103.8,
+      "duration": 6.2,
+      "text": "well. Thanks for joining. I am really"
+    },
+    {
+      "start": 106.84,
+      "duration": 6.96,
+      "text": "looking forward to everything that we"
+    },
+    {
+      "start": 110.0,
+      "duration": 6.68,
+      "text": "have going on today and I'm going to go"
+    },
+    {
+      "start": 113.8,
+      "duration": 4.24,
+      "text": "ahead and dive in and getting started."
+    },
+    {
+      "start": 116.68,
+      "duration": 3.64,
+      "text": "I'm also realizing I'm living in the"
+    },
+    {
+      "start": 118.04,
+      "duration": 5.0,
+      "text": "past with the date. I know it says March"
+    },
+    {
+      "start": 120.32,
+      "duration": 6.32,
+      "text": "2nd. Let's all pretend it says March"
+    },
+    {
+      "start": 123.04,
+      "duration": 6.68,
+      "text": "9th. All right. So,"
+    },
+    {
+      "start": 126.64,
+      "duration": 6.0,
+      "text": "kicking things off today, we are going"
+    },
+    {
+      "start": 129.72,
+      "duration": 5.28,
+      "text": "to be speaking with Rich Young from"
+    },
+    {
+      "start": 132.64,
+      "duration": 5.72,
+      "text": "Arize AI."
+    },
+    {
+      "start": 135.0,
+      "duration": 6.0,
+      "text": "Rich, where are you? How you doing?"
+    },
+    {
+      "start": 138.36,
+      "duration": 6.0,
+      "text": "Good. Thanks for having me, April."
+    },
+    {
+      "start": 141.0,
+      "duration": 5.92,
+      "text": "Yay! Very happy that you're here. I am"
+    },
+    {
+      "start": 144.36,
+      "duration": 4.84,
+      "text": "excited for folks to see what you have"
+    },
+    {
+      "start": 146.92,
+      "duration": 3.84,
+      "text": "brought to us today. But before we dive"
+    },
+    {
+      "start": 149.2,
+      "duration": 4.48,
+      "text": "into that, can you share a little bit"
+    },
+    {
+      "start": 150.76,
+      "duration": 6.48,
+      "text": "more about who you are and more about"
+    },
+    {
+      "start": 153.68,
+      "duration": 5.24,
+      "text": "Arize and what you do at Arize as well?"
+    },
+    {
+      "start": 157.24,
+      "duration": 3.6,
+      "text": "Yeah, sure. Um, hey everybody, thanks"
+    },
+    {
+      "start": 158.92,
+      "duration": 4.4,
+      "text": "for joining. Um, my name is Rich, Rich"
+    },
+    {
+      "start": 160.84,
+      "duration": 4.44,
+      "text": "Young. Uh, I lead technical partnerships"
+    },
+    {
+      "start": 163.32,
+      "duration": 4.16,
+      "text": "here at Arize AI."
+    },
+    {
+      "start": 165.28,
+      "duration": 4.56,
+      "text": "Um, so in my role I help kind of drive"
+    },
+    {
+      "start": 167.48,
+      "duration": 4.0,
+      "text": "architecture, technical integrations,"
+    },
+    {
+      "start": 169.84,
+      "duration": 3.32,
+      "text": "and kind of just general technical"
+    },
+    {
+      "start": 171.48,
+      "duration": 3.32,
+      "text": "excellence across our partner"
+    },
+    {
+      "start": 173.16,
+      "duration": 3.64,
+      "text": "ecosystems."
+    },
+    {
+      "start": 174.8,
+      "duration": 4.96,
+      "text": "Uh, I've been kind of in the technology"
+    },
+    {
+      "start": 176.8,
+      "duration": 5.4,
+      "text": "industry for over about 20 years or so."
+    },
+    {
+      "start": 179.76,
+      "duration": 4.56,
+      "text": "Uh, and recently in AI, a lot of"
+    },
+    {
+      "start": 182.2,
+      "duration": 5.8,
+      "text": "observability background."
+    },
+    {
+      "start": 184.32,
+      "duration": 6.24,
+      "text": "Um, so just a quick one-liner on Arize,"
+    },
+    {
+      "start": 188.0,
+      "duration": 5.28,
+      "text": "uh, Arize is an AI engineering platform."
+    },
+    {
+      "start": 190.56,
+      "duration": 3.32,
+      "text": "Uh, we focus on really just helping AI"
+    },
+    {
+      "start": 193.28,
+      "duration": 0.92,
+      "text": "work"
+    },
+    {
+      "start": 193.88,
+      "duration": 2.88,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 194.2,
+      "duration": 4.08,
+      "text": ">> and agents work in production. Um,"
+    },
+    {
+      "start": 196.76,
+      "duration": 3.84,
+      "text": "and uh, really at the end of the day"
+    },
+    {
+      "start": 198.28,
+      "duration": 5.12,
+      "text": "help them, you know, teams ship reliable"
+    },
+    {
+      "start": 200.6,
+      "duration": 4.44,
+      "text": "AI agents and LLM applications into the"
+    },
+    {
+      "start": 203.4,
+      "duration": 3.28,
+      "text": "real world. So, that's that's what we"
+    },
+    {
+      "start": 205.04,
+      "duration": 3.16,
+      "text": "do."
+    },
+    {
+      "start": 206.68,
+      "duration": 3.52,
+      "text": "Perfect."
+    },
+    {
+      "start": 208.2,
+      "duration": 3.6,
+      "text": "Uh, really good to know by the way for"
+    },
+    {
+      "start": 210.2,
+      "duration": 4.04,
+      "text": "everyone tuning in. I'm curious to know"
+    },
+    {
+      "start": 211.8,
+      "duration": 5.8,
+      "text": "what agents have you created lately as"
+    },
+    {
+      "start": 214.24,
+      "duration": 6.48,
+      "text": "well. Do let me know in the chat. With"
+    },
+    {
+      "start": 217.6,
+      "duration": 6.04,
+      "text": "that said, Rich has prepared a demo for"
+    },
+    {
+      "start": 220.72,
+      "duration": 4.72,
+      "text": "us which we're about to dive into, but"
+    },
+    {
+      "start": 223.64,
+      "duration": 4.72,
+      "text": "definitely get your questions ready"
+    },
+    {
+      "start": 225.44,
+      "duration": 6.64,
+      "text": "because once Rich is done with the demo,"
+    },
+    {
+      "start": 228.36,
+      "duration": 6.64,
+      "text": "we're going to be doing a live Q&A with"
+    },
+    {
+      "start": 232.08,
+      "duration": 4.4,
+      "text": "Rich as well. So, again, please get your"
+    },
+    {
+      "start": 235.0,
+      "duration": 3.28,
+      "text": "questions ready. You can put them in the"
+    },
+    {
+      "start": 236.48,
+      "duration": 4.16,
+      "text": "chat in advance. I'm keeping an eye on"
+    },
+    {
+      "start": 238.28,
+      "duration": 5.0,
+      "text": "that in there. And then once we're done"
+    },
+    {
+      "start": 240.64,
+      "duration": 5.48,
+      "text": "with the demo, we will come and have a"
+    },
+    {
+      "start": 243.28,
+      "duration": 5.16,
+      "text": "discussion around the Q&A or the"
+    },
+    {
+      "start": 246.12,
+      "duration": 7.2,
+      "text": "questions that you're posting. With that"
+    },
+    {
+      "start": 248.44,
+      "duration": 4.88,
+      "text": "said, let's dive into the demo."
+    },
+    {
+      "start": 258.0,
+      "duration": 6.04,
+      "text": "Arize is the AI engineering platform for"
+    },
+    {
+      "start": 261.44,
+      "duration": 5.8,
+      "text": "teams shipping reliable agents and LLM"
+    },
+    {
+      "start": 264.04,
+      "duration": 5.32,
+      "text": "applications into the real world."
+    },
+    {
+      "start": 267.24,
+      "duration": 5.12,
+      "text": "Our value proposition for end users is"
+    },
+    {
+      "start": 269.36,
+      "duration": 5.36,
+      "text": "simply we can help you improve velocity,"
+    },
+    {
+      "start": 272.36,
+      "duration": 6.96,
+      "text": "confidence, and reliability of your"
+    },
+    {
+      "start": 274.72,
+      "duration": 4.6,
+      "text": "agents and AI applications at scale."
+    },
+    {
+      "start": 279.88,
+      "duration": 5.56,
+      "text": "Arize gives teams the visibility and"
+    },
+    {
+      "start": 282.8,
+      "duration": 5.0,
+      "text": "feedback loops required to improve their"
+    },
+    {
+      "start": 285.44,
+      "duration": 4.24,
+      "text": "agents and ensure they work in real"
+    },
+    {
+      "start": 287.8,
+      "duration": 3.88,
+      "text": "world conditions."
+    },
+    {
+      "start": 289.68,
+      "duration": 5.12,
+      "text": "We cover the full AI engineering life"
+    },
+    {
+      "start": 291.68,
+      "duration": 5.2,
+      "text": "cycle across development and production"
+    },
+    {
+      "start": 294.8,
+      "duration": 4.36,
+      "text": "with observability, evaluation, and"
+    },
+    {
+      "start": 296.88,
+      "duration": 4.72,
+      "text": "continuous improvement."
+    },
+    {
+      "start": 299.16,
+      "duration": 5.12,
+      "text": "And some uh, unique advantages of our"
+    },
+    {
+      "start": 301.6,
+      "duration": 5.24,
+      "text": "solution are number one, we're vendor"
+    },
+    {
+      "start": 304.28,
+      "duration": 4.52,
+      "text": "agnostic. We don't push users toward any"
+    },
+    {
+      "start": 306.84,
+      "duration": 3.24,
+      "text": "specific model providers, frameworks, or"
+    },
+    {
+      "start": 308.8,
+      "duration": 3.52,
+      "text": "tech stacks."
+    },
+    {
+      "start": 310.08,
+      "duration": 4.92,
+      "text": "Um, this is supported by our open"
+    },
+    {
+      "start": 312.32,
+      "duration": 4.6,
+      "text": "telemetry first based approach to data"
+    },
+    {
+      "start": 315.0,
+      "duration": 5.36,
+      "text": "collection and storage."
+    },
+    {
+      "start": 316.92,
+      "duration": 5.56,
+      "text": "Number two, um, flexibility is built"
+    },
+    {
+      "start": 320.36,
+      "duration": 3.72,
+      "text": "into Arize with an emphasis on"
+    },
+    {
+      "start": 322.48,
+      "duration": 3.8,
+      "text": "interoperability."
+    },
+    {
+      "start": 324.08,
+      "duration": 3.96,
+      "text": "I'll actually touch on this more in our"
+    },
+    {
+      "start": 326.28,
+      "duration": 3.32,
+      "text": "better together overview with Foundry"
+    },
+    {
+      "start": 328.04,
+      "duration": 4.44,
+      "text": "and Arize."
+    },
+    {
+      "start": 329.6,
+      "duration": 5.72,
+      "text": "Uh, number three is a focus on full life"
+    },
+    {
+      "start": 332.48,
+      "duration": 5.0,
+      "text": "cycle development from from development"
+    },
+    {
+      "start": 335.32,
+      "duration": 4.56,
+      "text": "to production uh, where we're focused"
+    },
+    {
+      "start": 337.48,
+      "duration": 6.32,
+      "text": "not only just on a single phase, but"
+    },
+    {
+      "start": 339.88,
+      "duration": 3.92,
+      "text": "really the entire life cycle."
+    },
+    {
+      "start": 345.48,
+      "duration": 6.84,
+      "text": "So, let's focus a little bit here on the"
+    },
+    {
+      "start": 348.2,
+      "duration": 7.08,
+      "text": "market uh, problem. So, we all know that"
+    },
+    {
+      "start": 352.32,
+      "duration": 4.56,
+      "text": "building AI demos is easy,"
+    },
+    {
+      "start": 355.28,
+      "duration": 3.72,
+      "text": "um, but turning them into production"
+    },
+    {
+      "start": 356.88,
+      "duration": 4.44,
+      "text": "systems that teams actually rely, you"
+    },
+    {
+      "start": 359.0,
+      "duration": 4.36,
+      "text": "know, trust, and scale alongside the"
+    },
+    {
+      "start": 361.32,
+      "duration": 4.68,
+      "text": "business is incredibly hard."
+    },
+    {
+      "start": 363.36,
+      "duration": 3.96,
+      "text": "Everybody can build uh, an AI prototype"
+    },
+    {
+      "start": 366.0,
+      "duration": 3.16,
+      "text": "in a weekend,"
+    },
+    {
+      "start": 367.32,
+      "duration": 4.92,
+      "text": "uh, but the challenge is getting that"
+    },
+    {
+      "start": 369.16,
+      "duration": 5.52,
+      "text": "prototype to work reliably at scale with"
+    },
+    {
+      "start": 372.24,
+      "duration": 5.4,
+      "text": "real users, real data, and real"
+    },
+    {
+      "start": 374.68,
+      "duration": 5.52,
+      "text": "consequences when it actually fails."
+    },
+    {
+      "start": 377.64,
+      "duration": 5.68,
+      "text": "So, most teams get stuck in this gap"
+    },
+    {
+      "start": 380.2,
+      "duration": 5.16,
+      "text": "between demo and production. Um, when"
+    },
+    {
+      "start": 383.32,
+      "duration": 4.24,
+      "text": "they ship something, it breaks, you"
+    },
+    {
+      "start": 385.36,
+      "duration": 4.92,
+      "text": "know, in many ways uh, that they can't"
+    },
+    {
+      "start": 387.56,
+      "duration": 5.92,
+      "text": "actually see, um, which is very common"
+    },
+    {
+      "start": 390.28,
+      "duration": 4.52,
+      "text": "with these non-deterministic systems."
+    },
+    {
+      "start": 393.48,
+      "duration": 5.28,
+      "text": "And most importantly, they don't have"
+    },
+    {
+      "start": 394.8,
+      "duration": 6.08,
+      "text": "any systematic way to improve it."
+    },
+    {
+      "start": 398.76,
+      "duration": 4.2,
+      "text": "So, enter Arize."
+    },
+    {
+      "start": 400.88,
+      "duration": 4.68,
+      "text": "And so, what is this AI engineering"
+    },
+    {
+      "start": 402.96,
+      "duration": 5.24,
+      "text": "platform really? Um, an AI engineering"
+    },
+    {
+      "start": 405.56,
+      "duration": 4.84,
+      "text": "platform is uh, this platform that"
+    },
+    {
+      "start": 408.2,
+      "duration": 6.36,
+      "text": "enables developers,"
+    },
+    {
+      "start": 410.4,
+      "duration": 7.64,
+      "text": "uh, AI PMs, and SMEs to understand agent"
+    },
+    {
+      "start": 414.56,
+      "duration": 6.96,
+      "text": "and AI behavior across many spectrums"
+    },
+    {
+      "start": 418.04,
+      "duration": 5.88,
+      "text": "such as time, tools, and user sessions."
+    },
+    {
+      "start": 421.52,
+      "duration": 4.0,
+      "text": "And uh, it actually requires three"
+    },
+    {
+      "start": 423.92,
+      "duration": 4.32,
+      "text": "things to work together."
+    },
+    {
+      "start": 425.52,
+      "duration": 4.52,
+      "text": "Um, the first is observability, right?"
+    },
+    {
+      "start": 428.24,
+      "duration": 4.12,
+      "text": "Uh, the first is seeing what your agents"
+    },
+    {
+      "start": 430.04,
+      "duration": 4.68,
+      "text": "are doing, um, being able to trace every"
+    },
+    {
+      "start": 432.36,
+      "duration": 3.8,
+      "text": "decision, understand behavior across"
+    },
+    {
+      "start": 434.72,
+      "duration": 3.52,
+      "text": "sessions."
+    },
+    {
+      "start": 436.16,
+      "duration": 4.96,
+      "text": "The second is evaluation."
+    },
+    {
+      "start": 438.24,
+      "duration": 5.64,
+      "text": "This is measuring quality of your agent"
+    },
+    {
+      "start": 441.12,
+      "duration": 5.64,
+      "text": "behavior systematically. It's catching"
+    },
+    {
+      "start": 443.88,
+      "duration": 5.92,
+      "text": "regressions before your users uh, find"
+    },
+    {
+      "start": 446.76,
+      "duration": 5.44,
+      "text": "them. And it's also includes validating"
+    },
+    {
+      "start": 449.8,
+      "duration": 4.88,
+      "text": "these changes to your systems in"
+    },
+    {
+      "start": 452.2,
+      "duration": 5.52,
+      "text": "production over time as well."
+    },
+    {
+      "start": 454.68,
+      "duration": 5.28,
+      "text": "Third is the improvement step, right?"
+    },
+    {
+      "start": 457.72,
+      "duration": 5.56,
+      "text": "Um, this is where you debug the"
+    },
+    {
+      "start": 459.96,
+      "duration": 5.28,
+      "text": "failures, run experiments to affect the"
+    },
+    {
+      "start": 463.28,
+      "duration": 4.56,
+      "text": "changes, right? To change your agent's"
+    },
+    {
+      "start": 465.24,
+      "duration": 5.16,
+      "text": "behavior. This may include annotating"
+    },
+    {
+      "start": 467.84,
+      "duration": 5.48,
+      "text": "that uh, issues as well."
+    },
+    {
+      "start": 470.4,
+      "duration": 6.16,
+      "text": "And the improvement cycle is that uh,"
+    },
+    {
+      "start": 473.32,
+      "duration": 6.2,
+      "text": "feeding this data back into your system"
+    },
+    {
+      "start": 476.56,
+      "duration": 5.88,
+      "text": "creates this self-improvement loop"
+    },
+    {
+      "start": 479.52,
+      "duration": 5.52,
+      "text": "where your your your agents get"
+    },
+    {
+      "start": 482.44,
+      "duration": 3.56,
+      "text": "deployed, you observe them, you evaluate"
+    },
+    {
+      "start": 485.04,
+      "duration": 2.6,
+      "text": "them."
+    },
+    {
+      "start": 486.0,
+      "duration": 3.8,
+      "text": "The create the evaluation creates"
+    },
+    {
+      "start": 487.64,
+      "duration": 4.32,
+      "text": "labels, you improve the agent, and it"
+    },
+    {
+      "start": 489.8,
+      "duration": 5.24,
+      "text": "continues through this cycle. And you"
+    },
+    {
+      "start": 491.96,
+      "duration": 4.8,
+      "text": "need all three. Observability alone just"
+    },
+    {
+      "start": 495.04,
+      "duration": 3.6,
+      "text": "shows you the problems."
+    },
+    {
+      "start": 496.76,
+      "duration": 5.12,
+      "text": "Evaluation alone just measures the"
+    },
+    {
+      "start": 498.64,
+      "duration": 5.52,
+      "text": "systems. Uh, you need the improvement"
+    },
+    {
+      "start": 501.88,
+      "duration": 4.68,
+      "text": "loop in its entirety and this is really"
+    },
+    {
+      "start": 504.16,
+      "duration": 5.4,
+      "text": "what makes the AI systems actually get"
+    },
+    {
+      "start": 506.56,
+      "duration": 3.0,
+      "text": "better over time."
+    },
+    {
+      "start": 510.96,
+      "duration": 4.4,
+      "text": "So, really here I want to focus on the"
+    },
+    {
+      "start": 513.12,
+      "duration": 5.2,
+      "text": "better together. Um, Microsoft and"
+    },
+    {
+      "start": 515.36,
+      "duration": 4.6,
+      "text": "Foundry and Arize AI create combined"
+    },
+    {
+      "start": 518.32,
+      "duration": 4.88,
+      "text": "together to create this really best of"
+    },
+    {
+      "start": 519.96,
+      "duration": 4.76,
+      "text": "breed solution. Um, Arize is flexible."
+    },
+    {
+      "start": 523.2,
+      "duration": 2.64,
+      "text": "It can interoperate as I mentioned"
+    },
+    {
+      "start": 524.72,
+      "duration": 3.4,
+      "text": "before"
+    },
+    {
+      "start": 525.84,
+      "duration": 4.24,
+      "text": "natively with Foundry Microsoft Foundry"
+    },
+    {
+      "start": 528.12,
+      "duration": 4.04,
+      "text": "agents um, and evaluators and"
+    },
+    {
+      "start": 530.08,
+      "duration": 4.4,
+      "text": "observability. So, that folks that are"
+    },
+    {
+      "start": 532.16,
+      "duration": 4.08,
+      "text": "building and deploying agents um, today"
+    },
+    {
+      "start": 534.48,
+      "duration": 3.6,
+      "text": "with Foundry, you know, these two"
+    },
+    {
+      "start": 536.24,
+      "duration": 3.76,
+      "text": "systems just know that these two systems"
+    },
+    {
+      "start": 538.08,
+      "duration": 4.44,
+      "text": "combined to provide this best of breed"
+    },
+    {
+      "start": 540.0,
+      "duration": 5.08,
+      "text": "solution. On the Foundry side, you get,"
+    },
+    {
+      "start": 542.52,
+      "duration": 4.2,
+      "text": "you know, Microsoft's uh, incredible"
+    },
+    {
+      "start": 545.08,
+      "duration": 4.64,
+      "text": "enterprise grade infrastructure. This"
+    },
+    {
+      "start": 546.72,
+      "duration": 5.16,
+      "text": "means, you know, the model data catalog,"
+    },
+    {
+      "start": 549.72,
+      "duration": 4.52,
+      "text": "uh, built-in content safety APIs, native"
+    },
+    {
+      "start": 551.88,
+      "duration": 4.08,
+      "text": "observabilities, evaluators, you know,"
+    },
+    {
+      "start": 554.24,
+      "duration": 3.76,
+      "text": "so if you're already in this Microsoft"
+    },
+    {
+      "start": 555.96,
+      "duration": 3.32,
+      "text": "ecosystem, Foundry gives you a ton out"
+    },
+    {
+      "start": 558.0,
+      "duration": 3.84,
+      "text": "of the box."
+    },
+    {
+      "start": 559.28,
+      "duration": 4.76,
+      "text": "On the Arize side, you get a platform"
+    },
+    {
+      "start": 561.84,
+      "duration": 4.8,
+      "text": "that's purpose-built for GenAI"
+    },
+    {
+      "start": 564.04,
+      "duration": 4.68,
+      "text": "development to production workflows. So,"
+    },
+    {
+      "start": 566.64,
+      "duration": 4.6,
+      "text": "you get universal you kind of get this"
+    },
+    {
+      "start": 568.72,
+      "duration": 4.0,
+      "text": "universal universal observability that"
+    },
+    {
+      "start": 571.24,
+      "duration": 3.2,
+      "text": "works natively"
+    },
+    {
+      "start": 572.72,
+      "duration": 3.4,
+      "text": "not only with Foundry agents, but also"
+    },
+    {
+      "start": 574.44,
+      "duration": 3.64,
+      "text": "compatible with any framework, tech"
+    },
+    {
+      "start": 576.12,
+      "duration": 4.28,
+      "text": "stack, and cloud provider. So, whether"
+    },
+    {
+      "start": 578.08,
+      "duration": 3.68,
+      "text": "you're using LangChain, Llama Index, My"
+    },
+    {
+      "start": 580.4,
+      "duration": 3.68,
+      "text": "Microsoft Agent Framework, whatever"
+    },
+    {
+      "start": 581.76,
+      "duration": 4.28,
+      "text": "you're using, it's all compatible."
+    },
+    {
+      "start": 584.08,
+      "duration": 4.56,
+      "text": "And you also get a flexible evaluation"
+    },
+    {
+      "start": 586.04,
+      "duration": 4.92,
+      "text": "layer where you can plug in any"
+    },
+    {
+      "start": 588.64,
+      "duration": 4.6,
+      "text": "evaluator to kind of automate feedback"
+    },
+    {
+      "start": 590.96,
+      "duration": 4.72,
+      "text": "loops, right? So, the full"
+    },
+    {
+      "start": 593.24,
+      "duration": 4.08,
+      "text": "uh, dev to prod loop here. And so, the"
+    },
+    {
+      "start": 595.68,
+      "duration": 3.88,
+      "text": "great thing is you don't have to choose,"
+    },
+    {
+      "start": 597.32,
+      "duration": 4.64,
+      "text": "you can leverage Microsoft's platform"
+    },
+    {
+      "start": 599.56,
+      "duration": 4.44,
+      "text": "built for interoperability. You can take"
+    },
+    {
+      "start": 601.96,
+      "duration": 3.76,
+      "text": "our pre-built evaluators, you can take"
+    },
+    {
+      "start": 604.0,
+      "duration": 3.92,
+      "text": "Microsoft evaluators, or you can create"
+    },
+    {
+      "start": 605.72,
+      "duration": 5.0,
+      "text": "your own."
+    },
+    {
+      "start": 607.92,
+      "duration": 5.88,
+      "text": "You'll run them into Aporia's evaluation"
+    },
+    {
+      "start": 610.72,
+      "duration": 5.68,
+      "text": "experiment workflows. And so, this"
+    },
+    {
+      "start": 613.8,
+      "duration": 4.24,
+      "text": "quote from Sebastian from the Foundry"
+    },
+    {
+      "start": 616.4,
+      "duration": 3.88,
+      "text": "observability team at Microsoft really"
+    },
+    {
+      "start": 618.04,
+      "duration": 4.88,
+      "text": "speaks to this here, you know, this"
+    },
+    {
+      "start": 620.28,
+      "duration": 4.88,
+      "text": "isn't just a technical integration, it's"
+    },
+    {
+      "start": 622.92,
+      "duration": 4.56,
+      "text": "a workflow integration."
+    },
+    {
+      "start": 625.16,
+      "duration": 3.92,
+      "text": "So, with that, let's uh jump into a"
+    },
+    {
+      "start": 627.48,
+      "duration": 4.76,
+      "text": "quick demo."
+    },
+    {
+      "start": 629.08,
+      "duration": 3.84,
+      "text": "Um I'll actually walk you through this"
+    },
+    {
+      "start": 632.24,
+      "duration": 2.76,
+      "text": "um"
+    },
+    {
+      "start": 632.92,
+      "duration": 3.36,
+      "text": "this workflow here, the self-improving"
+    },
+    {
+      "start": 635.0,
+      "duration": 3.32,
+      "text": "cycle where we're going to observe,"
+    },
+    {
+      "start": 636.28,
+      "duration": 3.92,
+      "text": "we're going to evaluate, and improve."
+    },
+    {
+      "start": 638.32,
+      "duration": 3.76,
+      "text": "So, um"
+    },
+    {
+      "start": 640.2,
+      "duration": 4.64,
+      "text": "for this example, we've got a kind of a"
+    },
+    {
+      "start": 642.08,
+      "duration": 3.88,
+      "text": "Foundry simple Foundry agent. Um"
+    },
+    {
+      "start": 644.84,
+      "duration": 3.28,
+      "text": "it's uh"
+    },
+    {
+      "start": 645.96,
+      "duration": 4.32,
+      "text": "to set this up, right? Just a few lines"
+    },
+    {
+      "start": 648.12,
+      "duration": 4.16,
+      "text": "of code to instrument the agent. It's"
+    },
+    {
+      "start": 650.28,
+      "duration": 4.2,
+      "text": "automatically sending traces into the"
+    },
+    {
+      "start": 652.28,
+      "duration": 4.16,
+      "text": "Aporia's platform, and we have full"
+    },
+    {
+      "start": 654.48,
+      "duration": 4.64,
+      "text": "visibility into every kind of user"
+    },
+    {
+      "start": 656.44,
+      "duration": 4.2,
+      "text": "transaction. Um"
+    },
+    {
+      "start": 659.12,
+      "duration": 4.76,
+      "text": "in this example, we're actually going to"
+    },
+    {
+      "start": 660.64,
+      "duration": 5.76,
+      "text": "leverage the risk and safety evaluators"
+    },
+    {
+      "start": 663.88,
+      "duration": 4.48,
+      "text": "um that come with Microsoft Foundry. Uh"
+    },
+    {
+      "start": 666.4,
+      "duration": 3.72,
+      "text": "Aporia's a very comprehensive set of"
+    },
+    {
+      "start": 668.36,
+      "duration": 2.8,
+      "text": "evaluators. We're actually leveraging"
+    },
+    {
+      "start": 670.12,
+      "duration": 3.88,
+      "text": "them here."
+    },
+    {
+      "start": 671.16,
+      "duration": 5.68,
+      "text": "Um so, it starts with uh traces where"
+    },
+    {
+      "start": 674.0,
+      "duration": 5.08,
+      "text": "we're actually to capture every single"
+    },
+    {
+      "start": 676.84,
+      "duration": 4.36,
+      "text": "action within our uh"
+    },
+    {
+      "start": 679.08,
+      "duration": 5.28,
+      "text": "poem-generating agent here."
+    },
+    {
+      "start": 681.2,
+      "duration": 5.2,
+      "text": "Um the LLM calls, the prompt templates,"
+    },
+    {
+      "start": 684.36,
+      "duration": 3.48,
+      "text": "uh every execution. If there are tool"
+    },
+    {
+      "start": 686.4,
+      "duration": 4.28,
+      "text": "calls in here, you'll be able to track"
+    },
+    {
+      "start": 687.84,
+      "duration": 4.84,
+      "text": "them all. And so, all of the attributes"
+    },
+    {
+      "start": 690.68,
+      "duration": 4.12,
+      "text": "we're actually capturing as well."
+    },
+    {
+      "start": 692.68,
+      "duration": 4.4,
+      "text": "We also have different views that we"
+    },
+    {
+      "start": 694.8,
+      "duration": 4.08,
+      "text": "automatically provide out of the box."
+    },
+    {
+      "start": 697.08,
+      "duration": 4.56,
+      "text": "So, this gives you just different ways"
+    },
+    {
+      "start": 698.88,
+      "duration": 5.16,
+      "text": "to interact with your agent, understand"
+    },
+    {
+      "start": 701.64,
+      "duration": 4.4,
+      "text": "what's happening under the hood,"
+    },
+    {
+      "start": 704.04,
+      "duration": 3.88,
+      "text": "and be able to understand, you know,"
+    },
+    {
+      "start": 706.04,
+      "duration": 3.68,
+      "text": "where things potentially could be going"
+    },
+    {
+      "start": 707.92,
+      "duration": 3.68,
+      "text": "wrong, or just kind of in general, the"
+    },
+    {
+      "start": 709.72,
+      "duration": 3.08,
+      "text": "overall behavior of the agent."
+    },
+    {
+      "start": 711.6,
+      "duration": 3.72,
+      "text": "And so,"
+    },
+    {
+      "start": 712.8,
+      "duration": 4.4,
+      "text": "uh from observability data, which kind"
+    },
+    {
+      "start": 715.32,
+      "duration": 4.6,
+      "text": "of captures the source of truth about"
+    },
+    {
+      "start": 717.2,
+      "duration": 5.2,
+      "text": "your agent, we can then leverage these"
+    },
+    {
+      "start": 719.92,
+      "duration": 3.84,
+      "text": "online evaluations that run um"
+    },
+    {
+      "start": 722.4,
+      "duration": 4.76,
+      "text": "and we're leveraging these risk and"
+    },
+    {
+      "start": 723.76,
+      "duration": 6.52,
+      "text": "safety evaluators from Microsoft here to"
+    },
+    {
+      "start": 727.16,
+      "duration": 4.32,
+      "text": "uh that run on top of these um"
+    },
+    {
+      "start": 730.28,
+      "duration": 4.6,
+      "text": "traces."
+    },
+    {
+      "start": 731.48,
+      "duration": 5.2,
+      "text": "And so, uh just drilling into one of"
+    },
+    {
+      "start": 734.88,
+      "duration": 3.68,
+      "text": "these examples,"
+    },
+    {
+      "start": 736.68,
+      "duration": 2.72,
+      "text": "we can see an evaluation that's run"
+    },
+    {
+      "start": 738.56,
+      "duration": 2.92,
+      "text": "here."
+    },
+    {
+      "start": 739.4,
+      "duration": 4.92,
+      "text": "And this evaluator"
+    },
+    {
+      "start": 741.48,
+      "duration": 5.32,
+      "text": "uh has, uh as you can see, is run on the"
+    },
+    {
+      "start": 744.32,
+      "duration": 3.76,
+      "text": "single LLM span. We call this a span"
+    },
+    {
+      "start": 746.8,
+      "duration": 4.52,
+      "text": "evaluator."
+    },
+    {
+      "start": 748.08,
+      "duration": 5.04,
+      "text": "Um gives it a label, kind of hate and"
+    },
+    {
+      "start": 751.32,
+      "duration": 4.28,
+      "text": "unfairness is what we're checking for"
+    },
+    {
+      "start": 753.12,
+      "duration": 5.2,
+      "text": "the content here, safety content."
+    },
+    {
+      "start": 755.6,
+      "duration": 5.24,
+      "text": "Um you get a label, so this is based on"
+    },
+    {
+      "start": 758.32,
+      "duration": 4.92,
+      "text": "a Likert model of scale one to five, and"
+    },
+    {
+      "start": 760.84,
+      "duration": 4.96,
+      "text": "gives you kind of a label and a score,"
+    },
+    {
+      "start": 763.24,
+      "duration": 4.56,
+      "text": "and most importantly, an explanation,"
+    },
+    {
+      "start": 765.8,
+      "duration": 5.28,
+      "text": "kind of a chain of thought reasoning uh"
+    },
+    {
+      "start": 767.8,
+      "duration": 5.2,
+      "text": "around the uh from the um"
+    },
+    {
+      "start": 771.08,
+      "duration": 3.96,
+      "text": "evaluator that gives you an explanation"
+    },
+    {
+      "start": 773.0,
+      "duration": 3.92,
+      "text": "as to why it gives this sort of score"
+    },
+    {
+      "start": 775.04,
+      "duration": 4.16,
+      "text": "and label, which is really useful for"
+    },
+    {
+      "start": 776.92,
+      "duration": 3.24,
+      "text": "feedback in how do you improve the model"
+    },
+    {
+      "start": 779.2,
+      "duration": 2.68,
+      "text": "as well."
+    },
+    {
+      "start": 780.16,
+      "duration": 3.6,
+      "text": "So, we have all of these running on"
+    },
+    {
+      "start": 781.88,
+      "duration": 4.84,
+      "text": "every trace as it comes into the"
+    },
+    {
+      "start": 783.76,
+      "duration": 5.24,
+      "text": "Aporia's platform, and uh"
+    },
+    {
+      "start": 786.72,
+      "duration": 5.48,
+      "text": "uh these regressions are basically"
+    },
+    {
+      "start": 789.0,
+      "duration": 5.76,
+      "text": "failures are automatically curated into"
+    },
+    {
+      "start": 792.2,
+      "duration": 4.92,
+      "text": "data sets. And these data sets are what"
+    },
+    {
+      "start": 794.76,
+      "duration": 4.84,
+      "text": "we can then leverage to then run the"
+    },
+    {
+      "start": 797.12,
+      "duration": 6.88,
+      "text": "improvement cycles into our agent as"
+    },
+    {
+      "start": 799.6,
+      "duration": 6.0,
+      "text": "well. So, for example, we have a list of"
+    },
+    {
+      "start": 804.0,
+      "duration": 3.68,
+      "text": "a number of these failures or"
+    },
+    {
+      "start": 805.6,
+      "duration": 3.6,
+      "text": "regressions where our agent did not"
+    },
+    {
+      "start": 807.68,
+      "duration": 4.52,
+      "text": "perform well,"
+    },
+    {
+      "start": 809.2,
+      "duration": 5.4,
+      "text": "and we can then leverage the data sets"
+    },
+    {
+      "start": 812.2,
+      "duration": 4.88,
+      "text": "in our prompt playground, so we can use"
+    },
+    {
+      "start": 814.6,
+      "duration": 4.68,
+      "text": "the prompt playground here, which is a"
+    },
+    {
+      "start": 817.08,
+      "duration": 3.56,
+      "text": "UI-based IDE"
+    },
+    {
+      "start": 819.28,
+      "duration": 3.44,
+      "text": "where you can make changes to your"
+    },
+    {
+      "start": 820.64,
+      "duration": 4.84,
+      "text": "prompts, try different models. You can"
+    },
+    {
+      "start": 822.72,
+      "duration": 5.44,
+      "text": "see we're doing AB test to and then"
+    },
+    {
+      "start": 825.48,
+      "duration": 5.08,
+      "text": "making system prompt changes, running"
+    },
+    {
+      "start": 828.16,
+      "duration": 4.48,
+      "text": "experiments across the regression data"
+    },
+    {
+      "start": 830.56,
+      "duration": 5.6,
+      "text": "set that we have uh curated from our"
+    },
+    {
+      "start": 832.64,
+      "duration": 6.36,
+      "text": "traces, getting output, and then running"
+    },
+    {
+      "start": 836.16,
+      "duration": 5.16,
+      "text": "uh evaluations on that output as well."
+    },
+    {
+      "start": 839.0,
+      "duration": 5.0,
+      "text": "And we can do that not only in the UI,"
+    },
+    {
+      "start": 841.32,
+      "duration": 4.2,
+      "text": "we can also do that in code. So, in this"
+    },
+    {
+      "start": 844.0,
+      "duration": 3.6,
+      "text": "notebook example that we are happy to"
+    },
+    {
+      "start": 845.52,
+      "duration": 3.72,
+      "text": "share with you, um you can see we're"
+    },
+    {
+      "start": 847.6,
+      "duration": 3.76,
+      "text": "running these on data sets and just"
+    },
+    {
+      "start": 849.24,
+      "duration": 4.92,
+      "text": "experiments where we define the"
+    },
+    {
+      "start": 851.36,
+      "duration": 4.64,
+      "text": "evaluators here from Microsoft, and then"
+    },
+    {
+      "start": 854.16,
+      "duration": 3.84,
+      "text": "we run the experiments and log the"
+    },
+    {
+      "start": 856.0,
+      "duration": 5.16,
+      "text": "evaluation results back to Aporia's, and"
+    },
+    {
+      "start": 858.0,
+      "duration": 5.36,
+      "text": "that allows us to then um"
+    },
+    {
+      "start": 861.16,
+      "duration": 4.76,
+      "text": "see the experiment results and see the"
+    },
+    {
+      "start": 863.36,
+      "duration": 5.36,
+      "text": "progress of our agent over time."
+    },
+    {
+      "start": 865.92,
+      "duration": 4.6,
+      "text": "And then finally, um we can also track"
+    },
+    {
+      "start": 868.72,
+      "duration": 3.96,
+      "text": "all of these metrics in these"
+    },
+    {
+      "start": 870.52,
+      "duration": 3.6,
+      "text": "out-of-the-box dashboards. So, once our"
+    },
+    {
+      "start": 872.68,
+      "duration": 4.28,
+      "text": "agent's pushed into production with"
+    },
+    {
+      "start": 874.12,
+      "duration": 5.68,
+      "text": "these new changes, we can actually see"
+    },
+    {
+      "start": 876.96,
+      "duration": 5.0,
+      "text": "all of the uh impacts to our metrics."
+    },
+    {
+      "start": 879.8,
+      "duration": 3.92,
+      "text": "You can see the Microsoft hate and"
+    },
+    {
+      "start": 881.96,
+      "duration": 4.32,
+      "text": "unfairness evaluation score being"
+    },
+    {
+      "start": 883.72,
+      "duration": 3.2,
+      "text": "tracked over time. So, as this"
+    },
+    {
+      "start": 886.28,
+      "duration": 2.36,
+      "text": "um"
+    },
+    {
+      "start": 886.92,
+      "duration": 3.64,
+      "text": "we can track this in dashboards, but we"
+    },
+    {
+      "start": 888.64,
+      "duration": 4.84,
+      "text": "can also set up alerts, right? So, if"
+    },
+    {
+      "start": 890.56,
+      "duration": 4.48,
+      "text": "any of these starts to show uh degra-"
+    },
+    {
+      "start": 893.48,
+      "duration": 4.0,
+      "text": "degradation in our agent, we can"
+    },
+    {
+      "start": 895.04,
+      "duration": 4.12,
+      "text": "automatically fire alerts to uh triage"
+    },
+    {
+      "start": 897.48,
+      "duration": 3.32,
+      "text": "these issues."
+    },
+    {
+      "start": 899.16,
+      "duration": 3.72,
+      "text": "So, to close the loop"
+    },
+    {
+      "start": 900.8,
+      "duration": 5.4,
+      "text": "um on what we talked about, no pun"
+    },
+    {
+      "start": 902.88,
+      "duration": 6.16,
+      "text": "intended, um the goal here was to show"
+    },
+    {
+      "start": 906.2,
+      "duration": 6.24,
+      "text": "how Microsoft Foundry and Aporia's um"
+    },
+    {
+      "start": 909.04,
+      "duration": 5.04,
+      "text": "can be combined um in interop in various"
+    },
+    {
+      "start": 912.44,
+      "duration": 3.48,
+      "text": "aspects, right? Through this"
+    },
+    {
+      "start": 914.08,
+      "duration": 3.4,
+      "text": "observability self-improvement loop,"
+    },
+    {
+      "start": 915.92,
+      "duration": 5.52,
+      "text": "right? Where we're collecting the traces"
+    },
+    {
+      "start": 917.48,
+      "duration": 6.2,
+      "text": "from the Foundry agents, we're improving"
+    },
+    {
+      "start": 921.44,
+      "duration": 4.76,
+      "text": "and evaluating or just evaluating the"
+    },
+    {
+      "start": 923.68,
+      "duration": 5.08,
+      "text": "the agent, and then labeling the data,"
+    },
+    {
+      "start": 926.2,
+      "duration": 4.64,
+      "text": "creating the result the the data sets,"
+    },
+    {
+      "start": 928.76,
+      "duration": 3.6,
+      "text": "and then using that to improve our agent"
+    },
+    {
+      "start": 930.84,
+      "duration": 3.68,
+      "text": "over time."
+    },
+    {
+      "start": 932.36,
+      "duration": 3.84,
+      "text": "So, for that with that, I'll close off"
+    },
+    {
+      "start": 934.52,
+      "duration": 4.04,
+      "text": "this demo, and uh thank you for your"
+    },
+    {
+      "start": 936.2,
+      "duration": 2.36,
+      "text": "time."
+    },
+    {
+      "start": 939.88,
+      "duration": 6.16,
+      "text": "All right, perfect."
+    },
+    {
+      "start": 943.36,
+      "duration": 4.8,
+      "text": "Thank you very much for that demo, Rich."
+    },
+    {
+      "start": 946.04,
+      "duration": 4.84,
+      "text": "I definitely appreciate it. Let me see"
+    },
+    {
+      "start": 948.16,
+      "duration": 4.28,
+      "text": "if I can get us on a page where it's not"
+    },
+    {
+      "start": 950.88,
+      "duration": 2.81,
+      "text": "Okay, yeah. We'll just leave it right"
+    },
+    {
+      "start": 952.44,
+      "duration": 1.48,
+      "text": "there. Okay."
+    },
+    {
+      "start": 953.69,
+      "duration": 1.43,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 953.92,
+      "duration": 3.72,
+      "text": ">> Perfect."
+    },
+    {
+      "start": 955.12,
+      "duration": 4.92,
+      "text": "All right. So,"
+    },
+    {
+      "start": 957.64,
+      "duration": 4.44,
+      "text": "please again, folks, chime in the chat"
+    },
+    {
+      "start": 960.04,
+      "duration": 3.96,
+      "text": "with your questions. Lee made a very"
+    },
+    {
+      "start": 962.08,
+      "duration": 4.52,
+      "text": "great point. If you can prefix your"
+    },
+    {
+      "start": 964.0,
+      "duration": 4.88,
+      "text": "question with a Q, so we can know that"
+    },
+    {
+      "start": 966.6,
+      "duration": 4.48,
+      "text": "it is a question, it makes it easier for"
+    },
+    {
+      "start": 968.88,
+      "duration": 6.24,
+      "text": "my little four eyes to find it in the"
+    },
+    {
+      "start": 971.08,
+      "duration": 7.36,
+      "text": "chat. So, we do have a question from"
+    },
+    {
+      "start": 975.12,
+      "duration": 6.16,
+      "text": "Sylvester, which is, \"What advantages"
+    },
+    {
+      "start": 978.44,
+      "duration": 5.12,
+      "text": "does it does Aporia's AI have over"
+    },
+    {
+      "start": 981.28,
+      "duration": 4.51,
+      "text": "LangFuse?\""
+    },
+    {
+      "start": 983.56,
+      "duration": 2.32,
+      "text": "That's a great question, Sylvester. Um"
+    },
+    {
+      "start": 985.79,
+      "duration": 1.73,
+      "text": ">> [clears throat]"
+    },
+    {
+      "start": 985.88,
+      "duration": 2.96,
+      "text": ">> so, uh"
+    },
+    {
+      "start": 987.52,
+      "duration": 4.44,
+      "text": "yeah, LangFuse is a great kind of"
+    },
+    {
+      "start": 988.84,
+      "duration": 5.52,
+      "text": "product. Um it's open source. Um"
+    },
+    {
+      "start": 991.96,
+      "duration": 4.84,
+      "text": "it is a kind of a more focused on the"
+    },
+    {
+      "start": 994.36,
+      "duration": 5.0,
+      "text": "developer side of the workflow that I"
+    },
+    {
+      "start": 996.8,
+      "duration": 4.24,
+      "text": "had mentioned before. So, it's kind of,"
+    },
+    {
+      "start": 999.36,
+      "duration": 4.56,
+      "text": "you know, focused for initially getting"
+    },
+    {
+      "start": 1001.04,
+      "duration": 5.2,
+      "text": "started, builders of, you know, maybe"
+    },
+    {
+      "start": 1003.92,
+      "duration": 4.24,
+      "text": "small teams initially cuz it kind of is"
+    },
+    {
+      "start": 1006.24,
+      "duration": 4.44,
+      "text": "more of an open source tool."
+    },
+    {
+      "start": 1008.16,
+      "duration": 5.04,
+      "text": "Um we actually do have kind of more of"
+    },
+    {
+      "start": 1010.68,
+      "duration": 5.32,
+      "text": "an open source and an enterprise focus."
+    },
+    {
+      "start": 1013.2,
+      "duration": 5.36,
+      "text": "So, our open source tool called Phoenix"
+    },
+    {
+      "start": 1016.0,
+      "duration": 3.4,
+      "text": "um is really great as well."
+    },
+    {
+      "start": 1018.56,
+      "duration": 1.92,
+      "text": "Um"
+    },
+    {
+      "start": 1019.4,
+      "duration": 2.84,
+      "text": "and"
+    },
+    {
+      "start": 1020.48,
+      "duration": 4.08,
+      "text": "uh you know, at the end of the day, uh"
+    },
+    {
+      "start": 1022.24,
+      "duration": 4.36,
+      "text": "the focus for the company is really um a"
+    },
+    {
+      "start": 1024.56,
+      "duration": 5.16,
+      "text": "focus for moving from development to"
+    },
+    {
+      "start": 1026.6,
+      "duration": 4.72,
+      "text": "production. So, our entire tool kind of"
+    },
+    {
+      "start": 1029.72,
+      "duration": 4.24,
+      "text": "covers that"
+    },
+    {
+      "start": 1031.32,
+      "duration": 4.8,
+      "text": "uh that workflow quite well. So, a lot"
+    },
+    {
+      "start": 1033.96,
+      "duration": 3.44,
+      "text": "more details around that, but um at a"
+    },
+    {
+      "start": 1036.12,
+      "duration": 4.48,
+      "text": "high level, that's those are the kind of"
+    },
+    {
+      "start": 1037.4,
+      "duration": 7.2,
+      "text": "your key main differentiators."
+    },
+    {
+      "start": 1040.6,
+      "duration": 6.76,
+      "text": "All right, thank you. And so, Rich, when"
+    },
+    {
+      "start": 1044.6,
+      "duration": 4.52,
+      "text": "someone is creating an agent, they have"
+    },
+    {
+      "start": 1047.36,
+      "duration": 3.68,
+      "text": "a really great idea, they want to bring"
+    },
+    {
+      "start": 1049.12,
+      "duration": 4.6,
+      "text": "it into the world,"
+    },
+    {
+      "start": 1051.04,
+      "duration": 5.28,
+      "text": "what would you say is the place, or"
+    },
+    {
+      "start": 1053.72,
+      "duration": 4.84,
+      "text": "where should observability fit into"
+    },
+    {
+      "start": 1056.32,
+      "duration": 3.92,
+      "text": "their developer workflow? Is it more"
+    },
+    {
+      "start": 1058.56,
+      "duration": 3.2,
+      "text": "during the development, during the"
+    },
+    {
+      "start": 1060.24,
+      "duration": 3.56,
+      "text": "testing, or is it something they should"
+    },
+    {
+      "start": 1061.76,
+      "duration": 3.48,
+      "text": "really only care about after they deploy"
+    },
+    {
+      "start": 1063.8,
+      "duration": 3.28,
+      "text": "their agent and it's out in the real"
+    },
+    {
+      "start": 1065.24,
+      "duration": 3.68,
+      "text": "world? Yeah, great question, great"
+    },
+    {
+      "start": 1067.08,
+      "duration": 4.44,
+      "text": "question. Um when should I start? When"
+    },
+    {
+      "start": 1068.92,
+      "duration": 5.04,
+      "text": "do I need these tools, right? Um"
+    },
+    {
+      "start": 1071.52,
+      "duration": 4.44,
+      "text": "you know, um of course, you know, it's"
+    },
+    {
+      "start": 1073.96,
+      "duration": 3.6,
+      "text": "always better in our our kind of point"
+    },
+    {
+      "start": 1075.96,
+      "duration": 3.32,
+      "text": "of view as we've been working with like,"
+    },
+    {
+      "start": 1077.56,
+      "duration": 4.12,
+      "text": "you know, hundreds of customers across"
+    },
+    {
+      "start": 1079.28,
+      "duration": 4.48,
+      "text": "across this, you know, cycle, um"
+    },
+    {
+      "start": 1081.68,
+      "duration": 5.24,
+      "text": "small customers to really large"
+    },
+    {
+      "start": 1083.76,
+      "duration": 5.28,
+      "text": "enterprises, it you can never hurt to"
+    },
+    {
+      "start": 1086.92,
+      "duration": 4.24,
+      "text": "get started with being able to trace and"
+    },
+    {
+      "start": 1089.04,
+      "duration": 3.6,
+      "text": "understand what's happening"
+    },
+    {
+      "start": 1091.16,
+      "duration": 3.48,
+      "text": "uh with the thing you're building from"
+    },
+    {
+      "start": 1092.64,
+      "duration": 3.96,
+      "text": "the start. So, we always kind of say"
+    },
+    {
+      "start": 1094.64,
+      "duration": 4.0,
+      "text": "like, you probably want to start with"
+    },
+    {
+      "start": 1096.6,
+      "duration": 4.8,
+      "text": "observability, and it's not hard to get"
+    },
+    {
+      "start": 1098.64,
+      "duration": 4.92,
+      "text": "started. Um you don't even have to have"
+    },
+    {
+      "start": 1101.4,
+      "duration": 4.44,
+      "text": "your kind of agent built. You can"
+    },
+    {
+      "start": 1103.56,
+      "duration": 5.04,
+      "text": "actually start with an LLM,"
+    },
+    {
+      "start": 1105.84,
+      "duration": 4.28,
+      "text": "a prompt, and you know, a simple data"
+    },
+    {
+      "start": 1108.6,
+      "duration": 4.08,
+      "text": "set of questions that you're trying to"
+    },
+    {
+      "start": 1110.12,
+      "duration": 4.32,
+      "text": "get that, you know, that one piece of"
+    },
+    {
+      "start": 1112.68,
+      "duration": 3.4,
+      "text": "the LLM to kind of answer correctly, and"
+    },
+    {
+      "start": 1114.44,
+      "duration": 4.8,
+      "text": "that might be part of something that's"
+    },
+    {
+      "start": 1116.08,
+      "duration": 5.16,
+      "text": "in a large, you know, agent that ends up"
+    },
+    {
+      "start": 1119.24,
+      "duration": 4.16,
+      "text": "becoming a large agent. But, if you"
+    },
+    {
+      "start": 1121.24,
+      "duration": 4.08,
+      "text": "start there and you have the visibility,"
+    },
+    {
+      "start": 1123.4,
+      "duration": 4.0,
+      "text": "and you can and you can quickly iterate"
+    },
+    {
+      "start": 1125.32,
+      "duration": 4.44,
+      "text": "through, right? The the question The key"
+    },
+    {
+      "start": 1127.4,
+      "duration": 4.16,
+      "text": "thing is velocity and speed, and being"
+    },
+    {
+      "start": 1129.76,
+      "duration": 3.0,
+      "text": "able to kind of like do this quickly,"
+    },
+    {
+      "start": 1131.56,
+      "duration": 3.96,
+      "text": "right? And that's really what the"
+    },
+    {
+      "start": 1132.76,
+      "duration": 6.08,
+      "text": "platform provides is a way to basically"
+    },
+    {
+      "start": 1135.52,
+      "duration": 5.6,
+      "text": "go through um you know, create these"
+    },
+    {
+      "start": 1138.84,
+      "duration": 4.4,
+      "text": "data sets, go through"
+    },
+    {
+      "start": 1141.12,
+      "duration": 4.32,
+      "text": "um and go through this loop essentially,"
+    },
+    {
+      "start": 1143.24,
+      "duration": 3.56,
+      "text": "a self-improving loop. Um one thing I"
+    },
+    {
+      "start": 1145.44,
+      "duration": 3.72,
+      "text": "didn't mention, and I'll kind of put a"
+    },
+    {
+      "start": 1146.8,
+      "duration": 5.12,
+      "text": "quick plug-in in my in my demo, maybe we"
+    },
+    {
+      "start": 1149.16,
+      "duration": 4.8,
+      "text": "can save this for another session, is,"
+    },
+    {
+      "start": 1151.92,
+      "duration": 3.76,
+      "text": "you know, um a lot of what I walked"
+    },
+    {
+      "start": 1153.96,
+      "duration": 3.84,
+      "text": "through the demo was sort of a human"
+    },
+    {
+      "start": 1155.68,
+      "duration": 4.88,
+      "text": "coming go going through in dashboards"
+    },
+    {
+      "start": 1157.8,
+      "duration": 6.64,
+      "text": "and and and a workflow. Um"
+    },
+    {
+      "start": 1160.56,
+      "duration": 5.56,
+      "text": "we do have a uh Alex, which is our a AI"
+    },
+    {
+      "start": 1164.44,
+      "duration": 3.8,
+      "text": "assistant, um"
+    },
+    {
+      "start": 1166.12,
+      "duration": 4.32,
+      "text": "and it really is truly an agent"
+    },
+    {
+      "start": 1168.24,
+      "duration": 4.28,
+      "text": "assistant that actually can automate a"
+    },
+    {
+      "start": 1170.44,
+      "duration": 4.44,
+      "text": "lot of that. So, we see a lot of like"
+    },
+    {
+      "start": 1172.52,
+      "duration": 5.04,
+      "text": "the trends of, you know, um folks moving"
+    },
+    {
+      "start": 1174.88,
+      "duration": 5.2,
+      "text": "to cursor or just cloud code and these"
+    },
+    {
+      "start": 1177.56,
+      "duration": 4.6,
+      "text": "coding assistants and agents doing more"
+    },
+    {
+      "start": 1180.08,
+      "duration": 2.96,
+      "text": "of the actual building."
+    },
+    {
+      "start": 1182.16,
+      "duration": 4.2,
+      "text": "Um"
+    },
+    {
+      "start": 1183.04,
+      "duration": 5.96,
+      "text": "and uh Alex gives us kind of a way, at"
+    },
+    {
+      "start": 1186.36,
+      "duration": 4.44,
+      "text": "least from kind of within UI's, is uh"
+    },
+    {
+      "start": 1189.0,
+      "duration": 3.08,
+      "text": "alleviating the the human to kind of do"
+    },
+    {
+      "start": 1190.8,
+      "duration": 3.24,
+      "text": "a lot of this"
+    },
+    {
+      "start": 1192.08,
+      "duration": 3.32,
+      "text": "uh configuration and set up of"
+    },
+    {
+      "start": 1194.04,
+      "duration": 3.24,
+      "text": "everything in terms of the workflow"
+    },
+    {
+      "start": 1195.4,
+      "duration": 3.52,
+      "text": "towards being more of an orchestrator so"
+    },
+    {
+      "start": 1197.28,
+      "duration": 4.36,
+      "text": "you can ask it natural language"
+    },
+    {
+      "start": 1198.92,
+      "duration": 5.12,
+      "text": "questions and have it actually it will"
+    },
+    {
+      "start": 1201.64,
+      "duration": 4.28,
+      "text": "go do all of the execution of tasks"
+    },
+    {
+      "start": 1204.04,
+      "duration": 3.48,
+      "text": "there and then you know so so this is"
+    },
+    {
+      "start": 1205.92,
+      "duration": 3.96,
+      "text": "really exciting to see a lot of"
+    },
+    {
+      "start": 1207.52,
+      "duration": 4.92,
+      "text": "developments around that and we've had"
+    },
+    {
+      "start": 1209.88,
+      "duration": 5.48,
+      "text": "uh just a new release of Alex 2.0 last"
+    },
+    {
+      "start": 1212.44,
+      "duration": 5.12,
+      "text": "week and releasing a lot of really good"
+    },
+    {
+      "start": 1215.36,
+      "duration": 4.2,
+      "text": "um research and information about what"
+    },
+    {
+      "start": 1217.56,
+      "duration": 5.12,
+      "text": "we've learned about is building agents"
+    },
+    {
+      "start": 1219.56,
+      "duration": 5.28,
+      "text": "as well um at our company so um yeah"
+    },
+    {
+      "start": 1222.68,
+      "duration": 4.64,
+      "text": "I'll I'll share more of that um maybe in"
+    },
+    {
+      "start": 1224.84,
+      "duration": 4.68,
+      "text": "in in details if I can and share"
+    },
+    {
+      "start": 1227.32,
+      "duration": 5.88,
+      "text": "shortly."
+    },
+    {
+      "start": 1229.52,
+      "duration": 4.32,
+      "text": "Oh that's cool. So Alex is definitely"
+    },
+    {
+      "start": 1233.2,
+      "duration": 2.76,
+      "text": "uh"
+    },
+    {
+      "start": 1233.84,
+      "duration": 4.04,
+      "text": "I would say for me something I would be"
+    },
+    {
+      "start": 1235.96,
+      "duration": 3.8,
+      "text": "interested in because to your point from"
+    },
+    {
+      "start": 1237.88,
+      "duration": 4.76,
+      "text": "what it sounds like"
+    },
+    {
+      "start": 1239.76,
+      "duration": 4.48,
+      "text": "if I'm brand new just getting into in"
+    },
+    {
+      "start": 1242.64,
+      "duration": 4.28,
+      "text": "doing into doing observability"
+    },
+    {
+      "start": 1244.24,
+      "duration": 4.68,
+      "text": "evaluations monitoring"
+    },
+    {
+      "start": 1246.92,
+      "duration": 4.88,
+      "text": "and I don't know where to start you're"
+    },
+    {
+      "start": 1248.92,
+      "duration": 5.12,
+      "text": "saying that Alex can actually help with"
+    },
+    {
+      "start": 1251.8,
+      "duration": 4.16,
+      "text": "getting me started so that way um I'm"
+    },
+    {
+      "start": 1254.04,
+      "duration": 3.72,
+      "text": "not lost in the dark but I have some"
+    },
+    {
+      "start": 1255.96,
+      "duration": 3.56,
+      "text": "some guidance on on how to start"
+    },
+    {
+      "start": 1257.76,
+      "duration": 4.36,
+      "text": "configuring things that correct?"
+    },
+    {
+      "start": 1259.52,
+      "duration": 4.08,
+      "text": "Exactly. Yeah. Just like you guys have a"
+    },
+    {
+      "start": 1262.12,
+      "duration": 4.08,
+      "text": "Microsoft has a great tool called"
+    },
+    {
+      "start": 1263.6,
+      "duration": 5.48,
+      "text": "Copilot and other kinds of assistance"
+    },
+    {
+      "start": 1266.2,
+      "duration": 5.64,
+      "text": "right built into their product um"
+    },
+    {
+      "start": 1269.08,
+      "duration": 5.2,
+      "text": "we carry the same you know philosophy of"
+    },
+    {
+      "start": 1271.84,
+      "duration": 4.68,
+      "text": "of of an agent sitting kind of in"
+    },
+    {
+      "start": 1274.28,
+      "duration": 4.4,
+      "text": "product following you around kind of"
+    },
+    {
+      "start": 1276.52,
+      "duration": 4.28,
+      "text": "understanding context right? So these"
+    },
+    {
+      "start": 1278.68,
+      "duration": 4.96,
+      "text": "are all things that are you're seeing a"
+    },
+    {
+      "start": 1280.8,
+      "duration": 4.84,
+      "text": "lot you know uh of similar tools uh"
+    },
+    {
+      "start": 1283.64,
+      "duration": 4.08,
+      "text": "coming to play and uh yeah and it's"
+    },
+    {
+      "start": 1285.64,
+      "duration": 3.96,
+      "text": "really exciting to see how users are"
+    },
+    {
+      "start": 1287.72,
+      "duration": 4.52,
+      "text": "starting to take this"
+    },
+    {
+      "start": 1289.6,
+      "duration": 5.04,
+      "text": "um and and change the way that they work"
+    },
+    {
+      "start": 1292.24,
+      "duration": 4.24,
+      "text": "right? And and offload a lot of the how"
+    },
+    {
+      "start": 1294.64,
+      "duration": 4.12,
+      "text": "do I do things and do I need to go into"
+    },
+    {
+      "start": 1296.48,
+      "duration": 4.64,
+      "text": "documentation and figure out how to set"
+    },
+    {
+      "start": 1298.76,
+      "duration": 4.24,
+      "text": "up a data set or run an experiment and"
+    },
+    {
+      "start": 1301.12,
+      "duration": 4.28,
+      "text": "wait you kind of don't need to worry"
+    },
+    {
+      "start": 1303.0,
+      "duration": 4.2,
+      "text": "about all that and you can just as ask"
+    },
+    {
+      "start": 1305.4,
+      "duration": 4.32,
+      "text": "Alex and it will go just go do that"
+    },
+    {
+      "start": 1307.2,
+      "duration": 4.44,
+      "text": "stuff for you which is neat. Yeah. Okay"
+    },
+    {
+      "start": 1309.72,
+      "duration": 3.84,
+      "text": "great. Before I get to this question"
+    },
+    {
+      "start": 1311.64,
+      "duration": 5.2,
+      "text": "that um I have in here just one more"
+    },
+    {
+      "start": 1313.56,
+      "duration": 5.88,
+      "text": "point on Alex. Is Alex also able to help"
+    },
+    {
+      "start": 1316.84,
+      "duration": 5.36,
+      "text": "with explaining the results that I'm"
+    },
+    {
+      "start": 1319.44,
+      "duration": 5.2,
+      "text": "looking at in the dashboards or from any"
+    },
+    {
+      "start": 1322.2,
+      "duration": 5.92,
+      "text": "of the evaluations as well?"
+    },
+    {
+      "start": 1324.64,
+      "duration": 5.84,
+      "text": "Yeah absolutely. Um one of the key"
+    },
+    {
+      "start": 1328.12,
+      "duration": 5.12,
+      "text": "like improvements that we made that our"
+    },
+    {
+      "start": 1330.48,
+      "duration": 6.4,
+      "text": "product team made in Alex recently was"
+    },
+    {
+      "start": 1333.24,
+      "duration": 6.08,
+      "text": "around um you know research as well as"
+    },
+    {
+      "start": 1336.88,
+      "duration": 4.08,
+      "text": "planning and executing right? So"
+    },
+    {
+      "start": 1339.32,
+      "duration": 4.48,
+      "text": "planning was one of the probably the big"
+    },
+    {
+      "start": 1340.96,
+      "duration": 6.4,
+      "text": "things that uh was learned about being"
+    },
+    {
+      "start": 1343.8,
+      "duration": 5.44,
+      "text": "able to reason um explain and you know"
+    },
+    {
+      "start": 1347.36,
+      "duration": 5.32,
+      "text": "write your plan down of what you're"
+    },
+    {
+      "start": 1349.24,
+      "duration": 5.56,
+      "text": "about to execute and that allowed uh the"
+    },
+    {
+      "start": 1352.68,
+      "duration": 4.2,
+      "text": "quality of the the agent to actually"
+    },
+    {
+      "start": 1354.8,
+      "duration": 4.36,
+      "text": "execute the task accordingly and not"
+    },
+    {
+      "start": 1356.88,
+      "duration": 5.36,
+      "text": "sort of veer off and go off in different"
+    },
+    {
+      "start": 1359.16,
+      "duration": 5.56,
+      "text": "directions but um yeah it's absolutely"
+    },
+    {
+      "start": 1362.24,
+      "duration": 3.04,
+      "text": "able to kind of take data in"
+    },
+    {
+      "start": 1364.72,
+      "duration": 3.52,
+      "text": "um"
+    },
+    {
+      "start": 1365.28,
+      "duration": 5.08,
+      "text": "analyze it right for you um so it can do"
+    },
+    {
+      "start": 1368.24,
+      "duration": 4.44,
+      "text": "things like error analysis"
+    },
+    {
+      "start": 1370.36,
+      "duration": 4.24,
+      "text": "um which is really the process of um"
+    },
+    {
+      "start": 1372.68,
+      "duration": 4.12,
+      "text": "previously like a human would go through"
+    },
+    {
+      "start": 1374.6,
+      "duration": 4.2,
+      "text": "look at all those individual traces"
+    },
+    {
+      "start": 1376.8,
+      "duration": 3.96,
+      "text": "uh find out you know which ones were"
+    },
+    {
+      "start": 1378.8,
+      "duration": 3.16,
+      "text": "good or bad and start to annotate them"
+    },
+    {
+      "start": 1380.76,
+      "duration": 3.48,
+      "text": "right? Because"
+    },
+    {
+      "start": 1381.96,
+      "duration": 4.04,
+      "text": "um that's sort of the the process of"
+    },
+    {
+      "start": 1384.24,
+      "duration": 3.12,
+      "text": "dealing with like LLM based applications"
+    },
+    {
+      "start": 1386.0,
+      "duration": 2.52,
+      "text": "is that sort of process of error"
+    },
+    {
+      "start": 1387.36,
+      "duration": 3.72,
+      "text": "analysis"
+    },
+    {
+      "start": 1388.52,
+      "duration": 3.68,
+      "text": "um Alex can actually go look at the"
+    },
+    {
+      "start": 1391.08,
+      "duration": 3.88,
+      "text": "trace"
+    },
+    {
+      "start": 1392.2,
+      "duration": 5.08,
+      "text": "faster than a human can analyze it um"
+    },
+    {
+      "start": 1394.96,
+      "duration": 4.28,
+      "text": "categorize it right into these category"
+    },
+    {
+      "start": 1397.28,
+      "duration": 4.24,
+      "text": "categories and sort of help you"
+    },
+    {
+      "start": 1399.24,
+      "duration": 4.84,
+      "text": "understand breakdown of like what things"
+    },
+    {
+      "start": 1401.52,
+      "duration": 5.8,
+      "text": "you should go and address and fix um and"
+    },
+    {
+      "start": 1404.08,
+      "duration": 5.56,
+      "text": "that's all part of you know the you know"
+    },
+    {
+      "start": 1407.32,
+      "duration": 4.52,
+      "text": "asking a simple question like analyze my"
+    },
+    {
+      "start": 1409.64,
+      "duration": 4.28,
+      "text": "traces it actually has a very good kind"
+    },
+    {
+      "start": 1411.84,
+      "duration": 4.24,
+      "text": "of approach to that right? Yeah."
+    },
+    {
+      "start": 1413.92,
+      "duration": 4.36,
+      "text": "I think that's helpful because when"
+    },
+    {
+      "start": 1416.08,
+      "duration": 4.4,
+      "text": "you're getting started with anything"
+    },
+    {
+      "start": 1418.28,
+      "duration": 4.4,
+      "text": "around observability it's one thing to"
+    },
+    {
+      "start": 1420.48,
+      "duration": 3.96,
+      "text": "set everything up and get the results"
+    },
+    {
+      "start": 1422.68,
+      "duration": 3.27,
+      "text": "but then you kind of pause because it's"
+    },
+    {
+      "start": 1424.44,
+      "duration": 1.64,
+      "text": "like okay what does everything mean?"
+    },
+    {
+      "start": 1425.95,
+      "duration": 1.77,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 1426.08,
+      "duration": 3.84,
+      "text": ">> What do I do next? Like what's the next"
+    },
+    {
+      "start": 1427.72,
+      "duration": 3.64,
+      "text": "step? And so I think that that"
+    },
+    {
+      "start": 1429.92,
+      "duration": 4.64,
+      "text": "additional functionality that you just"
+    },
+    {
+      "start": 1431.36,
+      "duration": 6.16,
+      "text": "shared um with respect to Alex is"
+    },
+    {
+      "start": 1434.56,
+      "duration": 5.48,
+      "text": "definitely a really big help not even"
+    },
+    {
+      "start": 1437.52,
+      "duration": 4.6,
+      "text": "just for folks that are newer but even"
+    },
+    {
+      "start": 1440.04,
+      "duration": 4.28,
+      "text": "if you already have experience doing"
+    },
+    {
+      "start": 1442.12,
+      "duration": 3.68,
+      "text": "observability because Alex might point"
+    },
+    {
+      "start": 1444.32,
+      "duration": 3.84,
+      "text": "out something that you might have missed"
+    },
+    {
+      "start": 1445.8,
+      "duration": 4.56,
+      "text": "or hadn't considered as well."
+    },
+    {
+      "start": 1448.16,
+      "duration": 4.64,
+      "text": "All right. We do have some questions."
+    },
+    {
+      "start": 1450.36,
+      "duration": 5.2,
+      "text": "Guru Ghost 1 has asked if we could"
+    },
+    {
+      "start": 1452.8,
+      "duration": 5.12,
+      "text": "discuss a little about the tier slash"
+    },
+    {
+      "start": 1455.56,
+      "duration": 4.92,
+      "text": "costs and related functionality for"
+    },
+    {
+      "start": 1457.92,
+      "duration": 4.6,
+      "text": "Arise AI."
+    },
+    {
+      "start": 1460.48,
+      "duration": 4.04,
+      "text": "Um that's a good question. I am"
+    },
+    {
+      "start": 1462.52,
+      "duration": 4.0,
+      "text": "unfortunately not the"
+    },
+    {
+      "start": 1464.52,
+      "duration": 3.2,
+      "text": "the guy to answer that I'm more of a a"
+    },
+    {
+      "start": 1466.52,
+      "duration": 4.04,
+      "text": "technical"
+    },
+    {
+      "start": 1467.72,
+      "duration": 5.56,
+      "text": "uh guy so I'll probably defer to going"
+    },
+    {
+      "start": 1470.56,
+      "duration": 5.52,
+      "text": "to our website. You can go to arise.com."
+    },
+    {
+      "start": 1473.28,
+      "duration": 5.84,
+      "text": "Um there are there's some pointers there"
+    },
+    {
+      "start": 1476.08,
+      "duration": 5.36,
+      "text": "or uh feel free to connect with us and"
+    },
+    {
+      "start": 1479.12,
+      "duration": 3.56,
+      "text": "and I can connect get you connected to"
+    },
+    {
+      "start": 1481.44,
+      "duration": 2.96,
+      "text": "um to someone who can assist you with"
+    },
+    {
+      "start": 1482.68,
+      "duration": 4.2,
+      "text": "that for sure. Yeah."
+    },
+    {
+      "start": 1484.4,
+      "duration": 5.56,
+      "text": "All right. Perfect. And I do believe the"
+    },
+    {
+      "start": 1486.88,
+      "duration": 7.04,
+      "text": "link itself has been posted earlier by"
+    },
+    {
+      "start": 1489.96,
+      "duration": 5.88,
+      "text": "the Microsoft Reactor for going to Arise"
+    },
+    {
+      "start": 1493.92,
+      "duration": 3.88,
+      "text": "and so uh definitely check that out. At"
+    },
+    {
+      "start": 1495.84,
+      "duration": 4.08,
+      "text": "least I know we have a blog post above"
+    },
+    {
+      "start": 1497.8,
+      "duration": 4.08,
+      "text": "as well and Lee has shared it right"
+    },
+    {
+      "start": 1499.92,
+      "duration": 4.6,
+      "text": "there. Yes. So definitely check that"
+    },
+    {
+      "start": 1501.88,
+      "duration": 5.92,
+      "text": "link out to learn more about their their"
+    },
+    {
+      "start": 1504.52,
+      "duration": 5.52,
+      "text": "pricing. And for then we have a second"
+    },
+    {
+      "start": 1507.8,
+      "duration": 5.28,
+      "text": "or a third I guess question which is"
+    },
+    {
+      "start": 1510.04,
+      "duration": 6.6,
+      "text": "that Arise offers courses and are they"
+    },
+    {
+      "start": 1513.08,
+      "duration": 6.4,
+      "text": "based on your framework or foundry?"
+    },
+    {
+      "start": 1516.64,
+      "duration": 6.84,
+      "text": "Good question. Um so part of my job is"
+    },
+    {
+      "start": 1519.48,
+      "duration": 6.48,
+      "text": "actually to um create content um"
+    },
+    {
+      "start": 1523.48,
+      "duration": 5.48,
+      "text": "you know for partners uh so with like"
+    },
+    {
+      "start": 1525.96,
+      "duration": 5.08,
+      "text": "the Microsoft Foundry um partnership"
+    },
+    {
+      "start": 1528.96,
+      "duration": 5.52,
+      "text": "that we have um I have actually created"
+    },
+    {
+      "start": 1531.04,
+      "duration": 5.48,
+      "text": "a few notebook examples um I think one"
+    },
+    {
+      "start": 1534.48,
+      "duration": 4.64,
+      "text": "of them was shared in the link there"
+    },
+    {
+      "start": 1536.52,
+      "duration": 5.4,
+      "text": "um and we are also kind of like"
+    },
+    {
+      "start": 1539.12,
+      "duration": 6.28,
+      "text": "releasing more integrations so that um"
+    },
+    {
+      "start": 1541.92,
+      "duration": 5.72,
+      "text": "this becomes a very easy uh easy to use"
+    },
+    {
+      "start": 1545.4,
+      "duration": 4.44,
+      "text": "um a setup for Arise as well. And it's"
+    },
+    {
+      "start": 1547.64,
+      "duration": 3.48,
+      "text": "of course all based the data collection"
+    },
+    {
+      "start": 1549.84,
+      "duration": 3.12,
+      "text": "from"
+    },
+    {
+      "start": 1551.12,
+      "duration": 3.96,
+      "text": "the agents on the like that you build"
+    },
+    {
+      "start": 1552.96,
+      "duration": 3.52,
+      "text": "with Microsoft Foundry are pretty"
+    },
+    {
+      "start": 1555.08,
+      "duration": 3.16,
+      "text": "uh very easy to do right? So we have a"
+    },
+    {
+      "start": 1556.48,
+      "duration": 4.48,
+      "text": "direct integration we just released one"
+    },
+    {
+      "start": 1558.24,
+      "duration": 5.28,
+      "text": "recently for Microsoft Agent Framework"
+    },
+    {
+      "start": 1560.96,
+      "duration": 5.76,
+      "text": "that is uh just brand new and just kind"
+    },
+    {
+      "start": 1563.52,
+      "duration": 5.2,
+      "text": "of coming out as well. Um I'll be"
+    },
+    {
+      "start": 1566.72,
+      "duration": 3.76,
+      "text": "providing a notebook example for that"
+    },
+    {
+      "start": 1568.72,
+      "duration": 3.12,
+      "text": "soon um but we do have that in our"
+    },
+    {
+      "start": 1570.48,
+      "duration": 4.52,
+      "text": "documentation if you want to go check"
+    },
+    {
+      "start": 1571.84,
+      "duration": 6.08,
+      "text": "that out. Um and we have really great"
+    },
+    {
+      "start": 1575.0,
+      "duration": 5.56,
+      "text": "courses if you go to arise.com"
+    },
+    {
+      "start": 1577.92,
+      "duration": 5.24,
+      "text": "and um I think there's a section there"
+    },
+    {
+      "start": 1580.56,
+      "duration": 5.32,
+      "text": "on just courses and learning. Uh we have"
+    },
+    {
+      "start": 1583.16,
+      "duration": 6.4,
+      "text": "a lot of research uh that we put out all"
+    },
+    {
+      "start": 1585.88,
+      "duration": 5.76,
+      "text": "the time um a lot of um court free"
+    },
+    {
+      "start": 1589.56,
+      "duration": 3.76,
+      "text": "courses that you can take"
+    },
+    {
+      "start": 1591.64,
+      "duration": 3.28,
+      "text": "um that help you just kind of start with"
+    },
+    {
+      "start": 1593.32,
+      "duration": 4.92,
+      "text": "understanding agent development"
+    },
+    {
+      "start": 1594.92,
+      "duration": 6.76,
+      "text": "observability and evaluations um so yeah"
+    },
+    {
+      "start": 1598.24,
+      "duration": 4.16,
+      "text": "I would start with um our website go to"
+    },
+    {
+      "start": 1601.68,
+      "duration": 2.56,
+      "text": "um"
+    },
+    {
+      "start": 1602.4,
+      "duration": 4.08,
+      "text": "I think it's the kind of resources"
+    },
+    {
+      "start": 1604.24,
+      "duration": 6.16,
+      "text": "section and there's a lot of blogs and"
+    },
+    {
+      "start": 1606.48,
+      "duration": 6.12,
+      "text": "content there um we provide so um please"
+    },
+    {
+      "start": 1610.4,
+      "duration": 4.68,
+      "text": "follow along and um sign up for all of"
+    },
+    {
+      "start": 1612.6,
+      "duration": 5.44,
+      "text": "those as well."
+    },
+    {
+      "start": 1615.08,
+      "duration": 4.72,
+      "text": "Yay! Love resources. Also love just"
+    },
+    {
+      "start": 1618.04,
+      "duration": 3.1,
+      "text": "learning that you also create content"
+    },
+    {
+      "start": 1619.8,
+      "duration": 3.36,
+      "text": "Rich. So"
+    },
+    {
+      "start": 1621.14,
+      "duration": 2.02,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 1624.44,
+      "duration": 4.84,
+      "text": ">> Yes. I feel like I should have met you"
+    },
+    {
+      "start": 1626.88,
+      "duration": 4.76,
+      "text": "maybe 2 years ago. I was also creating"
+    },
+    {
+      "start": 1629.28,
+      "duration": 3.6,
+      "text": "evaluation content and so we we could"
+    },
+    {
+      "start": 1631.64,
+      "duration": 2.36,
+      "text": "have we could have brainstormed"
+    },
+    {
+      "start": 1632.88,
+      "duration": 4.12,
+      "text": "resources together [clears throat] back"
+    },
+    {
+      "start": 1634.0,
+      "duration": 6.6,
+      "text": "then. But definitely check out the"
+    },
+    {
+      "start": 1637.0,
+      "duration": 5.32,
+      "text": "resources that Rich has shared um when"
+    },
+    {
+      "start": 1640.6,
+      "duration": 3.56,
+      "text": "you're getting started with doing"
+    },
+    {
+      "start": 1642.32,
+      "duration": 5.08,
+      "text": "anything in the world of evals and"
+    },
+    {
+      "start": 1644.16,
+      "duration": 5.4,
+      "text": "observability and then monitoring"
+    },
+    {
+      "start": 1647.4,
+      "duration": 4.16,
+      "text": "it's helpful to have a starting place"
+    },
+    {
+      "start": 1649.56,
+      "duration": 3.56,
+      "text": "and given that Arise does have content"
+    },
+    {
+      "start": 1651.56,
+      "duration": 5.24,
+      "text": "available I definitely recommend"
+    },
+    {
+      "start": 1653.12,
+      "duration": 6.56,
+      "text": "checking that out. So"
+    },
+    {
+      "start": 1656.8,
+      "duration": 5.84,
+      "text": "given the relationship between what we"
+    },
+    {
+      "start": 1659.68,
+      "duration": 4.64,
+      "text": "can do with Foundry as well as Arise one"
+    },
+    {
+      "start": 1662.64,
+      "duration": 3.84,
+      "text": "thing that comes to mind with me when"
+    },
+    {
+      "start": 1664.32,
+      "duration": 4.2,
+      "text": "I'm thinking about doing evaluations"
+    },
+    {
+      "start": 1666.48,
+      "duration": 4.92,
+      "text": "that I've seen on the Foundry side is"
+    },
+    {
+      "start": 1668.52,
+      "duration": 4.48,
+      "text": "the ability to use custom evaluators. Is"
+    },
+    {
+      "start": 1671.4,
+      "duration": 4.72,
+      "text": "it also possible to use custom"
+    },
+    {
+      "start": 1673.0,
+      "duration": 6.72,
+      "text": "evaluators with Arise as well?"
+    },
+    {
+      "start": 1676.12,
+      "duration": 5.72,
+      "text": "Yes absolutely. Um so in our platform uh"
+    },
+    {
+      "start": 1679.72,
+      "duration": 5.16,
+      "text": "you can think of evaluations as a"
+    },
+    {
+      "start": 1681.84,
+      "duration": 4.88,
+      "text": "framework right? So we're not trying to"
+    },
+    {
+      "start": 1684.88,
+      "duration": 4.04,
+      "text": "um there's no lock in really at any"
+    },
+    {
+      "start": 1686.72,
+      "duration": 5.24,
+      "text": "stage of the evaluation framework and"
+    },
+    {
+      "start": 1688.92,
+      "duration": 5.64,
+      "text": "really at the end of the day um"
+    },
+    {
+      "start": 1691.96,
+      "duration": 4.28,
+      "text": "you're in evaluation um and I'm using"
+    },
+    {
+      "start": 1694.56,
+      "duration": 3.12,
+      "text": "different kind of there there are"
+    },
+    {
+      "start": 1696.24,
+      "duration": 4.16,
+      "text": "different types of evaluators that you"
+    },
+    {
+      "start": 1697.68,
+      "duration": 5.52,
+      "text": "can have. You can use a for for example"
+    },
+    {
+      "start": 1700.4,
+      "duration": 5.0,
+      "text": "like more deterministic checks like you"
+    },
+    {
+      "start": 1703.2,
+      "duration": 4.48,
+      "text": "can do that in code so you can maybe can"
+    },
+    {
+      "start": 1705.4,
+      "duration": 4.08,
+      "text": "write your own code based evaluators."
+    },
+    {
+      "start": 1707.68,
+      "duration": 3.4,
+      "text": "The ones that are becoming more popular"
+    },
+    {
+      "start": 1709.48,
+      "duration": 3.96,
+      "text": "or probably more mentioned in the"
+    },
+    {
+      "start": 1711.08,
+      "duration": 4.8,
+      "text": "industry are things around LLM as a"
+    },
+    {
+      "start": 1713.44,
+      "duration": 4.12,
+      "text": "judge if you guys have heard of that. Uh"
+    },
+    {
+      "start": 1715.88,
+      "duration": 6.0,
+      "text": "that's using"
+    },
+    {
+      "start": 1717.56,
+      "duration": 8.28,
+      "text": "uh an LLM to judge the output of uh of"
+    },
+    {
+      "start": 1721.88,
+      "duration": 5.64,
+      "text": "an of a another LLM um based on whatever"
+    },
+    {
+      "start": 1725.84,
+      "duration": 3.72,
+      "text": "kind of data or kind of criteria you"
+    },
+    {
+      "start": 1727.52,
+      "duration": 3.08,
+      "text": "want to uh come up with and really that"
+    },
+    {
+      "start": 1729.56,
+      "duration": 4.08,
+      "text": "at the end of the day that's just a"
+    },
+    {
+      "start": 1730.6,
+      "duration": 4.32,
+      "text": "prompt an LLM and some kind of settings"
+    },
+    {
+      "start": 1733.64,
+      "duration": 4.16,
+      "text": "around that."
+    },
+    {
+      "start": 1734.92,
+      "duration": 5.64,
+      "text": "So we allow in the example a demo that I"
+    },
+    {
+      "start": 1737.8,
+      "duration": 5.96,
+      "text": "gave earlier we were actually pulling in"
+    },
+    {
+      "start": 1740.56,
+      "duration": 5.2,
+      "text": "uh the content safety evaluators that"
+    },
+    {
+      "start": 1743.76,
+      "duration": 4.4,
+      "text": "that are written in by Microsoft and"
+    },
+    {
+      "start": 1745.76,
+      "duration": 4.64,
+      "text": "actually running those um for this"
+    },
+    {
+      "start": 1748.16,
+      "duration": 4.44,
+      "text": "example. I kind of wanted to show how"
+    },
+    {
+      "start": 1750.4,
+      "duration": 3.88,
+      "text": "within our platform we can pull in you"
+    },
+    {
+      "start": 1752.6,
+      "duration": 3.44,
+      "text": "know we have our own evaluators that we"
+    },
+    {
+      "start": 1754.28,
+      "duration": 3.88,
+      "text": "can write. You can actually use Alex to"
+    },
+    {
+      "start": 1756.04,
+      "duration": 4.64,
+      "text": "create your own right? Um you can bring"
+    },
+    {
+      "start": 1758.16,
+      "duration": 4.64,
+      "text": "your own um so there's not a concern"
+    },
+    {
+      "start": 1760.68,
+      "duration": 4.16,
+      "text": "about sort of any like can I bring other"
+    },
+    {
+      "start": 1762.8,
+      "duration": 4.4,
+      "text": "evaluators in or build my own or write"
+    },
+    {
+      "start": 1764.84,
+      "duration": 4.44,
+      "text": "my own um that's very easy to do but we"
+    },
+    {
+      "start": 1767.2,
+      "duration": 4.8,
+      "text": "can also pull in the ones that um"
+    },
+    {
+      "start": 1769.28,
+      "duration": 5.28,
+      "text": "Microsoft like um has these really"
+    },
+    {
+      "start": 1772.0,
+      "duration": 4.8,
+      "text": "awesome safety content safety evaluators"
+    },
+    {
+      "start": 1774.56,
+      "duration": 3.88,
+      "text": "and um you know we don't have those"
+    },
+    {
+      "start": 1776.8,
+      "duration": 3.8,
+      "text": "natively so I was like let's pull those"
+    },
+    {
+      "start": 1778.44,
+      "duration": 4.84,
+      "text": "in and run those for this kind of demo"
+    },
+    {
+      "start": 1780.6,
+      "duration": 4.48,
+      "text": "to show like the compatibility there but"
+    },
+    {
+      "start": 1783.28,
+      "duration": 4.72,
+      "text": "it's it's really kind of a truly"
+    },
+    {
+      "start": 1785.08,
+      "duration": 5.28,
+      "text": "flexible system that way."
+    },
+    {
+      "start": 1788.0,
+      "duration": 4.32,
+      "text": "All right, great. That's good to know. I"
+    },
+    {
+      "start": 1790.36,
+      "duration": 4.76,
+      "text": "know in the past when I've done some"
+    },
+    {
+      "start": 1792.32,
+      "duration": 5.32,
+      "text": "talks on E valves, we always talk a lot"
+    },
+    {
+      "start": 1795.12,
+      "duration": 5.56,
+      "text": "about the built-in ones, you know, but"
+    },
+    {
+      "start": 1797.64,
+      "duration": 4.28,
+      "text": "then when you have that use case that"
+    },
+    {
+      "start": 1800.68,
+      "duration": 3.04,
+      "text": "there's not any evaluator that really"
+    },
+    {
+      "start": 1801.92,
+      "duration": 3.8,
+      "text": "accounts for a certain thing that you"
+    },
+    {
+      "start": 1803.72,
+      "duration": 4.72,
+      "text": "want to measure, that's really where the"
+    },
+    {
+      "start": 1805.72,
+      "duration": 5.0,
+      "text": "custom evaluators come to shine. And"
+    },
+    {
+      "start": 1808.44,
+      "duration": 4.52,
+      "text": "sometimes not knowing, well, how do I"
+    },
+    {
+      "start": 1810.72,
+      "duration": 4.24,
+      "text": "create an evaluator? Sometimes that'll"
+    },
+    {
+      "start": 1812.96,
+      "duration": 3.84,
+      "text": "come up. And so"
+    },
+    {
+      "start": 1814.96,
+      "duration": 4.28,
+      "text": "things like Alex that you mentioned as"
+    },
+    {
+      "start": 1816.8,
+      "duration": 3.56,
+      "text": "well. I always always guide folks to"
+    },
+    {
+      "start": 1819.24,
+      "duration": 2.52,
+      "text": "say, \"Hey, if you don't know how to"
+    },
+    {
+      "start": 1820.36,
+      "duration": 4.76,
+      "text": "create a custom evaluator with the"
+    },
+    {
+      "start": 1821.76,
+      "duration": 4.8,
+      "text": "criteria is, ask AI.\" And you all"
+    },
+    {
+      "start": 1825.12,
+      "duration": 4.2,
+      "text": "already have something built into your"
+    },
+    {
+      "start": 1826.56,
+      "duration": 4.28,
+      "text": "platform to help with that. And so"
+    },
+    {
+      "start": 1829.32,
+      "duration": 4.52,
+      "text": "that's something I would say keep in"
+    },
+    {
+      "start": 1830.84,
+      "duration": 5.16,
+      "text": "mind as as as you're thinking through"
+    },
+    {
+      "start": 1833.84,
+      "duration": 4.8,
+      "text": "what sort of evaluators to use when"
+    },
+    {
+      "start": 1836.0,
+      "duration": 5.0,
+      "text": "you're evaluating for your agent. Just a"
+    },
+    {
+      "start": 1838.64,
+      "duration": 5.96,
+      "text": "couple more questions, Rich. One we have"
+    },
+    {
+      "start": 1841.0,
+      "duration": 5.48,
+      "text": "as a follow-up from Guru Ghost. If if if"
+    },
+    {
+      "start": 1844.6,
+      "duration": 3.8,
+      "text": "they're not an enterprise, does it make"
+    },
+    {
+      "start": 1846.48,
+      "duration": 4.12,
+      "text": "sense to start with Phoenix and progress"
+    },
+    {
+      "start": 1848.4,
+      "duration": 6.12,
+      "text": "as needed or does Arise offer a small"
+    },
+    {
+      "start": 1850.6,
+      "duration": 6.36,
+      "text": "developers from the start"
+    },
+    {
+      "start": 1854.52,
+      "duration": 4.64,
+      "text": "of the process, especially observability"
+    },
+    {
+      "start": 1856.96,
+      "duration": 6.0,
+      "text": "{slash} Alex? Yeah, that's a great"
+    },
+    {
+      "start": 1859.16,
+      "duration": 5.76,
+      "text": "question. Um so you can really choose"
+    },
+    {
+      "start": 1862.96,
+      "duration": 4.0,
+      "text": "your own path here. Um"
+    },
+    {
+      "start": 1864.92,
+      "duration": 4.32,
+      "text": "Phoenix is kind of like ready to go. You"
+    },
+    {
+      "start": 1866.96,
+      "duration": 4.0,
+      "text": "can download it, use it out of the box,"
+    },
+    {
+      "start": 1869.24,
+      "duration": 3.28,
+      "text": "right? Don't need to ask for permission."
+    },
+    {
+      "start": 1870.96,
+      "duration": 3.12,
+      "text": "It's a software"
+    },
+    {
+      "start": 1872.52,
+      "duration": 5.56,
+      "text": "um install the software and start using"
+    },
+    {
+      "start": 1874.08,
+      "duration": 5.72,
+      "text": "it. Um but Arise, if you are you know,"
+    },
+    {
+      "start": 1878.08,
+      "duration": 5.16,
+      "text": "um where where it's kind of makes sense"
+    },
+    {
+      "start": 1879.8,
+      "duration": 5.48,
+      "text": "is Arise also includes more of um kind"
+    },
+    {
+      "start": 1883.24,
+      "duration": 4.6,
+      "text": "of an enterprise grade platform. So if"
+    },
+    {
+      "start": 1885.28,
+      "duration": 4.48,
+      "text": "you're kind of planning or if you know"
+    },
+    {
+      "start": 1887.84,
+      "duration": 3.76,
+      "text": "in the future that your small team"
+    },
+    {
+      "start": 1889.76,
+      "duration": 4.16,
+      "text": "that's starting today might actually"
+    },
+    {
+      "start": 1891.6,
+      "duration": 5.32,
+      "text": "expand out um to kind of a larger"
+    },
+    {
+      "start": 1893.92,
+      "duration": 6.28,
+      "text": "footprint or or organization. But and"
+    },
+    {
+      "start": 1896.92,
+      "duration": 5.6,
+      "text": "also if you need to kind of focus on um"
+    },
+    {
+      "start": 1900.2,
+      "duration": 4.16,
+      "text": "the the production monitoring part of it"
+    },
+    {
+      "start": 1902.52,
+      "duration": 3.6,
+      "text": "um which means if your agent is kind of"
+    },
+    {
+      "start": 1904.36,
+      "duration": 4.2,
+      "text": "moving towards, all right, this is"
+    },
+    {
+      "start": 1906.12,
+      "duration": 4.92,
+      "text": "becoming more serious, right? And it's"
+    },
+    {
+      "start": 1908.56,
+      "duration": 4.24,
+      "text": "it's actually graduating to a staging or"
+    },
+    {
+      "start": 1911.04,
+      "duration": 3.96,
+      "text": "pre-production state or anything like"
+    },
+    {
+      "start": 1912.8,
+      "duration": 3.48,
+      "text": "that, it might uh make sense to move it"
+    },
+    {
+      "start": 1915.0,
+      "duration": 3.48,
+      "text": "towards that. But if you're starting"
+    },
+    {
+      "start": 1916.28,
+      "duration": 3.88,
+      "text": "with, you know, the Arise platform um"
+    },
+    {
+      "start": 1918.48,
+      "duration": 3.48,
+      "text": "the enterprise platform and you actually"
+    },
+    {
+      "start": 1920.16,
+      "duration": 3.64,
+      "text": "want to start there, that's actually a"
+    },
+    {
+      "start": 1921.96,
+      "duration": 4.72,
+      "text": "fine process cuz that could be in the"
+    },
+    {
+      "start": 1923.8,
+      "duration": 6.08,
+      "text": "where being the landing zone of that. So"
+    },
+    {
+      "start": 1926.68,
+      "duration": 5.56,
+      "text": "um if you want to try it, uh you can"
+    },
+    {
+      "start": 1929.88,
+      "duration": 4.72,
+      "text": "always go to our our website um"
+    },
+    {
+      "start": 1932.24,
+      "duration": 4.68,
+      "text": "arise.com and there is a kind of a free"
+    },
+    {
+      "start": 1934.6,
+      "duration": 4.32,
+      "text": "trial button there. Um you can click on"
+    },
+    {
+      "start": 1936.92,
+      "duration": 4.24,
+      "text": "it and you can try the enterprise um"
+    },
+    {
+      "start": 1938.92,
+      "duration": 4.36,
+      "text": "platform for free. Uh there's no strings"
+    },
+    {
+      "start": 1941.16,
+      "duration": 3.68,
+      "text": "attached to it and you can actually try"
+    },
+    {
+      "start": 1943.28,
+      "duration": 4.36,
+      "text": "all of the full functionality of"
+    },
+    {
+      "start": 1944.84,
+      "duration": 5.32,
+      "text": "everything I just mentioned, Alex, um"
+    },
+    {
+      "start": 1947.64,
+      "duration": 5.08,
+      "text": "the full workflows and everything that"
+    },
+    {
+      "start": 1950.16,
+      "duration": 4.76,
+      "text": "needs um there. So"
+    },
+    {
+      "start": 1952.72,
+      "duration": 4.2,
+      "text": "um or hit me up on LinkedIn, connect"
+    },
+    {
+      "start": 1954.92,
+      "duration": 3.96,
+      "text": "with me if you are building today. Uh I"
+    },
+    {
+      "start": 1956.92,
+      "duration": 3.72,
+      "text": "love connecting with you as well. I will"
+    },
+    {
+      "start": 1958.88,
+      "duration": 4.4,
+      "text": "send you resources and get you up get"
+    },
+    {
+      "start": 1960.64,
+      "duration": 4.52,
+      "text": "you started with whatever you need."
+    },
+    {
+      "start": 1963.28,
+      "duration": 3.88,
+      "text": "All right, perfect. And I just took a"
+    },
+    {
+      "start": 1965.16,
+      "duration": 4.24,
+      "text": "look at the time, Rich. So actually I'll"
+    },
+    {
+      "start": 1967.16,
+      "duration": 4.64,
+      "text": "have to table my my follow-up questions"
+    },
+    {
+      "start": 1969.4,
+      "duration": 4.64,
+      "text": "for you, but thank you so much for"
+    },
+    {
+      "start": 1971.8,
+      "duration": 4.36,
+      "text": "joining us today and sharing more about"
+    },
+    {
+      "start": 1974.04,
+      "duration": 3.84,
+      "text": "Arise. We've shared the link a couple"
+    },
+    {
+      "start": 1976.16,
+      "duration": 3.96,
+      "text": "times in the chat. We can bring it on"
+    },
+    {
+      "start": 1977.88,
+      "duration": 4.96,
+      "text": "screen one more time of where you can"
+    },
+    {
+      "start": 1980.12,
+      "duration": 6.04,
+      "text": "learn more about Arise uh via their"
+    },
+    {
+      "start": 1982.84,
+      "duration": 5.24,
+      "text": "website as well. Thank you again, Rich,"
+    },
+    {
+      "start": 1986.16,
+      "duration": 5.2,
+      "text": "for joining us. I hope you have a really"
+    },
+    {
+      "start": 1988.08,
+      "duration": 5.16,
+      "text": "good rest of your day. Thank you."
+    },
+    {
+      "start": 1991.36,
+      "duration": 4.28,
+      "text": "Thank you."
+    },
+    {
+      "start": 1993.24,
+      "duration": 4.4,
+      "text": "All right. So we're going to head now"
+    },
+    {
+      "start": 1995.64,
+      "duration": 5.24,
+      "text": "into the news highlights because there's"
+    },
+    {
+      "start": 1997.64,
+      "duration": 6.52,
+      "text": "always something fun happening in AI and"
+    },
+    {
+      "start": 2000.88,
+      "duration": 5.08,
+      "text": "joining us is Sharmila. Sharmila, hello."
+    },
+    {
+      "start": 2004.16,
+      "duration": 3.68,
+      "text": "Hi everyone. Thank you."
+    },
+    {
+      "start": 2005.96,
+      "duration": 3.6,
+      "text": "Uh can you hear me? Can you hear me?"
+    },
+    {
+      "start": 2007.84,
+      "duration": 4.84,
+      "text": "Uh-oh, we have a little static. Can you"
+    },
+    {
+      "start": 2009.56,
+      "duration": 3.12,
+      "text": "say that one more time?"
+    },
+    {
+      "start": 2013.12,
+      "duration": 4.4,
+      "text": "Uh just give me one second. Um No"
+    },
+    {
+      "start": 2015.52,
+      "duration": 4.32,
+      "text": "problem."
+    },
+    {
+      "start": 2017.52,
+      "duration": 2.32,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 2021.72,
+      "duration": 4.32,
+      "text": "How about now? I can hear you now."
+    },
+    {
+      "start": 2023.96,
+      "duration": 4.16,
+      "text": "Hopefully everyone tuning in can as"
+    },
+    {
+      "start": 2026.04,
+      "duration": 3.0,
+      "text": "well, but hello."
+    },
+    {
+      "start": 2028.12,
+      "duration": 3.04,
+      "text": "Uh"
+    },
+    {
+      "start": 2029.04,
+      "duration": 4.56,
+      "text": "I'm sorry. Um yeah, I'm I'm at the"
+    },
+    {
+      "start": 2031.16,
+      "duration": 4.48,
+      "text": "airport like trying to fly out, but um"
+    },
+    {
+      "start": 2033.6,
+      "duration": 3.92,
+      "text": "let's quickly get to the highlights and"
+    },
+    {
+      "start": 2035.64,
+      "duration": 4.04,
+      "text": "uh this week we have a bunch of"
+    },
+    {
+      "start": 2037.52,
+      "duration": 3.8,
+      "text": "different uh interesting model"
+    },
+    {
+      "start": 2039.68,
+      "duration": 4.96,
+      "text": "announcements and other things to share."
+    },
+    {
+      "start": 2041.32,
+      "duration": 6.08,
+      "text": "So first on the list is GPT-5.4."
+    },
+    {
+      "start": 2044.64,
+      "duration": 5.24,
+      "text": "It's now available in Microsoft Foundry"
+    },
+    {
+      "start": 2047.4,
+      "duration": 5.2,
+      "text": "bringing one of the newest GPT models"
+    },
+    {
+      "start": 2049.88,
+      "duration": 4.36,
+      "text": "into our enterprise uh model catalog. Uh"
+    },
+    {
+      "start": 2052.6,
+      "duration": 3.52,
+      "text": "and the focus of this release is"
+    },
+    {
+      "start": 2054.24,
+      "duration": 3.84,
+      "text": "production grade reliability, better"
+    },
+    {
+      "start": 2056.12,
+      "duration": 3.92,
+      "text": "reasoning, stronger instruction"
+    },
+    {
+      "start": 2058.08,
+      "duration": 4.92,
+      "text": "following, and more stable performance"
+    },
+    {
+      "start": 2060.04,
+      "duration": 4.8,
+      "text": "across long workflows. So it means AI"
+    },
+    {
+      "start": 2063.0,
+      "duration": 4.68,
+      "text": "system can move from just generating"
+    },
+    {
+      "start": 2064.84,
+      "duration": 5.08,
+      "text": "ideas to actually completing multi-step"
+    },
+    {
+      "start": 2067.68,
+      "duration": 4.72,
+      "text": "work, whether that's automating business"
+    },
+    {
+      "start": 2069.92,
+      "duration": 5.4,
+      "text": "process, assisting developers with code,"
+    },
+    {
+      "start": 2072.4,
+      "duration": 5.52,
+      "text": "or powering agent-driven applications."
+    },
+    {
+      "start": 2075.32,
+      "duration": 5.36,
+      "text": "Moving on to the next highlight."
+    },
+    {
+      "start": 2077.92,
+      "duration": 5.92,
+      "text": "This is on AI weather forecasting. A"
+    },
+    {
+      "start": 2080.68,
+      "duration": 5.68,
+      "text": "fascinating example of AI in science and"
+    },
+    {
+      "start": 2083.84,
+      "duration": 4.6,
+      "text": "infrastructure. So Microsoft actually"
+    },
+    {
+      "start": 2086.36,
+      "duration": 4.84,
+      "text": "showcased a unified weather forecasting"
+    },
+    {
+      "start": 2088.44,
+      "duration": 5.64,
+      "text": "pipeline using the Aurora Foundation"
+    },
+    {
+      "start": 2091.2,
+      "duration": 5.68,
+      "text": "model in Foundry together with my uh"
+    },
+    {
+      "start": 2094.08,
+      "duration": 4.88,
+      "text": "Microsoft planetary computer data. And"
+    },
+    {
+      "start": 2096.88,
+      "duration": 4.4,
+      "text": "this system combines real-time global"
+    },
+    {
+      "start": 2098.96,
+      "duration": 5.04,
+      "text": "weather data with AI predictions and"
+    },
+    {
+      "start": 2101.28,
+      "duration": 4.96,
+      "text": "geospatial insights, allowing industries"
+    },
+    {
+      "start": 2104.0,
+      "duration": 5.64,
+      "text": "like utilities or energy to forecast"
+    },
+    {
+      "start": 2106.24,
+      "duration": 7.2,
+      "text": "storms and assess risk much faster."
+    },
+    {
+      "start": 2109.64,
+      "duration": 3.8,
+      "text": "Moving on to the next highlight."
+    },
+    {
+      "start": 2113.68,
+      "duration": 5.28,
+      "text": "What The next is on 5.4 reasoning. Uh"
+    },
+    {
+      "start": 2116.6,
+      "duration": 4.88,
+      "text": "this vision model brings a powerful new"
+    },
+    {
+      "start": 2118.96,
+      "duration": 4.52,
+      "text": "capability to developers. So AI that"
+    },
+    {
+      "start": 2121.48,
+      "duration": 4.2,
+      "text": "doesn't just sees uh images, but"
+    },
+    {
+      "start": 2123.48,
+      "duration": 4.52,
+      "text": "actually reasons about them. So this"
+    },
+    {
+      "start": 2125.68,
+      "duration": 4.8,
+      "text": "means systems can analyze diagrams, UI"
+    },
+    {
+      "start": 2128.0,
+      "duration": 4.56,
+      "text": "screens, documents, or charts and"
+    },
+    {
+      "start": 2130.48,
+      "duration": 4.76,
+      "text": "connect that visual information and text"
+    },
+    {
+      "start": 2132.56,
+      "duration": 4.04,
+      "text": "to perform multi-step reasoning."
+    },
+    {
+      "start": 2135.24,
+      "duration": 6.44,
+      "text": "Moving on."
+    },
+    {
+      "start": 2136.6,
+      "duration": 7.28,
+      "text": "Next highlight is on 5.3 chat. Um again,"
+    },
+    {
+      "start": 2141.68,
+      "duration": 4.88,
+      "text": "very similar to 5.4, it's designed"
+    },
+    {
+      "start": 2143.88,
+      "duration": 4.96,
+      "text": "specifically for enterprise applications"
+    },
+    {
+      "start": 2146.56,
+      "duration": 4.4,
+      "text": "and it emphasizes predictable behavior,"
+    },
+    {
+      "start": 2148.84,
+      "duration": 5.28,
+      "text": "grounded answers, and consistent"
+    },
+    {
+      "start": 2150.96,
+      "duration": 4.92,
+      "text": "response across large-scale workflows."
+    },
+    {
+      "start": 2154.12,
+      "duration": 4.36,
+      "text": "Again, it's all available in Microsoft"
+    },
+    {
+      "start": 2155.88,
+      "duration": 5.4,
+      "text": "Foundry model catalog. And the final uh"
+    },
+    {
+      "start": 2158.48,
+      "duration": 4.92,
+      "text": "highlight is on the economics of"
+    },
+    {
+      "start": 2161.28,
+      "duration": 5.12,
+      "text": "enterprise AI. Like uh we did a"
+    },
+    {
+      "start": 2163.4,
+      "duration": 5.24,
+      "text": "Forrester TEI or total economic impact"
+    },
+    {
+      "start": 2166.4,
+      "duration": 5.36,
+      "text": "study on Foundry and we found that"
+    },
+    {
+      "start": 2168.64,
+      "duration": 5.28,
+      "text": "Foundry could achieve 32% ROI over 3"
+    },
+    {
+      "start": 2171.76,
+      "duration": 4.8,
+      "text": "years with major gains coming from"
+    },
+    {
+      "start": 2173.92,
+      "duration": 4.72,
+      "text": "developer productivity and faster AI"
+    },
+    {
+      "start": 2176.56,
+      "duration": 4.76,
+      "text": "deployment. So teams reported"
+    },
+    {
+      "start": 2178.64,
+      "duration": 4.92,
+      "text": "productivity improvement of up to 35%"
+    },
+    {
+      "start": 2181.32,
+      "duration": 4.48,
+      "text": "with payback sometimes happening in as"
+    },
+    {
+      "start": 2183.56,
+      "duration": 4.44,
+      "text": "little as 6 months, showing that"
+    },
+    {
+      "start": 2185.8,
+      "duration": 4.32,
+      "text": "treating AI as a platform is not just"
+    },
+    {
+      "start": 2188.0,
+      "duration": 4.04,
+      "text": "isolated experiments. It's where the"
+    },
+    {
+      "start": 2190.12,
+      "duration": 4.16,
+      "text": "real business value emerges. So you"
+    },
+    {
+      "start": 2192.04,
+      "duration": 4.64,
+      "text": "should definitely go and read this um"
+    },
+    {
+      "start": 2194.28,
+      "duration": 5.68,
+      "text": "Forrester TEI study."
+    },
+    {
+      "start": 2196.68,
+      "duration": 5.24,
+      "text": "And that uh brings us to the end of the"
+    },
+    {
+      "start": 2199.96,
+      "duration": 3.44,
+      "text": "weekly highlights."
+    },
+    {
+      "start": 2201.92,
+      "duration": 3.6,
+      "text": "All right, thank you very much,"
+    },
+    {
+      "start": 2203.4,
+      "duration": 3.64,
+      "text": "Sharmila. Hope you have a very safe"
+    },
+    {
+      "start": 2205.52,
+      "duration": 4.84,
+      "text": "flight and thanks for letting us know"
+    },
+    {
+      "start": 2207.04,
+      "duration": 7.8,
+      "text": "about what was new. Yep, thank you."
+    },
+    {
+      "start": 2210.36,
+      "duration": 7.4,
+      "text": "Yes, absolutely. All right. So next up"
+    },
+    {
+      "start": 2214.84,
+      "duration": 4.68,
+      "text": "we have Leo Yao joining us. I shouldn't"
+    },
+    {
+      "start": 2217.76,
+      "duration": 3.8,
+      "text": "play favorites, but Leo works with a"
+    },
+    {
+      "start": 2219.52,
+      "duration": 4.68,
+      "text": "team that's one of my favorites here at"
+    },
+    {
+      "start": 2221.56,
+      "duration": 7.2,
+      "text": "Microsoft. And that's the AI Toolkit"
+    },
+    {
+      "start": 2224.2,
+      "duration": 6.64,
+      "text": "team. Leo, hey, how are you? Hey, April."
+    },
+    {
+      "start": 2228.76,
+      "duration": 4.56,
+      "text": "Doing great. How about you?"
+    },
+    {
+      "start": 2230.84,
+      "duration": 4.44,
+      "text": "I am doing all right. Thanks for"
+    },
+    {
+      "start": 2233.32,
+      "duration": 3.8,
+      "text": "joining. I feel like you're a second"
+    },
+    {
+      "start": 2235.28,
+      "duration": 5.2,
+      "text": "timer, if not a third timer here on"
+    },
+    {
+      "start": 2237.12,
+      "duration": 5.4,
+      "text": "Model Mondays. So super excited. Yeah,"
+    },
+    {
+      "start": 2240.48,
+      "duration": 5.64,
+      "text": "glad to be back. I think last time I was"
+    },
+    {
+      "start": 2242.52,
+      "duration": 7.44,
+      "text": "here was almost a year ago. I'll"
+    },
+    {
+      "start": 2246.12,
+      "duration": 6.16,
+      "text": "Yeah, yes, absolutely. So I know who you"
+    },
+    {
+      "start": 2249.96,
+      "duration": 3.6,
+      "text": "are, but I don't think all the folks"
+    },
+    {
+      "start": 2252.28,
+      "duration": 3.92,
+      "text": "tuning in do. If you could share a"
+    },
+    {
+      "start": 2253.56,
+      "duration": 4.6,
+      "text": "little more about who you are and the"
+    },
+    {
+      "start": 2256.2,
+      "duration": 4.12,
+      "text": "work that you do here at Microsoft and"
+    },
+    {
+      "start": 2258.16,
+      "duration": 5.04,
+      "text": "just a little bit about the AI Toolkit"
+    },
+    {
+      "start": 2260.32,
+      "duration": 5.92,
+      "text": "before we dive into your demo."
+    },
+    {
+      "start": 2263.2,
+      "duration": 5.84,
+      "text": "Sure, yeah. Everyone, I'm Leo and I am a"
+    },
+    {
+      "start": 2266.24,
+      "duration": 5.96,
+      "text": "product manager at Microsoft working on"
+    },
+    {
+      "start": 2269.04,
+      "duration": 5.0,
+      "text": "AI tooling. So uh some of the uh"
+    },
+    {
+      "start": 2272.2,
+      "duration": 5.32,
+      "text": "products that my team is working on"
+    },
+    {
+      "start": 2274.04,
+      "duration": 6.4,
+      "text": "include the the AI Toolkit, uh the it's"
+    },
+    {
+      "start": 2277.52,
+      "duration": 5.44,
+      "text": "a VS Code extension in uh it's a VS Code"
+    },
+    {
+      "start": 2280.44,
+      "duration": 4.88,
+      "text": "extension and you can use it to build"
+    },
+    {
+      "start": 2282.96,
+      "duration": 4.2,
+      "text": "your favorite AI agents. It also"
+    },
+    {
+      "start": 2285.32,
+      "duration": 4.56,
+      "text": "connects to the Microsoft Foundry"
+    },
+    {
+      "start": 2287.16,
+      "duration": 4.28,
+      "text": "ecosystem via the Microsoft Foundry VS"
+    },
+    {
+      "start": 2289.88,
+      "duration": 4.28,
+      "text": "Code extension."
+    },
+    {
+      "start": 2291.44,
+      "duration": 5.56,
+      "text": "So you can also use uh leverage Foundry"
+    },
+    {
+      "start": 2294.16,
+      "duration": 6.2,
+      "text": "resources and tools directly inside your"
+    },
+    {
+      "start": 2297.0,
+      "duration": 6.68,
+      "text": "favorite VS Code editing environment."
+    },
+    {
+      "start": 2300.36,
+      "duration": 6.0,
+      "text": "All right, perfect. So as mentioned, Leo"
+    },
+    {
+      "start": 2303.68,
+      "duration": 5.68,
+      "text": "did bring a demo for us to all take a"
+    },
+    {
+      "start": 2306.36,
+      "duration": 5.2,
+      "text": "look at today as well. If you have been"
+    },
+    {
+      "start": 2309.36,
+      "duration": 4.24,
+      "text": "using the AI Toolkit, definitely let us"
+    },
+    {
+      "start": 2311.56,
+      "duration": 3.92,
+      "text": "know in the chat. And if you haven't,"
+    },
+    {
+      "start": 2313.6,
+      "duration": 3.88,
+      "text": "I'm hoping after you do this demo,"
+    },
+    {
+      "start": 2315.48,
+      "duration": 5.08,
+      "text": "you're going to feel inclined to go"
+    },
+    {
+      "start": 2317.48,
+      "duration": 4.84,
+      "text": "install the extension. So without"
+    },
+    {
+      "start": 2320.56,
+      "duration": 6.16,
+      "text": "further ado, I'm going to go ahead and"
+    },
+    {
+      "start": 2322.32,
+      "duration": 4.4,
+      "text": "head into the demo. See you soon, Leo."
+    },
+    {
+      "start": 2329.64,
+      "duration": 5.84,
+      "text": "Hey everyone. The AI Toolkit extension"
+    },
+    {
+      "start": 2332.12,
+      "duration": 6.12,
+      "text": "in VS Code released version 0.3.0 a few"
+    },
+    {
+      "start": 2335.48,
+      "duration": 4.52,
+      "text": "days ago. And today, let's take a look"
+    },
+    {
+      "start": 2338.24,
+      "duration": 2.96,
+      "text": "at some of the new amazing features"
+    },
+    {
+      "start": 2340.0,
+      "duration": 3.28,
+      "text": "together."
+    },
+    {
+      "start": 2341.2,
+      "duration": 4.72,
+      "text": "As a reminder, you can always try it"
+    },
+    {
+      "start": 2343.28,
+      "duration": 5.24,
+      "text": "yourself today by downloading it in VS"
+    },
+    {
+      "start": 2345.92,
+      "duration": 4.24,
+      "text": "Code. Let's get started."
+    },
+    {
+      "start": 2348.52,
+      "duration": 4.0,
+      "text": "We will first head over to the AI"
+    },
+    {
+      "start": 2350.16,
+      "duration": 4.2,
+      "text": "Toolkit sidebar. You might notice that a"
+    },
+    {
+      "start": 2352.52,
+      "duration": 3.16,
+      "text": "few things look different to what it was"
+    },
+    {
+      "start": 2354.36,
+      "duration": 3.68,
+      "text": "like before."
+    },
+    {
+      "start": 2355.68,
+      "duration": 5.52,
+      "text": "Agent Builder received a major usability"
+    },
+    {
+      "start": 2358.04,
+      "duration": 5.44,
+      "text": "refresh and has a redesigned layout for"
+    },
+    {
+      "start": 2361.2,
+      "duration": 4.0,
+      "text": "better navigation and focus."
+    },
+    {
+      "start": 2363.48,
+      "duration": 2.84,
+      "text": "You can quickly switch between different"
+    },
+    {
+      "start": 2365.2,
+      "duration": 3.12,
+      "text": "agents."
+    },
+    {
+      "start": 2366.32,
+      "duration": 4.52,
+      "text": "And now it has built-in support for"
+    },
+    {
+      "start": 2368.32,
+      "duration": 4.44,
+      "text": "Microsoft Foundry ecosystem."
+    },
+    {
+      "start": 2370.84,
+      "duration": 5.2,
+      "text": "By choosing a Foundry model, which I"
+    },
+    {
+      "start": 2372.76,
+      "duration": 5.48,
+      "text": "have a GPT-5.2 model already deployed, I"
+    },
+    {
+      "start": 2376.04,
+      "duration": 6.24,
+      "text": "can now save my agent as a Foundry"
+    },
+    {
+      "start": 2378.24,
+      "duration": 5.92,
+      "text": "prompt agent directly inside of VS Code."
+    },
+    {
+      "start": 2382.28,
+      "duration": 3.48,
+      "text": "Under the tool section, instead of"
+    },
+    {
+      "start": 2384.16,
+      "duration": 4.04,
+      "text": "juggling scanner configs and"
+    },
+    {
+      "start": 2385.76,
+      "duration": 5.12,
+      "text": "definitions, you now get a unified"
+    },
+    {
+      "start": 2388.2,
+      "duration": 5.28,
+      "text": "experience for tool management. You can"
+    },
+    {
+      "start": 2390.88,
+      "duration": 5.04,
+      "text": "browse, search, and filter tools from"
+    },
+    {
+      "start": 2393.48,
+      "duration": 5.6,
+      "text": "the public Foundry catalog and local"
+    },
+    {
+      "start": 2395.92,
+      "duration": 5.04,
+      "text": "standard IO MCP servers."
+    },
+    {
+      "start": 2399.08,
+      "duration": 3.76,
+      "text": "Once they're selected, you configure"
+    },
+    {
+      "start": 2400.96,
+      "duration": 4.12,
+      "text": "connection settings for each tools"
+    },
+    {
+      "start": 2402.84,
+      "duration": 5.32,
+      "text": "directly in VS Code. And they will be"
+    },
+    {
+      "start": 2405.08,
+      "duration": 4.68,
+      "text": "added to agents seamlessly via the agent"
+    },
+    {
+      "start": 2408.16,
+      "duration": 3.88,
+      "text": "builder."
+    },
+    {
+      "start": 2409.76,
+      "duration": 4.68,
+      "text": "For example, let's use a GitHub MCP"
+    },
+    {
+      "start": 2412.04,
+      "duration": 4.72,
+      "text": "server that is hosted on Foundry."
+    },
+    {
+      "start": 2414.44,
+      "duration": 4.12,
+      "text": "For authentication, I will use manage"
+    },
+    {
+      "start": 2416.76,
+      "duration": 3.16,
+      "text": "all off to allow Foundry to manage my"
+    },
+    {
+      "start": 2418.56,
+      "duration": 3.76,
+      "text": "connection."
+    },
+    {
+      "start": 2419.92,
+      "duration": 4.08,
+      "text": "I will also add a Word MCP tool that"
+    },
+    {
+      "start": 2422.32,
+      "duration": 3.84,
+      "text": "allows the agent to work with Word"
+    },
+    {
+      "start": 2424.0,
+      "duration": 4.84,
+      "text": "documents directly."
+    },
+    {
+      "start": 2426.16,
+      "duration": 4.76,
+      "text": "Once configured, these MCPs tools will"
+    },
+    {
+      "start": 2428.84,
+      "duration": 4.0,
+      "text": "show up in the tool section."
+    },
+    {
+      "start": 2430.92,
+      "duration": 3.44,
+      "text": "Now, let's build an agent."
+    },
+    {
+      "start": 2432.84,
+      "duration": 3.92,
+      "text": "Imagine that you're a social media"
+    },
+    {
+      "start": 2434.36,
+      "duration": 3.48,
+      "text": "manager and VS Code just released a new"
+    },
+    {
+      "start": 2436.76,
+      "duration": 2.8,
+      "text": "update."
+    },
+    {
+      "start": 2437.84,
+      "duration": 3.52,
+      "text": "You need to post an update A on"
+    },
+    {
+      "start": 2439.56,
+      "duration": 3.24,
+      "text": "different platforms to let developers"
+    },
+    {
+      "start": 2441.36,
+      "duration": 3.44,
+      "text": "know."
+    },
+    {
+      "start": 2442.8,
+      "duration": 3.76,
+      "text": "We will build a social media agent that"
+    },
+    {
+      "start": 2444.8,
+      "duration": 3.24,
+      "text": "leverages the two tools that we have"
+    },
+    {
+      "start": 2446.56,
+      "duration": 4.2,
+      "text": "already configured,"
+    },
+    {
+      "start": 2448.04,
+      "duration": 4.48,
+      "text": "GitHub and Word. Let's give this agent a"
+    },
+    {
+      "start": 2450.76,
+      "duration": 3.48,
+      "text": "name and we will provide it with some"
+    },
+    {
+      "start": 2452.52,
+      "duration": 3.92,
+      "text": "system instructions."
+    },
+    {
+      "start": 2454.24,
+      "duration": 4.72,
+      "text": "For now, a simple one will do."
+    },
+    {
+      "start": 2456.44,
+      "duration": 4.48,
+      "text": "Then, we can use the improved feature to"
+    },
+    {
+      "start": 2458.96,
+      "duration": 4.4,
+      "text": "make instructions more detailed. It"
+    },
+    {
+      "start": 2460.92,
+      "duration": 4.4,
+      "text": "leverages GitHub Copilot to write a much"
+    },
+    {
+      "start": 2463.36,
+      "duration": 4.92,
+      "text": "more comprehensive system instructions"
+    },
+    {
+      "start": 2465.32,
+      "duration": 2.96,
+      "text": "for this agent."
+    },
+    {
+      "start": 2469.0,
+      "duration": 3.24,
+      "text": "We're now ready to test this agent out"
+    },
+    {
+      "start": 2470.6,
+      "duration": 2.72,
+      "text": "by using the attached playground on the"
+    },
+    {
+      "start": 2472.24,
+      "duration": 2.64,
+      "text": "right."
+    },
+    {
+      "start": 2473.32,
+      "duration": 3.72,
+      "text": "Let's ask the agent to write a simple"
+    },
+    {
+      "start": 2474.88,
+      "duration": 4.68,
+      "text": "social media post on VS Code's latest"
+    },
+    {
+      "start": 2477.04,
+      "duration": 2.52,
+      "text": "release."
+    },
+    {
+      "start": 2481.52,
+      "duration": 3.48,
+      "text": "Looks like we need to give the agent"
+    },
+    {
+      "start": 2482.96,
+      "duration": 4.24,
+      "text": "permissions in GitHub first, so we need"
+    },
+    {
+      "start": 2485.0,
+      "duration": 4.08,
+      "text": "to authorize it."
+    },
+    {
+      "start": 2487.2,
+      "duration": 4.8,
+      "text": "And the agent now has permission to"
+    },
+    {
+      "start": 2489.08,
+      "duration": 4.72,
+      "text": "access the GitHub."
+    },
+    {
+      "start": 2492.0,
+      "duration": 4.6,
+      "text": "Tool calls will also be listed in the"
+    },
+    {
+      "start": 2493.8,
+      "duration": 4.84,
+      "text": "playground. And once the agent receives"
+    },
+    {
+      "start": 2496.6,
+      "duration": 4.28,
+      "text": "the information they need, it will write"
+    },
+    {
+      "start": 2498.64,
+      "duration": 4.28,
+      "text": "an output directly in this playground as"
+    },
+    {
+      "start": 2500.88,
+      "duration": 3.88,
+      "text": "well."
+    },
+    {
+      "start": 2502.92,
+      "duration": 3.84,
+      "text": "While the response the agent gives looks"
+    },
+    {
+      "start": 2504.76,
+      "duration": 4.28,
+      "text": "good on first glance, but I want the"
+    },
+    {
+      "start": 2506.76,
+      "duration": 4.16,
+      "text": "output to be more concise."
+    },
+    {
+      "start": 2509.04,
+      "duration": 4.04,
+      "text": "And also provide me a Word document"
+    },
+    {
+      "start": 2510.92,
+      "duration": 4.36,
+      "text": "directly so that I can review and make"
+    },
+    {
+      "start": 2513.08,
+      "duration": 4.24,
+      "text": "changes if necessary."
+    },
+    {
+      "start": 2515.28,
+      "duration": 3.92,
+      "text": "Going back to the system instructions, I"
+    },
+    {
+      "start": 2517.32,
+      "duration": 4.12,
+      "text": "will make an update."
+    },
+    {
+      "start": 2519.2,
+      "duration": 5.08,
+      "text": "I will ask the agent to give me a link"
+    },
+    {
+      "start": 2521.44,
+      "duration": 4.76,
+      "text": "to the Word document directly."
+    },
+    {
+      "start": 2524.28,
+      "duration": 4.24,
+      "text": "By using the same improved instructions"
+    },
+    {
+      "start": 2526.2,
+      "duration": 6.12,
+      "text": "command from earlier, the system"
+    },
+    {
+      "start": 2528.52,
+      "duration": 5.68,
+      "text": "instructions is now updated."
+    },
+    {
+      "start": 2532.32,
+      "duration": 3.44,
+      "text": "I can check out all the changes that I"
+    },
+    {
+      "start": 2534.2,
+      "duration": 4.04,
+      "text": "made by using the side-by-side"
+    },
+    {
+      "start": 2535.76,
+      "duration": 4.92,
+      "text": "comparison, and it will show the changes"
+    },
+    {
+      "start": 2538.24,
+      "duration": 3.8,
+      "text": "from before and after."
+    },
+    {
+      "start": 2540.68,
+      "duration": 3.24,
+      "text": "Let's come back to the playground and"
+    },
+    {
+      "start": 2542.04,
+      "duration": 5.12,
+      "text": "test out the new version by asking the"
+    },
+    {
+      "start": 2543.92,
+      "duration": 3.24,
+      "text": "agent the same question."
+    },
+    {
+      "start": 2547.36,
+      "duration": 4.0,
+      "text": "This time, the agent used attached Word"
+    },
+    {
+      "start": 2549.56,
+      "duration": 3.64,
+      "text": "tool and provided me a link to my"
+    },
+    {
+      "start": 2551.36,
+      "duration": 3.16,
+      "text": "SharePoint to the Word document"
+    },
+    {
+      "start": 2553.2,
+      "duration": 2.52,
+      "text": "directly."
+    },
+    {
+      "start": 2554.52,
+      "duration": 3.24,
+      "text": "We can also see a little bit more"
+    },
+    {
+      "start": 2555.72,
+      "duration": 4.08,
+      "text": "details about the tool calls themselves"
+    },
+    {
+      "start": 2557.76,
+      "duration": 4.4,
+      "text": "by expanding the tool call step so that"
+    },
+    {
+      "start": 2559.8,
+      "duration": 3.84,
+      "text": "you can investigate exactly what the"
+    },
+    {
+      "start": 2562.16,
+      "duration": 3.24,
+      "text": "agent did."
+    },
+    {
+      "start": 2563.64,
+      "duration": 4.44,
+      "text": "Now, we have a working version of this"
+    },
+    {
+      "start": 2565.4,
+      "duration": 4.72,
+      "text": "agent. Let's save it to Foundry. On the"
+    },
+    {
+      "start": 2568.08,
+      "duration": 4.92,
+      "text": "top right, we can click on save to"
+    },
+    {
+      "start": 2570.12,
+      "duration": 4.44,
+      "text": "Foundry. Now, under my resources in the"
+    },
+    {
+      "start": 2573.0,
+      "duration": 3.24,
+      "text": "agent section,"
+    },
+    {
+      "start": 2574.56,
+      "duration": 3.88,
+      "text": "the social media agent that I just"
+    },
+    {
+      "start": 2576.24,
+      "duration": 5.08,
+      "text": "created is now there."
+    },
+    {
+      "start": 2578.44,
+      "duration": 5.2,
+      "text": "Now that my agent is on Foundry, I can"
+    },
+    {
+      "start": 2581.32,
+      "duration": 3.48,
+      "text": "use code to directly call the agent's"
+    },
+    {
+      "start": 2583.64,
+      "duration": 3.2,
+      "text": "endpoint."
+    },
+    {
+      "start": 2584.8,
+      "duration": 4.2,
+      "text": "In the agent builder, the view code"
+    },
+    {
+      "start": 2586.84,
+      "duration": 4.48,
+      "text": "option is available."
+    },
+    {
+      "start": 2589.0,
+      "duration": 4.32,
+      "text": "Clicking on it opens a temporary file"
+    },
+    {
+      "start": 2591.32,
+      "duration": 3.96,
+      "text": "containing the code necessary to call"
+    },
+    {
+      "start": 2593.32,
+      "duration": 3.88,
+      "text": "the agent directly."
+    },
+    {
+      "start": 2595.28,
+      "duration": 4.64,
+      "text": "For now, it only supports agent"
+    },
+    {
+      "start": 2597.2,
+      "duration": 4.6,
+      "text": "framework and Python. But in the future,"
+    },
+    {
+      "start": 2599.92,
+      "duration": 3.88,
+      "text": "we will expand to different libraries"
+    },
+    {
+      "start": 2601.8,
+      "duration": 4.24,
+      "text": "and languages."
+    },
+    {
+      "start": 2603.8,
+      "duration": 4.48,
+      "text": "Let's now try running it. You can modify"
+    },
+    {
+      "start": 2606.04,
+      "duration": 3.88,
+      "text": "the input to this agent in the user"
+    },
+    {
+      "start": 2608.28,
+      "duration": 4.44,
+      "text": "input section."
+    },
+    {
+      "start": 2609.92,
+      "duration": 4.2,
+      "text": "But for now, I will leave it as is."
+    },
+    {
+      "start": 2612.72,
+      "duration": 3.76,
+      "text": "After waiting for a while for the"
+    },
+    {
+      "start": 2614.12,
+      "duration": 4.12,
+      "text": "response, we can see that we got similar"
+    },
+    {
+      "start": 2616.48,
+      "duration": 5.12,
+      "text": "responses back compared to when we"
+    },
+    {
+      "start": 2618.24,
+      "duration": 3.36,
+      "text": "tested in the playground."
+    },
+    {
+      "start": 2621.72,
+      "duration": 4.48,
+      "text": "Next, we should verify that the agent is"
+    },
+    {
+      "start": 2623.88,
+      "duration": 4.4,
+      "text": "doing what it's supposed to do."
+    },
+    {
+      "start": 2626.2,
+      "duration": 3.28,
+      "text": "We did initial tests with the playground"
+    },
+    {
+      "start": 2628.28,
+      "duration": 2.84,
+      "text": "and code."
+    },
+    {
+      "start": 2629.48,
+      "duration": 3.0,
+      "text": "But we need a more concrete way of"
+    },
+    {
+      "start": 2631.12,
+      "duration": 4.48,
+      "text": "testing."
+    },
+    {
+      "start": 2632.48,
+      "duration": 5.44,
+      "text": "Also included in the AI toolkit release,"
+    },
+    {
+      "start": 2635.6,
+      "duration": 5.56,
+      "text": "we integrated directly with Pytest and"
+    },
+    {
+      "start": 2637.92,
+      "duration": 6.28,
+      "text": "VS Code test explorer to help you test"
+    },
+    {
+      "start": 2641.16,
+      "duration": 5.96,
+      "text": "and evaluate agent performances."
+    },
+    {
+      "start": 2644.2,
+      "duration": 5.32,
+      "text": "In the evaluation tab of agent builder,"
+    },
+    {
+      "start": 2647.12,
+      "duration": 3.84,
+      "text": "you can scaffold evaluation code for any"
+    },
+    {
+      "start": 2649.52,
+      "duration": 3.4,
+      "text": "of your agents."
+    },
+    {
+      "start": 2650.96,
+      "duration": 4.28,
+      "text": "There are built-in evaluators provided"
+    },
+    {
+      "start": 2652.92,
+      "duration": 3.88,
+      "text": "by Microsoft Foundry to help you quickly"
+    },
+    {
+      "start": 2655.24,
+      "duration": 4.12,
+      "text": "set up some of the most common"
+    },
+    {
+      "start": 2656.8,
+      "duration": 4.72,
+      "text": "evaluation scenarios. And you can always"
+    },
+    {
+      "start": 2659.36,
+      "duration": 5.36,
+      "text": "define your own custom evaluators,"
+    },
+    {
+      "start": 2661.52,
+      "duration": 5.16,
+      "text": "whether that is through LLM or code."
+    },
+    {
+      "start": 2664.72,
+      "duration": 4.36,
+      "text": "Since tool calling is a very important"
+    },
+    {
+      "start": 2666.68,
+      "duration": 6.04,
+      "text": "piece for the social media agent, let's"
+    },
+    {
+      "start": 2669.08,
+      "duration": 5.04,
+      "text": "use the tool calling accuracy evaluator."
+    },
+    {
+      "start": 2672.72,
+      "duration": 3.72,
+      "text": "It will generate a set of files"
+    },
+    {
+      "start": 2674.12,
+      "duration": 5.0,
+      "text": "necessary for running the evaluation,"
+    },
+    {
+      "start": 2676.44,
+      "duration": 4.88,
+      "text": "including requirement files, code files,"
+    },
+    {
+      "start": 2679.12,
+      "duration": 3.8,
+      "text": "and scaffolding files."
+    },
+    {
+      "start": 2681.32,
+      "duration": 4.2,
+      "text": "The readme file provides a starting"
+    },
+    {
+      "start": 2682.92,
+      "duration": 3.92,
+      "text": "point, so you can understand how to work"
+    },
+    {
+      "start": 2685.52,
+      "duration": 4.24,
+      "text": "with the project structure and the"
+    },
+    {
+      "start": 2686.84,
+      "duration": 4.76,
+      "text": "evaluation framework."
+    },
+    {
+      "start": 2689.76,
+      "duration": 4.36,
+      "text": "By going over to the test tab of VS"
+    },
+    {
+      "start": 2691.6,
+      "duration": 4.64,
+      "text": "Code, you can see all the test cases for"
+    },
+    {
+      "start": 2694.12,
+      "duration": 4.48,
+      "text": "this evaluation."
+    },
+    {
+      "start": 2696.24,
+      "duration": 4.56,
+      "text": "In the data.jsonl file,"
+    },
+    {
+      "start": 2698.6,
+      "duration": 4.32,
+      "text": "it contains all the test cases."
+    },
+    {
+      "start": 2700.8,
+      "duration": 4.04,
+      "text": "Right now, it does not have any content,"
+    },
+    {
+      "start": 2702.92,
+      "duration": 3.84,
+      "text": "but we can ask Copilot to generate a few"
+    },
+    {
+      "start": 2704.84,
+      "duration": 3.92,
+      "text": "test cases for us."
+    },
+    {
+      "start": 2706.76,
+      "duration": 4.28,
+      "text": "It will use your agent definition and"
+    },
+    {
+      "start": 2708.76,
+      "duration": 4.28,
+      "text": "our evaluator to come up with a few test"
+    },
+    {
+      "start": 2711.04,
+      "duration": 4.64,
+      "text": "cases that will accurately test the"
+    },
+    {
+      "start": 2713.04,
+      "duration": 4.96,
+      "text": "quality of the agent."
+    },
+    {
+      "start": 2715.68,
+      "duration": 3.96,
+      "text": "The test explorer page will also update"
+    },
+    {
+      "start": 2718.0,
+      "duration": 3.04,
+      "text": "according to the changes in the data"
+    },
+    {
+      "start": 2719.64,
+      "duration": 3.8,
+      "text": "file."
+    },
+    {
+      "start": 2721.04,
+      "duration": 4.64,
+      "text": "Now, we can run all these tests together"
+    },
+    {
+      "start": 2723.44,
+      "duration": 3.84,
+      "text": "or individually to see how well the"
+    },
+    {
+      "start": 2725.68,
+      "duration": 4.0,
+      "text": "agent is doing."
+    },
+    {
+      "start": 2727.28,
+      "duration": 4.96,
+      "text": "In our case, the tool accuracy evaluator"
+    },
+    {
+      "start": 2729.68,
+      "duration": 4.52,
+      "text": "returned a score of three out of five."
+    },
+    {
+      "start": 2732.24,
+      "duration": 3.32,
+      "text": "While it is not the best performance,"
+    },
+    {
+      "start": 2734.2,
+      "duration": 2.92,
+      "text": "but still good enough to pass the"
+    },
+    {
+      "start": 2735.56,
+      "duration": 3.2,
+      "text": "evaluation run."
+    },
+    {
+      "start": 2737.12,
+      "duration": 3.6,
+      "text": "At this point, we can continue to"
+    },
+    {
+      "start": 2738.76,
+      "duration": 4.16,
+      "text": "iterate on this agent until we reach a"
+    },
+    {
+      "start": 2740.72,
+      "duration": 4.24,
+      "text": "quality that we're happy with."
+    },
+    {
+      "start": 2742.92,
+      "duration": 4.36,
+      "text": "What if you need more customizations"
+    },
+    {
+      "start": 2744.96,
+      "duration": 5.08,
+      "text": "than what prompt agents can provide?"
+    },
+    {
+      "start": 2747.28,
+      "duration": 5.12,
+      "text": "AI toolkit also included Foundry hosted"
+    },
+    {
+      "start": 2750.04,
+      "duration": 3.84,
+      "text": "agent support in the latest release. You"
+    },
+    {
+      "start": 2752.4,
+      "duration": 4.12,
+      "text": "can either start from scratch with a"
+    },
+    {
+      "start": 2753.88,
+      "duration": 6.0,
+      "text": "template or convert an existing agent to"
+    },
+    {
+      "start": 2756.52,
+      "duration": 4.88,
+      "text": "host the agent with the help of Copilot."
+    },
+    {
+      "start": 2759.88,
+      "duration": 2.8,
+      "text": "Let's check out what the template has to"
+    },
+    {
+      "start": 2761.4,
+      "duration": 3.08,
+      "text": "offer."
+    },
+    {
+      "start": 2762.68,
+      "duration": 4.44,
+      "text": "In the command palette, search for host"
+    },
+    {
+      "start": 2764.48,
+      "duration": 4.16,
+      "text": "the agent and create from a template."
+    },
+    {
+      "start": 2767.12,
+      "duration": 4.04,
+      "text": "There are both single agent and"
+    },
+    {
+      "start": 2768.64,
+      "duration": 6.0,
+      "text": "multi-agent samples available."
+    },
+    {
+      "start": 2771.16,
+      "duration": 6.0,
+      "text": "We can also choose either Python or C#."
+    },
+    {
+      "start": 2774.64,
+      "duration": 3.64,
+      "text": "Then, I will continue to use the GPT 5.2"
+    },
+    {
+      "start": 2777.16,
+      "duration": 3.04,
+      "text": "model"
+    },
+    {
+      "start": 2778.28,
+      "duration": 3.44,
+      "text": "and picking the name, then the project"
+    },
+    {
+      "start": 2780.2,
+      "duration": 3.64,
+      "text": "is set up."
+    },
+    {
+      "start": 2781.72,
+      "duration": 4.04,
+      "text": "The readme file contains a rundown of"
+    },
+    {
+      "start": 2783.84,
+      "duration": 3.92,
+      "text": "what the sample is doing and how you can"
+    },
+    {
+      "start": 2785.76,
+      "duration": 4.12,
+      "text": "set up your Foundry project."
+    },
+    {
+      "start": 2787.76,
+      "duration": 5.2,
+      "text": "In the main.py file, the multi-agent"
+    },
+    {
+      "start": 2789.88,
+      "duration": 4.32,
+      "text": "sample code creates two agents, a writer"
+    },
+    {
+      "start": 2792.96,
+      "duration": 2.88,
+      "text": "and reviewer."
+    },
+    {
+      "start": 2794.2,
+      "duration": 3.76,
+      "text": "The writer will write content based on"
+    },
+    {
+      "start": 2795.84,
+      "duration": 4.52,
+      "text": "your request, and the reviewer will"
+    },
+    {
+      "start": 2797.96,
+      "duration": 3.96,
+      "text": "suggest changes to improve."
+    },
+    {
+      "start": 2800.36,
+      "duration": 4.0,
+      "text": "Let's try running it and see how it"
+    },
+    {
+      "start": 2801.92,
+      "duration": 4.4,
+      "text": "works. In the sample, it is set up so"
+    },
+    {
+      "start": 2804.36,
+      "duration": 4.04,
+      "text": "that we can use a VS Code debugger"
+    },
+    {
+      "start": 2806.32,
+      "duration": 3.88,
+      "text": "directly to enable debugging and"
+    },
+    {
+      "start": 2808.4,
+      "duration": 3.88,
+      "text": "testing."
+    },
+    {
+      "start": 2810.2,
+      "duration": 4.0,
+      "text": "By pressing F5, we can launch the agent"
+    },
+    {
+      "start": 2812.28,
+      "duration": 3.6,
+      "text": "inspector."
+    },
+    {
+      "start": 2814.2,
+      "duration": 3.64,
+      "text": "Let's ask it to write a social media"
+    },
+    {
+      "start": 2815.88,
+      "duration": 3.36,
+      "text": "post about VS Code."
+    },
+    {
+      "start": 2817.84,
+      "duration": 2.8,
+      "text": "As the agents are working through this"
+    },
+    {
+      "start": 2819.24,
+      "duration": 3.56,
+      "text": "request, we can see that the"
+    },
+    {
+      "start": 2820.64,
+      "duration": 3.6,
+      "text": "corresponding node gets highlighted, so"
+    },
+    {
+      "start": 2822.8,
+      "duration": 3.8,
+      "text": "you can understand exactly how"
+    },
+    {
+      "start": 2824.24,
+      "duration": 3.84,
+      "text": "information is passed from one agent to"
+    },
+    {
+      "start": 2826.6,
+      "duration": 3.48,
+      "text": "another."
+    },
+    {
+      "start": 2828.08,
+      "duration": 3.76,
+      "text": "When the agents are done, the output of"
+    },
+    {
+      "start": 2830.08,
+      "duration": 4.8,
+      "text": "this entire workflow will be shown in"
+    },
+    {
+      "start": 2831.84,
+      "duration": 4.8,
+      "text": "the playground as well."
+    },
+    {
+      "start": 2834.88,
+      "duration": 3.08,
+      "text": "Should you need more information, you"
+    },
+    {
+      "start": 2836.64,
+      "duration": 3.68,
+      "text": "can take a look at the inputs and"
+    },
+    {
+      "start": 2837.96,
+      "duration": 4.6,
+      "text": "outputs tab to see exactly what are the"
+    },
+    {
+      "start": 2840.32,
+      "duration": 3.4,
+      "text": "inputs and outputs at each step of this"
+    },
+    {
+      "start": 2842.56,
+      "duration": 2.68,
+      "text": "workflow."
+    },
+    {
+      "start": 2843.72,
+      "duration": 3.6,
+      "text": "Now we confirm that the multi-agent"
+    },
+    {
+      "start": 2845.24,
+      "duration": 4.88,
+      "text": "workflow is working locally, we can"
+    },
+    {
+      "start": 2847.32,
+      "duration": 4.68,
+      "text": "deploy it to the hosted agent service."
+    },
+    {
+      "start": 2850.12,
+      "duration": 3.6,
+      "text": "In the command palette, use the deploy"
+    },
+    {
+      "start": 2852.0,
+      "duration": 5.0,
+      "text": "hosted agent command from Microsoft"
+    },
+    {
+      "start": 2853.72,
+      "duration": 5.48,
+      "text": "Foundry to start the deployment process."
+    },
+    {
+      "start": 2857.0,
+      "duration": 4.28,
+      "text": "When the agent is deployed, any logs and"
+    },
+    {
+      "start": 2859.2,
+      "duration": 4.24,
+      "text": "debugging information will be available"
+    },
+    {
+      "start": 2861.28,
+      "duration": 4.16,
+      "text": "in the output section."
+    },
+    {
+      "start": 2863.44,
+      "duration": 4.32,
+      "text": "The deployment does take a few minutes,"
+    },
+    {
+      "start": 2865.44,
+      "duration": 5.04,
+      "text": "and once it is complete, the details"
+    },
+    {
+      "start": 2867.76,
+      "duration": 4.28,
+      "text": "page for hosted agent will be open."
+    },
+    {
+      "start": 2870.48,
+      "duration": 3.36,
+      "text": "On this page, you can see different"
+    },
+    {
+      "start": 2872.04,
+      "duration": 4.0,
+      "text": "details about this hosted agent,"
+    },
+    {
+      "start": 2873.84,
+      "duration": 4.68,
+      "text": "including the container detail."
+    },
+    {
+      "start": 2876.04,
+      "duration": 4.24,
+      "text": "In the logs tab, all logs from inside"
+    },
+    {
+      "start": 2878.52,
+      "duration": 3.76,
+      "text": "the container will be streamed to VS"
+    },
+    {
+      "start": 2880.28,
+      "duration": 3.88,
+      "text": "Code. Although it shows that there are"
+    },
+    {
+      "start": 2882.28,
+      "duration": 4.48,
+      "text": "some errors in the container, they do"
+    },
+    {
+      "start": 2884.16,
+      "duration": 4.64,
+      "text": "not prevent us from running it. So,"
+    },
+    {
+      "start": 2886.76,
+      "duration": 3.72,
+      "text": "let's try it out in the playground."
+    },
+    {
+      "start": 2888.8,
+      "duration": 4.16,
+      "text": "I will ask this agent the same question"
+    },
+    {
+      "start": 2890.48,
+      "duration": 4.28,
+      "text": "as before."
+    },
+    {
+      "start": 2892.96,
+      "duration": 4.24,
+      "text": "And after waiting for a while, the"
+    },
+    {
+      "start": 2894.76,
+      "duration": 4.0,
+      "text": "output will be shown in the playground."
+    },
+    {
+      "start": 2897.2,
+      "duration": 3.48,
+      "text": "While the agent is running, the"
+    },
+    {
+      "start": 2898.76,
+      "duration": 3.56,
+      "text": "corresponding logs from the container"
+    },
+    {
+      "start": 2900.68,
+      "duration": 3.24,
+      "text": "will also be streamed."
+    },
+    {
+      "start": 2902.32,
+      "duration": 3.72,
+      "text": "And if you need to look back into any"
+    },
+    {
+      "start": 2903.92,
+      "duration": 3.8,
+      "text": "conversation history with your agent,"
+    },
+    {
+      "start": 2906.04,
+      "duration": 3.56,
+      "text": "the conversation tab will show you a"
+    },
+    {
+      "start": 2907.72,
+      "duration": 4.36,
+      "text": "history of all the chats that you had"
+    },
+    {
+      "start": 2909.6,
+      "duration": 2.48,
+      "text": "with it."
+    },
+    {
+      "start": 2912.32,
+      "duration": 3.32,
+      "text": "The demo walked through many features"
+    },
+    {
+      "start": 2913.92,
+      "duration": 2.72,
+      "text": "introduced in the latest AI toolkit"
+    },
+    {
+      "start": 2915.64,
+      "duration": 2.96,
+      "text": "release."
+    },
+    {
+      "start": 2916.64,
+      "duration": 4.04,
+      "text": "From the refreshed agent builder UI and"
+    },
+    {
+      "start": 2918.6,
+      "duration": 4.2,
+      "text": "unified tool management to building a"
+    },
+    {
+      "start": 2920.68,
+      "duration": 3.72,
+      "text": "social media agent with GitHub and Word"
+    },
+    {
+      "start": 2922.8,
+      "duration": 3.84,
+      "text": "MCP tools,"
+    },
+    {
+      "start": 2924.4,
+      "duration": 4.28,
+      "text": "improving its instructions, and testing"
+    },
+    {
+      "start": 2926.64,
+      "duration": 3.28,
+      "text": "it with the new integrated evaluation"
+    },
+    {
+      "start": 2928.68,
+      "duration": 3.24,
+      "text": "workflow."
+    },
+    {
+      "start": 2929.92,
+      "duration": 4.16,
+      "text": "Finally, we stepped into the new hosted"
+    },
+    {
+      "start": 2931.92,
+      "duration": 4.56,
+      "text": "agent support, running a multi-agent"
+    },
+    {
+      "start": 2934.08,
+      "duration": 5.16,
+      "text": "workflow locally, debugging it in VS"
+    },
+    {
+      "start": 2936.48,
+      "duration": 4.72,
+      "text": "Code, and deploying it to Foundry."
+    },
+    {
+      "start": 2939.24,
+      "duration": 4.4,
+      "text": "Together, these updates make it far"
+    },
+    {
+      "start": 2941.2,
+      "duration": 5.0,
+      "text": "easier to build, refine, and ship"
+    },
+    {
+      "start": 2943.64,
+      "duration": 4.2,
+      "text": "production-ready agents end-to-end. Try"
+    },
+    {
+      "start": 2946.2,
+      "duration": 5.48,
+      "text": "it yourself today by downloading the AI"
+    },
+    {
+      "start": 2947.84,
+      "duration": 3.84,
+      "text": "toolkit extension in VS Code."
+    },
+    {
+      "start": 2955.2,
+      "duration": 6.36,
+      "text": "Great. Thank you very Oops. Okay, there"
+    },
+    {
+      "start": 2958.76,
+      "duration": 5.56,
+      "text": "we are. Thank you very much for this"
+    },
+    {
+      "start": 2961.56,
+      "duration": 4.76,
+      "text": "demo, Leo. I'm really excited about"
+    },
+    {
+      "start": 2964.32,
+      "duration": 4.6,
+      "text": "everything that's to come with the"
+    },
+    {
+      "start": 2966.32,
+      "duration": 4.8,
+      "text": "toolkit, but so much of it is also here"
+    },
+    {
+      "start": 2968.92,
+      "duration": 5.72,
+      "text": "now that folks can also start trying"
+    },
+    {
+      "start": 2971.12,
+      "duration": 5.84,
+      "text": "out. I would say,"
+    },
+    {
+      "start": 2974.64,
+      "duration": 5.36,
+      "text": "if folks are curious to learn more about"
+    },
+    {
+      "start": 2976.96,
+      "duration": 4.68,
+      "text": "the toolkit and some of the features"
+    },
+    {
+      "start": 2980.0,
+      "duration": 3.12,
+      "text": "or even No, I'm going to ask a different"
+    },
+    {
+      "start": 2981.64,
+      "duration": 4.12,
+      "text": "question, Leo. What would you say is"
+    },
+    {
+      "start": 2983.12,
+      "duration": 4.8,
+      "text": "actually one of your favorite features"
+    },
+    {
+      "start": 2985.76,
+      "duration": 4.28,
+      "text": "of the toolkit?"
+    },
+    {
+      "start": 2987.92,
+      "duration": 3.64,
+      "text": "One of my favorite features of this of"
+    },
+    {
+      "start": 2990.04,
+      "duration": 4.2,
+      "text": "the toolkit is actually something I"
+    },
+    {
+      "start": 2991.56,
+      "duration": 4.8,
+      "text": "demoed in a video already. It's the"
+    },
+    {
+      "start": 2994.24,
+      "duration": 4.56,
+      "text": "improve prompt feature."
+    },
+    {
+      "start": 2996.36,
+      "duration": 5.2,
+      "text": "As you can see, I In the demo, I give it"
+    },
+    {
+      "start": 2998.8,
+      "duration": 4.88,
+      "text": "a very simple like one or two sentence"
+    },
+    {
+      "start": 3001.56,
+      "duration": 5.08,
+      "text": "description of what I want my agent to"
+    },
+    {
+      "start": 3003.68,
+      "duration": 4.68,
+      "text": "do, and with one click on the improve"
+    },
+    {
+      "start": 3006.64,
+      "duration": 2.96,
+      "text": "prompt feature,"
+    },
+    {
+      "start": 3008.36,
+      "duration": 3.16,
+      "text": "um"
+    },
+    {
+      "start": 3009.6,
+      "duration": 3.6,
+      "text": "it was able to turn it into like a"
+    },
+    {
+      "start": 3011.52,
+      "duration": 3.48,
+      "text": "full-on"
+    },
+    {
+      "start": 3013.2,
+      "duration": 4.76,
+      "text": "system prompt that the agent can use,"
+    },
+    {
+      "start": 3015.0,
+      "duration": 5.12,
+      "text": "right? I don't think I don't think I"
+    },
+    {
+      "start": 3017.96,
+      "duration": 4.4,
+      "text": "myself could write a better one than the"
+    },
+    {
+      "start": 3020.12,
+      "duration": 3.68,
+      "text": "what the agent was able to do. So,"
+    },
+    {
+      "start": 3022.36,
+      "duration": 3.68,
+      "text": "that's definitely one of my favorites,"
+    },
+    {
+      "start": 3023.8,
+      "duration": 4.68,
+      "text": "and also like if I want any want any"
+    },
+    {
+      "start": 3026.04,
+      "duration": 4.04,
+      "text": "changes, uh I can always just click on"
+    },
+    {
+      "start": 3028.48,
+      "duration": 3.72,
+      "text": "that button again and ask it to make"
+    },
+    {
+      "start": 3030.08,
+      "duration": 4.96,
+      "text": "changes as well."
+    },
+    {
+      "start": 3032.2,
+      "duration": 5.24,
+      "text": "All right. I would say in addition to"
+    },
+    {
+      "start": 3035.04,
+      "duration": 4.2,
+      "text": "that, on the left-hand side of that"
+    },
+    {
+      "start": 3037.44,
+      "duration": 3.52,
+      "text": "area, there's a little button that says"
+    },
+    {
+      "start": 3039.24,
+      "duration": 2.62,
+      "text": "inspire me. I just discovered it"
+    },
+    {
+      "start": 3040.96,
+      "duration": 1.72,
+      "text": "recently."
+    },
+    {
+      "start": 3041.86,
+      "duration": 2.71,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 3042.68,
+      "duration": 3.84,
+      "text": ">> I like that button because if if you"
+    },
+    {
+      "start": 3044.56,
+      "duration": 3.52,
+      "text": "want to create an agent, but you don't"
+    },
+    {
+      "start": 3046.52,
+      "duration": 3.72,
+      "text": "have an idea what sort of agent is a"
+    },
+    {
+      "start": 3048.08,
+      "duration": 4.48,
+      "text": "starting point at least, and you can"
+    },
+    {
+      "start": 3050.24,
+      "duration": 5.44,
+      "text": "iterate from there."
+    },
+    {
+      "start": 3052.56,
+      "duration": 5.08,
+      "text": "All right. As mentioned in the chat, if"
+    },
+    {
+      "start": 3055.68,
+      "duration": 4.84,
+      "text": "folks do have questions, feel free to"
+    },
+    {
+      "start": 3057.64,
+      "duration": 6.72,
+      "text": "add them here. We will, however, have an"
+    },
+    {
+      "start": 3060.52,
+      "duration": 5.92,
+      "text": "AMA on Friday in the Discord. If you"
+    },
+    {
+      "start": 3064.36,
+      "duration": 4.44,
+      "text": "don't know what the Discord is, well,"
+    },
+    {
+      "start": 3066.44,
+      "duration": 4.4,
+      "text": "this is a moment to learn about it. In"
+    },
+    {
+      "start": 3068.8,
+      "duration": 5.0,
+      "text": "the Discord, we are going to be meeting"
+    },
+    {
+      "start": 3070.84,
+      "duration": 5.56,
+      "text": "again with Leo. Leo will be joining live"
+    },
+    {
+      "start": 3073.8,
+      "duration": 6.84,
+      "text": "to answer any questions that you may"
+    },
+    {
+      "start": 3076.4,
+      "duration": 8.28,
+      "text": "have about the AI toolkit. And so, we do"
+    },
+    {
+      "start": 3080.64,
+      "duration": 6.64,
+      "text": "ask that you come join us there as well."
+    },
+    {
+      "start": 3084.68,
+      "duration": 4.52,
+      "text": "And also, as Lee has mentioned, if you"
+    },
+    {
+      "start": 3087.28,
+      "duration": 3.28,
+      "text": "have any feedback about the toolkit,"
+    },
+    {
+      "start": 3089.2,
+      "duration": 4.08,
+      "text": "whether you've already been using the"
+    },
+    {
+      "start": 3090.56,
+      "duration": 4.68,
+      "text": "extension or even during the stream, you"
+    },
+    {
+      "start": 3093.28,
+      "duration": 4.32,
+      "text": "decided to"
+    },
+    {
+      "start": 3095.24,
+      "duration": 4.84,
+      "text": "install it and start trying it, and you"
+    },
+    {
+      "start": 3097.6,
+      "duration": 4.8,
+      "text": "have questions or thoughts or feedback,"
+    },
+    {
+      "start": 3100.08,
+      "duration": 6.16,
+      "text": "please bring those with you to the AMA"
+    },
+    {
+      "start": 3102.4,
+      "duration": 5.96,
+      "text": "on Friday. Leo will be very happy to"
+    },
+    {
+      "start": 3106.24,
+      "duration": 5.2,
+      "text": "answer your questions and also bring"
+    },
+    {
+      "start": 3108.36,
+      "duration": 5.8,
+      "text": "that feedback back to his team as well."
+    },
+    {
+      "start": 3111.44,
+      "duration": 5.48,
+      "text": "Leo, thank you so much for joining us."
+    },
+    {
+      "start": 3114.16,
+      "duration": 5.64,
+      "text": "Thank you for the very lovely demo, as"
+    },
+    {
+      "start": 3116.92,
+      "duration": 5.76,
+      "text": "well. We appreciate it. Yeah, of course."
+    },
+    {
+      "start": 3119.8,
+      "duration": 4.52,
+      "text": "Thanks for having me, and I'll um I'll"
+    },
+    {
+      "start": 3122.68,
+      "duration": 2.92,
+      "text": "be there on Friday to chat with"
+    },
+    {
+      "start": 3124.32,
+      "duration": 3.96,
+      "text": "everyone."
+    },
+    {
+      "start": 3125.6,
+      "duration": 6.48,
+      "text": "All right, perfect."
+    },
+    {
+      "start": 3128.28,
+      "duration": 7.28,
+      "text": "Okay. So, as we start wrapping things"
+    },
+    {
+      "start": 3132.08,
+      "duration": 6.24,
+      "text": "up, again, AI toolkit is This is where"
+    },
+    {
+      "start": 3135.56,
+      "duration": 5.72,
+      "text": "you um I have an aka.ms link on the"
+    },
+    {
+      "start": 3138.32,
+      "duration": 6.4,
+      "text": "right-hand side that you can use to"
+    },
+    {
+      "start": 3141.28,
+      "duration": 5.36,
+      "text": "access it quickly. And in addition to"
+    },
+    {
+      "start": 3144.72,
+      "duration": 4.8,
+      "text": "that, we also have this QR code on the"
+    },
+    {
+      "start": 3146.64,
+      "duration": 4.84,
+      "text": "screen that'll take you directly to the"
+    },
+    {
+      "start": 3149.52,
+      "duration": 4.8,
+      "text": "Visual Studio"
+    },
+    {
+      "start": 3151.48,
+      "duration": 6.88,
+      "text": "um marketplace page for the extension."
+    },
+    {
+      "start": 3154.32,
+      "duration": 7.28,
+      "text": "So, definitely check those out."
+    },
+    {
+      "start": 3158.36,
+      "duration": 3.24,
+      "text": "And then"
+    },
+    {
+      "start": 3161.72,
+      "duration": 6.44,
+      "text": "again, the AMA is this Friday. Do please"
+    },
+    {
+      "start": 3165.6,
+      "duration": 4.44,
+      "text": "join. I know some of you may see Lee"
+    },
+    {
+      "start": 3168.16,
+      "duration": 4.48,
+      "text": "hanging out in the chat. Lee will be"
+    },
+    {
+      "start": 3170.04,
+      "duration": 4.92,
+      "text": "hosting with Leo as well, so you'll be"
+    },
+    {
+      "start": 3172.64,
+      "duration": 6.72,
+      "text": "able to join both of them live for an"
+    },
+    {
+      "start": 3174.96,
+      "duration": 5.88,
+      "text": "AMA on Friday. And then So, just pretend"
+    },
+    {
+      "start": 3179.36,
+      "duration": 3.4,
+      "text": "where it says hosted by April Giddings,"
+    },
+    {
+      "start": 3180.84,
+      "duration": 4.24,
+      "text": "it says Lee Stat."
+    },
+    {
+      "start": 3182.76,
+      "duration": 3.85,
+      "text": "And I think in that photo, I had less"
+    },
+    {
+      "start": 3185.08,
+      "duration": 3.44,
+      "text": "hair than you, Lee."
+    },
+    {
+      "start": 3186.61,
+      "duration": 3.55,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 3188.52,
+      "duration": 4.28,
+      "text": ">> But just pretend that that image is a"
+    },
+    {
+      "start": 3190.16,
+      "duration": 4.4,
+      "text": "picture of Lee. All right. So, what's"
+    },
+    {
+      "start": 3192.8,
+      "duration": 5.2,
+      "text": "coming up next? We're going to keep the"
+    },
+    {
+      "start": 3194.56,
+      "duration": 6.68,
+      "text": "fun going in uh"
+    },
+    {
+      "start": 3198.0,
+      "duration": 6.24,
+      "text": "Model Mondays. Next week, we are going"
+    },
+    {
+      "start": 3201.24,
+      "duration": 6.4,
+      "text": "to have Farzad joining to share more"
+    },
+    {
+      "start": 3204.24,
+      "duration": 5.08,
+      "text": "about what's new in Foundry IQ. This is"
+    },
+    {
+      "start": 3207.64,
+      "duration": 4.16,
+      "text": "going to be hosted by one of my"
+    },
+    {
+      "start": 3209.32,
+      "duration": 4.36,
+      "text": "teammates, Carlotta. And so, if you"
+    },
+    {
+      "start": 3211.8,
+      "duration": 4.32,
+      "text": "aren't familiar with Foundry Arc um"
+    },
+    {
+      "start": 3213.68,
+      "duration": 4.84,
+      "text": "Foundry IQ, I do recommend checking it"
+    },
+    {
+      "start": 3216.12,
+      "duration": 4.72,
+      "text": "out. Bring your questions as well, so"
+    },
+    {
+      "start": 3218.52,
+      "duration": 4.56,
+      "text": "that way Farzad can answer those"
+    },
+    {
+      "start": 3220.84,
+      "duration": 5.72,
+      "text": "questions for you, and then likewise,"
+    },
+    {
+      "start": 3223.08,
+      "duration": 6.04,
+      "text": "there will be an AMA for that, too."
+    },
+    {
+      "start": 3226.56,
+      "duration": 4.64,
+      "text": "And then just to follow up on some links"
+    },
+    {
+      "start": 3229.12,
+      "duration": 4.32,
+      "text": "to things that are interesting and fun"
+    },
+    {
+      "start": 3231.2,
+      "duration": 4.56,
+      "text": "that you should know about, the stream"
+    },
+    {
+      "start": 3233.44,
+      "duration": 5.48,
+      "text": "itself, our Model Monday stream, it's"
+    },
+    {
+      "start": 3235.76,
+      "duration": 5.76,
+      "text": "going to it runs live on Mondays. And"
+    },
+    {
+      "start": 3238.92,
+      "duration": 7.0,
+      "text": "so, if you want to RSVP for future"
+    },
+    {
+      "start": 3241.52,
+      "duration": 6.01,
+      "text": "streams, the aka.ms link is here."
+    },
+    {
+      "start": 3245.92,
+      "duration": 1.8,
+      "text": "Also chilled for a second."
+    },
+    {
+      "start": 3247.53,
+      "duration": 2.99,
+      "text": ">> [laughter]"
+    },
+    {
+      "start": 3247.72,
+      "duration": 4.52,
+      "text": ">> And as well as the QR code, the AMAs are"
+    },
+    {
+      "start": 3250.52,
+      "duration": 3.92,
+      "text": "going to be on Friday in the Foundry"
+    },
+    {
+      "start": 3252.24,
+      "duration": 5.08,
+      "text": "Discord server, so do please join the"
+    },
+    {
+      "start": 3254.44,
+      "duration": 5.56,
+      "text": "Discord, and you can catch us there on"
+    },
+    {
+      "start": 3257.32,
+      "duration": 4.96,
+      "text": "Fridays as well. Whoever our guest is"
+    },
+    {
+      "start": 3260.0,
+      "duration": 6.2,
+      "text": "for the week is who come joins us in the"
+    },
+    {
+      "start": 3262.28,
+      "duration": 7.52,
+      "text": "AMA. And then also, we have a GitHub"
+    },
+    {
+      "start": 3266.2,
+      "duration": 5.88,
+      "text": "repo for the stream as well. Please star"
+    },
+    {
+      "start": 3269.8,
+      "duration": 4.96,
+      "text": "the repo on GitHub, and this is where"
+    },
+    {
+      "start": 3272.08,
+      "duration": 4.72,
+      "text": "you can go find me the blogs that are"
+    },
+    {
+      "start": 3274.76,
+      "duration": 4.92,
+      "text": "written and all the recaps and the"
+    },
+    {
+      "start": 3276.8,
+      "duration": 4.88,
+      "text": "schedules as well for upcoming streams."
+    },
+    {
+      "start": 3279.68,
+      "duration": 4.08,
+      "text": "It's also where you can go find the past"
+    },
+    {
+      "start": 3281.68,
+      "duration": 4.16,
+      "text": "streams, so those recaps. If you missed"
+    },
+    {
+      "start": 3283.76,
+      "duration": 4.84,
+      "text": "an episode, you can go check that out on"
+    },
+    {
+      "start": 3285.84,
+      "duration": 4.52,
+      "text": "there. And so, there was a question in"
+    },
+    {
+      "start": 3288.6,
+      "duration": 4.0,
+      "text": "the chat about the inspire me button."
+    },
+    {
+      "start": 3290.36,
+      "duration": 5.4,
+      "text": "Where is that one again? If you are in"
+    },
+    {
+      "start": 3292.6,
+      "duration": 5.28,
+      "text": "the agent builder in the AI toolkit,"
+    },
+    {
+      "start": 3295.76,
+      "duration": 3.6,
+      "text": "where you go to insert the instructions"
+    },
+    {
+      "start": 3297.88,
+      "duration": 4.64,
+      "text": "for the agent, there's going to be two"
+    },
+    {
+      "start": 3299.36,
+      "duration": 5.84,
+      "text": "buttons that display. One is going to"
+    },
+    {
+      "start": 3302.52,
+      "duration": 3.68,
+      "text": "say inspire me, and don't quote me on"
+    },
+    {
+      "start": 3305.2,
+      "duration": 2.88,
+      "text": "that. That's what it says. I think it"
+    },
+    {
+      "start": 3306.2,
+      "duration": 3.72,
+      "text": "says inspire me. And then the button"
+    },
+    {
+      "start": 3308.08,
+      "duration": 3.6,
+      "text": "immediately to the right of it is the"
+    },
+    {
+      "start": 3309.92,
+      "duration": 4.0,
+      "text": "one that Leo was speaking of was"
+    },
+    {
+      "start": 3311.68,
+      "duration": 5.44,
+      "text": "speaking about in terms of helping"
+    },
+    {
+      "start": 3313.92,
+      "duration": 5.0,
+      "text": "generate a prompt. So, that's where the"
+    },
+    {
+      "start": 3317.12,
+      "duration": 3.36,
+      "text": "button lives. It's in the agent builder."
+    },
+    {
+      "start": 3318.92,
+      "duration": 4.28,
+      "text": "It's right underneath where you input"
+    },
+    {
+      "start": 3320.48,
+      "duration": 6.4,
+      "text": "the instructions for your agent. If you"
+    },
+    {
+      "start": 3323.2,
+      "duration": 6.44,
+      "text": "do insert text in general into that"
+    },
+    {
+      "start": 3326.88,
+      "duration": 4.76,
+      "text": "instructions field, then the button"
+    },
+    {
+      "start": 3329.64,
+      "duration": 4.56,
+      "text": "choices will change, and it will instead"
+    },
+    {
+      "start": 3331.64,
+      "duration": 4.8,
+      "text": "will say improve instead of inspire me"
+    },
+    {
+      "start": 3334.2,
+      "duration": 4.6,
+      "text": "or generate. So, do keep that in mind if"
+    },
+    {
+      "start": 3336.44,
+      "duration": 3.92,
+      "text": "you um if you're being a little more"
+    },
+    {
+      "start": 3338.8,
+      "duration": 3.32,
+      "text": "proactive in inputting your own"
+    },
+    {
+      "start": 3340.36,
+      "duration": 3.16,
+      "text": "instructions. But that's where you can"
+    },
+    {
+      "start": 3342.12,
+      "duration": 4.04,
+      "text": "find it."
+    },
+    {
+      "start": 3343.52,
+      "duration": 5.76,
+      "text": "All right. Oh, yeah. Okay, I think"
+    },
+    {
+      "start": 3346.16,
+      "duration": 5.44,
+      "text": "that's it for today. Again, thank you,"
+    },
+    {
+      "start": 3349.28,
+      "duration": 5.32,
+      "text": "everyone, for joining today's live"
+    },
+    {
+      "start": 3351.6,
+      "duration": 5.92,
+      "text": "stream for Model Mondays. Thanks again"
+    },
+    {
+      "start": 3354.6,
+      "duration": 7.4,
+      "text": "to Rich from Arise AI for joining us as"
+    },
+    {
+      "start": 3357.52,
+      "duration": 7.56,
+      "text": "well, and we will see everyone in the"
+    },
+    {
+      "start": 3362.0,
+      "duration": 6.08,
+      "text": "Discord on Friday because I know you'll"
+    },
+    {
+      "start": 3365.08,
+      "duration": 5.76,
+      "text": "be there. All right. I hope you enjoy"
+    },
+    {
+      "start": 3368.08,
+      "duration": 4.04,
+      "text": "the rest of your Monday or Tuesday,"
+    },
+    {
+      "start": 3370.84,
+      "duration": 5.4,
+      "text": "depending on where you are in this"
+    },
+    {
+      "start": 3372.12,
+      "duration": 4.12,
+      "text": "world. Take care, everyone."
+    },
+    {
+      "start": 3380.44,
+      "duration": 4.16,
+      "text": "Thank you all for joining, and thanks"
+    },
+    {
+      "start": 3382.12,
+      "duration": 4.96,
+      "text": "again to our speakers."
+    },
+    {
+      "start": 3384.6,
+      "duration": 4.92,
+      "text": "The session is part of a series."
+    },
+    {
+      "start": 3387.08,
+      "duration": 4.72,
+      "text": "To register for future shows and watch"
+    },
+    {
+      "start": 3389.52,
+      "duration": 6.2,
+      "text": "past episodes on demand, you can follow"
+    },
+    {
+      "start": 3391.8,
+      "duration": 5.24,
+      "text": "the link on the screen or in the chat."
+    },
+    {
+      "start": 3395.72,
+      "duration": 3.76,
+      "text": "We're always looking to improve our"
+    },
+    {
+      "start": 3397.04,
+      "duration": 4.12,
+      "text": "sessions and your experience."
+    },
+    {
+      "start": 3399.48,
+      "duration": 4.04,
+      "text": "If you have any feedback for us, we"
+    },
+    {
+      "start": 3401.16,
+      "duration": 4.28,
+      "text": "would love to hear what you have to say."
+    },
+    {
+      "start": 3403.52,
+      "duration": 3.52,
+      "text": "You can find that link on the screen or"
+    },
+    {
+      "start": 3405.44,
+      "duration": 4.88,
+      "text": "in the chat."
+    },
+    {
+      "start": 3407.04,
+      "duration": 3.28,
+      "text": "And we'll see you at the next one."
+    },
+    {
+      "start": 3426.34,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 3435.51,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 3444.68,
+      "duration": 2.02,
+      "text": "[music]"
+    }
+  ]
+}

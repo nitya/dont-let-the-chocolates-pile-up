@@ -1,0 +1,3793 @@
+{
+  "videoId": "kDR09m_cUKs",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:16+00:00",
+  "segments": [
+    {
+      "start": 9.2,
+      "duration": 4.16,
+      "text": "Hello everyone and thank you for joining"
+    },
+    {
+      "start": 10.96,
+      "duration": 3.84,
+      "text": "us for today's session. My name is Danny"
+    },
+    {
+      "start": 13.36,
+      "duration": 4.16,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 14.8,
+      "duration": 4.72,
+      "text": "York Reactor Space. Before we start, I"
+    },
+    {
+      "start": 17.52,
+      "duration": 3.96,
+      "text": "have a few things to go over. Please"
+    },
+    {
+      "start": 19.52,
+      "duration": 4.48,
+      "text": "take a moment to read our code of"
+    },
+    {
+      "start": 21.48,
+      "duration": 4.2,
+      "text": "conduct. We seek to provide a respectful"
+    },
+    {
+      "start": 24.0,
+      "duration": 4.32,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 25.68,
+      "duration": 4.4,
+      "text": "presenters. We encourage engagement in"
+    },
+    {
+      "start": 28.32,
+      "duration": 4.32,
+      "text": "the chat, but please be mindful of"
+    },
+    {
+      "start": 30.08,
+      "duration": 5.44,
+      "text": "viewer commentary. Remain professional"
+    },
+    {
+      "start": 32.64,
+      "duration": 4.44,
+      "text": "and on topic. Useful links will be"
+    },
+    {
+      "start": 35.52,
+      "duration": 4.16,
+      "text": "shared in the"
+    },
+    {
+      "start": 37.08,
+      "duration": 5.8,
+      "text": "chat. The session is recorded and will"
+    },
+    {
+      "start": 39.68,
+      "duration": 5.68,
+      "text": "be available on demand 24 to 48 hours on"
+    },
+    {
+      "start": 42.88,
+      "duration": 4.24,
+      "text": "the Microsoft Reactor YouTube channel."
+    },
+    {
+      "start": 45.36,
+      "duration": 4.08,
+      "text": "Which brings us to today's session."
+    },
+    {
+      "start": 47.12,
+      "duration": 4.24,
+      "text": "It'll run for approximately 1 hour with"
+    },
+    {
+      "start": 49.44,
+      "duration": 3.6,
+      "text": "time for questions throughout. I will"
+    },
+    {
+      "start": 51.36,
+      "duration": 4.68,
+      "text": "now turn it over to our speaker for"
+    },
+    {
+      "start": 53.04,
+      "duration": 3.0,
+      "text": "introductions."
+    },
+    {
+      "start": 59.28,
+      "duration": 3.76,
+      "text": "Hello, hello, hello, hello everyone and"
+    },
+    {
+      "start": 61.12,
+      "duration": 4.64,
+      "text": "welcome to another episode of model"
+    },
+    {
+      "start": 63.04,
+      "duration": 4.32,
+      "text": "Mondays. Uh today we are super excited"
+    },
+    {
+      "start": 65.76,
+      "duration": 3.36,
+      "text": "to be talking to you about visual"
+    },
+    {
+      "start": 67.36,
+      "duration": 3.92,
+      "text": "generative AI. My name is Nityan"
+    },
+    {
+      "start": 69.12,
+      "duration": 3.76,
+      "text": "Naraman. I'm a senior AI advocate on the"
+    },
+    {
+      "start": 71.28,
+      "duration": 5.12,
+      "text": "developer relations team and I'm joined"
+    },
+    {
+      "start": 72.88,
+      "duration": 5.92,
+      "text": "by my partner in crime. Hi Charala. Hi"
+    },
+    {
+      "start": 76.4,
+      "duration": 4.8,
+      "text": "Nita. Hi everyone. Nice to see you all"
+    },
+    {
+      "start": 78.8,
+      "duration": 4.64,
+      "text": "here and um yeah I'm excited about"
+    },
+    {
+      "start": 81.2,
+      "duration": 4.96,
+      "text": "today's show Nita. It's like it seems"
+    },
+    {
+      "start": 83.44,
+      "duration": 6.4,
+      "text": "very timely with all the image models"
+    },
+    {
+      "start": 86.16,
+      "duration": 6.16,
+      "text": "releasing last week. Um, so I'm super"
+    },
+    {
+      "start": 89.84,
+      "duration": 3.84,
+      "text": "pumped. Let's Yes. And I had a sneak"
+    },
+    {
+      "start": 92.32,
+      "duration": 3.36,
+      "text": "peek at it. This is going to be a demo"
+    },
+    {
+      "start": 93.68,
+      "duration": 4.32,
+      "text": "laden show, so don't miss it. But before"
+    },
+    {
+      "start": 95.68,
+      "duration": 4.16,
+      "text": "we get into that, I guess it's time for"
+    },
+    {
+      "start": 98.0,
+      "duration": 3.6,
+      "text": "our highlights. Charma, you've got a"
+    },
+    {
+      "start": 99.84,
+      "duration": 5.12,
+      "text": "whole bunch of stuff lined up for us to"
+    },
+    {
+      "start": 101.6,
+      "duration": 3.36,
+      "text": "talk about. So what's new this"
+    },
+    {
+      "start": 105.4,
+      "duration": 5.56,
+      "text": "week? Let's roll tape."
+    },
+    {
+      "start": 108.56,
+      "duration": 3.88,
+      "text": "Thank you, Nita. And welcome back to"
+    },
+    {
+      "start": 110.96,
+      "duration": 4.0,
+      "text": "Model Mondays."
+    },
+    {
+      "start": 112.44,
+      "duration": 5.48,
+      "text": "Highlights. As always, we've got 5"
+    },
+    {
+      "start": 114.96,
+      "duration": 4.88,
+      "text": "minutes of fast-paced model news. And"
+    },
+    {
+      "start": 117.92,
+      "duration": 4.16,
+      "text": "every slide in the highlights section"
+    },
+    {
+      "start": 119.84,
+      "duration": 4.88,
+      "text": "will have a QR code which will either"
+    },
+    {
+      "start": 122.08,
+      "duration": 5.68,
+      "text": "take you to the Foundry model card where"
+    },
+    {
+      "start": 124.72,
+      "duration": 4.8,
+      "text": "wherever available or to a learn page."
+    },
+    {
+      "start": 127.76,
+      "duration": 4.36,
+      "text": "So, you can quickly get started with"
+    },
+    {
+      "start": 129.52,
+      "duration": 5.36,
+      "text": "that model or feature. So, let's get"
+    },
+    {
+      "start": 132.12,
+      "duration": 6.6,
+      "text": "rolling. First up, a protocol that gives"
+    },
+    {
+      "start": 134.88,
+      "duration": 6.64,
+      "text": "your agents brains and context, MCP."
+    },
+    {
+      "start": 138.72,
+      "duration": 5.36,
+      "text": "This uh landed uh last week and it has"
+    },
+    {
+      "start": 141.52,
+      "duration": 5.28,
+      "text": "been a craze since then. So meet the"
+    },
+    {
+      "start": 144.08,
+      "duration": 5.2,
+      "text": "model context protocol or MCP, your new"
+    },
+    {
+      "start": 146.8,
+      "duration": 4.76,
+      "text": "best friend if you're building AI agents"
+    },
+    {
+      "start": 149.28,
+      "duration": 5.28,
+      "text": "that need to reason with real world"
+    },
+    {
+      "start": 151.56,
+      "duration": 5.96,
+      "text": "knowledge. Now think of MCP as a"
+    },
+    {
+      "start": 154.56,
+      "duration": 5.6,
+      "text": "universal translator between your model"
+    },
+    {
+      "start": 157.52,
+      "duration": 5.44,
+      "text": "and all your data sources, public,"
+    },
+    {
+      "start": 160.16,
+      "duration": 4.88,
+      "text": "private, structured, unstructured. It"
+    },
+    {
+      "start": 162.96,
+      "duration": 5.2,
+      "text": "connects seamlessly to Bing search,"
+    },
+    {
+      "start": 165.04,
+      "duration": 5.68,
+      "text": "Azure AI search, and soon SharePoint and"
+    },
+    {
+      "start": 168.16,
+      "duration": 5.92,
+      "text": "Fabric as well. The best part, you can"
+    },
+    {
+      "start": 170.72,
+      "duration": 5.76,
+      "text": "spin up an MCP server inside Azure AI"
+    },
+    {
+      "start": 174.08,
+      "duration": 4.96,
+      "text": "foundry, link it with a tool like Claw"
+    },
+    {
+      "start": 176.48,
+      "duration": 4.8,
+      "text": "Desktop and boom, your agent isn't just"
+    },
+    {
+      "start": 179.04,
+      "duration": 4.08,
+      "text": "answering questions. It's actually"
+    },
+    {
+      "start": 181.28,
+      "duration": 4.72,
+      "text": "thinking, it retrieves the right"
+    },
+    {
+      "start": 183.12,
+      "duration": 5.84,
+      "text": "context, reasons across sources, and"
+    },
+    {
+      "start": 186.0,
+      "duration": 5.28,
+      "text": "responds intelligently, all while"
+    },
+    {
+      "start": 188.96,
+      "duration": 5.44,
+      "text": "staying secure and scalable. Bottom"
+    },
+    {
+      "start": 191.28,
+      "duration": 5.68,
+      "text": "line, MCP and Azure AI agent servers"
+    },
+    {
+      "start": 194.4,
+      "duration": 5.56,
+      "text": "means smarter context aware agents"
+    },
+    {
+      "start": 196.96,
+      "duration": 7.36,
+      "text": "without custom plumbing. Now that's a"
+    },
+    {
+      "start": 199.96,
+      "duration": 8.12,
+      "text": "win. And next up is Anthropics Claude"
+    },
+    {
+      "start": 204.32,
+      "duration": 6.0,
+      "text": "3.7 set which is now available in Azure"
+    },
+    {
+      "start": 208.08,
+      "duration": 5.04,
+      "text": "data bricks. Now this is not necessarily"
+    },
+    {
+      "start": 210.32,
+      "duration": 5.76,
+      "text": "AI foundry news but it is available in"
+    },
+    {
+      "start": 213.12,
+      "duration": 5.44,
+      "text": "the Azure ecosystem. So datab bricks"
+    },
+    {
+      "start": 216.08,
+      "duration": 5.6,
+      "text": "anthropic and azure are teaming to bring"
+    },
+    {
+      "start": 218.56,
+      "duration": 5.12,
+      "text": "claude set 3.7 sonnet in natively into"
+    },
+    {
+      "start": 221.68,
+      "duration": 4.32,
+      "text": "the datab bricks data intelligence"
+    },
+    {
+      "start": 223.68,
+      "duration": 4.72,
+      "text": "platform. That means you can now run"
+    },
+    {
+      "start": 226.0,
+      "duration": 4.88,
+      "text": "powerful reasoning models like claude"
+    },
+    {
+      "start": 228.4,
+      "duration": 4.96,
+      "text": "directly within your data workflows. So"
+    },
+    {
+      "start": 230.88,
+      "duration": 5.04,
+      "text": "using claude's think tool you can"
+    },
+    {
+      "start": 233.36,
+      "duration": 4.88,
+      "text": "connect your business data and execute"
+    },
+    {
+      "start": 235.92,
+      "duration": 4.56,
+      "text": "complex domain specific tasks with"
+    },
+    {
+      "start": 238.24,
+      "duration": 5.44,
+      "text": "brition. And since it's part of the"
+    },
+    {
+      "start": 240.48,
+      "duration": 6.16,
+      "text": "datab bricks ecosystem, you get all the"
+    },
+    {
+      "start": 243.68,
+      "duration": 5.12,
+      "text": "benefits of the catalog, governance,"
+    },
+    {
+      "start": 246.64,
+      "duration": 4.08,
+      "text": "security, monitoring, all baked right"
+    },
+    {
+      "start": 248.8,
+      "duration": 4.16,
+      "text": "in. So if you're building intelligent"
+    },
+    {
+      "start": 250.72,
+      "duration": 5.28,
+      "text": "agents that need access to enterprise"
+    },
+    {
+      "start": 252.96,
+      "duration": 6.16,
+      "text": "data, this is a big step forward. Moving"
+    },
+    {
+      "start": 256.0,
+      "duration": 6.08,
+      "text": "on, uh we are now keeping the agentic"
+    },
+    {
+      "start": 259.12,
+      "duration": 6.32,
+      "text": "momentum going with two new tools that"
+    },
+    {
+      "start": 262.08,
+      "duration": 5.52,
+      "text": "we u launched on Azure AI foundry. So"
+    },
+    {
+      "start": 265.44,
+      "duration": 4.48,
+      "text": "first introducing the responses API and"
+    },
+    {
+      "start": 267.6,
+      "duration": 5.04,
+      "text": "in the next um slide I'll talk about the"
+    },
+    {
+      "start": 269.92,
+      "duration": 5.12,
+      "text": "computer using agent. So responses API"
+    },
+    {
+      "start": 272.64,
+      "duration": 5.04,
+      "text": "and computer easing agent is a dynamic"
+    },
+    {
+      "start": 275.04,
+      "duration": 5.52,
+      "text": "du duo that takes agents from suggestion"
+    },
+    {
+      "start": 277.68,
+      "duration": 5.2,
+      "text": "makers to task takers. So the responses"
+    },
+    {
+      "start": 280.56,
+      "duration": 5.36,
+      "text": "API brings retrieval reasoning and"
+    },
+    {
+      "start": 282.88,
+      "duration": 5.2,
+      "text": "action into a single API call. That"
+    },
+    {
+      "start": 285.92,
+      "duration": 4.48,
+      "text": "means fewer moving parts and more"
+    },
+    {
+      "start": 288.08,
+      "duration": 4.56,
+      "text": "powerful outcomes. You can call"
+    },
+    {
+      "start": 290.4,
+      "duration": 6.0,
+      "text": "functions, query files, ground"
+    },
+    {
+      "start": 292.64,
+      "duration": 6.32,
+      "text": "responses, and even kick off UI actions"
+    },
+    {
+      "start": 296.4,
+      "duration": 5.2,
+      "text": "all in one structured response. It's"
+    },
+    {
+      "start": 298.96,
+      "duration": 5.28,
+      "text": "like the assistance API chat completions"
+    },
+    {
+      "start": 301.6,
+      "duration": 5.52,
+      "text": "and Azure AI agent service at a very"
+    },
+    {
+      "start": 304.24,
+      "duration": 5.84,
+      "text": "efficient child. Now, pair that with"
+    },
+    {
+      "start": 307.12,
+      "duration": 5.68,
+      "text": "computer using agent or CUA and things"
+    },
+    {
+      "start": 310.08,
+      "duration": 5.28,
+      "text": "get really exciting. CUA can actually"
+    },
+    {
+      "start": 312.8,
+      "duration": 4.8,
+      "text": "use software like a human like click"
+    },
+    {
+      "start": 315.36,
+      "duration": 5.28,
+      "text": "buttons, navigate windows, fill out"
+    },
+    {
+      "start": 317.6,
+      "duration": 5.52,
+      "text": "forms. It adapts to different apps and"
+    },
+    {
+      "start": 320.64,
+      "duration": 5.04,
+      "text": "UI changes and follows plain language"
+    },
+    {
+      "start": 323.12,
+      "duration": 5.28,
+      "text": "commands. It's basically the AI coworker"
+    },
+    {
+      "start": 325.68,
+      "duration": 5.52,
+      "text": "you always wanted and it plays nicely"
+    },
+    {
+      "start": 328.4,
+      "duration": 6.32,
+      "text": "with the responses API. Together the"
+    },
+    {
+      "start": 331.2,
+      "duration": 6.56,
+      "text": "responses API and CUA are turning agents"
+    },
+    {
+      "start": 334.72,
+      "duration": 4.76,
+      "text": "into real digital workflow workers and"
+    },
+    {
+      "start": 337.76,
+      "duration": 3.84,
+      "text": "not just"
+    },
+    {
+      "start": 339.48,
+      "duration": 4.76,
+      "text": "assistants. And to wrap up the"
+    },
+    {
+      "start": 341.6,
+      "duration": 4.4,
+      "text": "highlights, let's talk images. Now we're"
+    },
+    {
+      "start": 344.24,
+      "duration": 4.24,
+      "text": "thrilled to introduce the new images"
+    },
+    {
+      "start": 346.0,
+      "duration": 4.32,
+      "text": "playground in Azure AI foundry. It's a"
+    },
+    {
+      "start": 348.48,
+      "duration": 4.32,
+      "text": "creative space where you can generate"
+    },
+    {
+      "start": 350.32,
+      "duration": 5.84,
+      "text": "visuals from simple text prompts using"
+    },
+    {
+      "start": 352.8,
+      "duration": 6.0,
+      "text": "powerful models like stability AI DALI"
+    },
+    {
+      "start": 356.16,
+      "duration": 5.04,
+      "text": "and Bria AI and more to come. No need"
+    },
+    {
+      "start": 358.8,
+      "duration": 4.88,
+      "text": "you don't need to fine-tune or wire up"
+    },
+    {
+      "start": 361.2,
+      "duration": 5.12,
+      "text": "anything. Just type your prompt, choose"
+    },
+    {
+      "start": 363.68,
+      "duration": 5.12,
+      "text": "a model and watch it go. Whether you're"
+    },
+    {
+      "start": 366.32,
+      "duration": 5.52,
+      "text": "prototyping a product, brainstorming"
+    },
+    {
+      "start": 368.8,
+      "duration": 5.52,
+      "text": "branding ideas, or just having fun, this"
+    },
+    {
+      "start": 371.84,
+      "duration": 5.36,
+      "text": "playground gives you a fast and easy way"
+    },
+    {
+      "start": 374.32,
+      "duration": 6.16,
+      "text": "to see how different models interpret"
+    },
+    {
+      "start": 377.2,
+      "duration": 6.88,
+      "text": "the same idea. And now it's this perfect"
+    },
+    {
+      "start": 380.48,
+      "duration": 4.72,
+      "text": "segway to today's spotlight um where"
+    },
+    {
+      "start": 384.08,
+      "duration": 2.64,
+      "text": "we're going to talk about visual"
+    },
+    {
+      "start": 385.2,
+      "duration": 5.0,
+      "text": "generated models. So I'm going to hand"
+    },
+    {
+      "start": 386.72,
+      "duration": 3.48,
+      "text": "it back to Nita."
+    },
+    {
+      "start": 390.32,
+      "duration": 4.4,
+      "text": "That was in fact the perfect segue."
+    },
+    {
+      "start": 392.88,
+      "duration": 3.12,
+      "text": "Thanks so much Harmela. I mean, I don't"
+    },
+    {
+      "start": 394.72,
+      "duration": 2.64,
+      "text": "even know where to start. I know we"
+    },
+    {
+      "start": 396.0,
+      "duration": 3.52,
+      "text": "don't have much time today, but I have"
+    },
+    {
+      "start": 397.36,
+      "duration": 3.92,
+      "text": "to say I'm excited about model context"
+    },
+    {
+      "start": 399.52,
+      "duration": 4.0,
+      "text": "protocol and like I think I'm seeing so"
+    },
+    {
+      "start": 401.28,
+      "duration": 3.52,
+      "text": "many people using MCP. So, folks on the"
+    },
+    {
+      "start": 403.52,
+      "duration": 3.12,
+      "text": "call, if you're trying this out, we'd"
+    },
+    {
+      "start": 404.8,
+      "duration": 3.28,
+      "text": "love to know use cases and I can't wait"
+    },
+    {
+      "start": 406.64,
+      "duration": 3.68,
+      "text": "to see the image playground in action"
+    },
+    {
+      "start": 408.08,
+      "duration": 3.84,
+      "text": "very soon. But we are going to talk"
+    },
+    {
+      "start": 410.32,
+      "duration": 2.96,
+      "text": "about visual generative AI. So, we"
+    },
+    {
+      "start": 411.92,
+      "duration": 5.44,
+      "text": "should bring on our guest speakers"
+    },
+    {
+      "start": 413.28,
+      "duration": 5.4,
+      "text": "today. Uh, first we have Ken Hogi from"
+    },
+    {
+      "start": 417.36,
+      "duration": 3.28,
+      "text": "Aability"
+    },
+    {
+      "start": 418.68,
+      "duration": 4.36,
+      "text": "AI. Ken, do you want to introduce"
+    },
+    {
+      "start": 420.64,
+      "duration": 4.56,
+      "text": "yourself and then introduce your colle?"
+    },
+    {
+      "start": 423.04,
+      "duration": 4.08,
+      "text": "Yes. Hello everyone and thank you so"
+    },
+    {
+      "start": 425.2,
+      "duration": 3.44,
+      "text": "much to Microsoft for hosting us. My"
+    },
+    {
+      "start": 427.12,
+      "duration": 3.68,
+      "text": "name is Ken Hogi. I'm the global"
+    },
+    {
+      "start": 428.64,
+      "duration": 4.64,
+      "text": "partnership lead at stability AI and"
+    },
+    {
+      "start": 430.8,
+      "duration": 4.56,
+      "text": "excited to talk about uh our image"
+    },
+    {
+      "start": 433.28,
+      "duration": 4.08,
+      "text": "generation today."
+    },
+    {
+      "start": 435.36,
+      "duration": 4.64,
+      "text": "Um we also have another engineer from"
+    },
+    {
+      "start": 437.36,
+      "duration": 4.08,
+      "text": "their team. Uh hi Sanal very nice to"
+    },
+    {
+      "start": 440.0,
+      "duration": 2.48,
+      "text": "meet you as well. Do you want to say a"
+    },
+    {
+      "start": 441.44,
+      "duration": 3.36,
+      "text": "little bit about what you do at"
+    },
+    {
+      "start": 442.48,
+      "duration": 4.8,
+      "text": "stability? Uh yeah. Hey guys, thank you"
+    },
+    {
+      "start": 444.8,
+      "duration": 4.24,
+      "text": "for having me. I'm Sanal Yusf. I'm one"
+    },
+    {
+      "start": 447.28,
+      "duration": 4.08,
+      "text": "of the solutions engineer here at uh"
+    },
+    {
+      "start": 449.04,
+      "duration": 4.8,
+      "text": "stability. That means I work a lot with"
+    },
+    {
+      "start": 451.36,
+      "duration": 4.48,
+      "text": "our customers. uh drafting and creating"
+    },
+    {
+      "start": 453.84,
+      "duration": 4.56,
+      "text": "solutions and then seeing them all the"
+    },
+    {
+      "start": 455.84,
+      "duration": 5.36,
+      "text": "way through to production. Yep. And"
+    },
+    {
+      "start": 458.4,
+      "duration": 4.32,
+      "text": "happy to have you be here. Yes. And I"
+    },
+    {
+      "start": 461.2,
+      "duration": 3.52,
+      "text": "wanted to say that we will also have an"
+    },
+    {
+      "start": 462.72,
+      "duration": 3.84,
+      "text": "AMA later this week. So watch out for a"
+    },
+    {
+      "start": 464.72,
+      "duration": 3.52,
+      "text": "link for that later. But let's dive"
+    },
+    {
+      "start": 466.56,
+      "duration": 3.76,
+      "text": "straight in. I wanted to kind of have"
+    },
+    {
+      "start": 468.24,
+      "duration": 3.44,
+      "text": "you Ken, I guess you'll be taking on and"
+    },
+    {
+      "start": 470.32,
+      "duration": 3.2,
+      "text": "talking a little bit about stability"
+    },
+    {
+      "start": 471.68,
+      "duration": 3.28,
+      "text": "first. So I'm going to just share the"
+    },
+    {
+      "start": 473.52,
+      "duration": 2.88,
+      "text": "slides and if you want to give us a"
+    },
+    {
+      "start": 474.96,
+      "duration": 4.0,
+      "text": "little bit of an introduction to what is"
+    },
+    {
+      "start": 476.4,
+      "duration": 5.04,
+      "text": "stabil stable diffusion. Yeah,"
+    },
+    {
+      "start": 478.96,
+      "duration": 4.4,
+      "text": "absolutely. Um, you know, a lot of folks"
+    },
+    {
+      "start": 481.44,
+      "duration": 5.6,
+      "text": "out there might know stable diffusion as"
+    },
+    {
+      "start": 483.36,
+      "duration": 5.68,
+      "text": "the pioneer in image generation. Um, so"
+    },
+    {
+      "start": 487.04,
+      "duration": 4.32,
+      "text": "yeah, we're super happy to have kind of"
+    },
+    {
+      "start": 489.04,
+      "duration": 4.24,
+      "text": "really created this amazing space that's"
+    },
+    {
+      "start": 491.36,
+      "duration": 4.24,
+      "text": "adding a lot of value to companies right"
+    },
+    {
+      "start": 493.28,
+      "duration": 4.48,
+      "text": "now. Um, and we're we're late we're on"
+    },
+    {
+      "start": 495.6,
+      "duration": 5.68,
+      "text": "our latest model, uh, stable diffusion"
+    },
+    {
+      "start": 497.76,
+      "duration": 5.68,
+      "text": "3.5 large. Um, it's really that first"
+    },
+    {
+      "start": 501.28,
+      "duration": 3.92,
+      "text": "model that I consider like enterprise"
+    },
+    {
+      "start": 503.44,
+      "duration": 4.52,
+      "text": "ready. So someone who's looking for like"
+    },
+    {
+      "start": 505.2,
+      "duration": 5.28,
+      "text": "a really clean output for marketing and"
+    },
+    {
+      "start": 507.96,
+      "duration": 4.52,
+      "text": "advertising like this model will will do"
+    },
+    {
+      "start": 510.48,
+      "duration": 3.92,
+      "text": "it for you. And a couple other things"
+    },
+    {
+      "start": 512.48,
+      "duration": 4.8,
+      "text": "why why customers choose these models."
+    },
+    {
+      "start": 514.4,
+      "duration": 5.2,
+      "text": "Number one is just versatile styles. So"
+    },
+    {
+      "start": 517.28,
+      "duration": 4.64,
+      "text": "creating like a wide range of styles and"
+    },
+    {
+      "start": 519.6,
+      "duration": 4.72,
+      "text": "aesthetics for many many use cases is"
+    },
+    {
+      "start": 521.92,
+      "duration": 5.2,
+      "text": "super important. And then another reason"
+    },
+    {
+      "start": 524.32,
+      "duration": 4.88,
+      "text": "is just general prompt adherence like"
+    },
+    {
+      "start": 527.12,
+      "duration": 4.64,
+      "text": "for what you type in from your prompt"
+    },
+    {
+      "start": 529.2,
+      "duration": 5.52,
+      "text": "like how close and how accurate is the"
+    },
+    {
+      "start": 531.76,
+      "duration": 5.6,
+      "text": "output. Stable diffusion does stable"
+    },
+    {
+      "start": 534.72,
+      "duration": 3.88,
+      "text": "diffusion 3.5 does such an amazing job"
+    },
+    {
+      "start": 537.36,
+      "duration": 5.88,
+      "text": "at prompt"
+    },
+    {
+      "start": 538.6,
+      "duration": 4.64,
+      "text": "adherence. Next slide please."
+    },
+    {
+      "start": 543.36,
+      "duration": 3.36,
+      "text": "So if we take a look at the three"
+    },
+    {
+      "start": 544.96,
+      "duration": 4.4,
+      "text": "different models that are on Azure"
+    },
+    {
+      "start": 546.72,
+      "duration": 4.48,
+      "text": "foundry um we have basically have like"
+    },
+    {
+      "start": 549.36,
+      "duration": 3.32,
+      "text": "uh we have stable image core which is"
+    },
+    {
+      "start": 551.2,
+      "duration": 3.52,
+      "text": "something that's meant for speed and"
+    },
+    {
+      "start": 552.68,
+      "duration": 4.92,
+      "text": "efficiency. So folks that are looking"
+    },
+    {
+      "start": 554.72,
+      "duration": 4.96,
+      "text": "for quick outputs ideation"
+    },
+    {
+      "start": 557.6,
+      "duration": 3.92,
+      "text": "uh this is a great model for you. Kind"
+    },
+    {
+      "start": 559.68,
+      "duration": 4.48,
+      "text": "of our second model is our core model"
+    },
+    {
+      "start": 561.52,
+      "duration": 4.8,
+      "text": "stable diffusion 3.5 large which is"
+    },
+    {
+      "start": 564.16,
+      "duration": 4.8,
+      "text": "based off of uh you know our newest core"
+    },
+    {
+      "start": 566.32,
+      "duration": 4.64,
+      "text": "model. Um very good prompt adherence"
+    },
+    {
+      "start": 568.96,
+      "duration": 4.0,
+      "text": "very good style variety and diverse"
+    },
+    {
+      "start": 570.96,
+      "duration": 5.0,
+      "text": "outputs. And then our top model is what"
+    },
+    {
+      "start": 572.96,
+      "duration": 6.4,
+      "text": "we call stable image ultra which is like"
+    },
+    {
+      "start": 575.96,
+      "duration": 6.04,
+      "text": "SD3.5 on steroids which gives you such"
+    },
+    {
+      "start": 579.36,
+      "duration": 4.4,
+      "text": "an amazing photo realalistic output. And"
+    },
+    {
+      "start": 582.0,
+      "duration": 4.96,
+      "text": "then if you think about the various use"
+    },
+    {
+      "start": 583.76,
+      "duration": 6.16,
+      "text": "cases and industries you know ecommerce"
+    },
+    {
+      "start": 586.96,
+      "duration": 5.44,
+      "text": "product assets virtual tryon is a really"
+    },
+    {
+      "start": 589.92,
+      "duration": 5.04,
+      "text": "big one for us. Anything in that"
+    },
+    {
+      "start": 592.4,
+      "duration": 4.6,
+      "text": "marketing and advertising space you know"
+    },
+    {
+      "start": 594.96,
+      "duration": 4.48,
+      "text": "looking to create new ads"
+    },
+    {
+      "start": 597.0,
+      "duration": 4.52,
+      "text": "hyperpersonalization of ad content you"
+    },
+    {
+      "start": 599.44,
+      "duration": 4.32,
+      "text": "know across the globe. super super"
+    },
+    {
+      "start": 601.52,
+      "duration": 4.64,
+      "text": "important and then just general like"
+    },
+    {
+      "start": 603.76,
+      "duration": 4.64,
+      "text": "design and creative tools you know"
+    },
+    {
+      "start": 606.16,
+      "duration": 3.88,
+      "text": "various ad platforms and then postp"
+    },
+    {
+      "start": 608.4,
+      "duration": 3.88,
+      "text": "production and"
+    },
+    {
+      "start": 610.04,
+      "duration": 4.6,
+      "text": "VFX. Next slide"
+    },
+    {
+      "start": 612.28,
+      "duration": 4.6,
+      "text": "please. So talking a little bit more"
+    },
+    {
+      "start": 614.64,
+      "duration": 4.32,
+      "text": "about like one specific use case and"
+    },
+    {
+      "start": 616.88,
+      "duration": 5.12,
+      "text": "it's just such a simple use case but it"
+    },
+    {
+      "start": 618.96,
+      "duration": 4.96,
+      "text": "adds so much value to our customers is"
+    },
+    {
+      "start": 622.0,
+      "duration": 4.88,
+      "text": "talking about how stable diffusion is"
+    },
+    {
+      "start": 623.92,
+      "duration": 4.32,
+      "text": "revolutionizing marketing. So if you"
+    },
+    {
+      "start": 626.88,
+      "duration": 3.52,
+      "text": "think about you know just general"
+    },
+    {
+      "start": 628.24,
+      "duration": 4.32,
+      "text": "product placement right you you have a"
+    },
+    {
+      "start": 630.4,
+      "duration": 5.28,
+      "text": "simple product that a customer or"
+    },
+    {
+      "start": 632.56,
+      "duration": 5.52,
+      "text": "consumer has created and you know you"
+    },
+    {
+      "start": 635.68,
+      "duration": 5.4,
+      "text": "you have an image of it. Well just"
+    },
+    {
+      "start": 638.08,
+      "duration": 6.08,
+      "text": "taking that image and using generative"
+    },
+    {
+      "start": 641.08,
+      "duration": 5.08,
+      "text": "AI to put a different background behind"
+    },
+    {
+      "start": 644.16,
+      "duration": 4.64,
+      "text": "it and again this is such a simple but"
+    },
+    {
+      "start": 646.16,
+      "duration": 5.04,
+      "text": "powerful use case is able to really"
+    },
+    {
+      "start": 648.8,
+      "duration": 4.32,
+      "text": "drive an immense amount of engagement."
+    },
+    {
+      "start": 651.2,
+      "duration": 4.72,
+      "text": "So looking at where like a lot of these"
+    },
+    {
+      "start": 653.12,
+      "duration": 5.52,
+      "text": "ecommerce platforms just by adding a"
+    },
+    {
+      "start": 655.92,
+      "duration": 4.72,
+      "text": "background to it, it's so more visually"
+    },
+    {
+      "start": 658.64,
+      "duration": 3.68,
+      "text": "pleasing to look at the product, right?"
+    },
+    {
+      "start": 660.64,
+      "duration": 4.0,
+      "text": "Just from a user perspective and a"
+    },
+    {
+      "start": 662.32,
+      "duration": 4.32,
+      "text": "customer experience perspective. But"
+    },
+    {
+      "start": 664.64,
+      "duration": 4.88,
+      "text": "when you look at like the actual"
+    },
+    {
+      "start": 666.64,
+      "duration": 5.2,
+      "text": "business impact of it, you're able to"
+    },
+    {
+      "start": 669.52,
+      "duration": 4.36,
+      "text": "have, you know, increased addis"
+    },
+    {
+      "start": 671.84,
+      "duration": 4.56,
+      "text": "impressions by up to"
+    },
+    {
+      "start": 673.88,
+      "duration": 6.04,
+      "text": "45%, increase click-through rates by up"
+    },
+    {
+      "start": 676.4,
+      "duration": 6.16,
+      "text": "to 25% and increase revenue created off"
+    },
+    {
+      "start": 679.92,
+      "duration": 5.44,
+      "text": "of these ads. So just having, you know,"
+    },
+    {
+      "start": 682.56,
+      "duration": 5.28,
+      "text": "this type of functionality is super"
+    },
+    {
+      "start": 685.36,
+      "duration": 7.28,
+      "text": "super important and drives ton of value."
+    },
+    {
+      "start": 687.84,
+      "duration": 6.56,
+      "text": "And so uh next slide, please."
+    },
+    {
+      "start": 692.64,
+      "duration": 2.88,
+      "text": "Yeah, we're super excited today to kind"
+    },
+    {
+      "start": 694.4,
+      "duration": 3.2,
+      "text": "of walk through a couple different"
+    },
+    {
+      "start": 695.52,
+      "duration": 5.12,
+      "text": "demos. Um, you yourself, you can"
+    },
+    {
+      "start": 697.6,
+      "duration": 4.88,
+      "text": "navigate to AI foundry. You can uh you"
+    },
+    {
+      "start": 700.64,
+      "duration": 4.72,
+      "text": "could search for stability AI and the"
+    },
+    {
+      "start": 702.48,
+      "duration": 4.4,
+      "text": "model catalog. And once you navigate to"
+    },
+    {
+      "start": 705.36,
+      "duration": 3.44,
+      "text": "a model catalog, choose a different"
+    },
+    {
+      "start": 706.88,
+      "duration": 3.84,
+      "text": "model you want to experiment with."
+    },
+    {
+      "start": 708.8,
+      "duration": 3.44,
+      "text": "Choose all three of them. See which ones"
+    },
+    {
+      "start": 710.72,
+      "duration": 2.96,
+      "text": "you like the output the best. That's the"
+    },
+    {
+      "start": 712.24,
+      "duration": 3.44,
+      "text": "best thing about the playground, right?"
+    },
+    {
+      "start": 713.68,
+      "duration": 4.32,
+      "text": "Is you can try all three of them. And"
+    },
+    {
+      "start": 715.68,
+      "duration": 3.92,
+      "text": "then, you know, anytime you have uh any"
+    },
+    {
+      "start": 718.0,
+      "duration": 3.44,
+      "text": "specific needs, feel free to reach out"
+    },
+    {
+      "start": 719.6,
+      "duration": 3.52,
+      "text": "to Microsoft or Cability and and we'll"
+    },
+    {
+      "start": 721.44,
+      "duration": 3.04,
+      "text": "be able to help you. But yeah, super"
+    },
+    {
+      "start": 723.12,
+      "duration": 2.88,
+      "text": "excited. Thanks again for your time"
+    },
+    {
+      "start": 724.48,
+      "duration": 3.92,
+      "text": "today. And then we'll get into the"
+    },
+    {
+      "start": 726.0,
+      "duration": 4.4,
+      "text": "demos. Yeah, and don't forget to check"
+    },
+    {
+      "start": 728.4,
+      "duration": 3.28,
+      "text": "the chat. I think we put a link to uh"
+    },
+    {
+      "start": 730.4,
+      "duration": 3.28,
+      "text": "the catalog where you can find the"
+    },
+    {
+      "start": 731.68,
+      "duration": 4.16,
+      "text": "entire stability collection of models."
+    },
+    {
+      "start": 733.68,
+      "duration": 3.68,
+      "text": "So if you want to go check them out. Uh"
+    },
+    {
+      "start": 735.84,
+      "duration": 4.08,
+      "text": "but now we should turn over. I think"
+    },
+    {
+      "start": 737.36,
+      "duration": 4.56,
+      "text": "Sunwell recorded a really comprehensive"
+    },
+    {
+      "start": 739.92,
+      "duration": 4.32,
+      "text": "set of demos with the stability model."
+    },
+    {
+      "start": 741.92,
+      "duration": 5.6,
+      "text": "So let's kind of look through that next."
+    },
+    {
+      "start": 744.24,
+      "duration": 5.36,
+      "text": "Roll the tape."
+    },
+    {
+      "start": 747.52,
+      "duration": 4.88,
+      "text": "So today we're going to look at how you"
+    },
+    {
+      "start": 749.6,
+      "duration": 6.32,
+      "text": "can use stability AI's image generation"
+    },
+    {
+      "start": 752.4,
+      "duration": 5.76,
+      "text": "models on Azure. Um and for that we can"
+    },
+    {
+      "start": 755.92,
+      "duration": 4.4,
+      "text": "just basically go to our Azure AI"
+    },
+    {
+      "start": 758.16,
+      "duration": 4.72,
+      "text": "foundry. Make sure you have access to"
+    },
+    {
+      "start": 760.32,
+      "duration": 5.12,
+      "text": "this and on your AI foundry page in"
+    },
+    {
+      "start": 762.88,
+      "duration": 4.72,
+      "text": "Azure um you will be able to create your"
+    },
+    {
+      "start": 765.44,
+      "duration": 4.88,
+      "text": "hubs and your projects. I already have"
+    },
+    {
+      "start": 767.6,
+      "duration": 6.16,
+      "text": "created a project. So let's go to our"
+    },
+    {
+      "start": 770.32,
+      "duration": 5.48,
+      "text": "project page right here. um and scroll"
+    },
+    {
+      "start": 773.76,
+      "duration": 4.96,
+      "text": "down here and and click on model"
+    },
+    {
+      "start": 775.8,
+      "duration": 4.88,
+      "text": "catalog. Uh in the model catalog, you"
+    },
+    {
+      "start": 778.72,
+      "duration": 4.96,
+      "text": "can see all the various models that are"
+    },
+    {
+      "start": 780.68,
+      "duration": 5.24,
+      "text": "available. And under the collections, uh"
+    },
+    {
+      "start": 783.68,
+      "duration": 5.28,
+      "text": "we're going to search for stability AI"
+    },
+    {
+      "start": 785.92,
+      "duration": 5.28,
+      "text": "and just load up all the models right"
+    },
+    {
+      "start": 788.96,
+      "duration": 4.24,
+      "text": "here. If you want to further refine them"
+    },
+    {
+      "start": 791.2,
+      "duration": 3.92,
+      "text": "or further refine your search, I'm going"
+    },
+    {
+      "start": 793.2,
+      "duration": 4.72,
+      "text": "to search for serverless API under"
+    },
+    {
+      "start": 795.12,
+      "duration": 5.68,
+      "text": "deployment options. And then we have our"
+    },
+    {
+      "start": 797.92,
+      "duration": 5.28,
+      "text": "three models uh that are available that"
+    },
+    {
+      "start": 800.8,
+      "duration": 4.48,
+      "text": "are image generation and seven models"
+    },
+    {
+      "start": 803.2,
+      "duration": 4.96,
+      "text": "overall. If we remove this, you can see"
+    },
+    {
+      "start": 805.28,
+      "duration": 5.52,
+      "text": "we have total seven models. Uh but then"
+    },
+    {
+      "start": 808.16,
+      "duration": 5.92,
+      "text": "we have three image generation models"
+    },
+    {
+      "start": 810.8,
+      "duration": 6.4,
+      "text": "and uh image ultra is a workflow that's"
+    },
+    {
+      "start": 814.08,
+      "duration": 6.28,
+      "text": "based on top of 3.5 and stable image"
+    },
+    {
+      "start": 817.2,
+      "duration": 6.0,
+      "text": "core is based on uh"
+    },
+    {
+      "start": 820.36,
+      "duration": 4.68,
+      "text": "SDXL. So if you want to deploy any of"
+    },
+    {
+      "start": 823.2,
+      "duration": 4.6,
+      "text": "these into your project, you just click"
+    },
+    {
+      "start": 825.04,
+      "duration": 5.12,
+      "text": "onto the model and click"
+    },
+    {
+      "start": 827.8,
+      "duration": 4.28,
+      "text": "deploy. If you don't already have an"
+    },
+    {
+      "start": 830.16,
+      "duration": 4.96,
+      "text": "existing deployment, then it should"
+    },
+    {
+      "start": 832.08,
+      "duration": 5.68,
+      "text": "create that deployment for you. Um,"
+    },
+    {
+      "start": 835.12,
+      "duration": 4.8,
+      "text": "which I shouldn't. And it is going to"
+    },
+    {
+      "start": 837.76,
+      "duration": 4.72,
+      "text": "work on this deployment. We are going to"
+    },
+    {
+      "start": 839.92,
+      "duration": 5.2,
+      "text": "work with um Ultra, but this could take"
+    },
+    {
+      "start": 842.48,
+      "duration": 4.8,
+      "text": "a few seconds to a minute maybe. Uh but"
+    },
+    {
+      "start": 845.12,
+      "duration": 5.04,
+      "text": "under our models plus endpoints tab"
+    },
+    {
+      "start": 847.28,
+      "duration": 5.28,
+      "text": "under my assets section I already have"
+    },
+    {
+      "start": 850.16,
+      "duration": 4.96,
+      "text": "ultra which is deployed and I'm going to"
+    },
+    {
+      "start": 852.56,
+      "duration": 5.52,
+      "text": "click on this and then you can just open"
+    },
+    {
+      "start": 855.12,
+      "duration": 4.4,
+      "text": "it in a playground which is our image"
+    },
+    {
+      "start": 858.08,
+      "duration": 4.48,
+      "text": "playground. You can always access it"
+    },
+    {
+      "start": 859.52,
+      "duration": 5.84,
+      "text": "through the playground section and to"
+    },
+    {
+      "start": 862.56,
+      "duration": 5.92,
+      "text": "use ultra all you need to do really is"
+    },
+    {
+      "start": 865.36,
+      "duration": 4.72,
+      "text": "just provide it an image or a text for"
+    },
+    {
+      "start": 868.48,
+      "duration": 5.68,
+      "text": "an image. In this case I wanted to"
+    },
+    {
+      "start": 870.08,
+      "duration": 6.24,
+      "text": "generate a photograph of a cat. Uh it's"
+    },
+    {
+      "start": 874.16,
+      "duration": 4.72,
+      "text": "going to take it a few seconds to just"
+    },
+    {
+      "start": 876.32,
+      "duration": 4.8,
+      "text": "generate this"
+    },
+    {
+      "start": 878.88,
+      "duration": 4.72,
+      "text": "uh this image for us. And while we're"
+    },
+    {
+      "start": 881.12,
+      "duration": 4.64,
+      "text": "waiting for it, um oh, here we go. It's"
+    },
+    {
+      "start": 883.6,
+      "duration": 5.36,
+      "text": "done. So, we can take a a look at what"
+    },
+    {
+      "start": 885.76,
+      "duration": 5.16,
+      "text": "that looks like. And um if we wanted to,"
+    },
+    {
+      "start": 888.96,
+      "duration": 4.4,
+      "text": "we can always"
+    },
+    {
+      "start": 890.92,
+      "duration": 4.68,
+      "text": "just generate this a few times. You can"
+    },
+    {
+      "start": 893.36,
+      "duration": 3.84,
+      "text": "always provide a ne a negative prompt. I"
+    },
+    {
+      "start": 895.6,
+      "duration": 3.16,
+      "text": "I'm not going to. I'm just going to"
+    },
+    {
+      "start": 897.2,
+      "duration": 4.08,
+      "text": "delete this for the next"
+    },
+    {
+      "start": 898.76,
+      "duration": 4.16,
+      "text": "generation. But here we go. With every"
+    },
+    {
+      "start": 901.28,
+      "duration": 4.48,
+      "text": "generation, it will give you a new"
+    },
+    {
+      "start": 902.92,
+      "duration": 5.32,
+      "text": "version. Now, what if we wanted a little"
+    },
+    {
+      "start": 905.76,
+      "duration": 4.4,
+      "text": "something a bit more complex, right? U"
+    },
+    {
+      "start": 908.24,
+      "duration": 4.32,
+      "text": "once this image generates finishes"
+    },
+    {
+      "start": 910.16,
+      "duration": 4.32,
+      "text": "generating, we can try a new prompt."
+    },
+    {
+      "start": 912.56,
+      "duration": 3.76,
+      "text": "Perhaps you want something that is in"
+    },
+    {
+      "start": 914.48,
+      "duration": 5.36,
+      "text": "motion. There you go. A third picture of"
+    },
+    {
+      "start": 916.32,
+      "duration": 8.24,
+      "text": "a cat. We want a picture of a a red"
+    },
+    {
+      "start": 919.84,
+      "duration": 6.48,
+      "text": "sports car speeding down a California"
+    },
+    {
+      "start": 924.56,
+      "duration": 7.36,
+      "text": "highway."
+    },
+    {
+      "start": 926.32,
+      "duration": 5.6,
+      "text": "Uh and let's say with an ocean on the"
+    },
+    {
+      "start": 933.16,
+      "duration": 5.48,
+      "text": "side. Now we have added a a red sports"
+    },
+    {
+      "start": 936.08,
+      "duration": 4.8,
+      "text": "car that is speeding down. So we have"
+    },
+    {
+      "start": 938.64,
+      "duration": 4.48,
+      "text": "added motion and complexity to the"
+    },
+    {
+      "start": 940.88,
+      "duration": 5.76,
+      "text": "prompt. So let's see how the model does"
+    },
+    {
+      "start": 943.12,
+      "duration": 6.16,
+      "text": "it. And right now we're using ultra. So"
+    },
+    {
+      "start": 946.64,
+      "duration": 4.88,
+      "text": "it's as simple as just providing it a a"
+    },
+    {
+      "start": 949.28,
+      "duration": 4.72,
+      "text": "prompt or text prompt. There you go. So"
+    },
+    {
+      "start": 951.52,
+      "duration": 4.64,
+      "text": "we have a new generation. But we can add"
+    },
+    {
+      "start": 954.0,
+      "duration": 5.52,
+      "text": "further control to it. We right now have"
+    },
+    {
+      "start": 956.16,
+      "duration": 5.76,
+      "text": "a red sports car. Um we can perhaps even"
+    },
+    {
+      "start": 959.52,
+      "duration": 5.44,
+      "text": "fix the angle that where the picture is"
+    },
+    {
+      "start": 961.92,
+      "duration": 4.8,
+      "text": "taken from. Um so in the next generation"
+    },
+    {
+      "start": 964.96,
+      "duration": 5.88,
+      "text": "after this image right here which looks"
+    },
+    {
+      "start": 966.72,
+      "duration": 7.22,
+      "text": "very good um we can say"
+    },
+    {
+      "start": 970.84,
+      "duration": 4.24,
+      "text": "um low angle side"
+    },
+    {
+      "start": 973.94,
+      "duration": 4.38,
+      "text": "[Music]"
+    },
+    {
+      "start": 975.08,
+      "duration": 4.76,
+      "text": "view if we want to fix this. is so you"
+    },
+    {
+      "start": 978.32,
+      "duration": 4.36,
+      "text": "can say a low angle side view of a red"
+    },
+    {
+      "start": 979.84,
+      "duration": 5.76,
+      "text": "sports car speeding down a California"
+    },
+    {
+      "start": 982.68,
+      "duration": 6.44,
+      "text": "highway with an ocean on the side."
+    },
+    {
+      "start": 985.6,
+      "duration": 6.92,
+      "text": "Sorry, I just clicked it by mistake. Um,"
+    },
+    {
+      "start": 989.12,
+      "duration": 6.24,
+      "text": "need to stop doing that. Here you go."
+    },
+    {
+      "start": 992.52,
+      "duration": 4.52,
+      "text": "So, we have this image that loads up and"
+    },
+    {
+      "start": 995.36,
+      "duration": 3.52,
+      "text": "now we have controlled the generation"
+    },
+    {
+      "start": 997.04,
+      "duration": 4.4,
+      "text": "further by just adding two words low"
+    },
+    {
+      "start": 998.88,
+      "duration": 5.2,
+      "text": "angle and side view. So, now it's going"
+    },
+    {
+      "start": 1001.44,
+      "duration": 4.96,
+      "text": "to generate um images that are from low"
+    },
+    {
+      "start": 1004.08,
+      "duration": 5.76,
+      "text": "angle and side view. And adding control"
+    },
+    {
+      "start": 1006.4,
+      "duration": 7.6,
+      "text": "is is very simple by as well. It's as"
+    },
+    {
+      "start": 1009.84,
+      "duration": 6.96,
+      "text": "simple as adding a few words. Um and so"
+    },
+    {
+      "start": 1014.0,
+      "duration": 5.52,
+      "text": "next let's try to think of a another use"
+    },
+    {
+      "start": 1016.8,
+      "duration": 4.88,
+      "text": "case. Perhaps we want to create some"
+    },
+    {
+      "start": 1019.52,
+      "duration": 6.0,
+      "text": "Christmas greeting cards, seasons"
+    },
+    {
+      "start": 1021.68,
+      "duration": 6.16,
+      "text": "greetings, right? So I work in a a tech"
+    },
+    {
+      "start": 1025.52,
+      "duration": 4.24,
+      "text": "company. So let's try to come up with a"
+    },
+    {
+      "start": 1027.84,
+      "duration": 4.32,
+      "text": "Christmas greeting card for a tech"
+    },
+    {
+      "start": 1029.76,
+      "duration": 7.8,
+      "text": "company. Uh we can just type up a"
+    },
+    {
+      "start": 1032.16,
+      "duration": 5.4,
+      "text": "prompt. wide view of a tech office"
+    },
+    {
+      "start": 1037.6,
+      "duration": 6.36,
+      "text": "uh with the let's say Christmas"
+    },
+    {
+      "start": 1040.24,
+      "duration": 3.72,
+      "text": "celebration scene"
+    },
+    {
+      "start": 1046.08,
+      "duration": 8.36,
+      "text": "um you know with soft uh Christmas"
+    },
+    {
+      "start": 1050.76,
+      "duration": 6.2,
+      "text": "lighting and festive"
+    },
+    {
+      "start": 1054.44,
+      "duration": 6.28,
+      "text": "theme right just give it a very very"
+    },
+    {
+      "start": 1056.96,
+      "duration": 6.48,
+      "text": "basic prompt nothing very uh detailed"
+    },
+    {
+      "start": 1060.72,
+      "duration": 5.36,
+      "text": "and see what it and what it can generate"
+    },
+    {
+      "start": 1063.44,
+      "duration": 3.84,
+      "text": "for us. Um, and that's really what you"
+    },
+    {
+      "start": 1066.08,
+      "duration": 3.28,
+      "text": "need to think about. You need to think"
+    },
+    {
+      "start": 1067.28,
+      "duration": 5.6,
+      "text": "about what your subject is or what your"
+    },
+    {
+      "start": 1069.36,
+      "duration": 6.8,
+      "text": "setting is and then build on top of it."
+    },
+    {
+      "start": 1072.88,
+      "duration": 6.32,
+      "text": "And here we have a a s uh a tech office"
+    },
+    {
+      "start": 1076.16,
+      "duration": 6.88,
+      "text": "with Christmas um Christmas lighting and"
+    },
+    {
+      "start": 1079.2,
+      "duration": 6.32,
+      "text": "a festive theme. Um, and that's that's"
+    },
+    {
+      "start": 1083.04,
+      "duration": 5.36,
+      "text": "as simple as just like one line"
+    },
+    {
+      "start": 1085.52,
+      "duration": 4.64,
+      "text": "essentially of uh of text that you need"
+    },
+    {
+      "start": 1088.4,
+      "duration": 4.96,
+      "text": "to provide."
+    },
+    {
+      "start": 1090.16,
+      "duration": 5.04,
+      "text": "the generation. Um perhaps we want to"
+    },
+    {
+      "start": 1093.36,
+      "duration": 3.76,
+      "text": "further refine it and we want to add"
+    },
+    {
+      "start": 1095.2,
+      "duration": 4.8,
+      "text": "text in it. So we can say merry"
+    },
+    {
+      "start": 1097.12,
+      "duration": 5.52,
+      "text": "Christmas and we want to cover the text"
+    },
+    {
+      "start": 1100.0,
+      "duration": 4.56,
+      "text": "in double quotation that we want to to"
+    },
+    {
+      "start": 1102.64,
+      "duration": 5.44,
+      "text": "be displayed in the image. So we say"
+    },
+    {
+      "start": 1104.56,
+      "duration": 3.52,
+      "text": "merry Christmas is"
+    },
+    {
+      "start": 1108.12,
+      "duration": 6.4,
+      "text": "prominently displayed in the"
+    },
+    {
+      "start": 1112.28,
+      "duration": 6.04,
+      "text": "scene in this"
+    },
+    {
+      "start": 1114.52,
+      "duration": 5.84,
+      "text": "scene. Right? And now it's going to try"
+    },
+    {
+      "start": 1118.32,
+      "duration": 5.76,
+      "text": "to generate uh"
+    },
+    {
+      "start": 1120.36,
+      "duration": 7.24,
+      "text": "a new image, but this time add the word"
+    },
+    {
+      "start": 1124.08,
+      "duration": 5.2,
+      "text": "Merry Christmas in there so that we can"
+    },
+    {
+      "start": 1127.6,
+      "duration": 3.76,
+      "text": "see what that looks like. There you go."
+    },
+    {
+      "start": 1129.28,
+      "duration": 4.96,
+      "text": "It's added Merry Christmas in the image."
+    },
+    {
+      "start": 1131.36,
+      "duration": 4.88,
+      "text": "So, we're going to now try another time"
+    },
+    {
+      "start": 1134.24,
+      "duration": 4.56,
+      "text": "to see which one we like better and then"
+    },
+    {
+      "start": 1136.24,
+      "duration": 4.44,
+      "text": "just work off of that if we need to"
+    },
+    {
+      "start": 1138.8,
+      "duration": 5.12,
+      "text": "further refine"
+    },
+    {
+      "start": 1140.68,
+      "duration": 4.84,
+      "text": "it. Um, there you go. So, it's it's"
+    },
+    {
+      "start": 1143.92,
+      "duration": 3.68,
+      "text": "doing a pretty good job. Let's give it"
+    },
+    {
+      "start": 1145.52,
+      "duration": 4.8,
+      "text": "one more try before we think of another"
+    },
+    {
+      "start": 1147.6,
+      "duration": 4.32,
+      "text": "use case. Um, so while this is we're"
+    },
+    {
+      "start": 1150.32,
+      "duration": 4.0,
+      "text": "talking about Christmas, well, what else"
+    },
+    {
+      "start": 1151.92,
+      "duration": 5.2,
+      "text": "do we like to do around festive seasons"
+    },
+    {
+      "start": 1154.32,
+      "duration": 6.24,
+      "text": "is do shopping. So, let's think of a a"
+    },
+    {
+      "start": 1157.12,
+      "duration": 5.84,
+      "text": "new um merry Christmas. So, let's think"
+    },
+    {
+      "start": 1160.56,
+      "duration": 4.64,
+      "text": "of a new prompt and and maybe this time"
+    },
+    {
+      "start": 1162.96,
+      "duration": 4.72,
+      "text": "we focus on"
+    },
+    {
+      "start": 1165.2,
+      "duration": 4.32,
+      "text": "um on fashion, right? So, I'm just going"
+    },
+    {
+      "start": 1167.68,
+      "duration": 4.4,
+      "text": "to get rid of this. Uh, and we want to"
+    },
+    {
+      "start": 1169.52,
+      "duration": 5.28,
+      "text": "think of a marketing campaign for a"
+    },
+    {
+      "start": 1172.08,
+      "duration": 7.68,
+      "text": "apparel company that is perhaps thinking"
+    },
+    {
+      "start": 1174.8,
+      "duration": 7.84,
+      "text": "of a new um a new cardigan line for the"
+    },
+    {
+      "start": 1179.76,
+      "duration": 6.32,
+      "text": "fall, right? That works. Um, so we can"
+    },
+    {
+      "start": 1182.64,
+      "duration": 4.96,
+      "text": "say um uh we can think of a marketing"
+    },
+    {
+      "start": 1186.08,
+      "duration": 6.0,
+      "text": "campaign for it. You can say wide shot"
+    },
+    {
+      "start": 1187.6,
+      "duration": 9.24,
+      "text": "of a woman in a pumpkin oops I can spell"
+    },
+    {
+      "start": 1192.08,
+      "duration": 7.48,
+      "text": "it pumpkin colored uh"
+    },
+    {
+      "start": 1196.84,
+      "duration": 5.72,
+      "text": "cardigan in a fall"
+    },
+    {
+      "start": 1199.56,
+      "duration": 3.0,
+      "text": "setting"
+    },
+    {
+      "start": 1204.76,
+      "duration": 4.28,
+      "text": "right and then that's that's a simple"
+    },
+    {
+      "start": 1207.2,
+      "duration": 4.88,
+      "text": "you can start off simple and then build"
+    },
+    {
+      "start": 1209.04,
+      "duration": 7.44,
+      "text": "on top of it uh to generate complexity."
+    },
+    {
+      "start": 1212.08,
+      "duration": 8.2,
+      "text": "Now here we go. Hm. Okay. uh wide shot"
+    },
+    {
+      "start": 1216.48,
+      "duration": 7.64,
+      "text": "of a female model"
+    },
+    {
+      "start": 1220.28,
+      "duration": 7.44,
+      "text": "uh which is wearing"
+    },
+    {
+      "start": 1224.12,
+      "duration": 6.56,
+      "text": "a pumpkin colored cardigan in a fall"
+    },
+    {
+      "start": 1227.72,
+      "duration": 8.32,
+      "text": "setting. Uh"
+    },
+    {
+      "start": 1230.68,
+      "duration": 7.92,
+      "text": "okay, in autumn maybe in an autumn"
+    },
+    {
+      "start": 1236.04,
+      "duration": 6.68,
+      "text": "seasonal"
+    },
+    {
+      "start": 1238.6,
+      "duration": 6.84,
+      "text": "setting. So the red banner that got"
+    },
+    {
+      "start": 1242.72,
+      "duration": 4.4,
+      "text": "displayed is the is the system on the"
+    },
+    {
+      "start": 1245.44,
+      "duration": 3.76,
+      "text": "back end checking to make sure that"
+    },
+    {
+      "start": 1247.12,
+      "duration": 4.32,
+      "text": "nothing untoward is being generated."
+    },
+    {
+      "start": 1249.2,
+      "duration": 4.64,
+      "text": "Nothing violent or sexual which is"
+    },
+    {
+      "start": 1251.44,
+      "duration": 4.64,
+      "text": "something we we definitely want to have."
+    },
+    {
+      "start": 1253.84,
+      "duration": 3.92,
+      "text": "And here we go. We have a wide shot of a"
+    },
+    {
+      "start": 1256.08,
+      "duration": 4.8,
+      "text": "female model wearing a pumpkin colored"
+    },
+    {
+      "start": 1257.76,
+      "duration": 5.52,
+      "text": "cardigan in an autumn or a fall setting."
+    },
+    {
+      "start": 1260.88,
+      "duration": 4.28,
+      "text": "So we can try it again. See what else"
+    },
+    {
+      "start": 1263.28,
+      "duration": 4.8,
+      "text": "comes"
+    },
+    {
+      "start": 1265.16,
+      "duration": 4.44,
+      "text": "up. And that's about as simple as that."
+    },
+    {
+      "start": 1268.08,
+      "duration": 3.44,
+      "text": "And perhaps in the next one, we don't"
+    },
+    {
+      "start": 1269.6,
+      "duration": 3.08,
+      "text": "want it to be pumpkin colored. We might"
+    },
+    {
+      "start": 1271.52,
+      "duration": 4.48,
+      "text": "want it to"
+    },
+    {
+      "start": 1272.68,
+      "duration": 5.56,
+      "text": "be a blue colored cardigan, right? And"
+    },
+    {
+      "start": 1276.0,
+      "duration": 5.52,
+      "text": "here we go. Here we have a white chart"
+    },
+    {
+      "start": 1278.24,
+      "duration": 6.24,
+      "text": "of of a woman, a female model in a fall"
+    },
+    {
+      "start": 1281.52,
+      "duration": 9.44,
+      "text": "setting. So, we can say of a blue"
+    },
+    {
+      "start": 1284.48,
+      "duration": 7.64,
+      "text": "cardigan in a um uh let's say winter"
+    },
+    {
+      "start": 1290.96,
+      "duration": 4.72,
+      "text": "seasonal"
+    },
+    {
+      "start": 1292.12,
+      "duration": 7.64,
+      "text": "setting cuz blue is a little bit cold."
+    },
+    {
+      "start": 1295.68,
+      "duration": 6.56,
+      "text": "Um let's see what what comes up. I"
+    },
+    {
+      "start": 1299.76,
+      "duration": 5.76,
+      "text": "understand I missed the n versus a. It's"
+    },
+    {
+      "start": 1302.24,
+      "duration": 6.64,
+      "text": "fine. The model can accept that much"
+    },
+    {
+      "start": 1305.52,
+      "duration": 5.68,
+      "text": "difference. There you go. And we are"
+    },
+    {
+      "start": 1308.88,
+      "duration": 4.64,
+      "text": "able to generate different iterations by"
+    },
+    {
+      "start": 1311.2,
+      "duration": 4.8,
+      "text": "just changing one word. That is how much"
+    },
+    {
+      "start": 1313.52,
+      "duration": 5.16,
+      "text": "difference it can make on the right word"
+    },
+    {
+      "start": 1316.0,
+      "duration": 5.2,
+      "text": "being replaced."
+    },
+    {
+      "start": 1318.68,
+      "duration": 5.08,
+      "text": "Now that's another use case we just"
+    },
+    {
+      "start": 1321.2,
+      "duration": 5.2,
+      "text": "covered of fashion and apparel. Then"
+    },
+    {
+      "start": 1323.76,
+      "duration": 5.68,
+      "text": "perhaps let's try to switch out into the"
+    },
+    {
+      "start": 1326.4,
+      "duration": 5.6,
+      "text": "world of product design. Let's try to"
+    },
+    {
+      "start": 1329.44,
+      "duration": 5.04,
+      "text": "think of a product that we would like to"
+    },
+    {
+      "start": 1332.0,
+      "duration": 5.68,
+      "text": "design. Perhaps we're looking to design"
+    },
+    {
+      "start": 1334.48,
+      "duration": 6.96,
+      "text": "new headphones and we are a um sound"
+    },
+    {
+      "start": 1337.68,
+      "duration": 5.44,
+      "text": "company or a headphone company or a um"
+    },
+    {
+      "start": 1341.44,
+      "duration": 3.68,
+      "text": "technological company that is coming out"
+    },
+    {
+      "start": 1343.12,
+      "duration": 4.24,
+      "text": "with a line of new headphones and we"
+    },
+    {
+      "start": 1345.12,
+      "duration": 5.44,
+      "text": "want to come up with new ideas. So we"
+    },
+    {
+      "start": 1347.36,
+      "duration": 6.24,
+      "text": "can say uh let's think up of a uh say a"
+    },
+    {
+      "start": 1350.56,
+      "duration": 3.96,
+      "text": "high definition"
+    },
+    {
+      "start": 1353.6,
+      "duration": 6.12,
+      "text": "High"
+    },
+    {
+      "start": 1354.52,
+      "duration": 6.33,
+      "text": "definition close-up shot of a uh of a"
+    },
+    {
+      "start": 1359.72,
+      "duration": 3.44,
+      "text": "modern"
+    },
+    {
+      "start": 1360.85,
+      "duration": 7.31,
+      "text": "[Music]"
+    },
+    {
+      "start": 1363.16,
+      "duration": 5.0,
+      "text": "overear headphones on a"
+    },
+    {
+      "start": 1368.2,
+      "duration": 5.16,
+      "text": "softly actually then not softly you can"
+    },
+    {
+      "start": 1370.48,
+      "duration": 3.96,
+      "text": "say well lit"
+    },
+    {
+      "start": 1373.36,
+      "duration": 5.04,
+      "text": "uh park"
+    },
+    {
+      "start": 1374.44,
+      "duration": 5.52,
+      "text": "bench and then this time with blurred"
+    },
+    {
+      "start": 1378.4,
+      "duration": 4.52,
+      "text": "background"
+    },
+    {
+      "start": 1379.96,
+      "duration": 6.52,
+      "text": "of an outdoor"
+    },
+    {
+      "start": 1382.92,
+      "duration": 5.88,
+      "text": "park, right? Because we maybe want to uh"
+    },
+    {
+      "start": 1386.48,
+      "duration": 5.52,
+      "text": "play around with the themes of nature as"
+    },
+    {
+      "start": 1388.8,
+      "duration": 3.2,
+      "text": "well as uh"
+    },
+    {
+      "start": 1392.12,
+      "duration": 6.64,
+      "text": "modernity. So, we're able to generate"
+    },
+    {
+      "start": 1395.76,
+      "duration": 6.08,
+      "text": "this uh really"
+    },
+    {
+      "start": 1398.76,
+      "duration": 4.52,
+      "text": "quickly. And here we go. And then, as I"
+    },
+    {
+      "start": 1401.84,
+      "duration": 5.36,
+      "text": "mentioned, we can play around with the"
+    },
+    {
+      "start": 1403.28,
+      "duration": 5.48,
+      "text": "angles. Um, like if we wanted to say uh"
+    },
+    {
+      "start": 1407.2,
+      "duration": 4.6,
+      "text": "top"
+    },
+    {
+      "start": 1408.76,
+      "duration": 5.0,
+      "text": "down top down"
+    },
+    {
+      "start": 1411.8,
+      "duration": 5.88,
+      "text": "view. This time we're going to replace"
+    },
+    {
+      "start": 1413.76,
+      "duration": 6.32,
+      "text": "the word view with a shot view of a"
+    },
+    {
+      "start": 1417.68,
+      "duration": 4.96,
+      "text": "modern overear headphones. Let's try"
+    },
+    {
+      "start": 1420.08,
+      "duration": 4.88,
+      "text": "this again. So just by changing things a"
+    },
+    {
+      "start": 1422.64,
+      "duration": 5.04,
+      "text": "little bit, we can we can get around and"
+    },
+    {
+      "start": 1424.96,
+      "duration": 5.12,
+      "text": "and create new ideas. Uh, and now I'm"
+    },
+    {
+      "start": 1427.68,
+      "duration": 4.16,
+      "text": "going to copy paste the next prompt cuz"
+    },
+    {
+      "start": 1430.08,
+      "duration": 3.0,
+      "text": "it's it's fairly long and you'll see"
+    },
+    {
+      "start": 1431.84,
+      "duration": 3.76,
+      "text": "why."
+    },
+    {
+      "start": 1433.08,
+      "duration": 4.92,
+      "text": "Um but here you go. So I have a top down"
+    },
+    {
+      "start": 1435.6,
+      "duration": 4.8,
+      "text": "shot now. So next perhaps you want to"
+    },
+    {
+      "start": 1438.0,
+      "duration": 4.72,
+      "text": "make it culturally sensitive. Like let's"
+    },
+    {
+      "start": 1440.4,
+      "duration": 6.4,
+      "text": "think of what we could do if we wanted"
+    },
+    {
+      "start": 1442.72,
+      "duration": 7.52,
+      "text": "to generate a Diwali based um marketing"
+    },
+    {
+      "start": 1446.8,
+      "duration": 5.28,
+      "text": "campaign or an image uh of a stylish"
+    },
+    {
+      "start": 1450.24,
+      "duration": 3.48,
+      "text": "headphone line or a festive table. But"
+    },
+    {
+      "start": 1452.08,
+      "duration": 5.6,
+      "text": "this time we want to infuse it with"
+    },
+    {
+      "start": 1453.72,
+      "duration": 8.92,
+      "text": "Diwali infused uh ideas like there we"
+    },
+    {
+      "start": 1457.68,
+      "duration": 7.36,
+      "text": "go. So now we're able to um culturally"
+    },
+    {
+      "start": 1462.64,
+      "duration": 5.36,
+      "text": "sensitize our images by giving it"
+    },
+    {
+      "start": 1465.04,
+      "duration": 5.6,
+      "text": "references to those things and largely"
+    },
+    {
+      "start": 1468.0,
+      "duration": 4.44,
+      "text": "overwhelmingly it will be able to match"
+    },
+    {
+      "start": 1470.64,
+      "duration": 5.6,
+      "text": "the needs that you"
+    },
+    {
+      "start": 1472.44,
+      "duration": 7.08,
+      "text": "have. Right? So that's great. We're able"
+    },
+    {
+      "start": 1476.24,
+      "duration": 5.12,
+      "text": "to uh very quickly now uh address"
+    },
+    {
+      "start": 1479.52,
+      "duration": 4.64,
+      "text": "specific markets without needing to"
+    },
+    {
+      "start": 1481.36,
+      "duration": 4.88,
+      "text": "worry about them. Um let's do one more"
+    },
+    {
+      "start": 1484.16,
+      "duration": 4.16,
+      "text": "use case just because we're on a roll."
+    },
+    {
+      "start": 1486.24,
+      "duration": 4.08,
+      "text": "Um perhaps this time we want to go into"
+    },
+    {
+      "start": 1488.32,
+      "duration": 3.52,
+      "text": "the world of film ideiation, right?"
+    },
+    {
+      "start": 1490.32,
+      "duration": 3.84,
+      "text": "Let's try to come up with some new"
+    },
+    {
+      "start": 1491.84,
+      "duration": 4.56,
+      "text": "interesting characters. And once again,"
+    },
+    {
+      "start": 1494.16,
+      "duration": 4.32,
+      "text": "in the in the interest of time, I'm"
+    },
+    {
+      "start": 1496.4,
+      "duration": 4.0,
+      "text": "going to copy paste the next prompt um"
+    },
+    {
+      "start": 1498.48,
+      "duration": 6.72,
+      "text": "so we don't have to sit down and watch"
+    },
+    {
+      "start": 1500.4,
+      "duration": 6.0,
+      "text": "me um pathetically type uh and then mess"
+    },
+    {
+      "start": 1505.2,
+      "duration": 3.12,
+      "text": "up things. So we're going to do a"
+    },
+    {
+      "start": 1506.4,
+      "duration": 4.32,
+      "text": "character design of a futuristic female"
+    },
+    {
+      "start": 1508.32,
+      "duration": 3.92,
+      "text": "female human space adventurer. And she's"
+    },
+    {
+      "start": 1510.72,
+      "duration": 3.2,
+      "text": "holding a futuristic gadget with a"
+    },
+    {
+      "start": 1512.24,
+      "duration": 3.2,
+      "text": "holographic display in the background."
+    },
+    {
+      "start": 1513.92,
+      "duration": 4.32,
+      "text": "Perhaps we're designing a next"
+    },
+    {
+      "start": 1515.44,
+      "duration": 4.48,
+      "text": "generation sci-fi movie uh and we want"
+    },
+    {
+      "start": 1518.24,
+      "duration": 4.88,
+      "text": "to come up with character designs and"
+    },
+    {
+      "start": 1519.92,
+      "duration": 6.08,
+      "text": "iterate on them. So here we go. We are"
+    },
+    {
+      "start": 1523.12,
+      "duration": 6.72,
+      "text": "able to generate a very highly uh high"
+    },
+    {
+      "start": 1526.0,
+      "duration": 5.28,
+      "text": "revol high uh fidelity image of a female"
+    },
+    {
+      "start": 1529.84,
+      "duration": 4.16,
+      "text": "adventure. And then we can work around"
+    },
+    {
+      "start": 1531.28,
+      "duration": 4.64,
+      "text": "this. We can add different uh effects to"
+    },
+    {
+      "start": 1534.0,
+      "duration": 4.32,
+      "text": "the the character by changing the"
+    },
+    {
+      "start": 1535.92,
+      "duration": 4.72,
+      "text": "clothing, switching out uh from the"
+    },
+    {
+      "start": 1538.32,
+      "duration": 4.48,
+      "text": "shots to from close-up to wide view and"
+    },
+    {
+      "start": 1540.64,
+      "duration": 4.08,
+      "text": "and full body shots. All of these you"
+    },
+    {
+      "start": 1542.8,
+      "duration": 4.16,
+      "text": "can do with just words. If you can think"
+    },
+    {
+      "start": 1544.72,
+      "duration": 5.08,
+      "text": "of the word, you can generate it with uh"
+    },
+    {
+      "start": 1546.96,
+      "duration": 6.24,
+      "text": "stable diffusion and stability AIS"
+    },
+    {
+      "start": 1549.8,
+      "duration": 7.88,
+      "text": "models. Let's do one last shot. Let's do"
+    },
+    {
+      "start": 1553.2,
+      "duration": 6.8,
+      "text": "one last shot on a uh set design for a"
+    },
+    {
+      "start": 1557.68,
+      "duration": 4.88,
+      "text": "uh for New York, a post-apocalypse New"
+    },
+    {
+      "start": 1560.0,
+      "duration": 5.44,
+      "text": "York, and then a street looking up at"
+    },
+    {
+      "start": 1562.56,
+      "duration": 5.52,
+      "text": "the decayed building as they are kind of"
+    },
+    {
+      "start": 1565.44,
+      "duration": 7.28,
+      "text": "merging with plants. a kind of a merge"
+    },
+    {
+      "start": 1568.08,
+      "duration": 9.64,
+      "text": "between uh nature and and civilization"
+    },
+    {
+      "start": 1572.72,
+      "duration": 10.16,
+      "text": "but in a in a post-apocalyptic way."
+    },
+    {
+      "start": 1577.72,
+      "duration": 8.04,
+      "text": "And there we go. We now have images that"
+    },
+    {
+      "start": 1582.88,
+      "duration": 6.24,
+      "text": "we can generate of of this ideation of"
+    },
+    {
+      "start": 1585.76,
+      "duration": 5.92,
+      "text": "this set design in a way. Um and that's"
+    },
+    {
+      "start": 1589.12,
+      "duration": 4.4,
+      "text": "that's about as simple as as it is. You"
+    },
+    {
+      "start": 1591.68,
+      "duration": 3.92,
+      "text": "don't need to worry too much about it."
+    },
+    {
+      "start": 1593.52,
+      "duration": 3.76,
+      "text": "It's the easiest way to generate images"
+    },
+    {
+      "start": 1595.6,
+      "duration": 3.84,
+      "text": "by just thinking of the words that you"
+    },
+    {
+      "start": 1597.28,
+      "duration": 6.04,
+      "text": "want and literally just putting them in"
+    },
+    {
+      "start": 1599.44,
+      "duration": 6.96,
+      "text": "as prompts. Um, and under your model"
+    },
+    {
+      "start": 1603.32,
+      "duration": 6.84,
+      "text": "endpoint, you can find the code that you"
+    },
+    {
+      "start": 1606.4,
+      "duration": 7.28,
+      "text": "need to uh actually use this in in your"
+    },
+    {
+      "start": 1610.16,
+      "duration": 5.36,
+      "text": "in your production. So that's it. That's"
+    },
+    {
+      "start": 1613.68,
+      "duration": 3.52,
+      "text": "that that that's how easy it is to use"
+    },
+    {
+      "start": 1615.52,
+      "duration": 4.32,
+      "text": "stable uh diffusion models from"
+    },
+    {
+      "start": 1617.2,
+      "duration": 4.72,
+      "text": "stability AI. and and we hope that you"
+    },
+    {
+      "start": 1619.84,
+      "duration": 6.44,
+      "text": "that you love uh working with them as"
+    },
+    {
+      "start": 1621.92,
+      "duration": 4.36,
+      "text": "much as we love working with them."
+    },
+    {
+      "start": 1627.12,
+      "duration": 6.0,
+      "text": "Hey, that was awesome. Sunwal and Ken."
+    },
+    {
+      "start": 1629.92,
+      "duration": 5.52,
+      "text": "Um I saw that you had a lot of text to"
+    },
+    {
+      "start": 1633.12,
+      "duration": 3.68,
+      "text": "image examples. So I'm kind of wondering"
+    },
+    {
+      "start": 1635.44,
+      "duration": 2.8,
+      "text": "if there are some you know stable"
+    },
+    {
+      "start": 1636.8,
+      "duration": 3.76,
+      "text": "diffusion large one of the important"
+    },
+    {
+      "start": 1638.24,
+      "duration": 4.48,
+      "text": "features is image to image generation"
+    },
+    {
+      "start": 1640.56,
+      "duration": 4.16,
+      "text": "capabilities. So do you have something"
+    },
+    {
+      "start": 1642.72,
+      "duration": 4.08,
+      "text": "that you can show us quickly about on"
+    },
+    {
+      "start": 1644.72,
+      "duration": 6.0,
+      "text": "that?"
+    },
+    {
+      "start": 1646.8,
+      "duration": 5.92,
+      "text": "Absolutely. How'd you know?"
+    },
+    {
+      "start": 1650.72,
+      "duration": 3.68,
+      "text": "Yeah. So, we should roll to the next"
+    },
+    {
+      "start": 1652.72,
+      "duration": 3.44,
+      "text": "one. Is that what you're saying?"
+    },
+    {
+      "start": 1654.4,
+      "duration": 4.32,
+      "text": "Absolutely. Yeah. Let's do it. Let's do"
+    },
+    {
+      "start": 1656.16,
+      "duration": 4.16,
+      "text": "it. Hello, my name is Jessica and today"
+    },
+    {
+      "start": 1658.72,
+      "duration": 3.92,
+      "text": "I am going to be walking you through"
+    },
+    {
+      "start": 1660.32,
+      "duration": 5.48,
+      "text": "imageto image generation utilizing"
+    },
+    {
+      "start": 1662.64,
+      "duration": 6.08,
+      "text": "stable diffusion 35 large from stability"
+    },
+    {
+      "start": 1665.8,
+      "duration": 5.16,
+      "text": "AI. This is Azure's first image to image"
+    },
+    {
+      "start": 1668.72,
+      "duration": 4.8,
+      "text": "capability available as a service and it"
+    },
+    {
+      "start": 1670.96,
+      "duration": 5.36,
+      "text": "is available to use today in Azure AI"
+    },
+    {
+      "start": 1673.52,
+      "duration": 4.4,
+      "text": "foundry in our images playground. So"
+    },
+    {
+      "start": 1676.32,
+      "duration": 3.76,
+      "text": "getting started, you can see that I have"
+    },
+    {
+      "start": 1677.92,
+      "duration": 4.56,
+      "text": "my deployment of stable diffusion 35"
+    },
+    {
+      "start": 1680.08,
+      "duration": 4.32,
+      "text": "large already ready to go. And here you"
+    },
+    {
+      "start": 1682.48,
+      "duration": 4.72,
+      "text": "can see the image playground where there"
+    },
+    {
+      "start": 1684.4,
+      "duration": 5.68,
+      "text": "are two different options for me to"
+    },
+    {
+      "start": 1687.2,
+      "duration": 6.16,
+      "text": "provide input. So I'm going to upload a"
+    },
+    {
+      "start": 1690.08,
+      "duration": 6.96,
+      "text": "file as my input image and I will use"
+    },
+    {
+      "start": 1693.36,
+      "duration": 5.2,
+      "text": "this little bunny holding an egg. So"
+    },
+    {
+      "start": 1697.04,
+      "duration": 3.84,
+      "text": "what I would like to do with this photo"
+    },
+    {
+      "start": 1698.56,
+      "duration": 4.52,
+      "text": "is I would like to change the"
+    },
+    {
+      "start": 1700.88,
+      "duration": 5.04,
+      "text": "composition of it. Perhaps we'll do"
+    },
+    {
+      "start": 1703.08,
+      "duration": 5.2,
+      "text": "a bronze pendant."
+    },
+    {
+      "start": 1705.92,
+      "duration": 6.2,
+      "text": "of a cute"
+    },
+    {
+      "start": 1708.28,
+      "duration": 8.2,
+      "text": "bunny holding"
+    },
+    {
+      "start": 1712.12,
+      "duration": 6.84,
+      "text": "an opal egg. So we will change both the"
+    },
+    {
+      "start": 1716.48,
+      "duration": 3.92,
+      "text": "composition of the bunny to be bronze"
+    },
+    {
+      "start": 1718.96,
+      "duration": 3.16,
+      "text": "and we will change the composition of"
+    },
+    {
+      "start": 1720.4,
+      "duration": 5.04,
+      "text": "the egg to now be"
+    },
+    {
+      "start": 1722.12,
+      "duration": 5.64,
+      "text": "opal. So when I test this here, it will"
+    },
+    {
+      "start": 1725.44,
+      "duration": 4.48,
+      "text": "utilize both the text provided and the"
+    },
+    {
+      "start": 1727.76,
+      "duration": 5.16,
+      "text": "image provided to create my desired"
+    },
+    {
+      "start": 1729.92,
+      "duration": 3.0,
+      "text": "image."
+    },
+    {
+      "start": 1740.56,
+      "duration": 5.44,
+      "text": "And as you can see fairly quickly, the"
+    },
+    {
+      "start": 1743.68,
+      "duration": 5.36,
+      "text": "image generated is a bronze bunny"
+    },
+    {
+      "start": 1746.0,
+      "duration": 5.76,
+      "text": "pendant holding an opal egg. And let's"
+    },
+    {
+      "start": 1749.04,
+      "duration": 5.12,
+      "text": "see if I wanted to actually change this"
+    },
+    {
+      "start": 1751.76,
+      "duration": 5.44,
+      "text": "from a bronze pendant. Let's see if we"
+    },
+    {
+      "start": 1754.16,
+      "duration": 8.04,
+      "text": "change the composition to being a wooden"
+    },
+    {
+      "start": 1757.2,
+      "duration": 5.0,
+      "text": "pendant. And we run the prompt again."
+    },
+    {
+      "start": 1775.36,
+      "duration": 4.32,
+      "text": "You can see the bunny has changed from a"
+    },
+    {
+      "start": 1777.6,
+      "duration": 4.48,
+      "text": "bronze pendant to a wooden pendant, has"
+    },
+    {
+      "start": 1779.68,
+      "duration": 4.88,
+      "text": "kept the opal egg, and very clearly"
+    },
+    {
+      "start": 1782.08,
+      "duration": 6.36,
+      "text": "utilizes the input image as the basis of"
+    },
+    {
+      "start": 1784.56,
+      "duration": 3.88,
+      "text": "the generated image."
+    },
+    {
+      "start": 1792.36,
+      "duration": 4.92,
+      "text": "Wow. Yeah, I know some of you had"
+    },
+    {
+      "start": 1795.6,
+      "duration": 3.84,
+      "text": "trouble with the volume. So, we will"
+    },
+    {
+      "start": 1797.28,
+      "duration": 4.64,
+      "text": "probably put the demo on our GitHub repo"
+    },
+    {
+      "start": 1799.44,
+      "duration": 5.36,
+      "text": "and also the presentation that you can"
+    },
+    {
+      "start": 1801.92,
+      "duration": 5.2,
+      "text": "take a look at it later as well. Yeah."
+    },
+    {
+      "start": 1804.8,
+      "duration": 4.16,
+      "text": "And I just want to say I the reason I"
+    },
+    {
+      "start": 1807.12,
+      "duration": 3.68,
+      "text": "was distracted is the questions keeps"
+    },
+    {
+      "start": 1808.96,
+      "duration": 4.0,
+      "text": "rolling and I really want to thank both"
+    },
+    {
+      "start": 1810.8,
+      "duration": 4.16,
+      "text": "our speakers for like jumping on the"
+    },
+    {
+      "start": 1812.96,
+      "duration": 4.32,
+      "text": "chat. Uh we have a couple of minutes. I"
+    },
+    {
+      "start": 1814.96,
+      "duration": 4.64,
+      "text": "think we're almost at time. So, uh, I"
+    },
+    {
+      "start": 1817.28,
+      "duration": 3.84,
+      "text": "want to basically continue to see if we"
+    },
+    {
+      "start": 1819.6,
+      "duration": 3.68,
+      "text": "can, uh, handle questions while I can,"
+    },
+    {
+      "start": 1821.12,
+      "duration": 4.0,
+      "text": "but just two couple of things. Next week"
+    },
+    {
+      "start": 1823.28,
+      "duration": 4.56,
+      "text": "on Model Mondays, we will have a"
+    },
+    {
+      "start": 1825.12,
+      "duration": 4.64,
+      "text": "hands-on session on fine-tuning models"
+    },
+    {
+      "start": 1827.84,
+      "duration": 3.44,
+      "text": "with Mrol. So, if you're interested in"
+    },
+    {
+      "start": 1829.76,
+      "duration": 3.28,
+      "text": "that, don't forget to kind of just"
+    },
+    {
+      "start": 1831.28,
+      "duration": 2.84,
+      "text": "register on the same site. It's the"
+    },
+    {
+      "start": 1833.04,
+      "duration": 3.52,
+      "text": "model"
+    },
+    {
+      "start": 1834.12,
+      "duration": 4.76,
+      "text": "Mondays. But I also want to throw this"
+    },
+    {
+      "start": 1836.56,
+      "duration": 5.2,
+      "text": "out. Uh, we may not have time to take"
+    },
+    {
+      "start": 1838.88,
+      "duration": 5.2,
+      "text": "all questions right now, but please do"
+    },
+    {
+      "start": 1841.76,
+      "duration": 5.08,
+      "text": "show up at the AMA that we'll have this"
+    },
+    {
+      "start": 1844.08,
+      "duration": 4.64,
+      "text": "Friday. The link is"
+    },
+    {
+      "start": 1846.84,
+      "duration": 4.12,
+      "text": "ak.msmodely-enmon's chat or you can grab"
+    },
+    {
+      "start": 1848.72,
+      "duration": 4.4,
+      "text": "that QR code. And hopefully we'll have"
+    },
+    {
+      "start": 1850.96,
+      "duration": 3.92,
+      "text": "the stability AI folks there as well to"
+    },
+    {
+      "start": 1853.12,
+      "duration": 4.48,
+      "text": "take more questions. But in the"
+    },
+    {
+      "start": 1854.88,
+      "duration": 4.4,
+      "text": "meantime, uh, Sonol and Ken, any"
+    },
+    {
+      "start": 1857.6,
+      "duration": 3.68,
+      "text": "questions that popped out to you? Any"
+    },
+    {
+      "start": 1859.28,
+      "duration": 4.16,
+      "text": "last final thoughts that you'd like to"
+    },
+    {
+      "start": 1861.28,
+      "duration": 4.88,
+      "text": "kind of like cover while we have a"
+    },
+    {
+      "start": 1863.44,
+      "duration": 4.8,
+      "text": "minute or two left?"
+    },
+    {
+      "start": 1866.16,
+      "duration": 4.32,
+      "text": "Um, I mean, from my perspective, we we"
+    },
+    {
+      "start": 1868.24,
+      "duration": 5.04,
+      "text": "just did have like uh, you know, someone"
+    },
+    {
+      "start": 1870.48,
+      "duration": 5.04,
+      "text": "was asking for a specific prompt. What a"
+    },
+    {
+      "start": 1873.28,
+      "duration": 4.88,
+      "text": "great idea to use the playground. Um,"
+    },
+    {
+      "start": 1875.52,
+      "duration": 4.4,
+      "text": "and so I highly recommend um, for"
+    },
+    {
+      "start": 1878.16,
+      "duration": 4.24,
+      "text": "everyone out there, just go out and test"
+    },
+    {
+      "start": 1879.92,
+      "duration": 4.72,
+      "text": "the models and, you know, put in your"
+    },
+    {
+      "start": 1882.4,
+      "duration": 4.16,
+      "text": "prompts um, and see see what kind of"
+    },
+    {
+      "start": 1884.64,
+      "duration": 3.36,
+      "text": "output you could get. It's personally"
+    },
+    {
+      "start": 1886.56,
+      "duration": 3.12,
+      "text": "like I love working for this company."
+    },
+    {
+      "start": 1888.0,
+      "duration": 3.44,
+      "text": "It's just fun to go out there and play"
+    },
+    {
+      "start": 1889.68,
+      "duration": 4.16,
+      "text": "with and create my own art and create my"
+    },
+    {
+      "start": 1891.44,
+      "duration": 4.56,
+      "text": "own own images. And then um I think"
+    },
+    {
+      "start": 1893.84,
+      "duration": 4.8,
+      "text": "there were potentially we answered most"
+    },
+    {
+      "start": 1896.0,
+      "duration": 5.76,
+      "text": "of the questions and then um yeah we'll"
+    },
+    {
+      "start": 1898.64,
+      "duration": 4.88,
+      "text": "be on on the uh on on the call on Friday"
+    },
+    {
+      "start": 1901.76,
+      "duration": 3.68,
+      "text": "and be happier to kind of dive into"
+    },
+    {
+      "start": 1903.52,
+      "duration": 3.44,
+      "text": "things deeper."
+    },
+    {
+      "start": 1905.44,
+      "duration": 2.96,
+      "text": "Yeah. And all the questions that you"
+    },
+    {
+      "start": 1906.96,
+      "duration": 4.08,
+      "text": "asked we'll try to grab these and put"
+    },
+    {
+      "start": 1908.4,
+      "duration": 5.68,
+      "text": "the answers in that site as well uh in a"
+    },
+    {
+      "start": 1911.04,
+      "duration": 4.96,
+      "text": "blog post. Uh and uh again thank you all"
+    },
+    {
+      "start": 1914.08,
+      "duration": 4.88,
+      "text": "so much for coming. This time always"
+    },
+    {
+      "start": 1916.0,
+      "duration": 5.28,
+      "text": "flies faster than we know and uh hugely"
+    },
+    {
+      "start": 1918.96,
+      "duration": 4.32,
+      "text": "appreciate you uh being here with us for"
+    },
+    {
+      "start": 1921.28,
+      "duration": 4.96,
+      "text": "model Mondays everyone in stability AI"
+    },
+    {
+      "start": 1923.28,
+      "duration": 4.8,
+      "text": "and we will see you next week and San I"
+    },
+    {
+      "start": 1926.24,
+      "duration": 4.56,
+      "text": "see that you were able to generate with"
+    },
+    {
+      "start": 1928.08,
+      "duration": 6.24,
+      "text": "the prompt Surya asked if you can send"
+    },
+    {
+      "start": 1930.8,
+      "duration": 5.84,
+      "text": "me the prompt like the picture that we"
+    },
+    {
+      "start": 1934.32,
+      "duration": 5.96,
+      "text": "can"
+    },
+    {
+      "start": 1936.64,
+      "duration": 3.64,
+      "text": "on GitHub. Yeah."
+    },
+    {
+      "start": 1940.8,
+      "duration": 3.36,
+      "text": "Awesome."
+    },
+    {
+      "start": 1942.64,
+      "duration": 5.48,
+      "text": "Thank you all."
+    },
+    {
+      "start": 1944.16,
+      "duration": 3.96,
+      "text": "Thank you. Bye."
+    }
+  ]
+}

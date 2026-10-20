@@ -1,0 +1,5153 @@
+{
+  "videoId": "Rr4iSCyE7IY",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:00:55+00:00",
+  "segments": [
+    {
+      "start": 8.08,
+      "duration": 5.04,
+      "text": "Hi everyone. Thanks for joining us for"
+    },
+    {
+      "start": 10.24,
+      "duration": 4.72,
+      "text": "the next episode of Model Mondays. My"
+    },
+    {
+      "start": 13.12,
+      "duration": 3.6,
+      "text": "name is Anna. I'm an event planner for"
+    },
+    {
+      "start": 14.96,
+      "duration": 3.76,
+      "text": "Reactor joining you from Redmond,"
+    },
+    {
+      "start": 16.72,
+      "duration": 3.92,
+      "text": "Washington."
+    },
+    {
+      "start": 18.72,
+      "duration": 3.52,
+      "text": "Before we start, I do have some quick"
+    },
+    {
+      "start": 20.64,
+      "duration": 3.2,
+      "text": "housekeeping."
+    },
+    {
+      "start": 22.24,
+      "duration": 3.2,
+      "text": "Please take a moment to read our code of"
+    },
+    {
+      "start": 23.84,
+      "duration": 3.2,
+      "text": "conduct."
+    },
+    {
+      "start": 25.44,
+      "duration": 3.2,
+      "text": "We seek to provide a respectful"
+    },
+    {
+      "start": 27.04,
+      "duration": 3.04,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 28.64,
+      "duration": 3.44,
+      "text": "presenters."
+    },
+    {
+      "start": 30.08,
+      "duration": 4.08,
+      "text": "While we absolutely encourage engagement"
+    },
+    {
+      "start": 32.08,
+      "duration": 3.92,
+      "text": "in the chat, we ask that you please be"
+    },
+    {
+      "start": 34.16,
+      "duration": 4.32,
+      "text": "mindful of your commentary. Remain"
+    },
+    {
+      "start": 36.0,
+      "duration": 4.24,
+      "text": "professional and on topic."
+    },
+    {
+      "start": 38.48,
+      "duration": 3.6,
+      "text": "Keep an eye on that chat. We'll be"
+    },
+    {
+      "start": 40.24,
+      "duration": 3.68,
+      "text": "dropping helpful links and checking for"
+    },
+    {
+      "start": 42.08,
+      "duration": 4.64,
+      "text": "questions for our presenters and hosts"
+    },
+    {
+      "start": 43.92,
+      "duration": 4.96,
+      "text": "to answer live. Our session is being"
+    },
+    {
+      "start": 46.72,
+      "duration": 4.16,
+      "text": "recorded and will be available to view"
+    },
+    {
+      "start": 48.88,
+      "duration": 4.0,
+      "text": "on demand right here on the Microsoft"
+    },
+    {
+      "start": 50.88,
+      "duration": 3.6,
+      "text": "Reactor channel."
+    },
+    {
+      "start": 52.88,
+      "duration": 5.2,
+      "text": "With that, I'd love to turn it over to"
+    },
+    {
+      "start": 54.48,
+      "duration": 5.52,
+      "text": "our host for today. Thanks for joining."
+    },
+    {
+      "start": 58.08,
+      "duration": 4.48,
+      "text": "Thank you so much. Anna for the warm"
+    },
+    {
+      "start": 60.0,
+      "duration": 5.44,
+      "text": "welcome. Uh Anna is our producer for the"
+    },
+    {
+      "start": 62.56,
+      "duration": 4.8,
+      "text": "day and myself and Anna will be in the"
+    },
+    {
+      "start": 65.44,
+      "duration": 4.08,
+      "text": "chat looking out for any questions you"
+    },
+    {
+      "start": 67.36,
+      "duration": 4.24,
+      "text": "might have. But a warm welcome to"
+    },
+    {
+      "start": 69.52,
+      "duration": 5.04,
+      "text": "everyone who's joining us today. I'm"
+    },
+    {
+      "start": 71.6,
+      "duration": 5.6,
+      "text": "seeing Ravi from San Diego and Derek"
+    },
+    {
+      "start": 74.56,
+      "duration": 5.28,
+      "text": "from Canada. So welcome. I am from"
+    },
+    {
+      "start": 77.2,
+      "duration": 5.92,
+      "text": "Kenya. I am Bethany Chumba. I will be"
+    },
+    {
+      "start": 79.84,
+      "duration": 6.16,
+      "text": "your host for today. Uh currently I work"
+    },
+    {
+      "start": 83.12,
+      "duration": 5.84,
+      "text": "in the AI team here at Microsoft, the AI"
+    },
+    {
+      "start": 86.0,
+      "duration": 5.68,
+      "text": "child advocate team. And today we'll be"
+    },
+    {
+      "start": 88.96,
+      "duration": 4.96,
+      "text": "talking about the Azure AI Foundry"
+    },
+    {
+      "start": 91.68,
+      "duration": 5.28,
+      "text": "speech playground. So you'll see what"
+    },
+    {
+      "start": 93.92,
+      "duration": 5.92,
+      "text": "you can do in Azure AI Foundry regarding"
+    },
+    {
+      "start": 96.96,
+      "duration": 5.2,
+      "text": "speech. And if you have any questions"
+    },
+    {
+      "start": 99.84,
+      "duration": 4.72,
+      "text": "from the time any of our speakers show"
+    },
+    {
+      "start": 102.16,
+      "duration": 4.56,
+      "text": "up, feel free to post your questions in"
+    },
+    {
+      "start": 104.56,
+      "duration": 4.4,
+      "text": "the chat and we will be there to answer"
+    },
+    {
+      "start": 106.72,
+      "duration": 5.6,
+      "text": "any questions you might have. Our guest"
+    },
+    {
+      "start": 108.96,
+      "duration": 5.68,
+      "text": "for today is Utkash and he is a program"
+    },
+    {
+      "start": 112.32,
+      "duration": 5.52,
+      "text": "manager at Microsoft and we'll be"
+    },
+    {
+      "start": 114.64,
+      "duration": 5.12,
+      "text": "inviting him in our spotlight series for"
+    },
+    {
+      "start": 117.84,
+      "duration": 6.08,
+      "text": "a demo as well as any questions you"
+    },
+    {
+      "start": 119.76,
+      "duration": 6.08,
+      "text": "might have. Okay, so that's it about our"
+    },
+    {
+      "start": 123.92,
+      "duration": 4.4,
+      "text": "session of today. This is a series that"
+    },
+    {
+      "start": 125.84,
+      "duration": 4.48,
+      "text": "we've been running I think for two"
+    },
+    {
+      "start": 128.32,
+      "duration": 4.24,
+      "text": "months now over the summer from June,"
+    },
+    {
+      "start": 130.32,
+      "duration": 5.52,
+      "text": "July now in August. We've been running"
+    },
+    {
+      "start": 132.56,
+      "duration": 5.2,
+      "text": "these sessions talking about models and"
+    },
+    {
+      "start": 135.84,
+      "duration": 4.32,
+      "text": "if you've missed any of the sessions you"
+    },
+    {
+      "start": 137.76,
+      "duration": 5.52,
+      "text": "can check it out in the link that is"
+    },
+    {
+      "start": 140.16,
+      "duration": 5.76,
+      "text": "provided on the screen. But then if you"
+    },
+    {
+      "start": 143.28,
+      "duration": 4.32,
+      "text": "also want to join us we have two"
+    },
+    {
+      "start": 145.92,
+      "duration": 5.52,
+      "text": "sessions. We have this live stream on"
+    },
+    {
+      "start": 147.6,
+      "duration": 6.56,
+      "text": "Mondays. So every Monday at um 100 p.m."
+    },
+    {
+      "start": 151.44,
+      "duration": 4.96,
+      "text": "you'll find us doing the live stream and"
+    },
+    {
+      "start": 154.16,
+      "duration": 4.88,
+      "text": "then on Friday we'll have an AMA. So you"
+    },
+    {
+      "start": 156.4,
+      "duration": 4.56,
+      "text": "can join us on Friday for the AMA and"
+    },
+    {
+      "start": 159.04,
+      "duration": 4.48,
+      "text": "we'll have all the questions you have"
+    },
+    {
+      "start": 160.96,
+      "duration": 4.08,
+      "text": "answered. The May will be on discord. So"
+    },
+    {
+      "start": 163.52,
+      "duration": 3.92,
+      "text": "that's the other thing. You can join us"
+    },
+    {
+      "start": 165.04,
+      "duration": 4.48,
+      "text": "on discord and hang out with us. Talk to"
+    },
+    {
+      "start": 167.44,
+      "duration": 5.28,
+      "text": "us about the session, what you loved"
+    },
+    {
+      "start": 169.52,
+      "duration": 6.56,
+      "text": "most and any questions you might have."
+    },
+    {
+      "start": 172.72,
+      "duration": 6.48,
+      "text": "Okay. So first of all before go to the"
+    },
+    {
+      "start": 176.08,
+      "duration": 6.16,
+      "text": "speech models I want to invite Shamila."
+    },
+    {
+      "start": 179.2,
+      "duration": 5.04,
+      "text": "Shamila is our senior program manager"
+    },
+    {
+      "start": 182.24,
+      "duration": 3.92,
+      "text": "for the marketing team and she'll be"
+    },
+    {
+      "start": 184.24,
+      "duration": 3.84,
+      "text": "sharing with us some of the weekly"
+    },
+    {
+      "start": 186.16,
+      "duration": 4.32,
+      "text": "highlights. Hi Shamila."
+    },
+    {
+      "start": 188.08,
+      "duration": 4.8,
+      "text": "Hi. Hi Bethany. How are you doing today?"
+    },
+    {
+      "start": 190.48,
+      "duration": 4.56,
+      "text": "I'm good. I'm good. How are you doing?"
+    },
+    {
+      "start": 192.88,
+      "duration": 4.88,
+      "text": "Good. Good. It's been an interesting"
+    },
+    {
+      "start": 195.04,
+      "duration": 5.28,
+      "text": "week or weeks with all the GPD"
+    },
+    {
+      "start": 197.76,
+      "duration": 4.96,
+      "text": "announcements and launches and so many"
+    },
+    {
+      "start": 200.32,
+      "duration": 6.96,
+      "text": "things happening. There's never a dull"
+    },
+    {
+      "start": 202.72,
+      "duration": 6.56,
+      "text": "moment in the world of AI, I believe. So"
+    },
+    {
+      "start": 207.28,
+      "duration": 4.16,
+      "text": "yeah, we've been going strong since I'm"
+    },
+    {
+      "start": 209.28,
+      "duration": 4.96,
+      "text": "guessing 2022."
+    },
+    {
+      "start": 211.44,
+      "duration": 5.44,
+      "text": "Like every year something new."
+    },
+    {
+      "start": 214.24,
+      "duration": 4.88,
+      "text": "Yeah. Yeah, of course."
+    },
+    {
+      "start": 216.88,
+      "duration": 4.72,
+      "text": "Yeah. So we'll roll up the video and"
+    },
+    {
+      "start": 219.12,
+      "duration": 4.56,
+      "text": "then we'll get back to just a small Q&A"
+    },
+    {
+      "start": 221.6,
+      "duration": 4.4,
+      "text": "before we go to the next segment. Uh"
+    },
+    {
+      "start": 223.68,
+      "duration": 4.64,
+      "text": "over to you, Anna."
+    },
+    {
+      "start": 226.0,
+      "duration": 5.6,
+      "text": "Hello everyone and welcome back to Model"
+    },
+    {
+      "start": 228.32,
+      "duration": 5.68,
+      "text": "Monday's weekly highlights. And uh this"
+    },
+    {
+      "start": 231.6,
+      "duration": 4.88,
+      "text": "week we have some very interesting"
+    },
+    {
+      "start": 234.0,
+      "duration": 6.4,
+      "text": "highlights around not just models but"
+    },
+    {
+      "start": 236.48,
+      "duration": 5.92,
+      "text": "also around agent service um and a few"
+    },
+    {
+      "start": 240.4,
+      "duration": 5.36,
+      "text": "other things around Gartner Magic"
+    },
+    {
+      "start": 242.4,
+      "duration": 6.0,
+      "text": "Quadrant and all those um interesting"
+    },
+    {
+      "start": 245.76,
+      "duration": 5.76,
+      "text": "outside of just model launch highlights."
+    },
+    {
+      "start": 248.4,
+      "duration": 5.44,
+      "text": "Um so let's get started. And as usual,"
+    },
+    {
+      "start": 251.52,
+      "duration": 4.56,
+      "text": "every highlight will have a QR code um"
+    },
+    {
+      "start": 253.84,
+      "duration": 4.72,
+      "text": "that will point you to the either the"
+    },
+    {
+      "start": 256.08,
+      "duration": 5.84,
+      "text": "blog or the GitHub repo or a model card."
+    },
+    {
+      "start": 258.56,
+      "duration": 6.24,
+      "text": "So feel free to take um screenshot of it"
+    },
+    {
+      "start": 261.92,
+      "duration": 6.0,
+      "text": "and then explore more."
+    },
+    {
+      "start": 264.8,
+      "duration": 5.6,
+      "text": "The first highlight is about an agent"
+    },
+    {
+      "start": 267.92,
+      "duration": 5.76,
+      "text": "called Lakuna that was built by one of"
+    },
+    {
+      "start": 270.4,
+      "duration": 7.04,
+      "text": "our Microsoft employees as a hackathon"
+    },
+    {
+      "start": 273.68,
+      "duration": 7.04,
+      "text": "project. Now this is kind of addressing"
+    },
+    {
+      "start": 277.44,
+      "duration": 5.36,
+      "text": "the bias like the human bias. Uh so as a"
+    },
+    {
+      "start": 280.72,
+      "duration": 5.04,
+      "text": "product manager every road map Jira"
+    },
+    {
+      "start": 282.8,
+      "duration": 4.8,
+      "text": "ticket or the or PRD is built on like"
+    },
+    {
+      "start": 285.76,
+      "duration": 4.72,
+      "text": "some invisible scaffolding or"
+    },
+    {
+      "start": 287.6,
+      "duration": 5.92,
+      "text": "assumptions. Um most of the time we"
+    },
+    {
+      "start": 290.48,
+      "duration": 6.72,
+      "text": "don't even see those assumptions. We"
+    },
+    {
+      "start": 293.52,
+      "duration": 6.56,
+      "text": "just ship the product. So enter Lakuna"
+    },
+    {
+      "start": 297.2,
+      "duration": 6.24,
+      "text": "again a hackathon built agent powered by"
+    },
+    {
+      "start": 300.08,
+      "duration": 5.04,
+      "text": "Copilot Studio and Azure AI foundry."
+    },
+    {
+      "start": 303.44,
+      "duration": 4.32,
+      "text": "Lacona actually takes your doc"
+    },
+    {
+      "start": 305.12,
+      "duration": 4.88,
+      "text": "requirements, strategies, vision decks"
+    },
+    {
+      "start": 307.76,
+      "duration": 5.12,
+      "text": "and surfaces the bakedin assumptions"
+    },
+    {
+      "start": 310.0,
+      "duration": 5.6,
+      "text": "that you may be blind to. It looks for"
+    },
+    {
+      "start": 312.88,
+      "duration": 5.68,
+      "text": "signals like speculative verbs or"
+    },
+    {
+      "start": 315.6,
+      "duration": 6.48,
+      "text": "confident declarations then scores them"
+    },
+    {
+      "start": 318.56,
+      "duration": 6.48,
+      "text": "by impact, confidence and reversibility"
+    },
+    {
+      "start": 322.08,
+      "duration": 4.8,
+      "text": "all in plain English. It it tells you"
+    },
+    {
+      "start": 325.04,
+      "duration": 4.64,
+      "text": "what breaks if this assumption is"
+    },
+    {
+      "start": 326.88,
+      "duration": 5.04,
+      "text": "strong, how sure are we and how hard is"
+    },
+    {
+      "start": 329.68,
+      "duration": 4.96,
+      "text": "it to pivot. And this agent doesn't"
+    },
+    {
+      "start": 331.92,
+      "duration": 5.44,
+      "text": "criticize, it actually collaborates. So"
+    },
+    {
+      "start": 334.64,
+      "duration": 6.56,
+      "text": "it nudges teams to pause, reflect and"
+    },
+    {
+      "start": 337.36,
+      "duration": 5.68,
+      "text": "test before doubling down. And for"
+    },
+    {
+      "start": 341.2,
+      "duration": 4.48,
+      "text": "product teams who are living in the fog"
+    },
+    {
+      "start": 343.04,
+      "duration": 6.0,
+      "text": "of cognitive bias, Lakuna actually"
+    },
+    {
+      "start": 345.68,
+      "duration": 6.0,
+      "text": "brings a fresh outsider lens and it acts"
+    },
+    {
+      "start": 349.04,
+      "duration": 5.28,
+      "text": "as a curious collaborator to help us"
+    },
+    {
+      "start": 351.68,
+      "duration": 5.52,
+      "text": "notice how we guess before they those"
+    },
+    {
+      "start": 354.32,
+      "duration": 5.04,
+      "text": "guesses harden into actual code. Now"
+    },
+    {
+      "start": 357.2,
+      "duration": 5.84,
+      "text": "this is really spectacular especi"
+    },
+    {
+      "start": 359.36,
+      "duration": 5.92,
+      "text": "especially for product teams. Moving on,"
+    },
+    {
+      "start": 363.04,
+      "duration": 4.48,
+      "text": "if you think models your models are big"
+    },
+    {
+      "start": 365.28,
+      "duration": 4.8,
+      "text": "now, wait until you try to squeeze"
+    },
+    {
+      "start": 367.52,
+      "duration": 7.36,
+      "text": "tomorrow's 1 million token bees into"
+    },
+    {
+      "start": 370.08,
+      "duration": 8.08,
+      "text": "yesterday's GPUs. That's where ND H200"
+    },
+    {
+      "start": 374.88,
+      "duration": 5.76,
+      "text": "V5 VMs come in. Azure Machine Learning"
+    },
+    {
+      "start": 378.16,
+      "duration": 6.56,
+      "text": "just dropped these monsters, each"
+    },
+    {
+      "start": 380.64,
+      "duration": 8.8,
+      "text": "powered by eight Nvidia H200 Tensor Core"
+    },
+    {
+      "start": 384.72,
+      "duration": 6.56,
+      "text": "GPUs with a jaw-dropping 144 1 GBTE of"
+    },
+    {
+      "start": 389.44,
+      "duration": 5.68,
+      "text": "HBM3e"
+    },
+    {
+      "start": 391.28,
+      "duration": 7.28,
+      "text": "memory per GPU. That's a 76% jump over"
+    },
+    {
+      "start": 395.12,
+      "duration": 6.0,
+      "text": "H100's, giving you over a terabyte of"
+    },
+    {
+      "start": 398.56,
+      "duration": 4.72,
+      "text": "GPU memory per VM. So why does this"
+    },
+    {
+      "start": 401.12,
+      "duration": 4.56,
+      "text": "matter? Because memory is the new"
+    },
+    {
+      "start": 403.28,
+      "duration": 4.4,
+      "text": "superpower. bigger context windows,"
+    },
+    {
+      "start": 405.68,
+      "duration": 4.64,
+      "text": "larger batches, and high resolution"
+    },
+    {
+      "start": 407.68,
+      "duration": 5.76,
+      "text": "visions, vision tokens can now run"
+    },
+    {
+      "start": 410.32,
+      "duration": 6.64,
+      "text": "without any painful offloading tricks."
+    },
+    {
+      "start": 413.44,
+      "duration": 6.0,
+      "text": "So with 4.8 tab of throughput per GPU,"
+    },
+    {
+      "start": 416.96,
+      "duration": 5.76,
+      "text": "you're feeding data fast enough to keep"
+    },
+    {
+      "start": 419.44,
+      "duration": 6.32,
+      "text": "the compute engines humming."
+    },
+    {
+      "start": 422.72,
+      "duration": 5.68,
+      "text": "So um the the next highlight is around"
+    },
+    {
+      "start": 425.76,
+      "duration": 5.44,
+      "text": "agent factory. Agent Factory is a series"
+    },
+    {
+      "start": 428.4,
+      "duration": 6.48,
+      "text": "of blogs that we are um actually"
+    },
+    {
+      "start": 431.2,
+      "duration": 7.28,
+      "text": "dropping weekly around agents and um"
+    },
+    {
+      "start": 434.88,
+      "duration": 7.28,
+      "text": "this is like the second in a multi-part"
+    },
+    {
+      "start": 438.48,
+      "duration": 7.76,
+      "text": "series of um a um blog series around"
+    },
+    {
+      "start": 442.16,
+      "duration": 6.32,
+      "text": "agent agents and the last um one the"
+    },
+    {
+      "start": 446.24,
+      "duration": 4.64,
+      "text": "first one was around patterns that you"
+    },
+    {
+      "start": 448.48,
+      "duration": 5.6,
+      "text": "can expect and uh when you're building"
+    },
+    {
+      "start": 450.88,
+      "duration": 5.12,
+      "text": "your agents and now it is around"
+    },
+    {
+      "start": 454.08,
+      "duration": 3.52,
+      "text": "extensibility. So if the past year"
+    },
+    {
+      "start": 456.0,
+      "duration": 3.84,
+      "text": "taught us anything, it's this that"
+    },
+    {
+      "start": 457.6,
+      "duration": 5.12,
+      "text": "agents are only as smart as the tools"
+    },
+    {
+      "start": 459.84,
+      "duration": 5.2,
+      "text": "you give them. The first wave of agentic"
+    },
+    {
+      "start": 462.72,
+      "duration": 4.8,
+      "text": "AI was all about promps and single"
+    },
+    {
+      "start": 465.04,
+      "duration": 5.04,
+      "text": "models. Now the next wave, it's about"
+    },
+    {
+      "start": 467.52,
+      "duration": 5.76,
+      "text": "extensibility. Making sure your agents"
+    },
+    {
+      "start": 470.08,
+      "duration": 6.16,
+      "text": "can plug into hundreds of APIs, ser"
+    },
+    {
+      "start": 473.28,
+      "duration": 5.76,
+      "text": "services and workflows without breaking"
+    },
+    {
+      "start": 476.24,
+      "duration": 6.88,
+      "text": "every time a schema change changes. And"
+    },
+    {
+      "start": 479.04,
+      "duration": 6.8,
+      "text": "this is where um MCP becomes a gamecher."
+    },
+    {
+      "start": 483.12,
+      "duration": 4.64,
+      "text": "So this means tools become"
+    },
+    {
+      "start": 485.84,
+      "duration": 3.76,
+      "text": "self-describing, portable and"
+    },
+    {
+      "start": 487.76,
+      "duration": 3.68,
+      "text": "discoverable at runtime. So this means"
+    },
+    {
+      "start": 489.6,
+      "duration": 4.24,
+      "text": "no more bespoke rappers for each"
+    },
+    {
+      "start": 491.44,
+      "duration": 4.96,
+      "text": "runtime. No more brittle integrations"
+    },
+    {
+      "start": 493.84,
+      "duration": 6.4,
+      "text": "and way more reusability across teams"
+    },
+    {
+      "start": 496.4,
+      "duration": 6.72,
+      "text": "and clouds. And Azure AI foundry"
+    },
+    {
+      "start": 500.24,
+      "duration": 5.36,
+      "text": "actually supports MCP out of the box. So"
+    },
+    {
+      "start": 503.12,
+      "duration": 4.96,
+      "text": "you can bring in any existing MCP"
+    },
+    {
+      "start": 505.6,
+      "duration": 4.56,
+      "text": "servers, wire them into your agents and"
+    },
+    {
+      "start": 508.08,
+      "duration": 4.48,
+      "text": "still get enterprisegrade governance,"
+    },
+    {
+      "start": 510.16,
+      "duration": 6.64,
+      "text": "observability, and security. So bottom"
+    },
+    {
+      "start": 512.56,
+      "duration": 7.2,
+      "text": "line tools are your fuel. MCP is the"
+    },
+    {
+      "start": 516.8,
+      "duration": 6.0,
+      "text": "actual wiring and foundry Azure AI"
+    },
+    {
+      "start": 519.76,
+      "duration": 6.88,
+      "text": "foundry is the engine that you use to"
+    },
+    {
+      "start": 522.8,
+      "duration": 9.76,
+      "text": "build your agentic applications."
+    },
+    {
+      "start": 526.64,
+      "duration": 8.72,
+      "text": "Um again when GPT5 dropped um its model"
+    },
+    {
+      "start": 532.56,
+      "duration": 5.12,
+      "text": "we launched it first on Azure AI foundry"
+    },
+    {
+      "start": 535.36,
+      "duration": 5.6,
+      "text": "even before GPT5 and that's something we"
+    },
+    {
+      "start": 537.68,
+      "duration": 5.76,
+      "text": "are proud of. um though this is not a"
+    },
+    {
+      "start": 540.96,
+      "duration": 4.88,
+      "text": "new net new GPT5 news it's something"
+    },
+    {
+      "start": 543.44,
+      "duration": 6.72,
+      "text": "that we wanted to call out as part of"
+    },
+    {
+      "start": 545.84,
+      "duration": 8.24,
+      "text": "the um GPTI um features which is free"
+    },
+    {
+      "start": 550.16,
+      "duration": 6.16,
+      "text": "form tool calling the so this means that"
+    },
+    {
+      "start": 554.08,
+      "duration": 5.12,
+      "text": "the model no longer has to squeeze"
+    },
+    {
+      "start": 556.32,
+      "duration": 5.76,
+      "text": "everything into rigid JSON instead it"
+    },
+    {
+      "start": 559.2,
+      "duration": 5.76,
+      "text": "can shoot off raw text like SQL query"
+    },
+    {
+      "start": 562.08,
+      "duration": 5.36,
+      "text": "queries Python scripts or config files"
+    },
+    {
+      "start": 564.96,
+      "duration": 5.12,
+      "text": "directly in the format you your tool"
+    },
+    {
+      "start": 567.44,
+      "duration": 5.68,
+      "text": "expects so why Does this matter? Because"
+    },
+    {
+      "start": 570.08,
+      "duration": 5.68,
+      "text": "JSON wrappers while structured often add"
+    },
+    {
+      "start": 573.12,
+      "duration": 5.68,
+      "text": "frict friction. Free form tool calling"
+    },
+    {
+      "start": 575.76,
+      "duration": 4.96,
+      "text": "feels more natural, more flexible and"
+    },
+    {
+      "start": 578.8,
+      "duration": 4.08,
+      "text": "much more closer to how developers"
+    },
+    {
+      "start": 580.72,
+      "duration": 5.52,
+      "text": "actually work. You can chain tools"
+    },
+    {
+      "start": 582.88,
+      "duration": 5.84,
+      "text": "together like quering a database with"
+    },
+    {
+      "start": 586.24,
+      "duration": 5.12,
+      "text": "SQL and then hand results to a Python"
+    },
+    {
+      "start": 588.72,
+      "duration": 5.04,
+      "text": "script without babysitting format"
+    },
+    {
+      "start": 591.36,
+      "duration": 4.64,
+      "text": "conversions. So the result is actually"
+    },
+    {
+      "start": 593.76,
+      "duration": 6.0,
+      "text": "cleaner integrations, faster developer"
+    },
+    {
+      "start": 596.0,
+      "duration": 5.92,
+      "text": "cycles and more expressive workflows. So"
+    },
+    {
+      "start": 599.76,
+      "duration": 4.16,
+      "text": "this is a big toward a step towards"
+    },
+    {
+      "start": 601.92,
+      "duration": 4.72,
+      "text": "making agents feel less like brittle"
+    },
+    {
+      "start": 603.92,
+      "duration": 4.64,
+      "text": "pipelines and more like intuitive"
+    },
+    {
+      "start": 606.64,
+      "duration": 4.24,
+      "text": "collaborators."
+    },
+    {
+      "start": 608.56,
+      "duration": 4.88,
+      "text": "And the final final highlight is"
+    },
+    {
+      "start": 610.88,
+      "duration": 4.8,
+      "text": "something I'm super proud of which is"
+    },
+    {
+      "start": 613.44,
+      "duration": 5.52,
+      "text": "that Microsoft has once again been named"
+    },
+    {
+      "start": 615.68,
+      "duration": 5.6,
+      "text": "a leader in the 2025 Gatner Gartner"
+    },
+    {
+      "start": 618.96,
+      "duration": 4.8,
+      "text": "Magic Quadrant for cloudnative"
+    },
+    {
+      "start": 621.28,
+      "duration": 5.28,
+      "text": "application platforms and not just a"
+    },
+    {
+      "start": 623.76,
+      "duration": 5.28,
+      "text": "leader we are the farthest right in"
+    },
+    {
+      "start": 626.56,
+      "duration": 4.56,
+      "text": "completeness of vision. So it's a"
+    },
+    {
+      "start": 629.04,
+      "duration": 3.92,
+      "text": "validation that Azure isn't just keeping"
+    },
+    {
+      "start": 631.12,
+      "duration": 4.16,
+      "text": "up with the AI wave. It's actually"
+    },
+    {
+      "start": 632.96,
+      "duration": 4.96,
+      "text": "defining it from app service and"
+    },
+    {
+      "start": 635.28,
+      "duration": 6.0,
+      "text": "container apps to functions static web"
+    },
+    {
+      "start": 637.92,
+      "duration": 5.6,
+      "text": "apps and now agentic devops integrated"
+    },
+    {
+      "start": 641.28,
+      "duration": 4.56,
+      "text": "with GitHub copilot and Azure AI"
+    },
+    {
+      "start": 643.52,
+      "duration": 4.56,
+      "text": "foundry. The platform gives you an"
+    },
+    {
+      "start": 645.84,
+      "duration": 4.56,
+      "text": "end-to-end runway where you can build,"
+    },
+    {
+      "start": 648.08,
+      "duration": 4.0,
+      "text": "deploy, scale and repeat without"
+    },
+    {
+      "start": 650.4,
+      "duration": 4.32,
+      "text": "friction. So whether you're running"
+    },
+    {
+      "start": 652.08,
+      "duration": 4.72,
+      "text": "microservices, pushing AI agents into"
+    },
+    {
+      "start": 654.72,
+      "duration": 4.72,
+      "text": "production, or just trying to ship code"
+    },
+    {
+      "start": 656.8,
+      "duration": 5.44,
+      "text": "faster, this recognition actually"
+    },
+    {
+      "start": 659.44,
+      "duration": 5.36,
+      "text": "reinforces that Azure is where vision"
+    },
+    {
+      "start": 662.24,
+      "duration": 4.88,
+      "text": "meets execution."
+    },
+    {
+      "start": 664.8,
+      "duration": 4.72,
+      "text": "So that brings us to the highlights,"
+    },
+    {
+      "start": 667.12,
+      "duration": 6.56,
+      "text": "weekly highlights. And now I'll hand it"
+    },
+    {
+      "start": 669.52,
+      "duration": 6.24,
+      "text": "over to Bethany. Thank you all."
+    },
+    {
+      "start": 673.68,
+      "duration": 5.12,
+      "text": "Thank you Shamila for the highlights."
+    },
+    {
+      "start": 675.76,
+      "duration": 5.04,
+      "text": "They are always on point. Uh I'm not"
+    },
+    {
+      "start": 678.8,
+      "duration": 5.28,
+      "text": "sure if you're coming back on this. Yes."
+    },
+    {
+      "start": 680.8,
+      "duration": 7.12,
+      "text": "I wanted Yeah, I wanted to comment on"
+    },
+    {
+      "start": 684.08,
+      "duration": 7.44,
+      "text": "one the agent story. I gota love the"
+    },
+    {
+      "start": 687.92,
+      "duration": 6.8,
+      "text": "analogy you gave around the agents. You"
+    },
+    {
+      "start": 691.52,
+      "duration": 8.24,
+      "text": "said foundry is the engine and the tools"
+    },
+    {
+      "start": 694.72,
+      "duration": 7.04,
+      "text": "and the wire and tools are the"
+    },
+    {
+      "start": 699.76,
+      "duration": 4.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 701.76,
+      "duration": 4.48,
+      "text": "Yeah. how you can do everything now with"
+    },
+    {
+      "start": 704.24,
+      "duration": 4.4,
+      "text": "Azure AI foundry like you can even bring"
+    },
+    {
+      "start": 706.24,
+      "duration": 3.84,
+      "text": "your own MCP. Yeah."
+    },
+    {
+      "start": 708.64,
+      "duration": 2.96,
+      "text": "Incredible."
+    },
+    {
+      "start": 710.08,
+      "duration": 4.08,
+      "text": "Yeah. And then the last thing I want to"
+    },
+    {
+      "start": 711.6,
+      "duration": 4.48,
+      "text": "highlight is the hackathon project. So"
+    },
+    {
+      "start": 714.16,
+      "duration": 4.56,
+      "text": "our hackathon is actually coming up in a"
+    },
+    {
+      "start": 716.08,
+      "duration": 5.28,
+      "text": "few. So I'm not sure if uh you have"
+    },
+    {
+      "start": 718.72,
+      "duration": 4.16,
+      "text": "anything like any use cases or ideas"
+    },
+    {
+      "start": 721.36,
+      "duration": 2.4,
+      "text": "around that that you're going to test"
+    },
+    {
+      "start": 722.88,
+      "duration": 3.04,
+      "text": "out."
+    },
+    {
+      "start": 723.76,
+      "duration": 5.12,
+      "text": "Yeah, I've actually registered for it"
+    },
+    {
+      "start": 725.92,
+      "duration": 4.64,
+      "text": "and I'm still figuring out which one I'm"
+    },
+    {
+      "start": 728.88,
+      "duration": 3.28,
+      "text": "going to be working on. Like I have a"
+    },
+    {
+      "start": 730.56,
+      "duration": 4.32,
+      "text": "couple of ideas but mine are more"
+    },
+    {
+      "start": 732.16,
+      "duration": 4.64,
+      "text": "focused on our product marketing team."
+    },
+    {
+      "start": 734.88,
+      "duration": 4.48,
+      "text": "Like there are a lot of things we can do"
+    },
+    {
+      "start": 736.8,
+      "duration": 5.36,
+      "text": "to improve our productivity, our"
+    },
+    {
+      "start": 739.36,
+      "duration": 4.88,
+      "text": "processes and like all and I'm going to"
+    },
+    {
+      "start": 742.16,
+      "duration": 4.8,
+      "text": "be using a lot of the tools that we have"
+    },
+    {
+      "start": 744.24,
+      "duration": 6.64,
+      "text": "talked about today and in the past model"
+    },
+    {
+      "start": 746.96,
+      "duration": 6.4,
+      "text": "Mondays like all our MC tools and agent"
+    },
+    {
+      "start": 750.88,
+      "duration": 5.2,
+      "text": "service and all that. So I'm kind of"
+    },
+    {
+      "start": 753.36,
+      "duration": 7.04,
+      "text": "working on figuring out which is our"
+    },
+    {
+      "start": 756.08,
+      "duration": 6.08,
+      "text": "most um challenging problem today. Uh"
+    },
+    {
+      "start": 760.4,
+      "duration": 3.6,
+      "text": "like in especially like we have things"
+    },
+    {
+      "start": 762.16,
+      "duration": 4.48,
+      "text": "like around model launches and all that"
+    },
+    {
+      "start": 764.0,
+      "duration": 5.12,
+      "text": "where we need a lot of process"
+    },
+    {
+      "start": 766.64,
+      "duration": 5.28,
+      "text": "streamlining which where"
+    },
+    {
+      "start": 769.12,
+      "duration": 4.72,
+      "text": "these models and our tools can help a"
+    },
+    {
+      "start": 771.92,
+      "duration": 3.76,
+      "text": "lot."
+    },
+    {
+      "start": 773.84,
+      "duration": 3.76,
+      "text": "Yeah, that's important. So everyone on"
+    },
+    {
+      "start": 775.68,
+      "duration": 4.08,
+      "text": "the chat, you should be thinking around."
+    },
+    {
+      "start": 777.6,
+      "duration": 4.56,
+      "text": "Okay, I've been hearing about all these"
+    },
+    {
+      "start": 779.76,
+      "duration": 4.72,
+      "text": "models, all these tools. How can I use"
+    },
+    {
+      "start": 782.16,
+      "duration": 4.08,
+      "text": "it now to solve the challenges that I"
+    },
+    {
+      "start": 784.48,
+      "duration": 3.04,
+      "text": "have? Thank you so much."
+    },
+    {
+      "start": 786.24,
+      "duration": 1.76,
+      "text": "Thank you for your time."
+    },
+    {
+      "start": 787.52,
+      "duration": 2.4,
+      "text": "Thank you."
+    },
+    {
+      "start": 788.0,
+      "duration": 4.0,
+      "text": "And actually one more thing I wanted to"
+    },
+    {
+      "start": 789.92,
+      "duration": 4.64,
+      "text": "just I know this is kind of a talk but I"
+    },
+    {
+      "start": 792.0,
+      "duration": 5.28,
+      "text": "just wanted to kind also let people who"
+    },
+    {
+      "start": 794.56,
+      "duration": 5.68,
+      "text": "are watching let them know that uh we we"
+    },
+    {
+      "start": 797.28,
+      "duration": 4.8,
+      "text": "are looking for some feedback on uh what"
+    },
+    {
+      "start": 800.24,
+      "duration": 3.92,
+      "text": "you would like to see at Ignite. Ignite"
+    },
+    {
+      "start": 802.08,
+      "duration": 4.08,
+      "text": "is coming up. There are a lot of"
+    },
+    {
+      "start": 804.16,
+      "duration": 4.96,
+      "text": "sessions and things that we are working"
+    },
+    {
+      "start": 806.16,
+      "duration": 4.56,
+      "text": "on but would love to know if anybody who"
+    },
+    {
+      "start": 809.12,
+      "duration": 3.6,
+      "text": "has attended our previous build or"
+    },
+    {
+      "start": 810.72,
+      "duration": 4.16,
+      "text": "ignites like what are you what do you"
+    },
+    {
+      "start": 812.72,
+      "duration": 4.16,
+      "text": "think is missing or what do you want to"
+    },
+    {
+      "start": 814.88,
+      "duration": 4.8,
+      "text": "see more of. So if you can leave some"
+    },
+    {
+      "start": 816.88,
+      "duration": 5.44,
+      "text": "comments in the chat either here or in"
+    },
+    {
+      "start": 819.68,
+      "duration": 4.72,
+      "text": "our discord I I'll be happy to take that"
+    },
+    {
+      "start": 822.32,
+      "duration": 5.36,
+      "text": "feedback and make sure we put together"
+    },
+    {
+      "start": 824.4,
+      "duration": 6.32,
+      "text": "some really interesting sessions and um"
+    },
+    {
+      "start": 827.68,
+      "duration": 4.88,
+      "text": "other demos for you."
+    },
+    {
+      "start": 830.72,
+      "duration": 3.12,
+      "text": "Yeah, definitely. You should tell us"
+    },
+    {
+      "start": 832.56,
+      "duration": 2.88,
+      "text": "what you want to learn, what you're"
+    },
+    {
+      "start": 833.84,
+      "duration": 3.84,
+      "text": "eager about because at the end of the"
+    },
+    {
+      "start": 835.44,
+      "duration": 4.8,
+      "text": "day, everything that he's done in Ignite"
+    },
+    {
+      "start": 837.68,
+      "duration": 4.64,
+      "text": "is also uploaded on YouTube and every"
+    },
+    {
+      "start": 840.24,
+      "duration": 5.04,
+      "text": "platform that you'll get to see. So,"
+    },
+    {
+      "start": 842.32,
+      "duration": 5.12,
+      "text": "yeah, that's a very Yeah, tell us what"
+    },
+    {
+      "start": 845.28,
+      "duration": 4.48,
+      "text": "what are you looking forward to see?"
+    },
+    {
+      "start": 847.44,
+      "duration": 5.28,
+      "text": "Thank you so much, Camila. Thank you for"
+    },
+    {
+      "start": 849.76,
+      "duration": 5.28,
+      "text": "your time. Yeah, and now for the session"
+    },
+    {
+      "start": 852.72,
+      "duration": 4.96,
+      "text": "of the day. As I mentioned today, we're"
+    },
+    {
+      "start": 855.04,
+      "duration": 4.72,
+      "text": "talking about the Azure AI foundry"
+    },
+    {
+      "start": 857.68,
+      "duration": 7.0,
+      "text": "speech playground and we have a program"
+    },
+    {
+      "start": 859.76,
+      "duration": 4.92,
+      "text": "manager from the team. So"
+    },
+    {
+      "start": 867.76,
+      "duration": 5.68,
+      "text": "um Anna, you can bring up. Yes, maybe."
+    },
+    {
+      "start": 872.08,
+      "duration": 3.68,
+      "text": "How are you?"
+    },
+    {
+      "start": 873.44,
+      "duration": 5.04,
+      "text": "I'm good. I'm good."
+    },
+    {
+      "start": 875.76,
+      "duration": 6.72,
+      "text": "Yeah, you can introduce yourself. Yeah."
+    },
+    {
+      "start": 878.48,
+      "duration": 6.56,
+      "text": "Uh I'm Akash. I'm a product manager um"
+    },
+    {
+      "start": 882.48,
+      "duration": 5.92,
+      "text": "working on speech products. Really"
+    },
+    {
+      "start": 885.04,
+      "duration": 5.84,
+      "text": "excited about the voice uh input and"
+    },
+    {
+      "start": 888.4,
+      "duration": 5.04,
+      "text": "output modality in general and excited"
+    },
+    {
+      "start": 890.88,
+      "duration": 5.12,
+      "text": "for the demo today."
+    },
+    {
+      "start": 893.44,
+      "duration": 5.36,
+      "text": "Yeah. So today we we're talking all"
+    },
+    {
+      "start": 896.0,
+      "duration": 5.28,
+      "text": "about speech and uh in the AI foundry"
+    },
+    {
+      "start": 898.8,
+      "duration": 4.56,
+      "text": "playground. So if you've been in the"
+    },
+    {
+      "start": 901.28,
+      "duration": 3.52,
+      "text": "Microsoft ecosystem long enough, you"
+    },
+    {
+      "start": 903.36,
+      "duration": 3.92,
+      "text": "might remember we used to have the"
+    },
+    {
+      "start": 904.8,
+      "duration": 4.96,
+      "text": "cognitive services, then they rebranded"
+    },
+    {
+      "start": 907.28,
+      "duration": 4.88,
+      "text": "to the AI services and now everything is"
+    },
+    {
+      "start": 909.76,
+      "duration": 5.12,
+      "text": "right on Azure AI foundry. So if you're"
+    },
+    {
+      "start": 912.16,
+      "duration": 6.08,
+      "text": "just building with the models that the"
+    },
+    {
+      "start": 914.88,
+      "duration": 6.16,
+      "text": "OG models the large language models like"
+    },
+    {
+      "start": 918.24,
+      "duration": 4.72,
+      "text": "the GPTs and everything the llamas you"
+    },
+    {
+      "start": 921.04,
+      "duration": 4.24,
+      "text": "can build on Azure AI foundry but you"
+    },
+    {
+      "start": 922.96,
+      "duration": 4.4,
+      "text": "can also access the OG models the"
+    },
+    {
+      "start": 925.28,
+      "duration": 4.88,
+      "text": "cognitive services that we used to have"
+    },
+    {
+      "start": 927.36,
+      "duration": 4.88,
+      "text": "that is vision speech and I think we al"
+    },
+    {
+      "start": 930.16,
+      "duration": 4.72,
+      "text": "we still have languages right so you can"
+    },
+    {
+      "start": 932.24,
+      "duration": 5.36,
+      "text": "access all of them on a foundry so we'll"
+    },
+    {
+      "start": 934.88,
+      "duration": 4.96,
+      "text": "go into the demo and you'll see a little"
+    },
+    {
+      "start": 937.6,
+      "duration": 3.84,
+      "text": "bit of what to expect in the like what"
+    },
+    {
+      "start": 939.84,
+      "duration": 3.44,
+      "text": "you can be able to do in the speech"
+    },
+    {
+      "start": 941.44,
+      "duration": 3.6,
+      "text": "playground and then if you have any"
+    },
+    {
+      "start": 943.28,
+      "duration": 4.96,
+      "text": "questions please drop them on the chat"
+    },
+    {
+      "start": 945.04,
+      "duration": 6.24,
+      "text": "and we'll get to them after this brief"
+    },
+    {
+      "start": 948.24,
+      "duration": 6.52,
+      "text": "demo. So Anna you can share us share"
+    },
+    {
+      "start": 951.28,
+      "duration": 3.48,
+      "text": "with us the demo."
+    },
+    {
+      "start": 954.8,
+      "duration": 4.32,
+      "text": "I'd love to set the stage with a quick"
+    },
+    {
+      "start": 956.64,
+      "duration": 4.96,
+      "text": "product overview. Azure speech is a"
+    },
+    {
+      "start": 959.12,
+      "duration": 5.6,
+      "text": "unified service offering a comprehensive"
+    },
+    {
+      "start": 961.6,
+      "duration": 5.76,
+      "text": "suite of speech capabilities and APIs."
+    },
+    {
+      "start": 964.72,
+      "duration": 5.12,
+      "text": "Our mission is to empower developers and"
+    },
+    {
+      "start": 967.36,
+      "duration": 5.36,
+      "text": "organizations like you to bring your"
+    },
+    {
+      "start": 969.84,
+      "duration": 6.24,
+      "text": "apps to life through voice, covering"
+    },
+    {
+      "start": 972.72,
+      "duration": 6.96,
+      "text": "over 150 languages and 600 pre-built"
+    },
+    {
+      "start": 976.08,
+      "duration": 6.48,
+      "text": "voices. Today, we'll start with testing"
+    },
+    {
+      "start": 979.68,
+      "duration": 5.92,
+      "text": "our speech recognition capabilities."
+    },
+    {
+      "start": 982.56,
+      "duration": 5.68,
+      "text": "Then we'll listen to a few pre-built"
+    },
+    {
+      "start": 985.6,
+      "duration": 6.0,
+      "text": "neural voices, check out a couple"
+    },
+    {
+      "start": 988.24,
+      "duration": 5.84,
+      "text": "avatars, and watch a video translation"
+    },
+    {
+      "start": 991.6,
+      "duration": 5.52,
+      "text": "demo featuring our custom voice"
+    },
+    {
+      "start": 994.08,
+      "duration": 5.76,
+      "text": "offering. Towards the end, we will tie"
+    },
+    {
+      "start": 997.12,
+      "duration": 5.76,
+      "text": "it all together with our exciting new"
+    },
+    {
+      "start": 999.84,
+      "duration": 5.76,
+      "text": "voice live API."
+    },
+    {
+      "start": 1002.88,
+      "duration": 5.28,
+      "text": "Now in public preview, this is a"
+    },
+    {
+      "start": 1005.6,
+      "duration": 5.36,
+      "text": "real-time API that integrates all"
+    },
+    {
+      "start": 1008.16,
+      "duration": 6.64,
+      "text": "premium speech capabilities I mentioned"
+    },
+    {
+      "start": 1010.96,
+      "duration": 7.6,
+      "text": "with Genai. With this API, you can build"
+    },
+    {
+      "start": 1014.8,
+      "duration": 6.8,
+      "text": "voice agents from scratch or easily add"
+    },
+    {
+      "start": 1018.56,
+      "duration": 7.52,
+      "text": "voice to your existing textbased agents"
+    },
+    {
+      "start": 1021.6,
+      "duration": 6.56,
+      "text": "or chatbots. Let's get started."
+    },
+    {
+      "start": 1026.08,
+      "duration": 4.48,
+      "text": "Let's head to the speech playground in"
+    },
+    {
+      "start": 1028.16,
+      "duration": 6.0,
+      "text": "Azure AI Foundry. You can find this"
+    },
+    {
+      "start": 1030.56,
+      "duration": 6.0,
+      "text": "playground in the playgrounds tab. Um,"
+    },
+    {
+      "start": 1034.16,
+      "duration": 4.56,
+      "text": "you can test all speech capabilities,"
+    },
+    {
+      "start": 1036.56,
+      "duration": 4.56,
+      "text": "perform fine-tuning if you need to, and"
+    },
+    {
+      "start": 1038.72,
+      "duration": 4.8,
+      "text": "get started with code. This playground"
+    },
+    {
+      "start": 1041.12,
+      "duration": 4.8,
+      "text": "is honestly a cheat code to get started"
+    },
+    {
+      "start": 1043.52,
+      "duration": 5.28,
+      "text": "with the speech service. For our first"
+    },
+    {
+      "start": 1045.92,
+      "duration": 5.28,
+      "text": "demo, we'll explore how Azure speech"
+    },
+    {
+      "start": 1048.8,
+      "duration": 6.0,
+      "text": "converts spoken language into accurate"
+    },
+    {
+      "start": 1051.2,
+      "duration": 5.84,
+      "text": "readable text. Here in the real-time"
+    },
+    {
+      "start": 1054.8,
+      "duration": 6.08,
+      "text": "transcription playground, I'll press"
+    },
+    {
+      "start": 1057.04,
+      "duration": 6.48,
+      "text": "record and I'm speaking a few sentences."
+    },
+    {
+      "start": 1060.88,
+      "duration": 6.32,
+      "text": "Notice how the audio is instantly"
+    },
+    {
+      "start": 1063.52,
+      "duration": 6.32,
+      "text": "transcribed below even as I'm speaking."
+    },
+    {
+      "start": 1067.2,
+      "duration": 6.32,
+      "text": "This service recognizes natural pauses"
+    },
+    {
+      "start": 1069.84,
+      "duration": 7.2,
+      "text": "in speech, variations in accent and"
+    },
+    {
+      "start": 1073.52,
+      "duration": 6.64,
+      "text": "domain specific terms."
+    },
+    {
+      "start": 1077.04,
+      "duration": 5.12,
+      "text": "Speech also offers two other ways of"
+    },
+    {
+      "start": 1080.16,
+      "duration": 4.48,
+      "text": "performing transcription."
+    },
+    {
+      "start": 1082.16,
+      "duration": 5.76,
+      "text": "One is fast transcription which is a"
+    },
+    {
+      "start": 1084.64,
+      "duration": 6.56,
+      "text": "file in file out method of quickly"
+    },
+    {
+      "start": 1087.92,
+      "duration": 7.52,
+      "text": "performing uh transcription on your"
+    },
+    {
+      "start": 1091.2,
+      "duration": 7.92,
+      "text": "audio files and batch allows you to"
+    },
+    {
+      "start": 1095.44,
+      "duration": 7.52,
+      "text": "process very large amounts of data by"
+    },
+    {
+      "start": 1099.12,
+      "duration": 6.08,
+      "text": "providing a blob storage URL instead."
+    },
+    {
+      "start": 1102.96,
+      "duration": 5.12,
+      "text": "If you'd like to fine-tune these"
+    },
+    {
+      "start": 1105.2,
+      "duration": 4.64,
+      "text": "capabilities according to your use case,"
+    },
+    {
+      "start": 1108.08,
+      "duration": 4.4,
+      "text": "your industry"
+    },
+    {
+      "start": 1109.84,
+      "duration": 5.2,
+      "text": "um and jargon, you can perform custom"
+    },
+    {
+      "start": 1112.48,
+      "duration": 5.04,
+      "text": "speech which allows you to provide"
+    },
+    {
+      "start": 1115.04,
+      "duration": 5.12,
+      "text": "domain specific vocabulary uh"
+    },
+    {
+      "start": 1117.52,
+      "duration": 6.24,
+      "text": "pronunciation data, audio samples which"
+    },
+    {
+      "start": 1120.16,
+      "duration": 5.68,
+      "text": "helps tune the models to uh background"
+    },
+    {
+      "start": 1123.76,
+      "duration": 4.4,
+      "text": "noise, accents"
+    },
+    {
+      "start": 1125.84,
+      "duration": 6.0,
+      "text": "and jargon."
+    },
+    {
+      "start": 1128.16,
+      "duration": 5.44,
+      "text": "Next, we will test out the text to"
+    },
+    {
+      "start": 1131.84,
+      "duration": 5.28,
+      "text": "speech capabilities."
+    },
+    {
+      "start": 1133.6,
+      "duration": 6.56,
+      "text": "Turn written text into lifelike audio."
+    },
+    {
+      "start": 1137.12,
+      "duration": 6.16,
+      "text": "This texttospech engine uses neural"
+    },
+    {
+      "start": 1140.16,
+      "duration": 5.6,
+      "text": "models to synthesize speech into"
+    },
+    {
+      "start": 1143.28,
+      "duration": 4.08,
+      "text": "hundreds of voices and languages and"
+    },
+    {
+      "start": 1145.76,
+      "duration": 4.32,
+      "text": "styles."
+    },
+    {
+      "start": 1147.36,
+      "duration": 4.72,
+      "text": "Let's start with listening to Ava."
+    },
+    {
+      "start": 1150.08,
+      "duration": 4.32,
+      "text": "Get crafty with a guide to creative"
+    },
+    {
+      "start": 1152.08,
+      "duration": 5.28,
+      "text": "projects and homemade hacks for every"
+    },
+    {
+      "start": 1154.4,
+      "duration": 5.52,
+      "text": "occasion. From home decor and fashion to"
+    },
+    {
+      "start": 1157.36,
+      "duration": 4.96,
+      "text": "cooking and gardening, each episode is"
+    },
+    {
+      "start": 1159.92,
+      "duration": 4.88,
+      "text": "packed with inspiration and step-by-step"
+    },
+    {
+      "start": 1162.32,
+      "duration": 4.72,
+      "text": "tutorials to unleash your inner DIY"
+    },
+    {
+      "start": 1164.8,
+      "duration": 4.16,
+      "text": "enthusiast, empowering you to express"
+    },
+    {
+      "start": 1167.04,
+      "duration": 4.56,
+      "text": "your creativity and make something"
+    },
+    {
+      "start": 1168.96,
+      "duration": 5.76,
+      "text": "unique."
+    },
+    {
+      "start": 1171.6,
+      "duration": 5.92,
+      "text": "Well, that was very natural and bright."
+    },
+    {
+      "start": 1174.72,
+      "duration": 5.84,
+      "text": "I definitely want to show a few more"
+    },
+    {
+      "start": 1177.52,
+      "duration": 5.44,
+      "text": "capabilities here. So, we'll filter for"
+    },
+    {
+      "start": 1180.56,
+      "duration": 4.72,
+      "text": "voices that can whisper."
+    },
+    {
+      "start": 1182.96,
+      "duration": 5.52,
+      "text": "And let's listen to a few different"
+    },
+    {
+      "start": 1185.28,
+      "duration": 4.72,
+      "text": "styles that the voice chain has."
+    },
+    {
+      "start": 1188.48,
+      "duration": 4.08,
+      "text": "Starting with cheerful."
+    },
+    {
+      "start": 1190.0,
+      "duration": 6.32,
+      "text": "These include fur hats, steel helmets,"
+    },
+    {
+      "start": 1192.56,
+      "duration": 5.04,
+      "text": "caps, and other badges and watches"
+    },
+    {
+      "start": 1196.32,
+      "duration": 3.28,
+      "text": "and angry."
+    },
+    {
+      "start": 1197.6,
+      "duration": 6.76,
+      "text": "Who got you that smoothie that one time"
+    },
+    {
+      "start": 1199.6,
+      "duration": 4.76,
+      "text": "when nobody else wanted to help you out?"
+    },
+    {
+      "start": 1204.96,
+      "duration": 4.72,
+      "text": "And lastly, let's listen to Davis's"
+    },
+    {
+      "start": 1207.84,
+      "duration": 3.84,
+      "text": "default voice."
+    },
+    {
+      "start": 1209.68,
+      "duration": 4.4,
+      "text": "He waved to acknowledge the crowd and"
+    },
+    {
+      "start": 1211.68,
+      "duration": 3.68,
+      "text": "then he waved again."
+    },
+    {
+      "start": 1214.08,
+      "duration": 4.88,
+      "text": "Shouting,"
+    },
+    {
+      "start": 1215.36,
+      "duration": 5.84,
+      "text": "\"Yes, that's exactly what I wanted.\""
+    },
+    {
+      "start": 1218.96,
+      "duration": 4.16,
+      "text": "And my favorite is whispering."
+    },
+    {
+      "start": 1221.2,
+      "duration": 5.4,
+      "text": "I don't think we have much time left."
+    },
+    {
+      "start": 1223.12,
+      "duration": 3.48,
+      "text": "Let's get going."
+    },
+    {
+      "start": 1226.96,
+      "duration": 3.84,
+      "text": "While these are all the pre-built"
+    },
+    {
+      "start": 1228.56,
+      "duration": 4.4,
+      "text": "voices, you can also create your own"
+    },
+    {
+      "start": 1230.8,
+      "duration": 6.0,
+      "text": "voices using the professional voice or"
+    },
+    {
+      "start": 1232.96,
+      "duration": 7.28,
+      "text": "personal voice capabilities."
+    },
+    {
+      "start": 1236.8,
+      "duration": 5.28,
+      "text": "The text to speech APIs also offer"
+    },
+    {
+      "start": 1240.24,
+      "duration": 5.28,
+      "text": "avatars."
+    },
+    {
+      "start": 1242.08,
+      "duration": 5.44,
+      "text": "These are some of our pre-built avatars."
+    },
+    {
+      "start": 1245.52,
+      "duration": 6.84,
+      "text": "I typed in hello and welcome to Monom"
+    },
+    {
+      "start": 1247.52,
+      "duration": 4.84,
+      "text": "Mondays. Let's generate this video."
+    },
+    {
+      "start": 1252.4,
+      "duration": 4.08,
+      "text": "While the video generates, I want to"
+    },
+    {
+      "start": 1254.48,
+      "duration": 6.28,
+      "text": "point out that you can also insert"
+    },
+    {
+      "start": 1256.48,
+      "duration": 4.28,
+      "text": "gestures into your avatar."
+    },
+    {
+      "start": 1262.96,
+      "duration": 4.2,
+      "text": "Hello and welcome to Model Mondays."
+    },
+    {
+      "start": 1267.52,
+      "duration": 5.12,
+      "text": "Fast and easy. Let's bring these"
+    },
+    {
+      "start": 1270.08,
+      "duration": 5.76,
+      "text": "capabilities together by first looking"
+    },
+    {
+      "start": 1272.64,
+      "duration": 6.56,
+      "text": "at the video translation API. This uh"
+    },
+    {
+      "start": 1275.84,
+      "duration": 6.16,
+      "text": "service autodetects the spoken language,"
+    },
+    {
+      "start": 1279.2,
+      "duration": 4.64,
+      "text": "then transcribes the audio to text and"
+    },
+    {
+      "start": 1282.0,
+      "duration": 4.0,
+      "text": "then translates this content into"
+    },
+    {
+      "start": 1283.84,
+      "duration": 5.16,
+      "text": "English. Let's watch the original video"
+    },
+    {
+      "start": 1286.0,
+      "duration": 3.0,
+      "text": "first."
+    },
+    {
+      "start": 1292.89,
+      "duration": 3.13,
+      "text": "[Music]"
+    },
+    {
+      "start": 1304.07,
+      "duration": 3.05,
+      "text": "[Music]"
+    },
+    {
+      "start": 1311.12,
+      "duration": 3.0,
+      "text": "Microsoft"
+    },
+    {
+      "start": 1321.13,
+      "duration": 4.27,
+      "text": "[Music]"
+    },
+    {
+      "start": 1322.4,
+      "duration": 3.0,
+      "text": "conditional."
+    },
+    {
+      "start": 1329.6,
+      "duration": 5.76,
+      "text": "I'd like for you to notice that"
+    },
+    {
+      "start": 1333.2,
+      "duration": 5.36,
+      "text": "there were four speakers in this"
+    },
+    {
+      "start": 1335.36,
+      "duration": 6.32,
+      "text": "original video. And in the translated"
+    },
+    {
+      "start": 1338.56,
+      "duration": 5.04,
+      "text": "video, the dubbed voices are actually"
+    },
+    {
+      "start": 1341.68,
+      "duration": 4.64,
+      "text": "very close to those of the original"
+    },
+    {
+      "start": 1343.6,
+      "duration": 5.44,
+      "text": "speakers. And the voices are in sync"
+    },
+    {
+      "start": 1346.32,
+      "duration": 5.6,
+      "text": "with the speakers and they change based"
+    },
+    {
+      "start": 1349.04,
+      "duration": 4.72,
+      "text": "on the speaker in the video."
+    },
+    {
+      "start": 1351.92,
+      "duration": 4.32,
+      "text": "Microsoft has been committed to El"
+    },
+    {
+      "start": 1353.76,
+      "duration": 4.4,
+      "text": "Salvador for 25 years. Microsoft stands"
+    },
+    {
+      "start": 1356.24,
+      "duration": 4.56,
+      "text": "for innovation and represents the"
+    },
+    {
+      "start": 1358.16,
+      "duration": 5.84,
+      "text": "present and future of El Salvador. It's"
+    },
+    {
+      "start": 1360.8,
+      "duration": 5.52,
+      "text": "been 25 years. And as a brand,"
+    },
+    {
+      "start": 1364.0,
+      "duration": 3.92,
+      "text": "Microsoft has achieved each of its goals"
+    },
+    {
+      "start": 1366.32,
+      "duration": 3.68,
+      "text": "in the country."
+    },
+    {
+      "start": 1367.92,
+      "duration": 4.16,
+      "text": "We rely heavily on their leadership,"
+    },
+    {
+      "start": 1370.0,
+      "duration": 5.08,
+      "text": "cutting edge technology, and continuous"
+    },
+    {
+      "start": 1372.08,
+      "duration": 3.0,
+      "text": "innovation."
+    },
+    {
+      "start": 1375.36,
+      "duration": 4.4,
+      "text": "Microsoft allows Nikico to be part of a"
+    },
+    {
+      "start": 1377.44,
+      "duration": 5.76,
+      "text": "global technological ecosystem. more"
+    },
+    {
+      "start": 1379.76,
+      "duration": 5.68,
+      "text": "than an ally to us, more than a partner."
+    },
+    {
+      "start": 1383.2,
+      "duration": 4.8,
+      "text": "It truly is a strategic and"
+    },
+    {
+      "start": 1385.44,
+      "duration": 5.04,
+      "text": "unconditional friend."
+    },
+    {
+      "start": 1388.0,
+      "duration": 4.16,
+      "text": "Very cool."
+    },
+    {
+      "start": 1390.48,
+      "duration": 4.16,
+      "text": "The last thing I want to highlight is"
+    },
+    {
+      "start": 1392.16,
+      "duration": 5.52,
+      "text": "the voice live API that also brings all"
+    },
+    {
+      "start": 1394.64,
+      "duration": 5.68,
+      "text": "these capabilities together. This API"
+    },
+    {
+      "start": 1397.68,
+      "duration": 6.32,
+      "text": "helps you create uh voice agents by"
+    },
+    {
+      "start": 1400.32,
+      "duration": 6.64,
+      "text": "bringing in LLMs such as GPT40 and other"
+    },
+    {
+      "start": 1404.0,
+      "duration": 5.6,
+      "text": "LLMs as you can see here and tying that"
+    },
+    {
+      "start": 1406.96,
+      "duration": 5.12,
+      "text": "with speech input and output using the"
+    },
+    {
+      "start": 1409.6,
+      "duration": 6.44,
+      "text": "speech service. Let's test out the"
+    },
+    {
+      "start": 1412.08,
+      "duration": 3.96,
+      "text": "language learning agent."
+    },
+    {
+      "start": 1422.88,
+      "duration": 4.64,
+      "text": "Hi there. My name is Ava and I'm your"
+    },
+    {
+      "start": 1425.6,
+      "duration": 3.76,
+      "text": "English teacher today. What's your name,"
+    },
+    {
+      "start": 1427.52,
+      "duration": 4.72,
+      "text": "my dear?"
+    },
+    {
+      "start": 1429.36,
+      "duration": 3.84,
+      "text": "Hi, Ava. I'm Utkash."
+    },
+    {
+      "start": 1432.24,
+      "duration": 3.68,
+      "text": "Oh, hi Gash."
+    },
+    {
+      "start": 1433.2,
+      "duration": 5.04,
+      "text": "Hi, Ava. Can I uh learn more about"
+    },
+    {
+      "start": 1435.92,
+      "duration": 4.96,
+      "text": "English from you?"
+    },
+    {
+      "start": 1438.24,
+      "duration": 5.52,
+      "text": "Absolutely, Utkash. I'd love to help you"
+    },
+    {
+      "start": 1440.88,
+      "duration": 5.2,
+      "text": "learn more about English."
+    },
+    {
+      "start": 1443.76,
+      "duration": 6.08,
+      "text": "As you might have seen there, I was able"
+    },
+    {
+      "start": 1446.08,
+      "duration": 5.68,
+      "text": "to barge in and also Ava had started the"
+    },
+    {
+      "start": 1449.84,
+      "duration": 4.16,
+      "text": "conversation herself. That's because of"
+    },
+    {
+      "start": 1451.76,
+      "duration": 3.84,
+      "text": "proactive engagement. If I turn this"
+    },
+    {
+      "start": 1454.0,
+      "duration": 4.32,
+      "text": "off, I will have to start the"
+    },
+    {
+      "start": 1455.6,
+      "duration": 4.72,
+      "text": "conversation myself. There's a few other"
+    },
+    {
+      "start": 1458.32,
+      "duration": 4.88,
+      "text": "settings you can do with the help of the"
+    },
+    {
+      "start": 1460.32,
+      "duration": 5.12,
+      "text": "speech service. For example, selecting"
+    },
+    {
+      "start": 1463.2,
+      "duration": 5.36,
+      "text": "auto detection of language or selecting"
+    },
+    {
+      "start": 1465.44,
+      "duration": 6.4,
+      "text": "your own source language."
+    },
+    {
+      "start": 1468.56,
+      "duration": 6.96,
+      "text": "uh enabling voice activity detection and"
+    },
+    {
+      "start": 1471.84,
+      "duration": 6.56,
+      "text": "other uh settings as you can see here."
+    },
+    {
+      "start": 1475.52,
+      "duration": 5.2,
+      "text": "Similarly for voice output, you can"
+    },
+    {
+      "start": 1478.4,
+      "duration": 5.36,
+      "text": "change the voices or use your own custom"
+    },
+    {
+      "start": 1480.72,
+      "duration": 5.36,
+      "text": "voice that you've trained."
+    },
+    {
+      "start": 1483.76,
+      "duration": 7.16,
+      "text": "What we're going to do is add an avatar"
+    },
+    {
+      "start": 1486.08,
+      "duration": 4.84,
+      "text": "so we have a face for this agent."
+    },
+    {
+      "start": 1492.8,
+      "duration": 3.84,
+      "text": "Note that since I turned off proactive"
+    },
+    {
+      "start": 1494.8,
+      "duration": 5.4,
+      "text": "engagement, I'll have to to start the"
+    },
+    {
+      "start": 1496.64,
+      "duration": 3.56,
+      "text": "conversation myself."
+    },
+    {
+      "start": 1504.4,
+      "duration": 4.76,
+      "text": "Hi there. How can I start learning"
+    },
+    {
+      "start": 1506.16,
+      "duration": 3.0,
+      "text": "English?"
+    },
+    {
+      "start": 1509.52,
+      "duration": 4.24,
+      "text": "Hi there. That's a great question. You"
+    },
+    {
+      "start": 1511.84,
+      "duration": 5.04,
+      "text": "can start learning English by focusing"
+    },
+    {
+      "start": 1513.76,
+      "duration": 5.12,
+      "text": "on easy words and short sentences. We"
+    },
+    {
+      "start": 1516.88,
+      "duration": 6.8,
+      "text": "will practice simple phrases. Are you"
+    },
+    {
+      "start": 1518.88,
+      "duration": 6.56,
+      "text": "ready to try? Yes, let's go."
+    },
+    {
+      "start": 1523.68,
+      "duration": 3.76,
+      "text": "Awesome. Let's start with a simple"
+    },
+    {
+      "start": 1525.44,
+      "duration": 4.48,
+      "text": "greeting. When you meet someone, you can"
+    },
+    {
+      "start": 1527.44,
+      "duration": 6.28,
+      "text": "say, \"Hello, how are you?\" Can you say"
+    },
+    {
+      "start": 1529.92,
+      "duration": 3.8,
+      "text": "that with me? Hello."
+    },
+    {
+      "start": 1534.4,
+      "duration": 4.8,
+      "text": "Once you're ready to deploy this to"
+    },
+    {
+      "start": 1536.48,
+      "duration": 5.52,
+      "text": "code, just click this button and you can"
+    },
+    {
+      "start": 1539.2,
+      "duration": 5.44,
+      "text": "import this code into your favorite IDE."
+    },
+    {
+      "start": 1542.0,
+      "duration": 5.6,
+      "text": "I'd love to wrap this up by showing a"
+    },
+    {
+      "start": 1544.64,
+      "duration": 5.52,
+      "text": "real world example of how Coca-Cola used"
+    },
+    {
+      "start": 1547.6,
+      "duration": 4.24,
+      "text": "custom neural voice and custom avatar"
+    },
+    {
+      "start": 1550.16,
+      "duration": 4.08,
+      "text": "for their last holiday campaign."
+    },
+    {
+      "start": 1551.84,
+      "duration": 5.92,
+      "text": "Now, tell me all about your favorite"
+    },
+    {
+      "start": 1554.24,
+      "duration": 6.0,
+      "text": "holiday memory."
+    },
+    {
+      "start": 1557.76,
+      "duration": 5.36,
+      "text": "Yeah,"
+    },
+    {
+      "start": 1560.24,
+      "duration": 5.92,
+      "text": "that Santa Claus was amazing."
+    },
+    {
+      "start": 1563.12,
+      "duration": 4.56,
+      "text": "I I really really love like when I was"
+    },
+    {
+      "start": 1566.16,
+      "duration": 4.4,
+      "text": "watching this video for the first time"
+    },
+    {
+      "start": 1567.68,
+      "duration": 6.4,
+      "text": "and I saw the Santa Claus video, I was"
+    },
+    {
+      "start": 1570.56,
+      "duration": 6.16,
+      "text": "like this is perfect."
+    },
+    {
+      "start": 1574.08,
+      "duration": 5.36,
+      "text": "Yeah, we have some questions. But before"
+    },
+    {
+      "start": 1576.72,
+      "duration": 4.88,
+      "text": "we get to the questions, first of all, I"
+    },
+    {
+      "start": 1579.44,
+      "duration": 4.8,
+      "text": "love the simplicity of the interface."
+    },
+    {
+      "start": 1581.6,
+      "duration": 5.28,
+      "text": "Like you can just click on the like"
+    },
+    {
+      "start": 1584.24,
+      "duration": 4.88,
+      "text": "everything is just simple. You can just"
+    },
+    {
+      "start": 1586.88,
+      "duration": 4.64,
+      "text": "click on whatever you want to do. For"
+    },
+    {
+      "start": 1589.12,
+      "duration": 5.04,
+      "text": "example, I've done the voice"
+    },
+    {
+      "start": 1591.52,
+      "duration": 4.72,
+      "text": "translation, the video translation. It"
+    },
+    {
+      "start": 1594.16,
+      "duration": 3.92,
+      "text": "was within I think it took me like 30"
+    },
+    {
+      "start": 1596.24,
+      "duration": 4.08,
+      "text": "minutes from start to finish to just"
+    },
+    {
+      "start": 1598.08,
+      "duration": 4.88,
+      "text": "have everything done. It was really"
+    },
+    {
+      "start": 1600.32,
+      "duration": 6.08,
+      "text": "really impressive. So the first question"
+    },
+    {
+      "start": 1602.96,
+      "duration": 6.96,
+      "text": "I have for you is around"
+    },
+    {
+      "start": 1606.4,
+      "duration": 6.48,
+      "text": "uh we have a very big concern around uh"
+    },
+    {
+      "start": 1609.92,
+      "duration": 5.92,
+      "text": "parody right so we've heard about dips"
+    },
+    {
+      "start": 1612.88,
+      "duration": 4.96,
+      "text": "fake we have heard about all this for"
+    },
+    {
+      "start": 1615.84,
+      "duration": 4.32,
+      "text": "example what if someone takes up your"
+    },
+    {
+      "start": 1617.84,
+      "duration": 4.4,
+      "text": "voice and uses it so that's the first"
+    },
+    {
+      "start": 1620.16,
+      "duration": 5.04,
+      "text": "question so what do you think about"
+    },
+    {
+      "start": 1622.24,
+      "duration": 5.6,
+      "text": "parody in relation to speech"
+    },
+    {
+      "start": 1625.2,
+      "duration": 4.32,
+      "text": "I think that's a great question"
+    },
+    {
+      "start": 1627.84,
+      "duration": 5.76,
+      "text": "is one of the most important"
+    },
+    {
+      "start": 1629.52,
+      "duration": 6.72,
+      "text": "characteristics of voice has and the new"
+    },
+    {
+      "start": 1633.6,
+      "duration": 5.6,
+      "text": "voices we are uh releasing for example"
+    },
+    {
+      "start": 1636.24,
+      "duration": 6.4,
+      "text": "one of the HD voices we heard uh has"
+    },
+    {
+      "start": 1639.2,
+      "duration": 6.08,
+      "text": "very uh good quality of procity. I would"
+    },
+    {
+      "start": 1642.64,
+      "duration": 5.52,
+      "text": "also recommend that we have a custom"
+    },
+    {
+      "start": 1645.28,
+      "duration": 5.76,
+      "text": "voice creation uh method called custom"
+    },
+    {
+      "start": 1648.16,
+      "duration": 5.44,
+      "text": "neural voice uh or professional voice"
+    },
+    {
+      "start": 1651.04,
+      "duration": 6.08,
+      "text": "and with that you can also train your"
+    },
+    {
+      "start": 1653.6,
+      "duration": 6.64,
+      "text": "voice to be uh as close to your original"
+    },
+    {
+      "start": 1657.12,
+      "duration": 6.24,
+      "text": "speaker as you'd like."
+    },
+    {
+      "start": 1660.24,
+      "duration": 5.44,
+      "text": "So you can just customize it to now your"
+    },
+    {
+      "start": 1663.36,
+      "duration": 2.88,
+      "text": "as close to your original as you can,"
+    },
+    {
+      "start": 1665.68,
+      "duration": 2.24,
+      "text": "right?"
+    },
+    {
+      "start": 1666.24,
+      "duration": 3.52,
+      "text": "Yes, exactly."
+    },
+    {
+      "start": 1667.92,
+      "duration": 5.68,
+      "text": "Yeah. The other question is around"
+    },
+    {
+      "start": 1669.76,
+      "duration": 5.92,
+      "text": "avatars. Can we from uh YouTube? So"
+    },
+    {
+      "start": 1673.6,
+      "duration": 4.16,
+      "text": "Vikram is asking, can we customize"
+    },
+    {
+      "start": 1675.68,
+      "duration": 5.2,
+      "text": "avatars as well?"
+    },
+    {
+      "start": 1677.76,
+      "duration": 5.2,
+      "text": "Yes. Uh avatars are also customizable."
+    },
+    {
+      "start": 1680.88,
+      "duration": 5.28,
+      "text": "Uh you can go online to our"
+    },
+    {
+      "start": 1682.96,
+      "duration": 6.16,
+      "text": "documentation and uh find a link on how"
+    },
+    {
+      "start": 1686.16,
+      "duration": 5.2,
+      "text": "to customize avatars."
+    },
+    {
+      "start": 1689.12,
+      "duration": 4.64,
+      "text": "Okay, so the other question is from"
+    },
+    {
+      "start": 1691.36,
+      "duration": 4.72,
+      "text": "Carnegie who's asking, \"What is the"
+    },
+    {
+      "start": 1693.76,
+      "duration": 3.92,
+      "text": "requirement to use the playground? What"
+    },
+    {
+      "start": 1696.08,
+      "duration": 4.08,
+      "text": "do you need? Do you need like an a"
+    },
+    {
+      "start": 1697.68,
+      "duration": 3.44,
+      "text": "subscription? How do you get started?\""
+    },
+    {
+      "start": 1700.16,
+      "duration": 3.84,
+      "text": "Yeah,"
+    },
+    {
+      "start": 1701.12,
+      "duration": 6.16,
+      "text": "that's a great question. Uh, you need a"
+    },
+    {
+      "start": 1704.0,
+      "duration": 5.36,
+      "text": "Azure uh foundry hub and project uh"
+    },
+    {
+      "start": 1707.28,
+      "duration": 4.8,
+      "text": "resource. So yes, you need an Azure"
+    },
+    {
+      "start": 1709.36,
+      "duration": 5.28,
+      "text": "subscription to get started."
+    },
+    {
+      "start": 1712.08,
+      "duration": 5.52,
+      "text": "Yeah. And then the other question was"
+    },
+    {
+      "start": 1714.64,
+      "duration": 5.68,
+      "text": "around dialects. So Andrew from LinkedIn"
+    },
+    {
+      "start": 1717.6,
+      "duration": 5.76,
+      "text": "is asking there's a lot of concerns"
+    },
+    {
+      "start": 1720.32,
+      "duration": 5.52,
+      "text": "about text to speech in terms of its"
+    },
+    {
+      "start": 1723.36,
+      "duration": 4.8,
+      "text": "ability to reproduce different dialects."
+    },
+    {
+      "start": 1725.84,
+      "duration": 4.56,
+      "text": "So sometimes you might have like for"
+    },
+    {
+      "start": 1728.16,
+      "duration": 4.8,
+      "text": "example an Egyptian I feel like it's"
+    },
+    {
+      "start": 1730.4,
+      "duration": 6.0,
+      "text": "mostly in African context because you do"
+    },
+    {
+      "start": 1732.96,
+      "duration": 5.36,
+      "text": "not have like a lot of data. So how how"
+    },
+    {
+      "start": 1736.4,
+      "duration": 5.44,
+      "text": "like looking forward how are you looking"
+    },
+    {
+      "start": 1738.32,
+      "duration": 6.32,
+      "text": "into how or even currently how do you"
+    },
+    {
+      "start": 1741.84,
+      "duration": 4.32,
+      "text": "like work around the dialects to make it"
+    },
+    {
+      "start": 1744.64,
+      "duration": 3.44,
+      "text": "better?"
+    },
+    {
+      "start": 1746.16,
+      "duration": 4.64,
+      "text": "Yeah, I think you made a very good"
+    },
+    {
+      "start": 1748.08,
+      "duration": 6.96,
+      "text": "point. I want to point out that dialects"
+    },
+    {
+      "start": 1750.8,
+      "duration": 7.92,
+      "text": "are very hard in general. Um, and we try"
+    },
+    {
+      "start": 1755.04,
+      "duration": 6.32,
+      "text": "our best to um not only fit to a"
+    },
+    {
+      "start": 1758.72,
+      "duration": 6.72,
+      "text": "particular dialect, but also make sure"
+    },
+    {
+      "start": 1761.36,
+      "duration": 7.6,
+      "text": "we generalize it enough um so that um"
+    },
+    {
+      "start": 1765.44,
+      "duration": 5.92,
+      "text": "there's there's um other other dialects"
+    },
+    {
+      "start": 1768.96,
+      "duration": 5.6,
+      "text": "in that particular language also. But"
+    },
+    {
+      "start": 1771.36,
+      "duration": 5.52,
+      "text": "that's exactly why we offer the custom"
+    },
+    {
+      "start": 1774.56,
+      "duration": 6.16,
+      "text": "neural voice capabilities because then"
+    },
+    {
+      "start": 1776.88,
+      "duration": 6.32,
+      "text": "you can train your own voices uh based"
+    },
+    {
+      "start": 1780.72,
+      "duration": 4.88,
+      "text": "on the dialects that you would like for"
+    },
+    {
+      "start": 1783.2,
+      "duration": 4.8,
+      "text": "your customers uh so that you don't have"
+    },
+    {
+      "start": 1785.6,
+      "duration": 5.28,
+      "text": "to rely on the dialects that that we"
+    },
+    {
+      "start": 1788.0,
+      "duration": 4.4,
+      "text": "have in our voices."
+    },
+    {
+      "start": 1790.88,
+      "duration": 3.92,
+      "text": "Yeah, we have I think three more"
+    },
+    {
+      "start": 1792.4,
+      "duration": 5.44,
+      "text": "questions and then we'll go to the next"
+    },
+    {
+      "start": 1794.8,
+      "duration": 6.0,
+      "text": "segment. So someone is just commenting"
+    },
+    {
+      "start": 1797.84,
+      "duration": 5.04,
+      "text": "uh using voice as a two factor agent"
+    },
+    {
+      "start": 1800.8,
+      "duration": 4.56,
+      "text": "factor like when you're doing two factor"
+    },
+    {
+      "start": 1802.88,
+      "duration": 5.36,
+      "text": "authentication that might be like in"
+    },
+    {
+      "start": 1805.36,
+      "duration": 5.84,
+      "text": "future it might not be something"
+    },
+    {
+      "start": 1808.24,
+      "duration": 5.44,
+      "text": "100% guaranteed that it will work right"
+    },
+    {
+      "start": 1811.2,
+      "duration": 4.08,
+      "text": "or what do you think about it like you"
+    },
+    {
+      "start": 1813.68,
+      "duration": 3.44,
+      "text": "most of the time you use like your"
+    },
+    {
+      "start": 1815.28,
+      "duration": 4.72,
+      "text": "either your fingerprint or like a second"
+    },
+    {
+      "start": 1817.12,
+      "duration": 6.16,
+      "text": "device from a security perspective so"
+    },
+    {
+      "start": 1820.0,
+      "duration": 5.92,
+      "text": "how like do you perceive voice and uh"
+    },
+    {
+      "start": 1823.28,
+      "duration": 4.64,
+      "text": "basically authentication using"
+    },
+    {
+      "start": 1825.92,
+      "duration": 5.04,
+      "text": "Yeah, I would say responsible AI in"
+    },
+    {
+      "start": 1827.92,
+      "duration": 6.0,
+      "text": "general is a very very important topic"
+    },
+    {
+      "start": 1830.96,
+      "duration": 4.72,
+      "text": "uh at Microsoft and it is something we"
+    },
+    {
+      "start": 1833.92,
+      "duration": 6.24,
+      "text": "think about whenever we're building all"
+    },
+    {
+      "start": 1835.68,
+      "duration": 7.04,
+      "text": "of our um products and models. So um the"
+    },
+    {
+      "start": 1840.16,
+      "duration": 5.6,
+      "text": "the custom voice capabilities and the"
+    },
+    {
+      "start": 1842.72,
+      "duration": 5.68,
+      "text": "custom avatar capabilities are grounded"
+    },
+    {
+      "start": 1845.76,
+      "duration": 7.52,
+      "text": "in our responsible AI principles. uh"
+    },
+    {
+      "start": 1848.4,
+      "duration": 8.16,
+      "text": "they need an application to um that that"
+    },
+    {
+      "start": 1853.28,
+      "duration": 7.52,
+      "text": "goes through a process uh with our teams"
+    },
+    {
+      "start": 1856.56,
+      "duration": 8.24,
+      "text": "to ensure that only uh uh only the the"
+    },
+    {
+      "start": 1860.8,
+      "duration": 6.96,
+      "text": "right and and safe uh use cases are"
+    },
+    {
+      "start": 1864.8,
+      "duration": 5.36,
+      "text": "approved and that helps with security"
+    },
+    {
+      "start": 1867.76,
+      "duration": 5.04,
+      "text": "and and privacy."
+    },
+    {
+      "start": 1870.16,
+      "duration": 4.72,
+      "text": "Yeah, there's a lot of sometimes you"
+    },
+    {
+      "start": 1872.8,
+      "duration": 5.04,
+      "text": "have to even like fill forms to get"
+    },
+    {
+      "start": 1874.88,
+      "duration": 6.96,
+      "text": "access to some of the APIs as well."
+    },
+    {
+      "start": 1877.84,
+      "duration": 5.84,
+      "text": "Yeah. So, the last two questions. So,"
+    },
+    {
+      "start": 1881.84,
+      "duration": 5.28,
+      "text": "when you're building agents, this is"
+    },
+    {
+      "start": 1883.68,
+      "duration": 6.32,
+      "text": "from Jin on YouTube. So, agents, how do"
+    },
+    {
+      "start": 1887.12,
+      "duration": 5.2,
+      "text": "they invoke the speech API? Do they use"
+    },
+    {
+      "start": 1890.0,
+      "duration": 4.96,
+      "text": "like rest or how do you connect your"
+    },
+    {
+      "start": 1892.32,
+      "duration": 4.32,
+      "text": "agent to the I'm guessing it's the live"
+    },
+    {
+      "start": 1894.96,
+      "duration": 3.44,
+      "text": "uh voice API?"
+    },
+    {
+      "start": 1896.64,
+      "duration": 5.44,
+      "text": "Yes, exactly. So it is the voice live"
+    },
+    {
+      "start": 1898.4,
+      "duration": 6.64,
+      "text": "API directly. Uh the voice live API can"
+    },
+    {
+      "start": 1902.08,
+      "duration": 5.2,
+      "text": "uh integrate with the Azure uh AI agent"
+    },
+    {
+      "start": 1905.04,
+      "duration": 5.6,
+      "text": "service or you can just use the voice"
+    },
+    {
+      "start": 1907.28,
+      "duration": 7.04,
+      "text": "live API itself to create your own uh"
+    },
+    {
+      "start": 1910.64,
+      "duration": 6.32,
+      "text": "voice agent um interaction."
+    },
+    {
+      "start": 1914.32,
+      "duration": 4.88,
+      "text": "And then the last question if you train"
+    },
+    {
+      "start": 1916.96,
+      "duration": 5.36,
+      "text": "it like with your own voice if you train"
+    },
+    {
+      "start": 1919.2,
+      "duration": 5.84,
+      "text": "your the I'm guessing it's the custom"
+    },
+    {
+      "start": 1922.32,
+      "duration": 4.64,
+      "text": "voice service the yeah one of the custom"
+    },
+    {
+      "start": 1925.04,
+      "duration": 4.0,
+      "text": "services. So if you train your own"
+    },
+    {
+      "start": 1926.96,
+      "duration": 4.72,
+      "text": "voice, will it have an accent in when"
+    },
+    {
+      "start": 1929.04,
+      "duration": 6.76,
+      "text": "it's speaking another language and how"
+    },
+    {
+      "start": 1931.68,
+      "duration": 4.12,
+      "text": "can you be able to prevent that?"
+    },
+    {
+      "start": 1937.84,
+      "duration": 4.96,
+      "text": "You just read the question."
+    },
+    {
+      "start": 1939.92,
+      "duration": 5.36,
+      "text": "So the question is like if I'm training"
+    },
+    {
+      "start": 1942.8,
+      "duration": 3.2,
+      "text": "the model to speak my own custom voice,"
+    },
+    {
+      "start": 1945.28,
+      "duration": 2.72,
+      "text": "right,"
+    },
+    {
+      "start": 1946.0,
+      "duration": 4.48,
+      "text": "and then I want you to speak a different"
+    },
+    {
+      "start": 1948.0,
+      "duration": 4.0,
+      "text": "language, but I don't want it to have"
+    },
+    {
+      "start": 1950.48,
+      "duration": 4.32,
+      "text": "like an accent when it's speaking"
+    },
+    {
+      "start": 1952.0,
+      "duration": 5.12,
+      "text": "another language. How do you mitigate"
+    },
+    {
+      "start": 1954.8,
+      "duration": 4.16,
+      "text": "that? Or how I'm guessing even from the"
+    },
+    {
+      "start": 1957.12,
+      "duration": 4.96,
+      "text": "video where we had like four different"
+    },
+    {
+      "start": 1958.96,
+      "duration": 6.0,
+      "text": "voices, how does it like pick which"
+    },
+    {
+      "start": 1962.08,
+      "duration": 5.92,
+      "text": "accent or tone to use basically?"
+    },
+    {
+      "start": 1964.96,
+      "duration": 5.52,
+      "text": "Yeah, you can you can uh specify what"
+    },
+    {
+      "start": 1968.0,
+      "duration": 5.44,
+      "text": "language you are training in and we also"
+    },
+    {
+      "start": 1970.48,
+      "duration": 5.92,
+      "text": "have multilingual voices uh that that"
+    },
+    {
+      "start": 1973.44,
+      "duration": 4.88,
+      "text": "you can uh use. So that is something"
+    },
+    {
+      "start": 1976.4,
+      "duration": 4.0,
+      "text": "that that you can specify when you're"
+    },
+    {
+      "start": 1978.32,
+      "duration": 4.08,
+      "text": "performing the training."
+    },
+    {
+      "start": 1980.4,
+      "duration": 4.16,
+      "text": "Okay, thank you so much for the"
+    },
+    {
+      "start": 1982.4,
+      "duration": 4.4,
+      "text": "questions. There's a lot of questions on"
+    },
+    {
+      "start": 1984.56,
+      "duration": 4.56,
+      "text": "the chat. You can feel free to continue"
+    },
+    {
+      "start": 1986.8,
+      "duration": 5.12,
+      "text": "posting your questions here. We will be"
+    },
+    {
+      "start": 1989.12,
+      "duration": 4.72,
+      "text": "having an AMA on Friday. I will be"
+    },
+    {
+      "start": 1991.92,
+      "duration": 4.24,
+      "text": "sharing the link at the end, but the"
+    },
+    {
+      "start": 1993.84,
+      "duration": 4.56,
+      "text": "link has also been posted on the chat."
+    },
+    {
+      "start": 1996.16,
+      "duration": 4.72,
+      "text": "We'll be having an AMA on this topic on"
+    },
+    {
+      "start": 1998.4,
+      "duration": 4.56,
+      "text": "Friday. So, join us as we talk more"
+    },
+    {
+      "start": 2000.88,
+      "duration": 4.8,
+      "text": "about this. And also, if you're on"
+    },
+    {
+      "start": 2002.96,
+      "duration": 4.88,
+      "text": "Discord, kindly join us and ask all the"
+    },
+    {
+      "start": 2005.68,
+      "duration": 4.32,
+      "text": "questions you have around this topic."
+    },
+    {
+      "start": 2007.84,
+      "duration": 4.16,
+      "text": "I'm very interested with all the"
+    },
+    {
+      "start": 2010.0,
+      "duration": 5.92,
+      "text": "questions you've asked. There's a lot of"
+    },
+    {
+      "start": 2012.0,
+      "duration": 6.48,
+      "text": "interest around security, around uh like"
+    },
+    {
+      "start": 2015.92,
+      "duration": 5.68,
+      "text": "dialects, around different languages. So"
+    },
+    {
+      "start": 2018.48,
+      "duration": 5.6,
+      "text": "yes, feel free to join us and ask about"
+    },
+    {
+      "start": 2021.6,
+      "duration": 4.8,
+      "text": "any of the questions you have. And then"
+    },
+    {
+      "start": 2024.08,
+      "duration": 4.88,
+      "text": "before we conclude this section, my"
+    },
+    {
+      "start": 2026.4,
+      "duration": 5.6,
+      "text": "colleague April does weekly videos"
+    },
+    {
+      "start": 2028.96,
+      "duration": 5.92,
+      "text": "around what we talk about in a series"
+    },
+    {
+      "start": 2032.0,
+      "duration": 7.04,
+      "text": "called inside Azure AI foundry. So last"
+    },
+    {
+      "start": 2034.88,
+      "duration": 6.16,
+      "text": "week he did a video around the mistrol"
+    },
+    {
+      "start": 2039.04,
+      "duration": 4.72,
+      "text": "document AI and I'm guessing this week"
+    },
+    {
+      "start": 2041.04,
+      "duration": 5.12,
+      "text": "he'll do another video around the speech"
+    },
+    {
+      "start": 2043.76,
+      "duration": 4.88,
+      "text": "services. So feel free to check out the"
+    },
+    {
+      "start": 2046.16,
+      "duration": 6.0,
+      "text": "videos and the demo she'll be posting on"
+    },
+    {
+      "start": 2048.64,
+      "duration": 6.0,
+      "text": "YouTube. And lastly before we conclude"
+    },
+    {
+      "start": 2052.16,
+      "duration": 6.4,
+      "text": "we have a customer story. So we have"
+    },
+    {
+      "start": 2054.64,
+      "duration": 6.4,
+      "text": "Hilo who who will be sharing with us how"
+    },
+    {
+      "start": 2058.56,
+      "duration": 5.92,
+      "text": "the improving the health services using"
+    },
+    {
+      "start": 2061.04,
+      "duration": 5.28,
+      "text": "multimodel AI. So over to the video from"
+    },
+    {
+      "start": 2064.48,
+      "duration": 3.76,
+      "text": "Hilo."
+    },
+    {
+      "start": 2066.32,
+      "duration": 3.76,
+      "text": "Great. Thank you everyone. My name is"
+    },
+    {
+      "start": 2068.24,
+      "duration": 4.4,
+      "text": "Sid Sha and I'm the vice president of"
+    },
+    {
+      "start": 2070.08,
+      "duration": 5.52,
+      "text": "Hilo. Um we're a healthcare technology"
+    },
+    {
+      "start": 2072.64,
+      "duration": 5.2,
+      "text": "company based out of Massachusetts and"
+    },
+    {
+      "start": 2075.6,
+      "duration": 5.76,
+      "text": "we have customers which are physician"
+    },
+    {
+      "start": 2077.84,
+      "duration": 6.8,
+      "text": "practices. We also have payers and PBMs"
+    },
+    {
+      "start": 2081.36,
+      "duration": 5.2,
+      "text": "as our customers and u we offer the"
+    },
+    {
+      "start": 2084.64,
+      "duration": 3.92,
+      "text": "software solutions for these uh"
+    },
+    {
+      "start": 2086.56,
+      "duration": 4.24,
+      "text": "customers of ours to engage better with"
+    },
+    {
+      "start": 2088.56,
+      "duration": 4.8,
+      "text": "their patients and members. uh we build"
+    },
+    {
+      "start": 2090.8,
+      "duration": 4.4,
+      "text": "software uh which encompasses the"
+    },
+    {
+      "start": 2093.36,
+      "duration": 3.44,
+      "text": "journey of a patient when they go visit"
+    },
+    {
+      "start": 2095.2,
+      "duration": 3.84,
+      "text": "a doctor right everything that happens"
+    },
+    {
+      "start": 2096.8,
+      "duration": 4.56,
+      "text": "before the visit during the visit and"
+    },
+    {
+      "start": 2099.04,
+      "duration": 4.4,
+      "text": "after the visit uh imagine things like"
+    },
+    {
+      "start": 2101.36,
+      "duration": 4.32,
+      "text": "you know booking an appointment um"
+    },
+    {
+      "start": 2103.44,
+      "duration": 4.56,
+      "text": "registering for you know at the doctor's"
+    },
+    {
+      "start": 2105.68,
+      "duration": 4.64,
+      "text": "office checking into a visit that you"
+    },
+    {
+      "start": 2108.0,
+      "duration": 4.48,
+      "text": "have things that happen during the visit"
+    },
+    {
+      "start": 2110.32,
+      "duration": 4.88,
+      "text": "like uh the notes that the doctor create"
+    },
+    {
+      "start": 2112.48,
+      "duration": 5.36,
+      "text": "we have a ambid listening um product"
+    },
+    {
+      "start": 2115.2,
+      "duration": 4.08,
+      "text": "that we just released last year which"
+    },
+    {
+      "start": 2117.84,
+      "duration": 2.88,
+      "text": "allows the doctor and the patient"
+    },
+    {
+      "start": 2119.28,
+      "duration": 4.0,
+      "text": "communication to be automatically"
+    },
+    {
+      "start": 2120.72,
+      "duration": 5.76,
+      "text": "transcribed and summarized uh and and"
+    },
+    {
+      "start": 2123.28,
+      "duration": 4.96,
+      "text": "made available in a in a summarized uh"
+    },
+    {
+      "start": 2126.48,
+      "duration": 3.44,
+      "text": "structured note so the doctors don't"
+    },
+    {
+      "start": 2128.24,
+      "duration": 3.6,
+      "text": "have to spend time in building those"
+    },
+    {
+      "start": 2129.92,
+      "duration": 5.12,
+      "text": "notes and everything that happens after"
+    },
+    {
+      "start": 2131.84,
+      "duration": 5.28,
+      "text": "the visit like making payments or"
+    },
+    {
+      "start": 2135.04,
+      "duration": 4.64,
+      "text": "communicating with the patients you know"
+    },
+    {
+      "start": 2137.12,
+      "duration": 4.4,
+      "text": "for healthcare reminders and alerts. Um"
+    },
+    {
+      "start": 2139.68,
+      "duration": 4.72,
+      "text": "so Hilo provides you know software"
+    },
+    {
+      "start": 2141.52,
+      "duration": 6.24,
+      "text": "solutions uh between you know these"
+    },
+    {
+      "start": 2144.4,
+      "duration": 6.0,
+      "text": "these visit before after and u during"
+    },
+    {
+      "start": 2147.76,
+      "duration": 5.84,
+      "text": "the visit to give you an idea of the"
+    },
+    {
+      "start": 2150.4,
+      "duration": 5.68,
+      "text": "footprint um this gives you some some"
+    },
+    {
+      "start": 2153.6,
+      "duration": 4.72,
+      "text": "statistics some numbers we we touch"
+    },
+    {
+      "start": 2156.08,
+      "duration": 5.2,
+      "text": "about 16,000 different physician"
+    },
+    {
+      "start": 2158.32,
+      "duration": 6.4,
+      "text": "practices uh 180,000 providers"
+    },
+    {
+      "start": 2161.28,
+      "duration": 5.36,
+      "text": "physicians that that use the product and"
+    },
+    {
+      "start": 2164.72,
+      "duration": 4.56,
+      "text": "their patients have access to the"
+    },
+    {
+      "start": 2166.64,
+      "duration": 5.28,
+      "text": "medical records through Hilo mobile app."
+    },
+    {
+      "start": 2169.28,
+      "duration": 4.64,
+      "text": "Uh we send communication messages out to"
+    },
+    {
+      "start": 2171.92,
+      "duration": 5.04,
+      "text": "patients uh through different channels"
+    },
+    {
+      "start": 2173.92,
+      "duration": 5.28,
+      "text": "like voice, text, emails. Um and we do"
+    },
+    {
+      "start": 2176.96,
+      "duration": 4.08,
+      "text": "about 50 million of these every month."
+    },
+    {
+      "start": 2179.2,
+      "duration": 3.92,
+      "text": "Uh our payment processing solution"
+    },
+    {
+      "start": 2181.04,
+      "duration": 5.04,
+      "text": "processes about you know $2 billion"
+    },
+    {
+      "start": 2183.12,
+      "duration": 6.72,
+      "text": "worth of payments every year. Um and we"
+    },
+    {
+      "start": 2186.08,
+      "duration": 6.8,
+      "text": "connect with the top payers PBMs"
+    },
+    {
+      "start": 2189.84,
+      "duration": 4.24,
+      "text": "um today to kind of help them through"
+    },
+    {
+      "start": 2192.88,
+      "duration": 4.88,
+      "text": "you know connection between their"
+    },
+    {
+      "start": 2194.08,
+      "duration": 6.8,
+      "text": "members uh and them. So, so as you see,"
+    },
+    {
+      "start": 2197.76,
+      "duration": 5.92,
+      "text": "you know, we we have a a good amount of,"
+    },
+    {
+      "start": 2200.88,
+      "duration": 5.6,
+      "text": "you know, users in the US. Uh, we've"
+    },
+    {
+      "start": 2203.68,
+      "duration": 4.48,
+      "text": "used uh AI, we've been using AI for"
+    },
+    {
+      "start": 2206.48,
+      "duration": 4.32,
+      "text": "quite some time now. You know, we"
+    },
+    {
+      "start": 2208.16,
+      "duration": 5.12,
+      "text": "started our journey um right when it was"
+    },
+    {
+      "start": 2210.8,
+      "duration": 6.88,
+      "text": "it was announced starting I think"
+    },
+    {
+      "start": 2213.28,
+      "duration": 7.52,
+      "text": "January 2023. uh we uh started to adopt"
+    },
+    {
+      "start": 2217.68,
+      "duration": 5.12,
+      "text": "this in different places and um we do"
+    },
+    {
+      "start": 2220.8,
+      "duration": 6.96,
+      "text": "have you know the different models that"
+    },
+    {
+      "start": 2222.8,
+      "duration": 7.44,
+      "text": "we use today for image um text and voice"
+    },
+    {
+      "start": 2227.76,
+      "duration": 4.56,
+      "text": "um to give you give you an idea of the"
+    },
+    {
+      "start": 2230.24,
+      "duration": 3.76,
+      "text": "different use cases that happen in"
+    },
+    {
+      "start": 2232.32,
+      "duration": 4.16,
+      "text": "healthcare. I won't be able to cover all"
+    },
+    {
+      "start": 2234.0,
+      "duration": 4.72,
+      "text": "of these it'll take the full session but"
+    },
+    {
+      "start": 2236.48,
+      "duration": 5.52,
+      "text": "I'll touch upon some of them. Uh"
+    },
+    {
+      "start": 2238.72,
+      "duration": 5.84,
+      "text": "document management is is one of a uh an"
+    },
+    {
+      "start": 2242.0,
+      "duration": 5.28,
+      "text": "area which you can probably relate to."
+    },
+    {
+      "start": 2244.56,
+      "duration": 4.0,
+      "text": "um doctor's office use faxes all the"
+    },
+    {
+      "start": 2247.28,
+      "duration": 3.2,
+      "text": "time. You know, it's ironic. We're"
+    },
+    {
+      "start": 2248.56,
+      "duration": 5.92,
+      "text": "talking about AI and then we talk about"
+    },
+    {
+      "start": 2250.48,
+      "duration": 6.0,
+      "text": "faxing, right? But um it's it it uses"
+    },
+    {
+      "start": 2254.48,
+      "duration": 3.68,
+      "text": "it's been used every day at every"
+    },
+    {
+      "start": 2256.48,
+      "duration": 4.96,
+      "text": "physician practice. They get tons of"
+    },
+    {
+      "start": 2258.16,
+      "duration": 5.6,
+      "text": "fraases from uh from different places,"
+    },
+    {
+      "start": 2261.44,
+      "duration": 5.6,
+      "text": "you know, other doctor's office or uh"
+    },
+    {
+      "start": 2263.76,
+      "duration": 5.28,
+      "text": "from patients and and and so on u labs"
+    },
+    {
+      "start": 2267.04,
+      "duration": 3.84,
+      "text": "and other places. So when these"
+    },
+    {
+      "start": 2269.04,
+      "duration": 3.6,
+      "text": "documents come into the doctor's office,"
+    },
+    {
+      "start": 2270.88,
+      "duration": 4.4,
+      "text": "somebody has to it's the full-time role"
+    },
+    {
+      "start": 2272.64,
+      "duration": 4.96,
+      "text": "of a person to take those documents and"
+    },
+    {
+      "start": 2275.28,
+      "duration": 4.56,
+      "text": "file them in the patient record uh in"
+    },
+    {
+      "start": 2277.6,
+      "duration": 6.0,
+      "text": "the right folder and then assign it to a"
+    },
+    {
+      "start": 2279.84,
+      "duration": 6.0,
+      "text": "person who can then review it. With the"
+    },
+    {
+      "start": 2283.6,
+      "duration": 4.48,
+      "text": "you know option of the image AI, we're"
+    },
+    {
+      "start": 2285.84,
+      "duration": 4.64,
+      "text": "able to actually sweep through those"
+    },
+    {
+      "start": 2288.08,
+      "duration": 4.24,
+      "text": "those documents uh file them in the"
+    },
+    {
+      "start": 2290.48,
+      "duration": 4.96,
+      "text": "right patient record. You know, if if"
+    },
+    {
+      "start": 2292.32,
+      "duration": 5.44,
+      "text": "you have a a a fax that is multiple"
+    },
+    {
+      "start": 2295.44,
+      "duration": 5.28,
+      "text": "pages, we can take away and break those"
+    },
+    {
+      "start": 2297.76,
+      "duration": 4.8,
+      "text": "pages down and file specific pages to"
+    },
+    {
+      "start": 2300.72,
+      "duration": 3.68,
+      "text": "different patient records, put them in"
+    },
+    {
+      "start": 2302.56,
+      "duration": 4.32,
+      "text": "the right folders, assign it to the"
+    },
+    {
+      "start": 2304.4,
+      "duration": 5.12,
+      "text": "right user, right? So, it saves a lot of"
+    },
+    {
+      "start": 2306.88,
+      "duration": 4.8,
+      "text": "time for practice stuff. Um, it also,"
+    },
+    {
+      "start": 2309.52,
+      "duration": 4.08,
+      "text": "you know, you know, helps with reducing"
+    },
+    {
+      "start": 2311.68,
+      "duration": 4.16,
+      "text": "the error rates, which you know, happens"
+    },
+    {
+      "start": 2313.6,
+      "duration": 4.96,
+      "text": "when you manually file these records."
+    },
+    {
+      "start": 2315.84,
+      "duration": 5.6,
+      "text": "Um, so that that helps a lot in in in"
+    },
+    {
+      "start": 2318.56,
+      "duration": 5.36,
+      "text": "these use cases. mentioned about Sono"
+    },
+    {
+      "start": 2321.44,
+      "duration": 5.2,
+      "text": "also right a little bit which is the"
+    },
+    {
+      "start": 2323.92,
+      "duration": 5.92,
+      "text": "ambient listing product and and that"
+    },
+    {
+      "start": 2326.64,
+      "duration": 5.2,
+      "text": "saves a ton of time for physicians uh"
+    },
+    {
+      "start": 2329.84,
+      "duration": 4.32,
+      "text": "because they don't have to go point and"
+    },
+    {
+      "start": 2331.84,
+      "duration": 5.04,
+      "text": "click and and document their chart right"
+    },
+    {
+      "start": 2334.16,
+      "duration": 5.76,
+      "text": "the system is the ambient listening"
+    },
+    {
+      "start": 2336.88,
+      "duration": 6.24,
+      "text": "system is you know uh listening to the"
+    },
+    {
+      "start": 2339.92,
+      "duration": 5.2,
+      "text": "provider patient uh discussion and it"
+    },
+    {
+      "start": 2343.12,
+      "duration": 4.48,
+      "text": "converts that natural language into a"
+    },
+    {
+      "start": 2345.12,
+      "duration": 5.28,
+      "text": "clinical note which the doctors can just"
+    },
+    {
+      "start": 2347.6,
+      "duration": 6.4,
+      "text": "put into their system and you know it's"
+    },
+    {
+      "start": 2350.4,
+      "duration": 7.92,
+      "text": "it's available to use. Um so it it takes"
+    },
+    {
+      "start": 2354.0,
+      "duration": 5.76,
+      "text": "away the burden from physicians. Um Hilo"
+    },
+    {
+      "start": 2358.32,
+      "duration": 5.36,
+      "text": "Genie is the product I want to talk"
+    },
+    {
+      "start": 2359.76,
+      "duration": 6.24,
+      "text": "about next which is a you know AI"
+    },
+    {
+      "start": 2363.68,
+      "duration": 5.6,
+      "text": "powered contact center solution. It sits"
+    },
+    {
+      "start": 2366.0,
+      "duration": 5.52,
+      "text": "on top of EHRs and CRM solutions and"
+    },
+    {
+      "start": 2369.28,
+      "duration": 5.2,
+      "text": "it's designed to help physician"
+    },
+    {
+      "start": 2371.52,
+      "duration": 5.92,
+      "text": "practices improve their operations and"
+    },
+    {
+      "start": 2374.48,
+      "duration": 4.64,
+      "text": "reduce the burden on the staff. Um so"
+    },
+    {
+      "start": 2377.44,
+      "duration": 4.0,
+      "text": "what happens today is you know when"
+    },
+    {
+      "start": 2379.12,
+      "duration": 4.96,
+      "text": "phone calls and text messages and chats"
+    },
+    {
+      "start": 2381.44,
+      "duration": 4.4,
+      "text": "come from patients uh the doctor's"
+    },
+    {
+      "start": 2384.08,
+      "duration": 4.24,
+      "text": "office are overwhelmed right now they"
+    },
+    {
+      "start": 2385.84,
+      "duration": 4.8,
+      "text": "maybe don't have enough staff um you"
+    },
+    {
+      "start": 2388.32,
+      "duration": 4.24,
+      "text": "know to take those many number of calls"
+    },
+    {
+      "start": 2390.64,
+      "duration": 6.0,
+      "text": "you know it takes a lot of people to"
+    },
+    {
+      "start": 2392.56,
+      "duration": 7.2,
+      "text": "manage that with this uh product of ours"
+    },
+    {
+      "start": 2396.64,
+      "duration": 5.6,
+      "text": "um we we offer an agent to our physician"
+    },
+    {
+      "start": 2399.76,
+      "duration": 4.0,
+      "text": "practices which will take these calls uh"
+    },
+    {
+      "start": 2402.24,
+      "duration": 3.44,
+      "text": "and routine tasks like appointment"
+    },
+    {
+      "start": 2403.76,
+      "duration": 2.8,
+      "text": "booking, refill requests, billing"
+    },
+    {
+      "start": 2405.68,
+      "duration": 2.64,
+      "text": "questions"
+    },
+    {
+      "start": 2406.56,
+      "duration": 5.36,
+      "text": "referral questions are all addressed"
+    },
+    {
+      "start": 2408.32,
+      "duration": 5.2,
+      "text": "through this agent. And if the agent is"
+    },
+    {
+      "start": 2411.92,
+      "duration": 3.84,
+      "text": "for whatever reason not able to answer"
+    },
+    {
+      "start": 2413.52,
+      "duration": 4.08,
+      "text": "or the patient needs to talk to a human,"
+    },
+    {
+      "start": 2415.76,
+      "duration": 3.92,
+      "text": "we also route these calls through our"
+    },
+    {
+      "start": 2417.6,
+      "duration": 4.72,
+      "text": "contact center solution to the human"
+    },
+    {
+      "start": 2419.68,
+      "duration": 4.88,
+      "text": "agent. Um, we don't stop there. When the"
+    },
+    {
+      "start": 2422.32,
+      "duration": 4.4,
+      "text": "human agent takes these calls, we also"
+    },
+    {
+      "start": 2424.56,
+      "duration": 3.76,
+      "text": "assist the human agent through AI so"
+    },
+    {
+      "start": 2426.72,
+      "duration": 3.76,
+      "text": "they can, you know, shorten the amount"
+    },
+    {
+      "start": 2428.32,
+      "duration": 3.6,
+      "text": "of time they take to, you know, get the"
+    },
+    {
+      "start": 2430.48,
+      "duration": 5.2,
+      "text": "patients the answer to the questions"
+    },
+    {
+      "start": 2431.92,
+      "duration": 6.72,
+      "text": "they have. Um we also have this Genie uh"
+    },
+    {
+      "start": 2435.68,
+      "duration": 4.56,
+      "text": "agent help the patient practice uh"
+    },
+    {
+      "start": 2438.64,
+      "duration": 3.76,
+      "text": "during after hours you know patients"
+    },
+    {
+      "start": 2440.24,
+      "duration": 4.32,
+      "text": "call uh let's say after 6:00 when the"
+    },
+    {
+      "start": 2442.4,
+      "duration": 4.0,
+      "text": "doctor's office is shut uh Genie will"
+    },
+    {
+      "start": 2444.56,
+      "duration": 3.28,
+      "text": "collect the information that the"
+    },
+    {
+      "start": 2446.4,
+      "duration": 3.04,
+      "text": "doctor's office would need and then"
+    },
+    {
+      "start": 2447.84,
+      "duration": 3.6,
+      "text": "route that information to the on call"
+    },
+    {
+      "start": 2449.44,
+      "duration": 5.36,
+      "text": "provider. So now they don't need to buy"
+    },
+    {
+      "start": 2451.44,
+      "duration": 5.6,
+      "text": "separate systems or have a autoresponder"
+    },
+    {
+      "start": 2454.8,
+      "duration": 4.56,
+      "text": "or someone to take that information. So"
+    },
+    {
+      "start": 2457.04,
+      "duration": 4.88,
+      "text": "it saves them a lot of cost. And then"
+    },
+    {
+      "start": 2459.36,
+      "duration": 4.96,
+      "text": "finally uh we also have conversational"
+    },
+    {
+      "start": 2461.92,
+      "duration": 5.28,
+      "text": "smart campaigns. So there are many"
+    },
+    {
+      "start": 2464.32,
+      "duration": 4.64,
+      "text": "routine reasons why physician offices"
+    },
+    {
+      "start": 2467.2,
+      "duration": 4.08,
+      "text": "call the patients you know for for"
+    },
+    {
+      "start": 2468.96,
+      "duration": 4.08,
+      "text": "example if there's a procedure I need to"
+    },
+    {
+      "start": 2471.28,
+      "duration": 3.92,
+      "text": "call you to prep prep you for a"
+    },
+    {
+      "start": 2473.04,
+      "duration": 3.92,
+      "text": "procedure. Uh I need to call you for an"
+    },
+    {
+      "start": 2475.2,
+      "duration": 4.16,
+      "text": "appointment reminder. We need to call"
+    },
+    {
+      "start": 2476.96,
+      "duration": 4.24,
+      "text": "patients for um you know routine"
+    },
+    {
+      "start": 2479.36,
+      "duration": 4.16,
+      "text": "follow-ups. Right? So there many various"
+    },
+    {
+      "start": 2481.2,
+      "duration": 4.08,
+      "text": "different reasons why practices call the"
+    },
+    {
+      "start": 2483.52,
+      "duration": 3.92,
+      "text": "patients. What we're doing now with"
+    },
+    {
+      "start": 2485.28,
+      "duration": 4.32,
+      "text": "Genie is we're making that conversation"
+    },
+    {
+      "start": 2487.44,
+      "duration": 5.2,
+      "text": "happen through the AI agent, right? So"
+    },
+    {
+      "start": 2489.6,
+      "duration": 4.72,
+      "text": "it's a a you know it takes up the time"
+    },
+    {
+      "start": 2492.64,
+      "duration": 3.44,
+      "text": "takes away the time from a physician"
+    },
+    {
+      "start": 2494.32,
+      "duration": 3.92,
+      "text": "office to make those outbound calls."
+    },
+    {
+      "start": 2496.08,
+      "duration": 4.4,
+      "text": "Genie will make those calls for the"
+    },
+    {
+      "start": 2498.24,
+      "duration": 4.64,
+      "text": "practice. So as you can understand"
+    },
+    {
+      "start": 2500.48,
+      "duration": 5.52,
+      "text": "there's so many different use cases and"
+    },
+    {
+      "start": 2502.88,
+      "duration": 5.44,
+      "text": "it'll free up time from the physician um"
+    },
+    {
+      "start": 2506.0,
+      "duration": 4.8,
+      "text": "office and to really take care of the"
+    },
+    {
+      "start": 2508.32,
+      "duration": 4.16,
+      "text": "patients. Here's just a quick kind of a"
+    },
+    {
+      "start": 2510.8,
+      "duration": 4.08,
+      "text": "snapshot of the architecture of this"
+    },
+    {
+      "start": 2512.48,
+      "duration": 4.88,
+      "text": "product. As you can see on the left side"
+    },
+    {
+      "start": 2514.88,
+      "duration": 5.04,
+      "text": "that you have the patient who can you"
+    },
+    {
+      "start": 2517.36,
+      "duration": 4.88,
+      "text": "know call, text or come through the"
+    },
+    {
+      "start": 2519.92,
+      "duration": 5.36,
+      "text": "practice website through a chatbot. We"
+    },
+    {
+      "start": 2522.24,
+      "duration": 5.68,
+      "text": "use Azure communication services to"
+    },
+    {
+      "start": 2525.28,
+      "duration": 5.04,
+      "text": "route that information. uh the function"
+    },
+    {
+      "start": 2527.92,
+      "duration": 5.76,
+      "text": "app in the middle will will take the"
+    },
+    {
+      "start": 2530.32,
+      "duration": 8.24,
+      "text": "event transfer pass that to the um fast"
+    },
+    {
+      "start": 2533.68,
+      "duration": 8.64,
+      "text": "API and that will connect to the EHR or"
+    },
+    {
+      "start": 2538.56,
+      "duration": 5.68,
+      "text": "a CRM tool get the right information"
+    },
+    {
+      "start": 2542.32,
+      "duration": 5.36,
+      "text": "back understand the intent of what the"
+    },
+    {
+      "start": 2544.24,
+      "duration": 8.08,
+      "text": "patient's trying to ask use the um Azure"
+    },
+    {
+      "start": 2547.68,
+      "duration": 7.12,
+      "text": "OpenAI um models to get the answers and"
+    },
+    {
+      "start": 2552.32,
+      "duration": 4.48,
+      "text": "then respond back to the patient um"
+    },
+    {
+      "start": 2554.8,
+      "duration": 4.4,
+      "text": "works beautifully and you know Thank you"
+    },
+    {
+      "start": 2556.8,
+      "duration": 7.48,
+      "text": "to our friends at Microsoft uh and the"
+    },
+    {
+      "start": 2559.2,
+      "duration": 5.08,
+      "text": "Azure team to help us with this product."
+    },
+    {
+      "start": 2565.12,
+      "duration": 5.52,
+      "text": "Yeah, I really really love how you can"
+    },
+    {
+      "start": 2567.76,
+      "duration": 6.08,
+      "text": "see where they're plugging in AI in the"
+    },
+    {
+      "start": 2570.64,
+      "duration": 5.52,
+      "text": "entire like from when even before you"
+    },
+    {
+      "start": 2573.84,
+      "duration": 4.88,
+      "text": "get to the hospital to even after you"
+    },
+    {
+      "start": 2576.16,
+      "duration": 5.04,
+      "text": "leave the hospital how you can integrate"
+    },
+    {
+      "start": 2578.72,
+      "duration": 4.16,
+      "text": "AI and how everything works seamlessly."
+    },
+    {
+      "start": 2581.2,
+      "duration": 4.32,
+      "text": "So it's really really awesome to see"
+    },
+    {
+      "start": 2582.88,
+      "duration": 5.04,
+      "text": "that. So thank you so much. That was our"
+    },
+    {
+      "start": 2585.52,
+      "duration": 4.64,
+      "text": "customer story from Hilo. It was a"
+    },
+    {
+      "start": 2587.92,
+      "duration": 4.96,
+      "text": "presentation, a demo during build. So"
+    },
+    {
+      "start": 2590.16,
+      "duration": 5.52,
+      "text": "you can check it out and our customer"
+    },
+    {
+      "start": 2592.88,
+      "duration": 5.12,
+      "text": "story segment. Uh other than that, thank"
+    },
+    {
+      "start": 2595.68,
+      "duration": 3.68,
+      "text": "you so much for joining us today. Next"
+    },
+    {
+      "start": 2598.0,
+      "duration": 3.76,
+      "text": "week we'll be talking about"
+    },
+    {
+      "start": 2599.36,
+      "duration": 5.52,
+      "text": "observability. So if you've been"
+    },
+    {
+      "start": 2601.76,
+      "duration": 5.44,
+      "text": "building your different AI models and"
+    },
+    {
+      "start": 2604.88,
+      "duration": 5.68,
+      "text": "everything, you know how key"
+    },
+    {
+      "start": 2607.2,
+      "duration": 6.4,
+      "text": "observability is in terms of how do you"
+    },
+    {
+      "start": 2610.56,
+      "duration": 5.6,
+      "text": "evaluate your system and how do you know"
+    },
+    {
+      "start": 2613.6,
+      "duration": 4.08,
+      "text": "if anything is wrong, right? So we'll be"
+    },
+    {
+      "start": 2616.16,
+      "duration": 4.32,
+      "text": "have the we'll have the session next"
+    },
+    {
+      "start": 2617.68,
+      "duration": 5.76,
+      "text": "week and it will be hosted by April."
+    },
+    {
+      "start": 2620.48,
+      "duration": 6.72,
+      "text": "Other than that, please please please"
+    },
+    {
+      "start": 2623.44,
+      "duration": 6.88,
+      "text": "remember to join us on Friday for Friday"
+    },
+    {
+      "start": 2627.2,
+      "duration": 5.92,
+      "text": "AMA this AMA session. all the questions"
+    },
+    {
+      "start": 2630.32,
+      "duration": 4.32,
+      "text": "that weren't answered today. And again,"
+    },
+    {
+      "start": 2633.12,
+      "duration": 4.08,
+      "text": "if you still have a question, you can"
+    },
+    {
+      "start": 2634.64,
+      "duration": 6.0,
+      "text": "paste it on the chat or you can post it"
+    },
+    {
+      "start": 2637.2,
+      "duration": 7.2,
+      "text": "on Discord and we'll have wood cash join"
+    },
+    {
+      "start": 2640.64,
+      "duration": 5.92,
+      "text": "us on Friday at 1:30 p.m. ET. That's"
+    },
+    {
+      "start": 2644.4,
+      "duration": 4.64,
+      "text": "8:30 p.m. my time. That's East African"
+    },
+    {
+      "start": 2646.56,
+      "duration": 5.68,
+      "text": "time. So, you can join us and learn more"
+    },
+    {
+      "start": 2649.04,
+      "duration": 5.6,
+      "text": "about uh speech, the speech service. And"
+    },
+    {
+      "start": 2652.24,
+      "duration": 4.96,
+      "text": "in case you have any question, feel free"
+    },
+    {
+      "start": 2654.64,
+      "duration": 5.68,
+      "text": "to leave it there. just drop it on the"
+    },
+    {
+      "start": 2657.2,
+      "duration": 6.56,
+      "text": "chat and we'll be there to answer all"
+    },
+    {
+      "start": 2660.32,
+      "duration": 6.32,
+      "text": "the links the recaps. I've seen so many"
+    },
+    {
+      "start": 2663.76,
+      "duration": 5.12,
+      "text": "people asking uh okay which link will I"
+    },
+    {
+      "start": 2666.64,
+      "duration": 5.12,
+      "text": "need to if I want to get started with"
+    },
+    {
+      "start": 2668.88,
+      "duration": 4.64,
+      "text": "speech which link do I need to use if I"
+    },
+    {
+      "start": 2671.76,
+      "duration": 4.48,
+      "text": "want to join discord which link do I"
+    },
+    {
+      "start": 2673.52,
+      "duration": 4.56,
+      "text": "need to use all the links are here and"
+    },
+    {
+      "start": 2676.24,
+      "duration": 4.48,
+      "text": "again thank you so much for joining us"
+    },
+    {
+      "start": 2678.08,
+      "duration": 4.64,
+      "text": "today in case you have any questions"
+    },
+    {
+      "start": 2680.72,
+      "duration": 4.8,
+      "text": "feel free to post it on the chat or on"
+    },
+    {
+      "start": 2682.72,
+      "duration": 5.44,
+      "text": "discord and on Friday we'll be answering"
+    },
+    {
+      "start": 2685.52,
+      "duration": 7.44,
+      "text": "all of them thank you so much and have a"
+    },
+    {
+      "start": 2688.16,
+      "duration": 7.8,
+      "text": "very lovely day evening or even Morning."
+    },
+    {
+      "start": 2692.96,
+      "duration": 3.0,
+      "text": "Bye."
+    },
+    {
+      "start": 2703.68,
+      "duration": 4.4,
+      "text": "Thank you all for joining and thank you"
+    },
+    {
+      "start": 2705.36,
+      "duration": 5.2,
+      "text": "to our speakers. This session is a part"
+    },
+    {
+      "start": 2708.08,
+      "duration": 5.12,
+      "text": "of a series. To register for future"
+    },
+    {
+      "start": 2710.56,
+      "duration": 4.56,
+      "text": "shows and watch past episodes on demand,"
+    },
+    {
+      "start": 2713.2,
+      "duration": 3.92,
+      "text": "you can follow the link on the screen or"
+    },
+    {
+      "start": 2715.12,
+      "duration": 3.44,
+      "text": "in the chat."
+    },
+    {
+      "start": 2717.12,
+      "duration": 3.92,
+      "text": "We're always looking to improve our"
+    },
+    {
+      "start": 2718.56,
+      "duration": 4.08,
+      "text": "sessions and your experience. If you"
+    },
+    {
+      "start": 2721.04,
+      "duration": 3.92,
+      "text": "have any feedback for us, we would love"
+    },
+    {
+      "start": 2722.64,
+      "duration": 4.24,
+      "text": "to hear what you have to say. You can"
+    },
+    {
+      "start": 2724.96,
+      "duration": 3.76,
+      "text": "find that link on the screen or in the"
+    },
+    {
+      "start": 2726.88,
+      "duration": 4.02,
+      "text": "chat."
+    },
+    {
+      "start": 2728.72,
+      "duration": 28.21,
+      "text": "We'll see you at the next one."
+    },
+    {
+      "start": 2730.9,
+      "duration": 26.03,
+      "text": "[Music]"
+    },
+    {
+      "start": 2759.0,
+      "duration": 8.71,
+      "text": "[Music]"
+    },
+    {
+      "start": 2776.63,
+      "duration": 3.19,
+      "text": "[Music]"
+    }
+  ]
+}

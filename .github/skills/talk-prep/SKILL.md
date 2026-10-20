@@ -1,6 +1,6 @@
 ---
 name: talk-prep
-description: "Set up, verify, rehearse and reset the 'Don't Let the Chocolate Pile Up' talk demos. Use when asked to prep or rehearse the talk, set up a fresh Codespace for the demos, run the T-30 setup, check demo readiness, reset between rehearsals, export the deck to PDF/PPTX, or clean up after a demo run."
+description: "Set up, verify, rehearse and reset the 'Don't Let the Chocolate Pile Up' talk demos. Use when asked to prep or rehearse the talk, set up a fresh Codespace for the demos, run the T-30 setup, check demo readiness, reset between rehearsals, time or log a rehearsal, record backup demo videos, export the deck to PDF/PPTX, or clean up after a demo run."
 ---
 
 # Talk prep
@@ -51,20 +51,53 @@ Then:
 | 3 · Agent caught | ⌨️ Terminal | `python -m agents.emcee "prep S4-E12" --mock --only publisher --mock-fault placeholder --mock-delay 0.8` | ⛔ BLOCKED on `submit_draft`, then a clean resubmit |
 | 4 · Whole line | ⌨️ Terminal, Studio open alongside | `python site/scripts/reset_state.py && python -m agents.emcee "prep S4-E12" --mock --mock-delay 0.4` | Emcee hands off to Coordinator, Presenter and Publisher; drafts appear in Studio. After approval, `/episodes/s4-e12` shows Deck, Social and Prep (Recap/Highlights stay empty: the episode hasn't aired) |
 
-**Bake and switch:** if a live demo is still running at 2:15, switch to the backup (`demo/backups/s4-e09/`, `demo/backups/s4-e11/deck.html`).
+**Bake and switch:** if a live demo is still running at 2:15, switch to the backup (`demo/backups/s4-e09/`, `demo/backups/s4-e11/deck.html`, or a recorded video; see "Record backup videos" in section 4).
 
 ## 4. Rehearse
 
-Timed run-throughs with presenter view and `slides/narrative.md` open on a second screen. Clock checkpoints:
+Timed run-throughs with presenter view and `slides/narrative.md` open on a second screen. Rehearse as many times as you like; run the reset (section 5) between runs.
 
-| End of | Target |
-|---|---|
-| Slide 6 (intro) | 5:00 |
-| Demo 1 | 10:00 |
-| Demo 2 | 15:00 |
-| Demo 3 | 20:00 |
-| Demo 4 | 25:00 |
-| Slide 25 | 28:30 |
+### Rehearsal timing
+
+This skill doesn't time anything automatically. Two ways to capture times:
+- **Whole talk:** use the timer in Marp presenter view and write down the time at each checkpoint below.
+- **One demo:** start the Copilot prompt with *"time this:"* so Copilot reports start, stop and elapsed time.
+
+If asked to log a rehearsal, append a row to `.github/planning/rehearsal-log.md` (create it with this header if missing) and commit it:
+
+```markdown
+| Date | Run | Slide 6 | Demo 1 | Demo 2 | Demo 3 | Demo 4 | End | Notes |
+|---|---|---|---|---|---|---|---|---|
+```
+
+| End of | Target | Demo budget |
+|---|---|---|
+| Slide 6 (intro) | 5:00 | |
+| Demo 1 | 10:00 | 3:00 (rehearsed 1:34) |
+| Demo 2 | 15:00 | 3:00 (rehearsed 2:34 + approval) |
+| Demo 3 | 20:00 | 3:00 |
+| Demo 4 | 25:00 | 3:30 |
+| Slide 25 | 28:30 | 1:30 buffer for Q&A |
+
+If you're past **10:30** after Demo 1 or **20:30** after Demo 3, switch to the backup sooner in the next demo. Don't trim the wrap.
+
+### Record backup videos
+
+A recorded demo is the most predictable fallback: fixed length, no model, no network. Record on the **laptop** (not in the Codespace), after a reset (section 5).
+
+| Priority | Demo | Why | Trim to |
+|---|---|---|---|
+| 1 | Demo 2 · Deck | Riskiest: ~2:35 live, and the model output varies | ≤ 2:30 |
+| 2 | Demo 1 · Recap | Model output varies | ≤ 2:15 |
+| 3 | Demo 4 · Whole line | The trace plus the studio filling up looks good on video | ≤ 3:00 |
+| Optional | Demo 3 · Guardrail | Runs in a second and gives the same result every time | ≤ 1:00 |
+
+- **Tools:** Mac Cmd+Shift+5, Windows Win+Alt+R (Game Bar) or Clipchamp, or OBS on either.
+- **Setup:** editor font 18+, 1920×1080, Zen mode, notifications off, the browser tabs from section 2 open.
+- **Record without sound and narrate live,** so the same script (`slides/narrative.md`) works with or without the video.
+- **Edit:** speed up waiting stretches 2× and trim to the length in the table.
+- **Store** on the laptop and in a cloud folder, **not in git** (too large, and you need them even if the Codespace is down). Name them `demo1-recap.mp4`, `demo2-deck.mp4`, `demo4-line.mp4`.
+- **On stage:** same rule as the other backups. If a live demo is still running at 2:15, switch to its video. For a demo you're nervous about, play the video from the start.
 
 ## 5. Reset (between rehearsals and before the talk)
 

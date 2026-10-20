@@ -38,3 +38,12 @@ Lines that work inside the chocolate frame (proposed for narrative.md, not yet a
 - **Replacement fear:** the factory frees time for the human work: guest relationships, community, live teaching.
 - **Coding-agent gap (abstract promise #8):** a one-minute clip of a Copilot coding agent PR that updates a lab, for slide 20.
 - **Abstract wording:** the deck never says "podcast" or "AMA series".
+
+## 3. Bonus: a real ASSERT + Foundry run (after rehearsals, if time permits)
+
+Nitya has a live Foundry project. Goal: replace "preview" with real evidence.
+
+1. **Dev container:** the `azure-cli` and `azd` features are declared in `.devcontainer/devcontainer.json`, but `az` was missing in the rehearsal Codespace. Fix that, rebuild, then `az login` and `azd auth login`.
+2. **ASSERT:** create `evals/.env` (generator + judge deployments; LiteLLM `azure/<deployment>` names in `evals/producer/*.yaml`) and `agents/.env` (the Producer's model). Run `evals/producer/ungrounded_links.yaml`: baseline → fix → `--override run=after-fix` → `assert-ai results compare`. Nothing has validated these configs yet (`assert-ai` has no dry-run), so expect config fixes on the first run.
+3. **Foundry:** the `microsoft-foundry` skill: `azd ai agent init --src agents` (container deploy), `azd provision` + `azd deploy`, invoke `"prep next"`, then one routine from `agents/foundry/`.
+4. **Talk:** if a run succeeds, use real numbers (screenshot or bake-and-switch) on slides 18/21 and drop the "Preview" / "In progress" labels.

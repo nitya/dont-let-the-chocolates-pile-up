@@ -38,6 +38,65 @@ Every tool has one job on the line and one sentence that explains why it's there
  - *Make it scale* = Foundry routines + GitHub triggers/CI + coding agent
  - ... with the studio as the human gate throughout.
 
+## The two inspectors: the ASSERT and Foundry story
+
+Neither one runs live at this showing. What carries them is a clear story: **what it is, why it matters, and where we are.** Tell it on slide 17, point back to it in Demo 3 and on slide 20, and land it with Season 5.
+
+**The one-line version:** *ASSERT answers "is it good before it ships?" Foundry answers "is it still good after it ships, and does it run without me?"* Laptop and production. Make it better, then make it scale.
+
+### ASSERT: the taster on the line
+
+**What it is:** ASSERT (*Adaptive Spec-driven Scoring for Evaluation and Regression Testing*), open source (MIT) from [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT). It turns the behavior you **wrote down in plain language** into tests you can run:
+1. It derives categories of behavior from your spec.
+2. It generates single- and multi-turn test conversations, including pressure ("I need a link for every item").
+3. It runs them against your agent.
+4. An LLM judge scores each conversation against your policy, **citing the agent's trace** (which tool it called, which source it used), not just the final answer.
+
+The `run-assert-eval` skill lets your coding assistant do all of that from chat. It can then **generate a policy from the real failures and re-run the same eval to prove the failure rate dropped.**
+
+**Why it matters:**
+- **Rules only catch what you can write as a rule.** `check.py` catches `aka.ms/model-mondays`. It can't catch a plausible link to the wrong page, an invented guest, a claim the transcript doesn't support, or an agent that caves when the user insists. Those are the failures that cost trust.
+- **Your spec is the test, not a generic benchmark.** "Never invent links" is already in our skill (slide 9). ASSERT turns that sentence into a number you can track every week.
+- **Two numbers, not one.** The *harm* number (it invented a link) and the *trade-off* number (it refused to write a recap at all). You don't "fix" an agent by making it useless.
+- **The delta is the evidence.** Before, fix, after. That's how you answer the 46% of developers who don't trust AI output (slide 3): evidence instead of reassurance.
+- **Open and portable:** local-first, any model (100+ endpoints through LiteLLM), any agent framework. It isn't tied to Foundry.
+
+**Where we are (say it plainly):** "We've written the eval specs for our Producer: one for invented or placeholder links, one for unsupported claims. The agent is wired up as ASSERT's target. **We start running them for Season 5 of Model Mondays, December–January.**" The files are in [evals/producer/](../evals/producer/) and anyone can read them.
+
+**Don't say** "here's ASSERT running" about anything at this showing. Nothing on stage runs ASSERT.
+
+### Microsoft Foundry: the kitchen the line runs in
+
+**What it is:** Microsoft's platform for building, deploying and operating models and agents. For this line it does four jobs:
+1. **Hosts the crew.** The same Emcee code from my laptop runs as a hosted agent.
+2. **Wakes it up.** Routines start it on a schedule ("every Tuesday, prep the next episode") or when a GitHub issue opens.
+3. **Keeps checking it in production.** [Evaluations](https://learn.microsoft.com/azure/foundry/concepts/evaluation-overview) score agents from the portal, the SDK or CI/CD, and [continuous evaluation](https://learn.microsoft.com/azure/foundry/observability/how-to/how-to-monitor-agents-dashboard) scores live traffic on a monitoring dashboard.
+4. **Shows what happened.** OpenTelemetry traces of every handoff and tool call.
+
+The `microsoft-foundry` skill lets the coding agent do the deploying, invoking, scheduling and observing for you.
+
+**Why it matters:**
+- **A laptop isn't a factory.** If the line only runs when I remember to run it, I'm still Lucy. Hosting plus routines is how it runs **without me**: *triggers, not reminders.*
+- **Passing before launch isn't the same as staying good.** Models update, episodes change, new guests arrive. ASSERT proves it's good before it ships; Foundry's continuous evals keep checking after it ships. That's the *gates, not heroics* line on slide 20.
+- **We use what we teach.** Model Mondays is a show about models in Foundry, and Emcee's name is M.C. for *Model Catalog*. The line that produces the show runs on the platform the show covers.
+- **Not lock-in:** the crew is open-source Agent Framework code. It runs locally (as you saw in Demo 4), and Act 4 has a plain GitHub Actions fallback.
+
+**Where we are (say it plainly):** "The crew runs locally today, and you just watched it. The hosting setup and routine files are written. **We move it onto Foundry for Season 5.**" The routines are in [agents/foundry/](../agents/foundry/).
+
+**Don't say** "this is running on Foundry". At this showing it runs locally, in mock mode.
+
+### Where to tell each part
+
+| Slide | Story beat |
+|---|---|
+| 5 | Plant: "the two skills I want you to remember" |
+| 16 | The problem: a rule caught 83 links, but what about the failures a rule can't see? |
+| 17 | **Tell both stories here** (what + why), about 40 seconds. Use the one-line version |
+| 18 | ASSERT "where we are": the slide's four steps are the Season 5 loop; the guardrail is the live half |
+| 20 | Foundry "why": triggers and gates; the inspectors become gates |
+| 21 | Foundry "where we are": "you just saw it run locally; Season 5 runs it on Foundry" |
+| 24 | "Star the repo and watch it go from preview to production in Season 5" |
+
 ## Abstract check: does the talk deliver what it promised?
 
 The [abstract](../README.md#abstract) is what got people into the room. Each promise below must be **said out loud**, not just shown on a slide.
@@ -425,6 +484,9 @@ Slide 2 isn't just an icebreaker. Everything Lucy does to keep up maps onto an a
 **Presenter guidance:**
 - **Pay off slide 5:** "These are the two peach cards I asked you to remember."
 - Frame them as **two scopes**: "on my laptop" (`run-assert-eval`) and "in production" (`microsoft-foundry`). Don't go through every bullet.
+- **Tell the what and the why for each** (see [The two inspectors](#the-two-inspectors-the-assert-and-foundry-story)), about 20 seconds each:
+  - **ASSERT:** "You write down what your agent must never do, in plain English. ASSERT turns that into tests, runs them against your agent, and a judge scores every answer, citing the trace. Rules catch the obvious placeholder; ASSERT catches the plausible wrong link."
+  - **Foundry:** "Once the crew is deployed, Foundry hosts it, wakes it on a schedule, and keeps evaluating it on live traffic, because passing before launch isn't the same as staying good."
 - Use the plain-English risk as the example: "*highlights must never use placeholder links*". It ties directly back to slide 16.
 - The closing line is the elegant part: "**Both are skills, so your coding agent drives them for you.**" The inspection tools are themselves stations on the line.
 
@@ -443,14 +505,12 @@ Slide 2 isn't just an icebreaker. Everything Lucy does to keep up maps onto an a
 > [20:00]
 
 **Presenter guidance (first showing: Preview):**
-- **Be upfront about the Preview label.** "We're making this system real for **Season 5 of Model Mondays, starting December–January**. Today I'll show you the guardrail half live and walk the eval half."
+- **Frame the slide honestly before you switch to the terminal.** The card's four steps are the full ASSERT loop, and that's **not** what runs today. Say: "These four steps are the eval loop we're turning on for **Season 5 of Model Mondays, starting December–January**. Today you'll see the half that already runs: the guardrail."
 - **Live:** run `check.py` on `s3-e04`. It flags the **8 placeholder links** (plus a missing Sources section, 9 errors in total), the exact chocolates from slide 16.
 - **Live:** the Publisher mock run with `--mock-fault placeholder`. The audience watches the agent get **⛔ BLOCKED** and resubmit. This is the "caught in the act" moment, live.
 - **Bridge the gap between guardrails and evals** (the key idea): "A guardrail catches *this* one. ASSERT catches the ones a rule can't: a plausible but wrong link, an invented speaker, a claim the transcript doesn't support."
-- **Optional proof points (about 30s, no model needed).** These show what ASSERT works *with*; they don't run ASSERT:
-  - Open `evals/producer/ungrounded_links.yaml`: "Here's slide 16's risk in plain English. ASSERT generates the tests from this."
-  - Run the eval target in mock mode (command in the RUNBOOK): "This is the function ASSERT calls. Here's the **evidence** its judge reads: every tool call, every source, every human flag."
-- Then walk the four steps on the slide: risk → eval config → baseline → fix and re-run the *same* eval. Stress "**the delta is the evidence.**"
+- **Optional (about 15s):** open [`evals/producer/ungrounded_links.yaml`](../evals/producer/ungrounded_links.yaml): "Here's the eval spec we've written for ASSERT: slide 16's risk, in plain English. We start running it for Season 5." Don't run anything here, and don't say it's ASSERT output.
+- Back on the slide, walk the four steps as the plan: risk → eval config → baseline → fix and re-run the *same* eval. Stress "**the delta is the evidence.**"
 - Commands are in the Demo 03 section of the [RUNBOOK](../demo/RUNBOOK.md).
 - **Clock check: 20:00.**
 
@@ -493,6 +553,7 @@ Slide 2 isn't just an icebreaker. Everything Lucy does to keep up maps onto an a
 **Presenter guidance:**
 - Walk the flow left to right. Spend your time on the **peach Studio card**: "It never publishes. A human approves." That's *Agents propose, humans dispose* from slide 12, still true at scale.
 - **The synthesis moment:** "And the Act 3 inspectors **become gates**." This is where all three steps meet on one slide: the crew (work), the evals (better), the triggers (scale).
+- **Foundry's "why" goes here** (see [The two inspectors](#the-two-inspectors-the-assert-and-foundry-story)): "A laptop isn't a factory. If the line only runs when I remember to run it, I'm still Lucy. Foundry hosts the crew, wakes it on a schedule, and keeps evaluating it on live traffic. And the show is about models in Foundry, so the line runs on the platform it covers."
 - **Abstract promise #8 (coding agents): give it a full beat. Don't skim the third callout.** Suggested line: "And one more crew member: the **Copilot coding agent**. When an SDK changes, I file an issue and assign it to the agent. It updates the labs and samples and opens a PR. That's the **maintenance** that used to eat my weekends. And labs that always run are what keep learners **curious**: they try the next thing instead of getting stuck on a broken import."
 - "**Triggers, not reminders. Gates, not heroics.**" Say it as a pair.
 

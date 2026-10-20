@@ -109,15 +109,8 @@ python demo/submit_backup.py s4-e11 deck
   ```
 
 - "A guardrail catches *this* one. ASSERT catches the ones a rule can't: a plausible but wrong link, an invented speaker, a claim the transcript doesn't support."
-- **Optional proof points (about 30s, no model needed).** These show what ASSERT works *with*; they do **not** run ASSERT (no tests generated, no judge, no scores):
-  1. Open [`evals/producer/ungrounded_links.yaml`](../evals/producer/ungrounded_links.yaml): the plain-language risk ASSERT generates its tests from.
-  2. Call the eval target with the scripted model. It runs the Producer once (dry run, nothing queued) and prints its draft plus the **Grounding evidence** appendix that ASSERT's judge would read (about 1 second):
-
-     ```bash
-     EMCEE_EVAL_MOCK=1 evals/.venv/bin/python -c "from evals.producer.target import chat; print(chat('Recap S4-E09'))"
-     ```
-
-- Walk slide 17 (the two inspectors).
+- **Optional (about 15s):** open [`evals/producer/ungrounded_links.yaml`](../evals/producer/ungrounded_links.yaml), the eval spec written for ASSERT. Say: "We start running it for Season 5." Don't run anything; nothing at this showing runs ASSERT.
+- Walk slide 17 (the two inspectors). The story to tell is in [slides/narrative.md](../slides/narrative.md#the-two-inspectors-the-assert-and-foundry-story).
 
 **Full version (Season 5 of Model Mondays, December–January):** see [evals/README.md](../evals/README.md).
 1. Prompt: `evaluate the Producer for placeholder or invented links`.

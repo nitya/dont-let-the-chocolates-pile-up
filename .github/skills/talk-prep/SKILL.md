@@ -98,9 +98,11 @@ If Chromium fails to launch with missing libraries, use `npx playwright install 
 | ASSERT `run-assert-eval` | **Preview**: slide 17 + show `evals/producer/ungrounded_links.yaml` | A real run needs Azure model deployments for the generator and judge (`evals/.env`) |
 | `microsoft-foundry` skill / Foundry hosting + routines | **Preview**: slide 20 + `agents/foundry/*.yaml` | Needs an Azure subscription and `azd`. The hosted server is verified locally only |
 
-Optional proof points that run without a model:
-- `EMCEE_EVAL_MOCK=1 evals/.venv/bin/python -c "from evals.producer.target import chat; print(chat('Recap S4-E09'))"` prints the **Grounding evidence** the ASSERT judge would cite (tool calls, sources, human flags), in about 1 second.
-- `evals/producer/ungrounded_links.yaml`: the plain-language risk ("never use the series homepage…") turned into an eval spec.
+Optional proof points that run without a model. They show what ASSERT works *with*; they do **not** run ASSERT (no test generation, no judge, no scores):
+- `evals/producer/ungrounded_links.yaml`: the plain-language risk ("never use the series homepage…") written as an eval spec.
+- `EMCEE_EVAL_MOCK=1 evals/.venv/bin/python -c "from evals.producer.target import chat; print(chat('Recap S4-E09'))"`: calls the function ASSERT invokes for each test. It runs the Producer once with the scripted model (dry run) and prints the draft plus the **Grounding evidence** the judge would cite, in about 1 second.
+
+The real ASSERT and Foundry runs are planned for **Season 5 of Model Mondays (December–January)**.
 
 ## Known gotchas
 

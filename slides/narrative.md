@@ -443,10 +443,13 @@ Slide 2 isn't just an icebreaker. Everything Lucy does to keep up maps onto an a
 > [20:00]
 
 **Presenter guidance (first showing: Preview):**
-- **Be upfront about the Preview label.** "The full eval loop is landing in December. Today I'll show you the guardrail half live and walk the eval half."
+- **Be upfront about the Preview label.** "We're making this system real for **Season 5 of Model Mondays, starting December–January**. Today I'll show you the guardrail half live and walk the eval half."
 - **Live:** run `check.py` on `s3-e04`. It flags the **8 placeholder links** (plus a missing Sources section, 9 errors in total), the exact chocolates from slide 16.
 - **Live:** the Publisher mock run with `--mock-fault placeholder`. The audience watches the agent get **⛔ BLOCKED** and resubmit. This is the "caught in the act" moment, live.
 - **Bridge the gap between guardrails and evals** (the key idea): "A guardrail catches *this* one. ASSERT catches the ones a rule can't: a plausible but wrong link, an invented speaker, a claim the transcript doesn't support."
+- **Optional proof points (about 30s, no model needed).** These show what ASSERT works *with*; they don't run ASSERT:
+  - Open `evals/producer/ungrounded_links.yaml`: "Here's slide 16's risk in plain English. ASSERT generates the tests from this."
+  - Run the eval target in mock mode (command in the RUNBOOK): "This is the function ASSERT calls. Here's the **evidence** its judge reads: every tool call, every source, every human flag."
 - Then walk the four steps on the slide: risk → eval config → baseline → fix and re-run the *same* eval. Stress "**the delta is the evidence.**"
 - Commands are in the Demo 03 section of the [RUNBOOK](../demo/RUNBOOK.md).
 - **Clock check: 20:00.**
@@ -510,7 +513,8 @@ Slide 2 isn't just an icebreaker. Everything Lucy does to keep up maps onto an a
 - Run the local Emcee with `--mock --mock-delay 0.4` so the trace is readable. See the Demo 04 section of the [RUNBOOK](../demo/RUNBOOK.md).
 - Narrate the **handoffs**: Emcee → Coordinator → Presenter → Publisher, each calling `submit_draft`. This is slide 12 in motion.
 - **Switch to Studio** as three drafts appear (toasts). That's the "whole line runs" moment. Approve them and open `/episodes/s4-e12`.
-- Then frame the full version honestly: "On Foundry, this same crew runs as a hosted agent, and a routine wakes it on a schedule or a GitHub issue. That's what you'll see in December."
+- Then frame the full version honestly: "On Foundry, this same crew runs as a hosted agent, and a routine wakes it on a schedule or a GitHub issue. We're making that real for **Season 5 of Model Mondays, starting December–January**."
+- Optional: open `agents/foundry/routine-weekly-prep.yaml`: "Here's the routine that will wake it every Tuesday."
 - **Clock check: 25:00.** Don't let this demo eat the wrap.
 
 **Hand-off (bridge) →** "So what does this mean for DevRel?"
@@ -568,6 +572,7 @@ Slide 2 isn't just an icebreaker. Everything Lucy does to keep up maps onto an a
 - This delivers on slide 1's "**the playbook you can steal**." Say it: "Here's the playbook. Steal it."
 - Give one concrete first step: "Open it in a dev container and write your first station skill. It's about 90 minutes on the fast path."
 - Point out that the steps match the acts: setup, then the four acts in order.
+- **Invite them to follow along:** "Season 5 of Model Mondays starts December–January, and this line is what will run it. Star the repo and watch it go from preview to production."
 - **Abstract promise #8, second half (engagement):** "The repo is also a learning path. Learners open it in a dev container with their *own* coding agent and ask it questions about the line. That's the **curiosity and deeper engagement**: they don't just watch the show, they run the factory."
 
 **Hand-off →** (go straight to the closing line)

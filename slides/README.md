@@ -1,10 +1,11 @@
-# Slides
+Slides
 
 The talk deck, written in [Marp](https://marp.app) Markdown with a custom theme that matches the storyboard (`.github/planning/storyboard/`).
 
 | File | Purpose |
 |---|---|
 | [deck.md](deck.md) | 30-minute deck: intro + 4 acts + wrap, with speaker notes in `<!-- -->` comments |
+| [narrative.md](narrative.md) | Presenter script: the end-to-end story, key technologies and why, abstract check, per-slide notes + delivery guidance, timing |
 | [theme/chocolate.css](theme/chocolate.css) | Theme: plum / cream / crimson / amber palette, cards, stats, steps, demo layout |
 | [SLIDE-DESCRIPTIONS.md](SLIDE-DESCRIPTIONS.md) | Per-slide layout + content, to rebuild in PowerPoint if needed |
 | [assets/](assets/) | Hero art and Lucy still (cropped from the storyboard), QR code, [Lucide](https://lucide.dev) icons (ISC) |
@@ -29,7 +30,19 @@ marp --config-file .marprc.yml deck.md --pdf -o dist/deck.pdf
 marp --config-file .marprc.yml deck.md --pptx -o dist/deck.pptx   # image-based PPTX
 ```
 
-PDF/PPTX export needs Chrome or Edge on the machine (`CHROME_PATH` to override). Fonts: headings use Trebuchet MS and body uses Calibri (Carlito is a metric-compatible fallback on Linux).
+PDF/PPTX export needs Chrome or Edge on the machine (`CHROME_PATH` to override).
+
+**No Marp CLI or Chrome installed (e.g. Codespaces / dev container)?** Run the CLI through `npx` and point `CHROME_PATH` at the Chromium that Playwright caches under `~/.cache/ms-playwright`:
+
+```bash
+cd slides
+export CHROME_PATH=$(ls -d ~/.cache/ms-playwright/chromium-*/chrome-linux64/chrome | tail -1)
+npx -y @marp-team/marp-cli --config-file .marprc.yml deck.md --pptx -o dist/deck.pptx
+```
+
+If that cache is empty, run `npx playwright install chromium` first. The PPTX is image-based (one picture per slide, not editable text); use [SLIDE-DESCRIPTIONS.md](SLIDE-DESCRIPTIONS.md) to rebuild slides natively in PowerPoint. `dist/` is gitignored.
+
+Fonts: headings use Trebuchet MS and body uses Calibri (Carlito is a metric-compatible fallback on Linux).
 
 ## Numbers used in the deck
 

@@ -1,0 +1,4208 @@
+{
+  "videoId": "nTqr4pzxF-k",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:21+00:00",
+  "segments": [
+    {
+      "start": 2.05,
+      "duration": 7.55,
+      "text": "[Music]"
+    },
+    {
+      "start": 11.64,
+      "duration": 4.08,
+      "text": "hello everyone and thank you for joining"
+    },
+    {
+      "start": 13.32,
+      "duration": 3.8,
+      "text": "us for today's session my name is Danny"
+    },
+    {
+      "start": 15.72,
+      "duration": 4.12,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 17.12,
+      "duration": 4.92,
+      "text": "York reactor space before we start I"
+    },
+    {
+      "start": 19.84,
+      "duration": 5.2,
+      "text": "have a few things to go over please take"
+    },
+    {
+      "start": 22.04,
+      "duration": 4.8,
+      "text": "a moment to read our code of conduct we"
+    },
+    {
+      "start": 25.04,
+      "duration": 4.56,
+      "text": "seek to provide a respectful environment"
+    },
+    {
+      "start": 26.84,
+      "duration": 4.56,
+      "text": "for both our audience and presenters we"
+    },
+    {
+      "start": 29.6,
+      "duration": 4.48,
+      "text": "encourage engagement in the chat but"
+    },
+    {
+      "start": 31.4,
+      "duration": 5.84,
+      "text": "please be mindful of your commentary"
+    },
+    {
+      "start": 34.08,
+      "duration": 5.44,
+      "text": "remain professional and on topic useful"
+    },
+    {
+      "start": 37.24,
+      "duration": 4.88,
+      "text": "links will be shared in the"
+    },
+    {
+      "start": 39.52,
+      "duration": 5.72,
+      "text": "chat the session is recorded and will be"
+    },
+    {
+      "start": 42.12,
+      "duration": 5.6,
+      "text": "available on demand 24 to 48 hours on"
+    },
+    {
+      "start": 45.24,
+      "duration": 4.44,
+      "text": "the Microsoft reactor YouTube channel"
+    },
+    {
+      "start": 47.72,
+      "duration": 4.28,
+      "text": "which brings us to today's session it'll"
+    },
+    {
+      "start": 49.68,
+      "duration": 4.44,
+      "text": "run for approximately one hour with time"
+    },
+    {
+      "start": 52.0,
+      "duration": 6.36,
+      "text": "for questions throughout I will now turn"
+    },
+    {
+      "start": 54.12,
+      "duration": 4.24,
+      "text": "it over to our speaker for introductions"
+    },
+    {
+      "start": 63.48,
+      "duration": 4.96,
+      "text": "hi hi hi hi hello everyone and welcome"
+    },
+    {
+      "start": 66.0,
+      "duration": 5.12,
+      "text": "to model Mondays this is a episode"
+    },
+    {
+      "start": 68.44,
+      "duration": 5.04,
+      "text": "number two in our uh series which just"
+    },
+    {
+      "start": 71.12,
+      "duration": 4.04,
+      "text": "launched last week and we're super super"
+    },
+    {
+      "start": 73.48,
+      "duration": 3.68,
+      "text": "excited today because today we're going"
+    },
+    {
+      "start": 75.16,
+      "duration": 3.08,
+      "text": "to have a focus on something that I"
+    },
+    {
+      "start": 77.16,
+      "duration": 3.44,
+      "text": "think a lot of you are finding"
+    },
+    {
+      "start": 78.24,
+      "duration": 5.36,
+      "text": "interesting reasoning models but before"
+    },
+    {
+      "start": 80.6,
+      "duration": 4.48,
+      "text": "we jump in let me introduce my co-host"
+    },
+    {
+      "start": 83.6,
+      "duration": 5.36,
+      "text": "Sharma hi"
+    },
+    {
+      "start": 85.08,
+      "duration": 5.96,
+      "text": "Sharma hi nidya hi everyone everyone um"
+    },
+    {
+      "start": 88.96,
+      "duration": 4.8,
+      "text": "happy to see you all Year and welcome to"
+    },
+    {
+      "start": 91.04,
+      "duration": 6.16,
+      "text": "model Mondays um and uh this is our"
+    },
+    {
+      "start": 93.76,
+      "duration": 6.08,
+      "text": "second episode so happy to jump in and"
+    },
+    {
+      "start": 97.2,
+      "duration": 4.48,
+      "text": "uh get started go ahead and yeah so"
+    },
+    {
+      "start": 99.84,
+      "duration": 3.72,
+      "text": "before we kind of dive into our first"
+    },
+    {
+      "start": 101.68,
+      "duration": 4.12,
+      "text": "segment uh just a little bit of run-of"
+    },
+    {
+      "start": 103.56,
+      "duration": 4.96,
+      "text": "show for you uh we have a Discord you"
+    },
+    {
+      "start": 105.8,
+      "duration": 4.4,
+      "text": "can go find the links in the chat um"
+    },
+    {
+      "start": 108.52,
+      "duration": 3.68,
+      "text": "please join us afterwards if you have"
+    },
+    {
+      "start": 110.2,
+      "duration": 3.32,
+      "text": "any questions but first in our first"
+    },
+    {
+      "start": 112.2,
+      "duration": 3.52,
+      "text": "segment we're going to dive into the"
+    },
+    {
+      "start": 113.52,
+      "duration": 4.6,
+      "text": "news from the past week in a thing that"
+    },
+    {
+      "start": 115.72,
+      "duration": 6.08,
+      "text": "we call highlights or model Roundup"
+    },
+    {
+      "start": 118.12,
+      "duration": 5.72,
+      "text": "charma take it away"
+    },
+    {
+      "start": 121.8,
+      "duration": 4.68,
+      "text": "thank you niia now let's dive into the"
+    },
+    {
+      "start": 123.84,
+      "duration": 4.76,
+      "text": "model Monday's highlights for this week"
+    },
+    {
+      "start": 126.48,
+      "duration": 5.96,
+      "text": "as I go through the highlights I have a"
+    },
+    {
+      "start": 128.6,
+      "duration": 6.64,
+      "text": "QR code for every page feel free to take"
+    },
+    {
+      "start": 132.44,
+      "duration": 4.8,
+      "text": "a picture of the QR code these codes"
+    },
+    {
+      "start": 135.24,
+      "duration": 4.56,
+      "text": "will take you to the model card page in"
+    },
+    {
+      "start": 137.24,
+      "duration": 4.48,
+      "text": "aure AI Foundry where you can learn more"
+    },
+    {
+      "start": 139.8,
+      "duration": 3.52,
+      "text": "about the model and if you're interested"
+    },
+    {
+      "start": 141.72,
+      "duration": 4.32,
+      "text": "you can start playing around with the"
+    },
+    {
+      "start": 143.32,
+      "duration": 5.08,
+      "text": "model now let's get started with the"
+    },
+    {
+      "start": 146.04,
+      "duration": 4.84,
+      "text": "highlights so today we first going to"
+    },
+    {
+      "start": 148.4,
+      "duration": 5.28,
+      "text": "talk about mystal models we introduced"
+    },
+    {
+      "start": 150.88,
+      "duration": 5.2,
+      "text": "Mr Large Nemo and Minal models over the"
+    },
+    {
+      "start": 153.68,
+      "duration": 4.88,
+      "text": "course of the last few months however"
+    },
+    {
+      "start": 156.08,
+      "duration": 4.68,
+      "text": "what's new is that we added fine-tuning"
+    },
+    {
+      "start": 158.56,
+      "duration": 5.2,
+      "text": "capabilities for this these models in"
+    },
+    {
+      "start": 160.76,
+      "duration": 4.88,
+      "text": "early February fine-tuning will help you"
+    },
+    {
+      "start": 163.76,
+      "duration": 5.32,
+      "text": "customize models for your domain"
+    },
+    {
+      "start": 165.64,
+      "duration": 5.84,
+      "text": "specific data thereby improving response"
+    },
+    {
+      "start": 169.08,
+      "duration": 4.04,
+      "text": "accuracy especially if you have a use"
+    },
+    {
+      "start": 171.48,
+      "duration": 4.68,
+      "text": "case where models trained on general"
+    },
+    {
+      "start": 173.12,
+      "duration": 5.36,
+      "text": "purpose data will not cut it fine-tuning"
+    },
+    {
+      "start": 176.16,
+      "duration": 5.0,
+      "text": "also helps to improve latency and makes"
+    },
+    {
+      "start": 178.48,
+      "duration": 4.92,
+      "text": "your AI applications more cost"
+    },
+    {
+      "start": 181.16,
+      "duration": 4.72,
+      "text": "efficient the next semestral model we"
+    },
+    {
+      "start": 183.4,
+      "duration": 5.32,
+      "text": "going to see is cestal"
+    },
+    {
+      "start": 185.88,
+      "duration": 6.32,
+      "text": "2.01 this is the first coding model in"
+    },
+    {
+      "start": 188.72,
+      "duration": 6.56,
+      "text": "the Azure AI model catalog and costal is"
+    },
+    {
+      "start": 192.2,
+      "duration": 5.28,
+      "text": "trained on a diverse data set of 80 plus"
+    },
+    {
+      "start": 195.28,
+      "duration": 6.88,
+      "text": "programming languages including the most"
+    },
+    {
+      "start": 197.48,
+      "duration": 7.48,
+      "text": "popular ones such as python Java C++ C"
+    },
+    {
+      "start": 202.16,
+      "duration": 4.96,
+      "text": "JavaScript and Bash it also performs"
+    },
+    {
+      "start": 204.96,
+      "duration": 5.04,
+      "text": "well on more specific ones like Swift"
+    },
+    {
+      "start": 207.12,
+      "duration": 5.28,
+      "text": "and photron this broad language page"
+    },
+    {
+      "start": 210.0,
+      "duration": 5.6,
+      "text": "ensures cestal can assist developers in"
+    },
+    {
+      "start": 212.4,
+      "duration": 6.28,
+      "text": "various coding environments and projects"
+    },
+    {
+      "start": 215.6,
+      "duration": 5.32,
+      "text": "cestal has a 32,000 token context window"
+    },
+    {
+      "start": 218.68,
+      "duration": 4.72,
+      "text": "allowing it to handle extensive pieces"
+    },
+    {
+      "start": 220.92,
+      "duration": 4.68,
+      "text": "of code it also supports function"
+    },
+    {
+      "start": 223.4,
+      "duration": 5.08,
+      "text": "calling meaning it can execute specific"
+    },
+    {
+      "start": 225.6,
+      "duration": 5.64,
+      "text": "functions and manipulate data as part of"
+    },
+    {
+      "start": 228.48,
+      "duration": 4.96,
+      "text": "its code generation process and it also"
+    },
+    {
+      "start": 231.24,
+      "duration": 4.2,
+      "text": "performs well in several benchmarks"
+    },
+    {
+      "start": 233.44,
+      "duration": 5.56,
+      "text": "often competing with more expensive"
+    },
+    {
+      "start": 235.44,
+      "duration": 5.96,
+      "text": "models like gp4 and Claude and cestal is"
+    },
+    {
+      "start": 239.0,
+      "duration": 5.36,
+      "text": "accessible through interfaces like lad"
+    },
+    {
+      "start": 241.4,
+      "duration": 4.76,
+      "text": "and apis this means developers can start"
+    },
+    {
+      "start": 244.36,
+      "duration": 4.68,
+      "text": "using it quickly and easily without"
+    },
+    {
+      "start": 246.16,
+      "duration": 5.56,
+      "text": "needing extensive setup or technical"
+    },
+    {
+      "start": 249.04,
+      "duration": 4.52,
+      "text": "knowledge and being open source cestal"
+    },
+    {
+      "start": 251.72,
+      "duration": 3.72,
+      "text": "allows developers to contribute to its"
+    },
+    {
+      "start": 253.56,
+      "duration": 4.36,
+      "text": "development and customize it for their"
+    },
+    {
+      "start": 255.44,
+      "duration": 4.52,
+      "text": "needs this Fosters a collaborative"
+    },
+    {
+      "start": 257.92,
+      "duration": 3.16,
+      "text": "environment and helps improve the model"
+    },
+    {
+      "start": 259.96,
+      "duration": 3.56,
+      "text": "over"
+    },
+    {
+      "start": 261.08,
+      "duration": 4.72,
+      "text": "time the next few models we're going to"
+    },
+    {
+      "start": 263.52,
+      "duration": 4.72,
+      "text": "talk about are the Azure open AI GPT"
+    },
+    {
+      "start": 265.8,
+      "duration": 5.28,
+      "text": "models now we're going to talk about the"
+    },
+    {
+      "start": 268.24,
+      "duration": 6.28,
+      "text": "GPT 40 real time API for speech and"
+    },
+    {
+      "start": 271.08,
+      "duration": 6.92,
+      "text": "audio and it's part of the GPT 40 family"
+    },
+    {
+      "start": 274.52,
+      "duration": 6.0,
+      "text": "of models and it supports low latency"
+    },
+    {
+      "start": 278.0,
+      "duration": 5.8,
+      "text": "speech in speech out conversational"
+    },
+    {
+      "start": 280.52,
+      "duration": 5.92,
+      "text": "interactions the GPT 40 audio real time"
+    },
+    {
+      "start": 283.8,
+      "duration": 5.36,
+      "text": "API is designed to handle realtime low"
+    },
+    {
+      "start": 286.44,
+      "duration": 4.92,
+      "text": "latency conversational interactions"
+    },
+    {
+      "start": 289.16,
+      "duration": 4.16,
+      "text": "making it a great fit for use cases"
+    },
+    {
+      "start": 291.36,
+      "duration": 4.16,
+      "text": "involving live interactions between a"
+    },
+    {
+      "start": 293.32,
+      "duration": 4.4,
+      "text": "user and a model such as customer"
+    },
+    {
+      "start": 295.52,
+      "duration": 4.28,
+      "text": "support agents voice assistants and"
+    },
+    {
+      "start": 297.72,
+      "duration": 4.6,
+      "text": "real-time translators"
+    },
+    {
+      "start": 299.8,
+      "duration": 4.72,
+      "text": "most users of the realtime API need to"
+    },
+    {
+      "start": 302.32,
+      "duration": 4.76,
+      "text": "deliver and receive audio from an end"
+    },
+    {
+      "start": 304.52,
+      "duration": 6.12,
+      "text": "user in real time including applications"
+    },
+    {
+      "start": 307.08,
+      "duration": 7.32,
+      "text": "that use web RTC or telepone"
+    },
+    {
+      "start": 310.64,
+      "duration": 6.64,
+      "text": "system finally the next GPT 4 model that"
+    },
+    {
+      "start": 314.4,
+      "duration": 4.72,
+      "text": "we're going to talk about is GPT 4.5"
+    },
+    {
+      "start": 317.28,
+      "duration": 3.92,
+      "text": "which is a step forward in scaling up"
+    },
+    {
+      "start": 319.12,
+      "duration": 5.28,
+      "text": "pre-training and post-training by"
+    },
+    {
+      "start": 321.2,
+      "duration": 5.2,
+      "text": "scaling unsupervised learning GPT 4.5"
+    },
+    {
+      "start": 324.4,
+      "duration": 4.76,
+      "text": "improves its ability to recognize"
+    },
+    {
+      "start": 326.4,
+      "duration": 5.44,
+      "text": "patterns draw connections and generate"
+    },
+    {
+      "start": 329.16,
+      "duration": 4.2,
+      "text": "creative insights without reasoning and"
+    },
+    {
+      "start": 331.84,
+      "duration": 4.08,
+      "text": "early testing have shown that"
+    },
+    {
+      "start": 333.36,
+      "duration": 5.32,
+      "text": "interacting with GPT 4.5 feels more"
+    },
+    {
+      "start": 335.92,
+      "duration": 5.68,
+      "text": "natural and its broader knowledge based"
+    },
+    {
+      "start": 338.68,
+      "duration": 5.72,
+      "text": "improved ability to follow user input"
+    },
+    {
+      "start": 341.6,
+      "duration": 4.92,
+      "text": "intent and greater EQ makes it useful"
+    },
+    {
+      "start": 344.4,
+      "duration": 4.52,
+      "text": "for tasks like improving writing"
+    },
+    {
+      "start": 346.52,
+      "duration": 5.4,
+      "text": "programming and solving practical"
+    },
+    {
+      "start": 348.92,
+      "duration": 5.24,
+      "text": "problems and we it is also expected to"
+    },
+    {
+      "start": 351.92,
+      "duration": 5.16,
+      "text": "have hallucinate less than other"
+    },
+    {
+      "start": 354.16,
+      "duration": 6.28,
+      "text": "model the final model highlight of the"
+    },
+    {
+      "start": 357.08,
+      "duration": 5.48,
+      "text": "week is gdle Navigator now grle"
+    },
+    {
+      "start": 360.44,
+      "duration": 4.44,
+      "text": "Navigator is the first compound AI"
+    },
+    {
+      "start": 362.56,
+      "duration": 5.44,
+      "text": "system which is built to create edit and"
+    },
+    {
+      "start": 364.88,
+      "duration": 5.2,
+      "text": "augment tablea data you can iteratively"
+    },
+    {
+      "start": 368.0,
+      "duration": 5.68,
+      "text": "build your own data set from scratch"
+    },
+    {
+      "start": 370.08,
+      "duration": 6.04,
+      "text": "using grle Navigator and it also enables"
+    },
+    {
+      "start": 373.68,
+      "duration": 4.64,
+      "text": "Aid driven synthetic data generation"
+    },
+    {
+      "start": 376.12,
+      "duration": 5.48,
+      "text": "helping organizations overcome the"
+    },
+    {
+      "start": 378.32,
+      "duration": 6.92,
+      "text": "limitations of human data creation while"
+    },
+    {
+      "start": 381.6,
+      "duration": 6.16,
+      "text": "gen AI relies heavily on data human"
+    },
+    {
+      "start": 385.24,
+      "duration": 5.16,
+      "text": "driven data set creation is not able to"
+    },
+    {
+      "start": 387.76,
+      "duration": 5.04,
+      "text": "scale at the paase of gpus or AI"
+    },
+    {
+      "start": 390.4,
+      "duration": 4.76,
+      "text": "advancements with grittle synthetic data"
+    },
+    {
+      "start": 392.8,
+      "duration": 5.68,
+      "text": "solution businesses can now rapidly"
+    },
+    {
+      "start": 395.16,
+      "duration": 5.52,
+      "text": "generate high quality data sets ensuring"
+    },
+    {
+      "start": 398.48,
+      "duration": 4.4,
+      "text": "that data protection keeps space with"
+    },
+    {
+      "start": 400.68,
+      "duration": 5.08,
+      "text": "both scientific progress and"
+    },
+    {
+      "start": 402.88,
+      "duration": 5.16,
+      "text": "computational power now that brings us"
+    },
+    {
+      "start": 405.76,
+      "duration": 4.96,
+      "text": "to the end of model highlights for this"
+    },
+    {
+      "start": 408.04,
+      "duration": 5.24,
+      "text": "week and some of the models that we"
+    },
+    {
+      "start": 410.72,
+      "duration": 5.12,
+      "text": "talked about today like mistel and grle"
+    },
+    {
+      "start": 413.28,
+      "duration": 5.52,
+      "text": "we going to have a spotlight on it in"
+    },
+    {
+      "start": 415.84,
+      "duration": 4.8,
+      "text": "the future upcoming weeks so keep an eye"
+    },
+    {
+      "start": 418.8,
+      "duration": 4.4,
+      "text": "out for it and join us for those"
+    },
+    {
+      "start": 420.64,
+      "duration": 4.96,
+      "text": "conversations where we'll go do a deep"
+    },
+    {
+      "start": 423.2,
+      "duration": 5.04,
+      "text": "dive on these models now I'll hand it"
+    },
+    {
+      "start": 425.6,
+      "duration": 2.64,
+      "text": "over to"
+    },
+    {
+      "start": 429.76,
+      "duration": 5.52,
+      "text": "Nia all right thanks so much so I first"
+    },
+    {
+      "start": 433.4,
+      "duration": 3.32,
+      "text": "of all I was watching the chat while the"
+    },
+    {
+      "start": 435.28,
+      "duration": 3.04,
+      "text": "segment was playing and I know all of"
+    },
+    {
+      "start": 436.72,
+      "duration": 3.52,
+      "text": "you are like this is about reasoning"
+    },
+    {
+      "start": 438.32,
+      "duration": 3.96,
+      "text": "models so I wanted to just set the stage"
+    },
+    {
+      "start": 440.24,
+      "duration": 3.72,
+      "text": "and say that model Mondays is a series"
+    },
+    {
+      "start": 442.28,
+      "duration": 3.32,
+      "text": "where we'll kind of just spend five"
+    },
+    {
+      "start": 443.96,
+      "duration": 3.64,
+      "text": "minutes catching you up on news from the"
+    },
+    {
+      "start": 445.6,
+      "duration": 4.96,
+      "text": "past week that's what you saw and then"
+    },
+    {
+      "start": 447.6,
+      "duration": 5.08,
+      "text": "we'll do a deep dive and now we will be"
+    },
+    {
+      "start": 450.56,
+      "duration": 4.16,
+      "text": "introducing Our Guest uh this is the"
+    },
+    {
+      "start": 452.68,
+      "duration": 3.88,
+      "text": "featured segment on our Hands-On with"
+    },
+    {
+      "start": 454.72,
+      "duration": 3.4,
+      "text": "reasoning models so I want to take a"
+    },
+    {
+      "start": 456.56,
+      "duration": 4.64,
+      "text": "minute to just introduce Jennifer"
+    },
+    {
+      "start": 458.12,
+      "duration": 5.16,
+      "text": "marsman and bring her on stage uh now"
+    },
+    {
+      "start": 461.2,
+      "duration": 3.64,
+      "text": "before I do that I'm gonna like really"
+    },
+    {
+      "start": 463.28,
+      "duration": 2.88,
+      "text": "uh kind of go a little bit goag on this"
+    },
+    {
+      "start": 464.84,
+      "duration": 2.88,
+      "text": "because I actually saw Jennifer at a"
+    },
+    {
+      "start": 466.16,
+      "duration": 3.32,
+      "text": "Grace Hopper event long time ago she"
+    },
+    {
+      "start": 467.72,
+      "duration": 3.56,
+      "text": "probably doesn't even remember and I"
+    },
+    {
+      "start": 469.48,
+      "duration": 3.64,
+      "text": "remember like her talking about machine"
+    },
+    {
+      "start": 471.28,
+      "duration": 4.0,
+      "text": "learning and it's one of the reasons why"
+    },
+    {
+      "start": 473.12,
+      "duration": 3.8,
+      "text": "I got inspired to come into this field"
+    },
+    {
+      "start": 475.28,
+      "duration": 3.56,
+      "text": "because she made it sound like it was"
+    },
+    {
+      "start": 476.92,
+      "duration": 4.2,
+      "text": "just so exciting so I've come full"
+    },
+    {
+      "start": 478.84,
+      "duration": 3.8,
+      "text": "circle today we have Jennifer marsman"
+    },
+    {
+      "start": 481.12,
+      "duration": 2.64,
+      "text": "Jennifer maybe you could give us a quick"
+    },
+    {
+      "start": 482.64,
+      "duration": 3.16,
+      "text": "introduction to who you are and what"
+    },
+    {
+      "start": 483.76,
+      "duration": 5.24,
+      "text": "you're doing at Microsoft before we dive"
+    },
+    {
+      "start": 485.8,
+      "duration": 5.32,
+      "text": "into a second absolutely um hello my"
+    },
+    {
+      "start": 489.0,
+      "duration": 4.04,
+      "text": "name is Jennifer marsman um I'm a"
+    },
+    {
+      "start": 491.12,
+      "duration": 5.0,
+      "text": "principal engineer in the office of the"
+    },
+    {
+      "start": 493.04,
+      "duration": 6.2,
+      "text": "CTO at Microsoft so what that means is"
+    },
+    {
+      "start": 496.12,
+      "duration": 5.8,
+      "text": "that I assist the CTO with his"
+    },
+    {
+      "start": 499.24,
+      "duration": 4.6,
+      "text": "forward-looking thoughts on AI and and"
+    },
+    {
+      "start": 501.92,
+      "duration": 3.68,
+      "text": "kind of how to get there so I like to"
+    },
+    {
+      "start": 503.84,
+      "duration": 3.72,
+      "text": "say it's a lot like being a grad student"
+    },
+    {
+      "start": 505.6,
+      "duration": 4.32,
+      "text": "again honestly where you're working for"
+    },
+    {
+      "start": 507.56,
+      "duration": 3.96,
+      "text": "a very smart Professor type and"
+    },
+    {
+      "start": 509.92,
+      "duration": 3.8,
+      "text": "sometimes he has great ideas and then"
+    },
+    {
+      "start": 511.52,
+      "duration": 3.64,
+      "text": "you do some experiments to test them out"
+    },
+    {
+      "start": 513.72,
+      "duration": 2.88,
+      "text": "and sometimes you have good ideas and"
+    },
+    {
+      "start": 515.16,
+      "duration": 3.44,
+      "text": "you make sure he knows about other"
+    },
+    {
+      "start": 516.6,
+      "duration": 4.32,
+      "text": "things happening in the industry so it's"
+    },
+    {
+      "start": 518.6,
+      "duration": 4.48,
+      "text": "a lot like that um I also work with some"
+    },
+    {
+      "start": 520.92,
+      "duration": 3.84,
+      "text": "large customers um to help them be"
+    },
+    {
+      "start": 523.08,
+      "duration": 4.4,
+      "text": "successful ones that are interesting"
+    },
+    {
+      "start": 524.76,
+      "duration": 4.72,
+      "text": "enough that the CTO has taken notice um"
+    },
+    {
+      "start": 527.48,
+      "duration": 3.96,
+      "text": "as well as um I'm the person that writes"
+    },
+    {
+      "start": 529.48,
+      "duration": 4.0,
+      "text": "Kevin's demos so I'm his his demo"
+    },
+    {
+      "start": 531.44,
+      "duration": 3.96,
+      "text": "engineer as well so I do a lot of coding"
+    },
+    {
+      "start": 533.48,
+      "duration": 4.8,
+      "text": "of that sort of thing as"
+    },
+    {
+      "start": 535.4,
+      "duration": 5.72,
+      "text": "well and I think before we kind of dive"
+    },
+    {
+      "start": 538.28,
+      "duration": 5.08,
+      "text": "into the the hand on demo portion of it"
+    },
+    {
+      "start": 541.12,
+      "duration": 3.56,
+      "text": "um sh we were also talking about this"
+    },
+    {
+      "start": 543.36,
+      "duration": 3.36,
+      "text": "there's a reason we picked reasoning"
+    },
+    {
+      "start": 544.68,
+      "duration": 4.48,
+      "text": "models to be our first Flagship kind of"
+    },
+    {
+      "start": 546.72,
+      "duration": 4.4,
+      "text": "feature there's a lot of interest in the"
+    },
+    {
+      "start": 549.16,
+      "duration": 3.64,
+      "text": "industry today around this kind of can"
+    },
+    {
+      "start": 551.12,
+      "duration": 3.2,
+      "text": "you give us a sense for why people"
+    },
+    {
+      "start": 552.8,
+      "duration": 5.56,
+      "text": "should be looking at it before you go"
+    },
+    {
+      "start": 554.32,
+      "duration": 6.12,
+      "text": "into details yes so um what's"
+    },
+    {
+      "start": 558.36,
+      "duration": 5.2,
+      "text": "interesting about this is that this is a"
+    },
+    {
+      "start": 560.44,
+      "duration": 5.2,
+      "text": "whole new breed of model um when when"
+    },
+    {
+      "start": 563.56,
+      "duration": 4.68,
+      "text": "we've seen some other like model"
+    },
+    {
+      "start": 565.64,
+      "duration": 6.16,
+      "text": "upgrades so for instance when you know"
+    },
+    {
+      "start": 568.24,
+      "duration": 7.72,
+      "text": "we moved between like GPT 4 and gp4"
+    },
+    {
+      "start": 571.8,
+      "duration": 6.4,
+      "text": "turbo for example um there there weren't"
+    },
+    {
+      "start": 575.96,
+      "duration": 3.76,
+      "text": "a lot of reasons like not to upgrade it"
+    },
+    {
+      "start": 578.2,
+      "duration": 4.0,
+      "text": "was kind of a clear thing where here's a"
+    },
+    {
+      "start": 579.72,
+      "duration": 4.12,
+      "text": "model that runs more efficiently has"
+    },
+    {
+      "start": 582.2,
+      "duration": 4.6,
+      "text": "higher quality like those kind of things"
+    },
+    {
+      "start": 583.84,
+      "duration": 5.84,
+      "text": "where it's a clear just like keep moving"
+    },
+    {
+      "start": 586.8,
+      "duration": 5.36,
+      "text": "but the way reasoning models work is"
+    },
+    {
+      "start": 589.68,
+      "duration": 4.44,
+      "text": "fundamentally different under the covers"
+    },
+    {
+      "start": 592.16,
+      "duration": 4.12,
+      "text": "and so what I would argue is that there"
+    },
+    {
+      "start": 594.12,
+      "duration": 3.64,
+      "text": "are some clear reasoning reasons for"
+    },
+    {
+      "start": 596.28,
+      "duration": 2.76,
+      "text": "using them and then there's some re"
+    },
+    {
+      "start": 597.76,
+      "duration": 2.12,
+      "text": "times when you don't actually want to"
+    },
+    {
+      "start": 599.04,
+      "duration": 2.28,
+      "text": "use"
+    },
+    {
+      "start": 599.88,
+      "duration": 4.96,
+      "text": "when you'd want to use maybe something a"
+    },
+    {
+      "start": 601.32,
+      "duration": 6.4,
+      "text": "little um faster more efficient um and"
+    },
+    {
+      "start": 604.84,
+      "duration": 5.8,
+      "text": "and and cheaper so I think it's a really"
+    },
+    {
+      "start": 607.72,
+      "duration": 5.0,
+      "text": "good listen in understanding the class"
+    },
+    {
+      "start": 610.64,
+      "duration": 5.72,
+      "text": "of problems that reasoning models are"
+    },
+    {
+      "start": 612.72,
+      "duration": 5.64,
+      "text": "really good at um things uh that can"
+    },
+    {
+      "start": 616.36,
+      "duration": 4.12,
+      "text": "take advantage of the internal Chain of"
+    },
+    {
+      "start": 618.36,
+      "duration": 3.68,
+      "text": "Thought that they're using and that"
+    },
+    {
+      "start": 620.48,
+      "duration": 4.48,
+      "text": "capability that allows them to hold on"
+    },
+    {
+      "start": 622.04,
+      "duration": 4.52,
+      "text": "to details really really well and then"
+    },
+    {
+      "start": 624.96,
+      "duration": 2.92,
+      "text": "um using that it can be so those are"
+    },
+    {
+      "start": 626.56,
+      "duration": 3.2,
+      "text": "what I want to show you in the demo to"
+    },
+    {
+      "start": 627.88,
+      "duration": 3.6,
+      "text": "help you kind of wrap your mind around"
+    },
+    {
+      "start": 629.76,
+      "duration": 3.04,
+      "text": "the kind of problem where where this"
+    },
+    {
+      "start": 631.48,
+      "duration": 3.72,
+      "text": "model really"
+    },
+    {
+      "start": 632.8,
+      "duration": 4.16,
+      "text": "shines I can't wait we should jump into"
+    },
+    {
+      "start": 635.2,
+      "duration": 3.52,
+      "text": "the demo and I also want to encourage"
+    },
+    {
+      "start": 636.96,
+      "duration": 3.28,
+      "text": "folks on the chat to line up your"
+    },
+    {
+      "start": 638.72,
+      "duration": 2.56,
+      "text": "questions for because once we've kind of"
+    },
+    {
+      "start": 640.24,
+      "duration": 2.36,
+      "text": "gone through the demo I want to come"
+    },
+    {
+      "start": 641.28,
+      "duration": 5.36,
+      "text": "back and really have a big conversation"
+    },
+    {
+      "start": 642.6,
+      "duration": 4.04,
+      "text": "around it so let's line up the"
+    },
+    {
+      "start": 647.4,
+      "duration": 5.88,
+      "text": "demos reasoning models are a new breed"
+    },
+    {
+      "start": 650.76,
+      "duration": 3.52,
+      "text": "of machine learning model that enables"
+    },
+    {
+      "start": 653.28,
+      "duration": 3.68,
+      "text": "deep"
+    },
+    {
+      "start": 654.28,
+      "duration": 5.24,
+      "text": "analysis uh correlation detection"
+    },
+    {
+      "start": 656.96,
+      "duration": 6.04,
+      "text": "between you know multiple long documents"
+    },
+    {
+      "start": 659.52,
+      "duration": 6.04,
+      "text": "for example and more complex problem"
+    },
+    {
+      "start": 663.0,
+      "duration": 4.32,
+      "text": "solving than we've previously seen and"
+    },
+    {
+      "start": 665.56,
+      "duration": 4.84,
+      "text": "the way they're able to do that is by"
+    },
+    {
+      "start": 667.32,
+      "duration": 5.64,
+      "text": "using an internal Chain of Thought to"
+    },
+    {
+      "start": 670.4,
+      "duration": 4.88,
+      "text": "ruminate on these answers a little"
+    },
+    {
+      "start": 672.96,
+      "duration": 5.2,
+      "text": "longer so what I want to do first is"
+    },
+    {
+      "start": 675.28,
+      "duration": 6.0,
+      "text": "share with you the very first example"
+    },
+    {
+      "start": 678.16,
+      "duration": 5.04,
+      "text": "that opened my mind to the new category"
+    },
+    {
+      "start": 681.28,
+      "duration": 5.88,
+      "text": "of problems that these reasoning models"
+    },
+    {
+      "start": 683.2,
+      "duration": 8.52,
+      "text": "can solve I was using a early version of"
+    },
+    {
+      "start": 687.16,
+      "duration": 8.64,
+      "text": "open ai's 01 preview model um and what I"
+    },
+    {
+      "start": 691.72,
+      "duration": 6.8,
+      "text": "wanted to do is actually solve a what is"
+    },
+    {
+      "start": 695.8,
+      "duration": 4.84,
+      "text": "actually a very complex uh constraint"
+    },
+    {
+      "start": 698.52,
+      "duration": 5.6,
+      "text": "satisfaction problem that my family"
+    },
+    {
+      "start": 700.64,
+      "duration": 6.96,
+      "text": "faces every summer I love my kids but"
+    },
+    {
+      "start": 704.12,
+      "duration": 5.68,
+      "text": "they have to go to all these camps uh in"
+    },
+    {
+      "start": 707.6,
+      "duration": 5.68,
+      "text": "our area over the summer and it is so"
+    },
+    {
+      "start": 709.8,
+      "duration": 5.56,
+      "text": "difficult to plan we have uh in our area"
+    },
+    {
+      "start": 713.28,
+      "duration": 3.8,
+      "text": "where there's a different Camp every"
+    },
+    {
+      "start": 715.36,
+      "duration": 3.76,
+      "text": "week so it's not like you can sign them"
+    },
+    {
+      "start": 717.08,
+      "duration": 5.04,
+      "text": "up for summer camp every week you have"
+    },
+    {
+      "start": 719.12,
+      "duration": 5.92,
+      "text": "to to choose individual camps and so"
+    },
+    {
+      "start": 722.12,
+      "duration": 7.32,
+      "text": "what I did is I threw this problem at"
+    },
+    {
+      "start": 725.04,
+      "duration": 8.96,
+      "text": "the 01 preview model and I asked for a"
+    },
+    {
+      "start": 729.44,
+      "duration": 6.96,
+      "text": "weekly schedule for all of my kids and I"
+    },
+    {
+      "start": 734.0,
+      "duration": 4.4,
+      "text": "said that I wanted two weeks off as well"
+    },
+    {
+      "start": 736.4,
+      "duration": 4.56,
+      "text": "when they won't be in Camp so our family"
+    },
+    {
+      "start": 738.4,
+      "duration": 4.64,
+      "text": "can get together and do some do some uh"
+    },
+    {
+      "start": 740.96,
+      "duration": 4.24,
+      "text": "vacation time with me and my husband as"
+    },
+    {
+      "start": 743.04,
+      "duration": 4.32,
+      "text": "well doesn't have to be consecutive just"
+    },
+    {
+      "start": 745.2,
+      "duration": 4.32,
+      "text": "any two weeks is good and then I gave a"
+    },
+    {
+      "start": 747.36,
+      "duration": 4.68,
+      "text": "little information about each of my kids"
+    },
+    {
+      "start": 749.52,
+      "duration": 4.88,
+      "text": "and specifically what grade levels they"
+    },
+    {
+      "start": 752.04,
+      "duration": 4.72,
+      "text": "are in because that's important for for"
+    },
+    {
+      "start": 754.4,
+      "duration": 4.4,
+      "text": "scheduling the camps are divided by"
+    },
+    {
+      "start": 756.76,
+      "duration": 3.84,
+      "text": "grade and then I told a little bit about"
+    },
+    {
+      "start": 758.8,
+      "duration": 3.4,
+      "text": "their interest one of them loves baking"
+    },
+    {
+      "start": 760.6,
+      "duration": 3.84,
+      "text": "and dance another one likes reading"
+    },
+    {
+      "start": 762.2,
+      "duration": 4.68,
+      "text": "writing and soccer and the third one"
+    },
+    {
+      "start": 764.44,
+      "duration": 4.6,
+      "text": "likes you know um martial arts and and"
+    },
+    {
+      "start": 766.88,
+      "duration": 5.6,
+      "text": "video games especially Minecraft and"
+    },
+    {
+      "start": 769.04,
+      "duration": 5.52,
+      "text": "Roblox so um I kind of set out my"
+    },
+    {
+      "start": 772.48,
+      "duration": 4.56,
+      "text": "requirements here and asked for a"
+    },
+    {
+      "start": 774.56,
+      "duration": 6.4,
+      "text": "different class every week and asked for"
+    },
+    {
+      "start": 777.04,
+      "duration": 6.52,
+      "text": "an output where the 's a matrix of each"
+    },
+    {
+      "start": 780.96,
+      "duration": 5.32,
+      "text": "week of the summer by each kid and then"
+    },
+    {
+      "start": 783.56,
+      "duration": 4.8,
+      "text": "what are they doing that week so"
+    },
+    {
+      "start": 786.28,
+      "duration": 4.28,
+      "text": "although this may seem trivial this is"
+    },
+    {
+      "start": 788.36,
+      "duration": 4.44,
+      "text": "actually an insane constraint"
+    },
+    {
+      "start": 790.56,
+      "duration": 4.84,
+      "text": "satisfaction problem and then let me"
+    },
+    {
+      "start": 792.8,
+      "duration": 4.88,
+      "text": "show you the complexity of what we were"
+    },
+    {
+      "start": 795.4,
+      "duration": 4.68,
+      "text": "actually dealing with here here's one"
+    },
+    {
+      "start": 797.68,
+      "duration": 4.2,
+      "text": "page of the summer brochure and at the"
+    },
+    {
+      "start": 800.08,
+      "duration": 4.84,
+      "text": "end of my prompt I kind of pointed to"
+    },
+    {
+      "start": 801.88,
+      "duration": 5.36,
+      "text": "the summer brochure and this is what it"
+    },
+    {
+      "start": 804.92,
+      "duration": 5.76,
+      "text": "actually looks"
+    },
+    {
+      "start": 807.24,
+      "duration": 6.24,
+      "text": "like there is so this is just one page"
+    },
+    {
+      "start": 810.68,
+      "duration": 4.72,
+      "text": "here so notice that each of these first"
+    },
+    {
+      "start": 813.48,
+      "duration": 4.28,
+      "text": "of all are a single week so if we look"
+    },
+    {
+      "start": 815.4,
+      "duration": 5.36,
+      "text": "at this pottery class for example this"
+    },
+    {
+      "start": 817.76,
+      "duration": 5.16,
+      "text": "is July 8th and July 15th and that's all"
+    },
+    {
+      "start": 820.76,
+      "duration": 4.0,
+      "text": "it's offered for the whole summer and"
+    },
+    {
+      "start": 822.92,
+      "duration": 4.96,
+      "text": "note that everything is separated by"
+    },
+    {
+      "start": 824.76,
+      "duration": 5.52,
+      "text": "grade as well so these are only for"
+    },
+    {
+      "start": 827.88,
+      "duration": 4.6,
+      "text": "grade five and six so only one of my"
+    },
+    {
+      "start": 830.28,
+      "duration": 4.68,
+      "text": "three kids is actually eligible to take"
+    },
+    {
+      "start": 832.48,
+      "duration": 4.64,
+      "text": "any of these courses and so when you"
+    },
+    {
+      "start": 834.96,
+      "duration": 5.32,
+      "text": "think about this there's there's you"
+    },
+    {
+      "start": 837.12,
+      "duration": 5.64,
+      "text": "know that's such a complex process"
+    },
+    {
+      "start": 840.28,
+      "duration": 4.64,
+      "text": "um compounding that there is so much"
+    },
+    {
+      "start": 842.76,
+      "duration": 5.28,
+      "text": "going on with this formatting right"
+    },
+    {
+      "start": 844.92,
+      "duration": 4.44,
+      "text": "notice that we have um bold here there's"
+    },
+    {
+      "start": 848.04,
+      "duration": 2.76,
+      "text": "you know different colors there's"
+    },
+    {
+      "start": 849.36,
+      "duration": 2.84,
+      "text": "different fonts there's kind of like a"
+    },
+    {
+      "start": 850.8,
+      "duration": 5.04,
+      "text": "little table here there's pictures"
+    },
+    {
+      "start": 852.2,
+      "duration": 6.44,
+      "text": "embedded so when I was using this 01"
+    },
+    {
+      "start": 855.84,
+      "duration": 5.04,
+      "text": "preview model kind of my my in my early"
+    },
+    {
+      "start": 858.64,
+      "duration": 6.36,
+      "text": "experimentation uh there wasn't support"
+    },
+    {
+      "start": 860.88,
+      "duration": 6.52,
+      "text": "for image as an input yet so what I did"
+    },
+    {
+      "start": 865.0,
+      "duration": 4.56,
+      "text": "in the prompt that I showed you above is"
+    },
+    {
+      "start": 867.4,
+      "duration": 4.68,
+      "text": "I actually just"
+    },
+    {
+      "start": 869.56,
+      "duration": 4.84,
+      "text": "copied you know from this directly from"
+    },
+    {
+      "start": 872.08,
+      "duration": 5.88,
+      "text": "this PDF I just kind of dragged my"
+    },
+    {
+      "start": 874.4,
+      "duration": 7.48,
+      "text": "cursor and then did a huge control C on"
+    },
+    {
+      "start": 877.96,
+      "duration": 6.48,
+      "text": "I think 12 pages of this data but once"
+    },
+    {
+      "start": 881.88,
+      "duration": 4.0,
+      "text": "it gets copied in notice like all of the"
+    },
+    {
+      "start": 884.44,
+      "duration": 3.64,
+      "text": "stuff were actually losing like I'm"
+    },
+    {
+      "start": 885.88,
+      "duration": 6.28,
+      "text": "losing the Bold I'm losing like the Big"
+    },
+    {
+      "start": 888.08,
+      "duration": 7.72,
+      "text": "Font of each of the titles of the camps"
+    },
+    {
+      "start": 892.16,
+      "duration": 6.72,
+      "text": "so a lot of you know very very noisy"
+    },
+    {
+      "start": 895.8,
+      "duration": 4.96,
+      "text": "ugly data I am throwing at this model"
+    },
+    {
+      "start": 898.88,
+      "duration": 4.12,
+      "text": "and and it's able to it's able to do"
+    },
+    {
+      "start": 900.76,
+      "duration": 4.76,
+      "text": "some pretty cool things so let's take a"
+    },
+    {
+      "start": 903.0,
+      "duration": 4.96,
+      "text": "quick look at that um again this was an"
+    },
+    {
+      "start": 905.52,
+      "duration": 4.76,
+      "text": "early experiment just on the an early"
+    },
+    {
+      "start": 907.96,
+      "duration": 4.96,
+      "text": "version of the 01 preview model things"
+    },
+    {
+      "start": 910.28,
+      "duration": 5.04,
+      "text": "have have improved even more since then"
+    },
+    {
+      "start": 912.92,
+      "duration": 4.56,
+      "text": "and I was literally copy and pasting"
+    },
+    {
+      "start": 915.32,
+      "duration": 4.64,
+      "text": "only text uh there wasn't support for"
+    },
+    {
+      "start": 917.48,
+      "duration": 5.04,
+      "text": "images at that point so only text was"
+    },
+    {
+      "start": 919.96,
+      "duration": 4.72,
+      "text": "getting um pasted in there it took about"
+    },
+    {
+      "start": 922.52,
+      "duration": 3.64,
+      "text": "a minute to run and then one other thing"
+    },
+    {
+      "start": 924.68,
+      "duration": 4.92,
+      "text": "I did that was a little bit tricky is I"
+    },
+    {
+      "start": 926.16,
+      "duration": 5.36,
+      "text": "did ask it to go until August 23rd"
+    },
+    {
+      "start": 929.6,
+      "duration": 5.52,
+      "text": "when all of the camps were done on"
+    },
+    {
+      "start": 931.52,
+      "duration": 5.52,
+      "text": "August 16th just to see like would it be"
+    },
+    {
+      "start": 935.12,
+      "duration": 3.12,
+      "text": "smart and choose a family time on that"
+    },
+    {
+      "start": 937.04,
+      "duration": 4.4,
+      "text": "last"
+    },
+    {
+      "start": 938.24,
+      "duration": 5.56,
+      "text": "week and this is just one non-"
+    },
+    {
+      "start": 941.44,
+      "duration": 4.96,
+      "text": "cherry-picked example of what my output"
+    },
+    {
+      "start": 943.8,
+      "duration": 5.36,
+      "text": "looked like and it this is actually"
+    },
+    {
+      "start": 946.4,
+      "duration": 4.44,
+      "text": "incredibly impressive um I have gone"
+    },
+    {
+      "start": 949.16,
+      "duration": 4.32,
+      "text": "through and verified I've run this so"
+    },
+    {
+      "start": 950.84,
+      "duration": 5.4,
+      "text": "many times and I've I've verified and"
+    },
+    {
+      "start": 953.48,
+      "duration": 6.76,
+      "text": "occasionally we'll get something wrong"
+    },
+    {
+      "start": 956.24,
+      "duration": 7.32,
+      "text": "but it does an incredible job of not"
+    },
+    {
+      "start": 960.24,
+      "duration": 6.08,
+      "text": "hallucinating and actually placing each"
+    },
+    {
+      "start": 963.56,
+      "duration": 4.72,
+      "text": "child in something where this you know"
+    },
+    {
+      "start": 966.32,
+      "duration": 4.68,
+      "text": "fashion and design or fashion design and"
+    },
+    {
+      "start": 968.28,
+      "duration": 6.44,
+      "text": "illustration is actually offered on this"
+    },
+    {
+      "start": 971.0,
+      "duration": 6.08,
+      "text": "week for this grade level um every"
+    },
+    {
+      "start": 974.72,
+      "duration": 6.04,
+      "text": "single one of these is is correct in"
+    },
+    {
+      "start": 977.08,
+      "duration": 6.36,
+      "text": "that sense and that was just mindblowing"
+    },
+    {
+      "start": 980.76,
+      "duration": 7.24,
+      "text": "to me that it was able to keep up with"
+    },
+    {
+      "start": 983.44,
+      "duration": 6.24,
+      "text": "so much Nuance um in this data and in"
+    },
+    {
+      "start": 988.0,
+      "duration": 3.68,
+      "text": "this particular examp example I think"
+    },
+    {
+      "start": 989.68,
+      "duration": 4.6,
+      "text": "this was a um it did a it did a"
+    },
+    {
+      "start": 991.68,
+      "duration": 5.2,
+      "text": "wonderful job the only bug I would call"
+    },
+    {
+      "start": 994.28,
+      "duration": 5.36,
+      "text": "is is right here around the first week"
+    },
+    {
+      "start": 996.88,
+      "duration": 4.92,
+      "text": "it put Fiona as off um there were"
+    },
+    {
+      "start": 999.64,
+      "duration": 4.88,
+      "text": "actually available camps for her that"
+    },
+    {
+      "start": 1001.8,
+      "duration": 4.64,
+      "text": "week so that was that was a bug it could"
+    },
+    {
+      "start": 1004.52,
+      "duration": 3.12,
+      "text": "have placed her in something there so"
+    },
+    {
+      "start": 1006.44,
+      "duration": 3.36,
+      "text": "that was the only thing that I would"
+    },
+    {
+      "start": 1007.64,
+      "duration": 4.2,
+      "text": "consider wrong here um note that that"
+    },
+    {
+      "start": 1009.8,
+      "duration": 3.48,
+      "text": "Tori is off here on the second week but"
+    },
+    {
+      "start": 1011.84,
+      "duration": 3.76,
+      "text": "in that case there actually wasn't"
+    },
+    {
+      "start": 1013.28,
+      "duration": 5.0,
+      "text": "anything offered for 12th grade on that"
+    },
+    {
+      "start": 1015.6,
+      "duration": 4.28,
+      "text": "week so that one is actually okay and"
+    },
+    {
+      "start": 1018.28,
+      "duration": 3.4,
+      "text": "then in this case it did our family time"
+    },
+    {
+      "start": 1019.88,
+      "duration": 3.6,
+      "text": "at the end when there was no camps"
+    },
+    {
+      "start": 1021.68,
+      "duration": 6.4,
+      "text": "offered um putting family time is a"
+    },
+    {
+      "start": 1023.48,
+      "duration": 6.96,
+      "text": "really smart choice so pretty cool right"
+    },
+    {
+      "start": 1028.08,
+      "duration": 4.76,
+      "text": "now of course the next thing I did was"
+    },
+    {
+      "start": 1030.44,
+      "duration": 4.92,
+      "text": "compare this with how the the former"
+    },
+    {
+      "start": 1032.84,
+      "duration": 5.48,
+      "text": "state-of-the-art models could do so I"
+    },
+    {
+      "start": 1035.36,
+      "duration": 6.76,
+      "text": "ran the same query against GPT"
+    },
+    {
+      "start": 1038.32,
+      "duration": 6.04,
+      "text": "40 this model was a lot faster so it"
+    },
+    {
+      "start": 1042.12,
+      "duration": 4.36,
+      "text": "only took about 10 seconds to run so"
+    },
+    {
+      "start": 1044.36,
+      "duration": 4.56,
+      "text": "less than the the 60 seconds about that"
+    },
+    {
+      "start": 1046.48,
+      "duration": 5.4,
+      "text": "it the that the 01 preview model took"
+    },
+    {
+      "start": 1048.92,
+      "duration": 7.16,
+      "text": "which is a reasoning model but there"
+    },
+    {
+      "start": 1051.88,
+      "duration": 8.2,
+      "text": "were so many errors in the output that"
+    },
+    {
+      "start": 1056.08,
+      "duration": 6.12,
+      "text": "it was just not at all helpful so um I"
+    },
+    {
+      "start": 1060.08,
+      "duration": 4.4,
+      "text": "started documenting them of like all"
+    },
+    {
+      "start": 1062.2,
+      "duration": 4.04,
+      "text": "right these classes are offered for the"
+    },
+    {
+      "start": 1064.48,
+      "duration": 3.84,
+      "text": "wrong grade so that won't work or these"
+    },
+    {
+      "start": 1066.24,
+      "duration": 3.92,
+      "text": "are offered on the wrong week but"
+    },
+    {
+      "start": 1068.32,
+      "duration": 3.76,
+      "text": "essentially I just kind of eventually"
+    },
+    {
+      "start": 1070.16,
+      "duration": 4.16,
+      "text": "gave up and stopped documenting errors"
+    },
+    {
+      "start": 1072.08,
+      "duration": 4.24,
+      "text": "because it it just couldn't hold on to"
+    },
+    {
+      "start": 1074.32,
+      "duration": 3.8,
+      "text": "that level of detail there were so many"
+    },
+    {
+      "start": 1076.32,
+      "duration": 3.56,
+      "text": "details that you have to keep track of"
+    },
+    {
+      "start": 1078.12,
+      "duration": 4.8,
+      "text": "to solve this problem"
+    },
+    {
+      "start": 1079.88,
+      "duration": 4.76,
+      "text": "adequately and so that is really the key"
+    },
+    {
+      "start": 1082.92,
+      "duration": 3.28,
+      "text": "thing that I want you to keep in mind"
+    },
+    {
+      "start": 1084.64,
+      "duration": 4.04,
+      "text": "when you're thinking about reasoning"
+    },
+    {
+      "start": 1086.2,
+      "duration": 5.44,
+      "text": "models a huge strength of these"
+    },
+    {
+      "start": 1088.68,
+      "duration": 7.24,
+      "text": "reasoning models is that ability to keep"
+    },
+    {
+      "start": 1091.64,
+      "duration": 7.84,
+      "text": "track of a large quantity of details um"
+    },
+    {
+      "start": 1095.92,
+      "duration": 5.88,
+      "text": "and really understand the nuance and so"
+    },
+    {
+      "start": 1099.48,
+      "duration": 5.24,
+      "text": "that's why that constraint satisfaction"
+    },
+    {
+      "start": 1101.8,
+      "duration": 6.2,
+      "text": "problem operated so well and some of the"
+    },
+    {
+      "start": 1104.72,
+      "duration": 6.28,
+      "text": "advanced um you know solving puzzles and"
+    },
+    {
+      "start": 1108.0,
+      "duration": 5.48,
+      "text": "really comp problems and writing code"
+    },
+    {
+      "start": 1111.0,
+      "duration": 4.36,
+      "text": "essentially all of these things kind of"
+    },
+    {
+      "start": 1113.48,
+      "duration": 3.84,
+      "text": "follow a similar vein where you need to"
+    },
+    {
+      "start": 1115.36,
+      "duration": 4.12,
+      "text": "keep track of a lot of details in order"
+    },
+    {
+      "start": 1117.32,
+      "duration": 3.72,
+      "text": "to be effective so that's really what"
+    },
+    {
+      "start": 1119.48,
+      "duration": 3.92,
+      "text": "the mo the reasoning models are bringing"
+    },
+    {
+      "start": 1121.04,
+      "duration": 5.36,
+      "text": "to the table now let me show you a few"
+    },
+    {
+      "start": 1123.4,
+      "duration": 5.08,
+      "text": "more examples so I also wrote the the"
+    },
+    {
+      "start": 1126.4,
+      "duration": 5.0,
+      "text": "first one a codebase change test I"
+    },
+    {
+      "start": 1128.48,
+      "duration": 4.96,
+      "text": "wanted to do so I said using the"
+    },
+    {
+      "start": 1131.4,
+      "duration": 4.12,
+      "text": "provided documentation summarize key"
+    },
+    {
+      "start": 1133.44,
+      "duration": 5.4,
+      "text": "changes between API versions and they"
+    },
+    {
+      "start": 1135.52,
+      "duration": 5.52,
+      "text": "give me a blog post here and what and"
+    },
+    {
+      "start": 1138.84,
+      "duration": 4.32,
+      "text": "then I pasted in literally I think I I"
+    },
+    {
+      "start": 1141.04,
+      "duration": 4.84,
+      "text": "copy and paste it again from the website"
+    },
+    {
+      "start": 1143.16,
+      "duration": 6.6,
+      "text": "um two different versions of one of our"
+    },
+    {
+      "start": 1145.88,
+      "duration": 6.2,
+      "text": "content safety apis in Azure uh that did"
+    },
+    {
+      "start": 1149.76,
+      "duration": 4.4,
+      "text": "analytics and I gave a version that"
+    },
+    {
+      "start": 1152.08,
+      "duration": 3.48,
+      "text": "happened like you know right after build"
+    },
+    {
+      "start": 1154.16,
+      "duration": 5.0,
+      "text": "and then one that happened almost a year"
+    },
+    {
+      "start": 1155.56,
+      "duration": 6.6,
+      "text": "later and it did an amazing job finding"
+    },
+    {
+      "start": 1159.16,
+      "duration": 4.8,
+      "text": "the differences in the API to be honest"
+    },
+    {
+      "start": 1162.16,
+      "duration": 3.68,
+      "text": "it found all of the changes that I had"
+    },
+    {
+      "start": 1163.96,
+      "duration": 4.12,
+      "text": "found plus it found a few more that I"
+    },
+    {
+      "start": 1165.84,
+      "duration": 4.56,
+      "text": "had missed between the two blog posts so"
+    },
+    {
+      "start": 1168.08,
+      "duration": 4.76,
+      "text": "that was pretty impressive the second"
+    },
+    {
+      "start": 1170.4,
+      "duration": 4.84,
+      "text": "thing I wanted to test here is agentic"
+    },
+    {
+      "start": 1172.84,
+      "duration": 4.56,
+      "text": "workflows so in the very early version"
+    },
+    {
+      "start": 1175.24,
+      "duration": 5.64,
+      "text": "of 01 preview there wasn't support for"
+    },
+    {
+      "start": 1177.4,
+      "duration": 6.92,
+      "text": "function calling yet or using tools or"
+    },
+    {
+      "start": 1180.88,
+      "duration": 4.76,
+      "text": "actions so what I wanted to kind of"
+    },
+    {
+      "start": 1184.32,
+      "duration": 3.2,
+      "text": "understand is you know if that"
+    },
+    {
+      "start": 1185.64,
+      "duration": 4.96,
+      "text": "functionality was added to the models"
+    },
+    {
+      "start": 1187.52,
+      "duration": 7.16,
+      "text": "later which it was um how well could the"
+    },
+    {
+      "start": 1190.6,
+      "duration": 6.68,
+      "text": "model potentially do so I uh tried to to"
+    },
+    {
+      "start": 1194.68,
+      "duration": 4.4,
+      "text": "coers and understand how it might do by"
+    },
+    {
+      "start": 1197.28,
+      "duration": 4.24,
+      "text": "asking a question like hey you're"
+    },
+    {
+      "start": 1199.08,
+      "duration": 5.52,
+      "text": "driving a Minecraft character and you"
+    },
+    {
+      "start": 1201.52,
+      "duration": 4.72,
+      "text": "have a goal of getting a diamond sword"
+    },
+    {
+      "start": 1204.6,
+      "duration": 4.32,
+      "text": "you know here's some tools that you have"
+    },
+    {
+      "start": 1206.24,
+      "duration": 5.92,
+      "text": "available so wander around till you find"
+    },
+    {
+      "start": 1208.92,
+      "duration": 6.4,
+      "text": "something punch something um craft"
+    },
+    {
+      "start": 1212.16,
+      "duration": 5.84,
+      "text": "something smelt so I I kind of defined a"
+    },
+    {
+      "start": 1215.32,
+      "duration": 4.48,
+      "text": "couple of uh commonly used uh functions"
+    },
+    {
+      "start": 1218.0,
+      "duration": 3.2,
+      "text": "that you may do in Minecraft apologies"
+    },
+    {
+      "start": 1219.8,
+      "duration": 3.56,
+      "text": "for those of you who are not Minecraft"
+    },
+    {
+      "start": 1221.2,
+      "duration": 4.44,
+      "text": "fans who may not make as much sense to"
+    },
+    {
+      "start": 1223.36,
+      "duration": 5.72,
+      "text": "you but essentially um I asked it to"
+    },
+    {
+      "start": 1225.64,
+      "duration": 6.8,
+      "text": "build a plan to use the tools to do this"
+    },
+    {
+      "start": 1229.08,
+      "duration": 5.92,
+      "text": "and it did an amazing job again where it"
+    },
+    {
+      "start": 1232.44,
+      "duration": 5.28,
+      "text": "was able to do exactly you know the"
+    },
+    {
+      "start": 1235.0,
+      "duration": 4.16,
+      "text": "right amount of wood I would need to get"
+    },
+    {
+      "start": 1237.72,
+      "duration": 3.52,
+      "text": "um and then I kind of worked out all of"
+    },
+    {
+      "start": 1239.16,
+      "duration": 4.04,
+      "text": "the Minecraft math where like one log"
+    },
+    {
+      "start": 1241.24,
+      "duration": 4.44,
+      "text": "converts to four planks and some of"
+    },
+    {
+      "start": 1243.2,
+      "duration": 4.8,
+      "text": "these other things and it did just a a"
+    },
+    {
+      "start": 1245.68,
+      "duration": 4.4,
+      "text": "phenomenal job one little nitpick is"
+    },
+    {
+      "start": 1248.0,
+      "duration": 4.56,
+      "text": "that it didn't actually have me get any"
+    },
+    {
+      "start": 1250.08,
+      "duration": 3.76,
+      "text": "coal to smelt things it did mention at"
+    },
+    {
+      "start": 1252.56,
+      "duration": 4.92,
+      "text": "the bottom hey you're going to need some"
+    },
+    {
+      "start": 1253.84,
+      "duration": 5.6,
+      "text": "extra coal or some extra wood um to use"
+    },
+    {
+      "start": 1257.48,
+      "duration": 4.2,
+      "text": "as fuel in the furnace"
+    },
+    {
+      "start": 1259.44,
+      "duration": 5.16,
+      "text": "and that wasn't explicitly in my in my"
+    },
+    {
+      "start": 1261.68,
+      "duration": 4.56,
+      "text": "set of steps but it did mention it um so"
+    },
+    {
+      "start": 1264.6,
+      "duration": 4.6,
+      "text": "that was maybe you know minus Half Point"
+    },
+    {
+      "start": 1266.24,
+      "duration": 5.28,
+      "text": "Credit but it this did again in a very"
+    },
+    {
+      "start": 1269.2,
+      "duration": 4.92,
+      "text": "very impressive job and then finally"
+    },
+    {
+      "start": 1271.52,
+      "duration": 4.88,
+      "text": "productivity so I asked it to check the"
+    },
+    {
+      "start": 1274.12,
+      "duration": 5.32,
+      "text": "University of Michigan football schedule"
+    },
+    {
+      "start": 1276.4,
+      "duration": 5.56,
+      "text": "go blue and I copy and pasted the"
+    },
+    {
+      "start": 1279.44,
+      "duration": 6.52,
+      "text": "football schedule from uh a website"
+    },
+    {
+      "start": 1281.96,
+      "duration": 7.12,
+      "text": "again and then I actually went to my"
+    },
+    {
+      "start": 1285.96,
+      "duration": 4.88,
+      "text": "calendar in Outlook and I selected a"
+    },
+    {
+      "start": 1289.08,
+      "duration": 4.2,
+      "text": "custom set of dates I actually did I"
+    },
+    {
+      "start": 1290.84,
+      "duration": 3.96,
+      "text": "think 3 months from like September to"
+    },
+    {
+      "start": 1293.28,
+      "duration": 4.76,
+      "text": "December which is essentially the"
+    },
+    {
+      "start": 1294.8,
+      "duration": 8.2,
+      "text": "college football season and I exported"
+    },
+    {
+      "start": 1298.04,
+      "duration": 7.04,
+      "text": "that as IC and what that did was um that"
+    },
+    {
+      "start": 1303.0,
+      "duration": 4.92,
+      "text": "actually is a text Bas format so then I"
+    },
+    {
+      "start": 1305.08,
+      "duration": 5.2,
+      "text": "just did contrl V and like pasted all of"
+    },
+    {
+      "start": 1307.92,
+      "duration": 6.16,
+      "text": "that text based format at the end of my"
+    },
+    {
+      "start": 1310.28,
+      "duration": 6.8,
+      "text": "prompt there and again with so much"
+    },
+    {
+      "start": 1314.08,
+      "duration": 6.0,
+      "text": "messy nuanced data there my my whole"
+    },
+    {
+      "start": 1317.08,
+      "duration": 4.96,
+      "text": "messy Ugly calendar in there it was able"
+    },
+    {
+      "start": 1320.08,
+      "duration": 4.28,
+      "text": "to find you know all of the football"
+    },
+    {
+      "start": 1322.04,
+      "duration": 4.24,
+      "text": "Saturdays and all of the you know places"
+    },
+    {
+      "start": 1324.36,
+      "duration": 3.64,
+      "text": "where um the football schedule aligned"
+    },
+    {
+      "start": 1326.28,
+      "duration": 3.24,
+      "text": "with my calendar and where I had"
+    },
+    {
+      "start": 1328.0,
+      "duration": 4.56,
+      "text": "conflicts I knew I had a wedding as a"
+    },
+    {
+      "start": 1329.52,
+      "duration": 4.64,
+      "text": "conflict for example and it found it and"
+    },
+    {
+      "start": 1332.56,
+      "duration": 3.32,
+      "text": "then there was like one case where it"
+    },
+    {
+      "start": 1334.16,
+      "duration": 4.2,
+      "text": "didn't find something I think it was"
+    },
+    {
+      "start": 1335.88,
+      "duration": 4.28,
+      "text": "like a but the the football schedule had"
+    },
+    {
+      "start": 1338.36,
+      "duration": 3.92,
+      "text": "it listed as like a 3:00 a.m. game"
+    },
+    {
+      "start": 1340.16,
+      "duration": 3.88,
+      "text": "because the TV schedule hadn't gone on"
+    },
+    {
+      "start": 1342.28,
+      "duration": 4.12,
+      "text": "and so it didn't quite see that but"
+    },
+    {
+      "start": 1344.04,
+      "duration": 5.08,
+      "text": "that's kind of a case of bad input data"
+    },
+    {
+      "start": 1346.4,
+      "duration": 5.96,
+      "text": "so all in all very very impressive"
+    },
+    {
+      "start": 1349.12,
+      "duration": 6.12,
+      "text": "results and what you really see here is"
+    },
+    {
+      "start": 1352.36,
+      "duration": 4.92,
+      "text": "the fact that kind of this is a new"
+    },
+    {
+      "start": 1355.24,
+      "duration": 3.84,
+      "text": "class of problems that can be solved"
+    },
+    {
+      "start": 1357.28,
+      "duration": 4.0,
+      "text": "that's a little bit more complex than"
+    },
+    {
+      "start": 1359.08,
+      "duration": 4.32,
+      "text": "what we could do before so let me"
+    },
+    {
+      "start": 1361.28,
+      "duration": 4.28,
+      "text": "actually uh don't take my word for it I"
+    },
+    {
+      "start": 1363.4,
+      "duration": 4.0,
+      "text": "want you to go try this yourself so all"
+    },
+    {
+      "start": 1365.56,
+      "duration": 5.08,
+      "text": "four of those examples I just kind of"
+    },
+    {
+      "start": 1367.4,
+      "duration": 6.56,
+      "text": "talked you through are available here in"
+    },
+    {
+      "start": 1370.64,
+      "duration": 4.32,
+      "text": "my GitHub repo so I can point you to"
+    },
+    {
+      "start": 1373.96,
+      "duration": 4.56,
+      "text": "this real"
+    },
+    {
+      "start": 1374.96,
+      "duration": 6.32,
+      "text": "quickly and here if you go to github.com"
+    },
+    {
+      "start": 1378.52,
+      "duration": 4.88,
+      "text": "Jennifer marsman sl01 analysis you can"
+    },
+    {
+      "start": 1381.28,
+      "duration": 4.32,
+      "text": "run all of these things yourself they're"
+    },
+    {
+      "start": 1383.4,
+      "duration": 5.08,
+      "text": "in a Jupiter notebook so you can feel"
+    },
+    {
+      "start": 1385.6,
+      "duration": 4.56,
+      "text": "free to run this yourself uh kick the"
+    },
+    {
+      "start": 1388.48,
+      "duration": 3.28,
+      "text": "tires try it out yourself you know"
+    },
+    {
+      "start": 1390.16,
+      "duration": 4.0,
+      "text": "here's my my prompt that I use and you"
+    },
+    {
+      "start": 1391.76,
+      "duration": 5.08,
+      "text": "can see how once you paste you know that"
+    },
+    {
+      "start": 1394.16,
+      "duration": 4.08,
+      "text": "catalog in it it doesn't look nearly as"
+    },
+    {
+      "start": 1396.84,
+      "duration": 3.32,
+      "text": "good right because we're losing all of"
+    },
+    {
+      "start": 1398.24,
+      "duration": 4.88,
+      "text": "that formatting losing so much"
+    },
+    {
+      "start": 1400.16,
+      "duration": 5.56,
+      "text": "information it's so messy and yet it was"
+    },
+    {
+      "start": 1403.12,
+      "duration": 4.68,
+      "text": "able to create such an amazing result so"
+    },
+    {
+      "start": 1405.72,
+      "duration": 3.96,
+      "text": "super impressive but try it yourself and"
+    },
+    {
+      "start": 1407.8,
+      "duration": 5.68,
+      "text": "and see what you think"
+    },
+    {
+      "start": 1409.68,
+      "duration": 5.88,
+      "text": "now the next point I want to make is"
+    },
+    {
+      "start": 1413.48,
+      "duration": 4.0,
+      "text": "that although these reasoning models are"
+    },
+    {
+      "start": 1415.56,
+      "duration": 3.88,
+      "text": "incredibly impressive you don't have to"
+    },
+    {
+      "start": 1417.48,
+      "duration": 3.84,
+      "text": "upgrade everything to be to use a"
+    },
+    {
+      "start": 1419.44,
+      "duration": 4.76,
+      "text": "reasoning model so let me give you an"
+    },
+    {
+      "start": 1421.32,
+      "duration": 5.16,
+      "text": "example of that I have here a math story"
+    },
+    {
+      "start": 1424.2,
+      "duration": 4.44,
+      "text": "problem I'm going to run it and this is"
+    },
+    {
+      "start": 1426.48,
+      "duration": 4.36,
+      "text": "I'm using GitHub models uh right here"
+    },
+    {
+      "start": 1428.64,
+      "duration": 4.68,
+      "text": "the model catalog that's in the GitHub"
+    },
+    {
+      "start": 1430.84,
+      "duration": 4.68,
+      "text": "um Marketplace what I'm going to do now"
+    },
+    {
+      "start": 1433.32,
+      "duration": 7.48,
+      "text": "is actually run this and I'm showing"
+    },
+    {
+      "start": 1435.52,
+      "duration": 7.52,
+      "text": "side by side um the gbt 40 as well as 01"
+    },
+    {
+      "start": 1440.8,
+      "duration": 5.08,
+      "text": "which is a reasoning model and what you"
+    },
+    {
+      "start": 1443.04,
+      "duration": 5.88,
+      "text": "can see is they actually both got the"
+    },
+    {
+      "start": 1445.88,
+      "duration": 6.52,
+      "text": "same result so both of them could solve"
+    },
+    {
+      "start": 1448.92,
+      "duration": 5.64,
+      "text": "and got the correct you know 1,00 is the"
+    },
+    {
+      "start": 1452.4,
+      "duration": 5.96,
+      "text": "the amount of profit in this is this"
+    },
+    {
+      "start": 1454.56,
+      "duration": 7.2,
+      "text": "answer but GPT 40 is able to get it a"
+    },
+    {
+      "start": 1458.36,
+      "duration": 5.24,
+      "text": "lot faster all right so that is just"
+    },
+    {
+      "start": 1461.76,
+      "duration": 3.16,
+      "text": "something to keep in mind you should"
+    },
+    {
+      "start": 1463.6,
+      "duration": 2.96,
+      "text": "definitely experiment you should"
+    },
+    {
+      "start": 1464.92,
+      "duration": 4.2,
+      "text": "definitely try the models but if you"
+    },
+    {
+      "start": 1466.56,
+      "duration": 5.32,
+      "text": "don't need a reasoning model currently"
+    },
+    {
+      "start": 1469.12,
+      "duration": 5.16,
+      "text": "they are more expensive and slower to"
+    },
+    {
+      "start": 1471.88,
+      "duration": 5.12,
+      "text": "run so at this point in time I would"
+    },
+    {
+      "start": 1474.28,
+      "duration": 4.8,
+      "text": "really test experiment and use the right"
+    },
+    {
+      "start": 1477.0,
+      "duration": 3.96,
+      "text": "model for the job and whatever is the"
+    },
+    {
+      "start": 1479.08,
+      "duration": 3.52,
+      "text": "smallest cheapest model that can"
+    },
+    {
+      "start": 1480.96,
+      "duration": 4.52,
+      "text": "actually solve your problem is the one"
+    },
+    {
+      "start": 1482.6,
+      "duration": 4.72,
+      "text": "you're going to want to go with however"
+    },
+    {
+      "start": 1485.48,
+      "duration": 5.0,
+      "text": "that doesn't mean that everything is"
+    },
+    {
+      "start": 1487.32,
+      "duration": 4.52,
+      "text": "possible here's an example of a whle and"
+    },
+    {
+      "start": 1490.48,
+      "duration": 3.08,
+      "text": "just if you're a visual person here's"
+    },
+    {
+      "start": 1491.84,
+      "duration": 4.28,
+      "text": "what that Wordle board looks like for a"
+    },
+    {
+      "start": 1493.56,
+      "duration": 5.72,
+      "text": "quick second I can show you um we have"
+    },
+    {
+      "start": 1496.12,
+      "duration": 5.72,
+      "text": "something that looks something like this"
+    },
+    {
+      "start": 1499.28,
+      "duration": 5.68,
+      "text": "and what I'm going to do is put the same"
+    },
+    {
+      "start": 1501.84,
+      "duration": 6.04,
+      "text": "thing in here where I am going to where"
+    },
+    {
+      "start": 1504.96,
+      "duration": 5.2,
+      "text": "I'm going to ask it hey if I'm playing a"
+    },
+    {
+      "start": 1507.88,
+      "duration": 4.08,
+      "text": "game of word I've tried these words this"
+    },
+    {
+      "start": 1510.16,
+      "duration": 5.36,
+      "text": "was the feedback of what letters were"
+    },
+    {
+      "start": 1511.96,
+      "duration": 6.16,
+      "text": "yellow versus gray versus whatever um"
+    },
+    {
+      "start": 1515.52,
+      "duration": 4.52,
+      "text": "you can see again same thing where 01 is"
+    },
+    {
+      "start": 1518.12,
+      "duration": 6.44,
+      "text": "going to take a little bit longer to"
+    },
+    {
+      "start": 1520.04,
+      "duration": 7.24,
+      "text": "respond but the response is usually much"
+    },
+    {
+      "start": 1524.56,
+      "duration": 5.56,
+      "text": "much higher quality so in this"
+    },
+    {
+      "start": 1527.28,
+      "duration": 5.48,
+      "text": "particular example GPT 40 is telling me"
+    },
+    {
+      "start": 1530.12,
+      "duration": 5.12,
+      "text": "that a good guess would be Forge that is"
+    },
+    {
+      "start": 1532.76,
+      "duration": 5.4,
+      "text": "actually not a good guess given what we"
+    },
+    {
+      "start": 1535.24,
+      "duration": 6.2,
+      "text": "know cuz right here what it's saying is"
+    },
+    {
+      "start": 1538.16,
+      "duration": 4.88,
+      "text": "it's using the E on the end and let me"
+    },
+    {
+      "start": 1541.44,
+      "duration": 3.28,
+      "text": "just show this right here again so that"
+    },
+    {
+      "start": 1543.04,
+      "duration": 5.16,
+      "text": "you can see we know that the E is"
+    },
+    {
+      "start": 1544.72,
+      "duration": 6.64,
+      "text": "actually in the fourth place right here"
+    },
+    {
+      "start": 1548.2,
+      "duration": 5.16,
+      "text": "not at the end so Forge although it uses"
+    },
+    {
+      "start": 1551.36,
+      "duration": 3.8,
+      "text": "the O and the r in different places it's"
+    },
+    {
+      "start": 1553.36,
+      "duration": 4.68,
+      "text": "trying a G right here but it's not using"
+    },
+    {
+      "start": 1555.16,
+      "duration": 6.88,
+      "text": "the e in the in the best place so that's"
+    },
+    {
+      "start": 1558.04,
+      "duration": 6.24,
+      "text": "not necessarily the best guess"
+    },
+    {
+      "start": 1562.04,
+      "duration": 5.44,
+      "text": "here now when we look at the response"
+    },
+    {
+      "start": 1564.28,
+      "duration": 5.28,
+      "text": "from the reasoning model that is o1 you"
+    },
+    {
+      "start": 1567.48,
+      "duration": 5.76,
+      "text": "see that this one actually gives an even"
+    },
+    {
+      "start": 1569.56,
+      "duration": 5.92,
+      "text": "better result so it it uh suggests coder"
+    },
+    {
+      "start": 1573.24,
+      "duration": 4.4,
+      "text": "and coder is actually a a pretty good"
+    },
+    {
+      "start": 1575.48,
+      "duration": 3.64,
+      "text": "guess when you look at that um it's"
+    },
+    {
+      "start": 1577.64,
+      "duration": 4.28,
+      "text": "trying these things in a new position"
+    },
+    {
+      "start": 1579.12,
+      "duration": 4.6,
+      "text": "it's keeping e in the correct position"
+    },
+    {
+      "start": 1581.92,
+      "duration": 4.28,
+      "text": "um and this is something that actually"
+    },
+    {
+      "start": 1583.72,
+      "duration": 4.64,
+      "text": "is a valid choice and gives you new"
+    },
+    {
+      "start": 1586.2,
+      "duration": 5.08,
+      "text": "information and it's kind of a better"
+    },
+    {
+      "start": 1588.36,
+      "duration": 5.08,
+      "text": "better guess so that's kind of the level"
+    },
+    {
+      "start": 1591.28,
+      "duration": 4.64,
+      "text": "of complexity I hope these examples are"
+    },
+    {
+      "start": 1593.44,
+      "duration": 5.76,
+      "text": "are opening your mind to the class of"
+    },
+    {
+      "start": 1595.92,
+      "duration": 4.92,
+      "text": "problems that reasoning models can solve"
+    },
+    {
+      "start": 1599.2,
+      "duration": 4.52,
+      "text": "now one last thing I want to make sure"
+    },
+    {
+      "start": 1600.84,
+      "duration": 5.28,
+      "text": "you know is even Beyond 01 there is"
+    },
+    {
+      "start": 1603.72,
+      "duration": 5.48,
+      "text": "support in the Azure AI Foundry model"
+    },
+    {
+      "start": 1606.12,
+      "duration": 5.2,
+      "text": "catalog for a wide number of reasoning"
+    },
+    {
+      "start": 1609.2,
+      "duration": 3.8,
+      "text": "models you can see down here I see a"
+    },
+    {
+      "start": 1611.32,
+      "duration": 4.68,
+      "text": "couple of reasoning models here's the 03"
+    },
+    {
+      "start": 1613.0,
+      "duration": 5.24,
+      "text": "mini is a great one deep seek R1 is a"
+    },
+    {
+      "start": 1616.0,
+      "duration": 4.4,
+      "text": "reasoning model here's 01 and 01 min"
+    },
+    {
+      "start": 1618.24,
+      "duration": 5.04,
+      "text": "mini so there's a wide variety of"
+    },
+    {
+      "start": 1620.4,
+      "duration": 5.0,
+      "text": "reasoning models here as well so you can"
+    },
+    {
+      "start": 1623.28,
+      "duration": 4.28,
+      "text": "utilize whichever one uh works best for"
+    },
+    {
+      "start": 1625.4,
+      "duration": 4.8,
+      "text": "you and run it on Azure through the"
+    },
+    {
+      "start": 1627.56,
+      "duration": 5.32,
+      "text": "model catalog and then you can do that"
+    },
+    {
+      "start": 1630.2,
+      "duration": 5.36,
+      "text": "same kind of experimentation right in"
+    },
+    {
+      "start": 1632.88,
+      "duration": 6.2,
+      "text": "the Azure AI Foundry chat uh playground"
+    },
+    {
+      "start": 1635.56,
+      "duration": 5.32,
+      "text": "as well so I can run certain questions"
+    },
+    {
+      "start": 1639.08,
+      "duration": 5.68,
+      "text": "right here in the chat history and see"
+    },
+    {
+      "start": 1640.88,
+      "duration": 3.88,
+      "text": "how well it does here too"
+    },
+    {
+      "start": 1651.8,
+      "duration": 5.36,
+      "text": "so hopefully that gives you a good sense"
+    },
+    {
+      "start": 1653.72,
+      "duration": 6.64,
+      "text": "of what reasoning models are the class"
+    },
+    {
+      "start": 1657.16,
+      "duration": 5.48,
+      "text": "of problems they can solve and then when"
+    },
+    {
+      "start": 1660.36,
+      "duration": 4.72,
+      "text": "you might use them and when you might"
+    },
+    {
+      "start": 1662.64,
+      "duration": 5.72,
+      "text": "not use them if other models are good"
+    },
+    {
+      "start": 1665.08,
+      "duration": 3.28,
+      "text": "enough thanks a"
+    },
+    {
+      "start": 1671.64,
+      "duration": 4.08,
+      "text": "lot oh my God I don't know if you saw"
+    },
+    {
+      "start": 1674.2,
+      "duration": 3.44,
+      "text": "all the chat I think a lot of people are"
+    },
+    {
+      "start": 1675.72,
+      "duration": 4.08,
+      "text": "going to go check out your repo now this"
+    },
+    {
+      "start": 1677.64,
+      "duration": 4.56,
+      "text": "is almost do so I want to basically open"
+    },
+    {
+      "start": 1679.8,
+      "duration": 4.4,
+      "text": "it up to the community uh for questions"
+    },
+    {
+      "start": 1682.2,
+      "duration": 3.72,
+      "text": "I know we have a couple of minutes but I"
+    },
+    {
+      "start": 1684.2,
+      "duration": 4.24,
+      "text": "also want to point you to that QR code"
+    },
+    {
+      "start": 1685.92,
+      "duration": 3.76,
+      "text": "we have a Discord Channel if there's a"
+    },
+    {
+      "start": 1688.44,
+      "duration": 3.4,
+      "text": "lot of interest we'd love to have"
+    },
+    {
+      "start": 1689.68,
+      "duration": 5.2,
+      "text": "Jennifer come and like answer questions"
+    },
+    {
+      "start": 1691.84,
+      "duration": 4.8,
+      "text": "there later as well but for now uh one"
+    },
+    {
+      "start": 1694.88,
+      "duration": 4.16,
+      "text": "of the things people were asking is you"
+    },
+    {
+      "start": 1696.64,
+      "duration": 3.72,
+      "text": "know is there is it Beyond research like"
+    },
+    {
+      "start": 1699.04,
+      "duration": 3.16,
+      "text": "can reasoning models be used in"
+    },
+    {
+      "start": 1700.36,
+      "duration": 4.0,
+      "text": "Practical applications and I love the"
+    },
+    {
+      "start": 1702.2,
+      "duration": 4.68,
+      "text": "ones you kind of talked about but are"
+    },
+    {
+      "start": 1704.36,
+      "duration": 4.96,
+      "text": "there any other use cases that you could"
+    },
+    {
+      "start": 1706.88,
+      "duration": 5.32,
+      "text": "share yeah so there's a question here"
+    },
+    {
+      "start": 1709.32,
+      "duration": 4.52,
+      "text": "around um powerbi models in fabric while"
+    },
+    {
+      "start": 1712.2,
+      "duration": 4.84,
+      "text": "maintaining explainability for non Tech"
+    },
+    {
+      "start": 1713.84,
+      "duration": 5.96,
+      "text": "these any best practices okay um so I've"
+    },
+    {
+      "start": 1717.04,
+      "duration": 5.04,
+      "text": "seen I was actually chatting with"
+    },
+    {
+      "start": 1719.8,
+      "duration": 5.0,
+      "text": "someone uh this morning who was doing"
+    },
+    {
+      "start": 1722.08,
+      "duration": 5.76,
+      "text": "like Advanced research on optimization"
+    },
+    {
+      "start": 1724.8,
+      "duration": 5.24,
+      "text": "problems and that was a great example"
+    },
+    {
+      "start": 1727.84,
+      "duration": 3.68,
+      "text": "because optimization is one of those and"
+    },
+    {
+      "start": 1730.04,
+      "duration": 3.48,
+      "text": "you know I was showing a constraint"
+    },
+    {
+      "start": 1731.52,
+      "duration": 3.88,
+      "text": "satisfaction problem essentially but"
+    },
+    {
+      "start": 1733.52,
+      "duration": 5.64,
+      "text": "optimization is another one of those use"
+    },
+    {
+      "start": 1735.4,
+      "duration": 6.16,
+      "text": "cases where um there there's really"
+    },
+    {
+      "start": 1739.16,
+      "duration": 4.28,
+      "text": "higher level patterns in data and a lot"
+    },
+    {
+      "start": 1741.56,
+      "duration": 4.28,
+      "text": "of times machines can find those"
+    },
+    {
+      "start": 1743.44,
+      "duration": 5.04,
+      "text": "patterns a little bit easier than we can"
+    },
+    {
+      "start": 1745.84,
+      "duration": 4.68,
+      "text": "but um we need to be a you need the the"
+    },
+    {
+      "start": 1748.48,
+      "duration": 6.28,
+      "text": "the explainability and the transparency"
+    },
+    {
+      "start": 1750.52,
+      "duration": 5.88,
+      "text": "is so important so um questions like um"
+    },
+    {
+      "start": 1754.76,
+      "duration": 4.6,
+      "text": "you know why would this you know what"
+    },
+    {
+      "start": 1756.4,
+      "duration": 4.6,
+      "text": "would happen if we tried this supplier"
+    },
+    {
+      "start": 1759.36,
+      "duration": 5.08,
+      "text": "rather than this supplier or what would"
+    },
+    {
+      "start": 1761.0,
+      "duration": 5.6,
+      "text": "happen if we you know um you know uh"
+    },
+    {
+      "start": 1764.44,
+      "duration": 3.96,
+      "text": "prioritized this deliverable over that"
+    },
+    {
+      "start": 1766.6,
+      "duration": 4.32,
+      "text": "deliverable like how would that affect"
+    },
+    {
+      "start": 1768.4,
+      "duration": 5.68,
+      "text": "the overall flow of things in a in a big"
+    },
+    {
+      "start": 1770.92,
+      "duration": 5.48,
+      "text": "optimization problem and what these kind"
+    },
+    {
+      "start": 1774.08,
+      "duration": 4.36,
+      "text": "of models can do is is really exactly"
+    },
+    {
+      "start": 1776.4,
+      "duration": 5.0,
+      "text": "that it can give you the"
+    },
+    {
+      "start": 1778.44,
+      "duration": 4.4,
+      "text": "explainability of here's why it did that"
+    },
+    {
+      "start": 1781.4,
+      "duration": 3.76,
+      "text": "and and it kind of carries a lot more of"
+    },
+    {
+      "start": 1782.84,
+      "duration": 4.24,
+      "text": "that forward so um yeah I do think"
+    },
+    {
+      "start": 1785.16,
+      "duration": 4.0,
+      "text": "reasoning models would be great for that"
+    },
+    {
+      "start": 1787.08,
+      "duration": 4.0,
+      "text": "category of problem as well and then I"
+    },
+    {
+      "start": 1789.16,
+      "duration": 3.24,
+      "text": "didn't show a coding one um that's"
+    },
+    {
+      "start": 1791.08,
+      "duration": 2.8,
+      "text": "another one that I think people do a lot"
+    },
+    {
+      "start": 1792.4,
+      "duration": 3.92,
+      "text": "like solving puzzles like I showed"
+    },
+    {
+      "start": 1793.88,
+      "duration": 4.64,
+      "text": "Wordle and such um and and just complex"
+    },
+    {
+      "start": 1796.32,
+      "duration": 3.96,
+      "text": "problems optimization problems um a"
+    },
+    {
+      "start": 1798.52,
+      "duration": 4.76,
+      "text": "higher level code like if you kind of do"
+    },
+    {
+      "start": 1800.28,
+      "duration": 5.72,
+      "text": "a high level like give me a you know a"
+    },
+    {
+      "start": 1803.28,
+      "duration": 4.56,
+      "text": "JavaScript you know um write a"
+    },
+    {
+      "start": 1806.0,
+      "duration": 3.32,
+      "text": "JavaScript program that you know plays a"
+    },
+    {
+      "start": 1807.84,
+      "duration": 3.56,
+      "text": "simple game or something like that it"
+    },
+    {
+      "start": 1809.32,
+      "duration": 5.12,
+      "text": "can do those kind of things um decently"
+    },
+    {
+      "start": 1811.4,
+      "duration": 4.4,
+      "text": "well yeah I think the whole VI coding"
+    },
+    {
+      "start": 1814.44,
+      "duration": 4.24,
+      "text": "thing is going on right now where you"
+    },
+    {
+      "start": 1815.8,
+      "duration": 4.72,
+      "text": "just get immersed in this and just it"
+    },
+    {
+      "start": 1818.68,
+      "duration": 3.32,
+      "text": "out so there is so much value here"
+    },
+    {
+      "start": 1820.52,
+      "duration": 3.6,
+      "text": "someone asked a very good question there"
+    },
+    {
+      "start": 1822.0,
+      "duration": 4.36,
+      "text": "were like uh reasoning models and"
+    },
+    {
+      "start": 1824.12,
+      "duration": 3.36,
+      "text": "context Windows right uh how large are"
+    },
+    {
+      "start": 1826.36,
+      "duration": 2.16,
+      "text": "the context Windows required for"
+    },
+    {
+      "start": 1827.48,
+      "duration": 2.68,
+      "text": "reasoning models"
+    },
+    {
+      "start": 1828.52,
+      "duration": 3.56,
+      "text": "but I think that also goes what you were"
+    },
+    {
+      "start": 1830.16,
+      "duration": 4.08,
+      "text": "saying yeah go ahead yes great question"
+    },
+    {
+      "start": 1832.08,
+      "duration": 4.4,
+      "text": "so one thing you can always find out the"
+    },
+    {
+      "start": 1834.24,
+      "duration": 6.08,
+      "text": "latest at"
+    },
+    {
+      "start": 1836.48,
+      "duration": 5.8,
+      "text": "aka.ms oi models that's like my cheat"
+    },
+    {
+      "start": 1840.32,
+      "duration": 6.16,
+      "text": "they they the team do a great job doing"
+    },
+    {
+      "start": 1842.28,
+      "duration": 8.12,
+      "text": "that but essentially um for 03 mini and"
+    },
+    {
+      "start": 1846.48,
+      "duration": 8.88,
+      "text": "01 the input is um 200k and the output"
+    },
+    {
+      "start": 1850.4,
+      "duration": 9.04,
+      "text": "is 100k and for the um the older the 01"
+    },
+    {
+      "start": 1855.36,
+      "duration": 7.16,
+      "text": "mini it's input of 128 akk and output of"
+    },
+    {
+      "start": 1859.44,
+      "duration": 5.16,
+      "text": "I think 65 isk something like that but"
+    },
+    {
+      "start": 1862.52,
+      "duration": 5.72,
+      "text": "the latest is always on like that's my"
+    },
+    {
+      "start": 1864.6,
+      "duration": 5.24,
+      "text": "go-to cheat sheet is AK go to that URL"
+    },
+    {
+      "start": 1868.24,
+      "duration": 4.72,
+      "text": "aka.ms"
+    },
+    {
+      "start": 1869.84,
+      "duration": 5.16,
+      "text": "oi models and all the model information"
+    },
+    {
+      "start": 1872.96,
+      "duration": 4.44,
+      "text": "on all the models what data centers"
+    },
+    {
+      "start": 1875.0,
+      "duration": 4.6,
+      "text": "they're in um what their training date"
+    },
+    {
+      "start": 1877.4,
+      "duration": 3.52,
+      "text": "cut off was like all of the good stuff"
+    },
+    {
+      "start": 1879.6,
+      "duration": 2.8,
+      "text": "that you need to know to work with them"
+    },
+    {
+      "start": 1880.92,
+      "duration": 3.52,
+      "text": "is all documented on that one page it's"
+    },
+    {
+      "start": 1882.4,
+      "duration": 3.6,
+      "text": "fabulous and they're all the time I'm"
+    },
+    {
+      "start": 1884.44,
+      "duration": 3.56,
+      "text": "going to put that link into the chat"
+    },
+    {
+      "start": 1886.0,
+      "duration": 3.04,
+      "text": "right after I think we're a little over"
+    },
+    {
+      "start": 1888.0,
+      "duration": 2.28,
+      "text": "time but that's okay we're going to take"
+    },
+    {
+      "start": 1889.04,
+      "duration": 3.32,
+      "text": "two more questions because they're are"
+    },
+    {
+      "start": 1890.28,
+      "duration": 4.0,
+      "text": "good ones uh one says can you talk a"
+    },
+    {
+      "start": 1892.36,
+      "duration": 4.76,
+      "text": "little bit more about KV cache and how"
+    },
+    {
+      "start": 1894.28,
+      "duration": 4.12,
+      "text": "it plays in reasoning models uh and then"
+    },
+    {
+      "start": 1897.12,
+      "duration": 3.04,
+      "text": "uh there was one which talked about"
+    },
+    {
+      "start": 1898.4,
+      "duration": 4.04,
+      "text": "Foundry but I'll let you talk about the"
+    },
+    {
+      "start": 1900.16,
+      "duration": 4.84,
+      "text": "KB Cas if you have any inside there yeah"
+    },
+    {
+      "start": 1902.44,
+      "duration": 6.76,
+      "text": "yeah um"
+    },
+    {
+      "start": 1905.0,
+      "duration": 7.16,
+      "text": "so when you're working with so so here I"
+    },
+    {
+      "start": 1909.2,
+      "duration": 5.64,
+      "text": "think is how I would think about it um"
+    },
+    {
+      "start": 1912.16,
+      "duration": 6.08,
+      "text": "when you're working with a reasoning"
+    },
+    {
+      "start": 1914.84,
+      "duration": 6.44,
+      "text": "model it's using its own inter internal"
+    },
+    {
+      "start": 1918.24,
+      "duration": 4.8,
+      "text": "Chain of Thought to uh reason through"
+    },
+    {
+      "start": 1921.28,
+      "duration": 4.68,
+      "text": "things and you"
+    },
+    {
+      "start": 1923.04,
+      "duration": 5.68,
+      "text": "can't like add new information halfway"
+    },
+    {
+      "start": 1925.96,
+      "duration": 4.32,
+      "text": "through that process so the way I think"
+    },
+    {
+      "start": 1928.72,
+      "duration": 4.72,
+      "text": "about it is that they do have larger"
+    },
+    {
+      "start": 1930.28,
+      "duration": 7.92,
+      "text": "contact windows so um what I would do is"
+    },
+    {
+      "start": 1933.44,
+      "duration": 7.32,
+      "text": "if you're um I tend to ask a higher"
+    },
+    {
+      "start": 1938.2,
+      "duration": 4.12,
+      "text": "level question with reasoning models"
+    },
+    {
+      "start": 1940.76,
+      "duration": 3.28,
+      "text": "like instead of like a plan where you"
+    },
+    {
+      "start": 1942.32,
+      "duration": 3.16,
+      "text": "kind of would break things down a little"
+    },
+    {
+      "start": 1944.04,
+      "duration": 4.04,
+      "text": "bit step by step and kind of give it the"
+    },
+    {
+      "start": 1945.48,
+      "duration": 4.12,
+      "text": "lower level stuff with other models this"
+    },
+    {
+      "start": 1948.08,
+      "duration": 3.68,
+      "text": "one it actually seems to do better when"
+    },
+    {
+      "start": 1949.6,
+      "duration": 4.2,
+      "text": "you just give it like the highle thing"
+    },
+    {
+      "start": 1951.76,
+      "duration": 4.56,
+      "text": "and then dump any information it would"
+    },
+    {
+      "start": 1953.8,
+      "duration": 5.16,
+      "text": "need to solve that like in the initial"
+    },
+    {
+      "start": 1956.32,
+      "duration": 4.32,
+      "text": "context window now there are experiments"
+    },
+    {
+      "start": 1958.96,
+      "duration": 3.88,
+      "text": "I've done with like multi-agent"
+    },
+    {
+      "start": 1960.64,
+      "duration": 5.04,
+      "text": "scenarios where um we could do another"
+    },
+    {
+      "start": 1962.84,
+      "duration": 6.0,
+      "text": "whole talk on that one honestly n but"
+    },
+    {
+      "start": 1965.68,
+      "duration": 6.4,
+      "text": "the um in that scenario you can have"
+    },
+    {
+      "start": 1968.84,
+      "duration": 5.08,
+      "text": "like one um grabbing some information"
+    },
+    {
+      "start": 1972.08,
+      "duration": 3.24,
+      "text": "and one of them kind of coming to some"
+    },
+    {
+      "start": 1973.92,
+      "duration": 3.12,
+      "text": "conclusions with the information it has"
+    },
+    {
+      "start": 1975.32,
+      "duration": 3.52,
+      "text": "at that time and then the other one kind"
+    },
+    {
+      "start": 1977.04,
+      "duration": 3.72,
+      "text": "of feeding on off of that and then"
+    },
+    {
+      "start": 1978.84,
+      "duration": 3.76,
+      "text": "making additional things and so when you"
+    },
+    {
+      "start": 1980.76,
+      "duration": 3.8,
+      "text": "have little like different agents that"
+    },
+    {
+      "start": 1982.6,
+      "duration": 4.0,
+      "text": "are focused on different parts of a"
+    },
+    {
+      "start": 1984.56,
+      "duration": 5.6,
+      "text": "problem then they can collaboratively"
+    },
+    {
+      "start": 1986.6,
+      "duration": 5.08,
+      "text": "come to a better uh solution um but but"
+    },
+    {
+      "start": 1990.16,
+      "duration": 3.36,
+      "text": "I guess the the short thing I would say"
+    },
+    {
+      "start": 1991.68,
+      "duration": 3.24,
+      "text": "is like grab the relevant information"
+    },
+    {
+      "start": 1993.52,
+      "duration": 3.64,
+      "text": "from the cach and get that into the"
+    },
+    {
+      "start": 1994.92,
+      "duration": 3.96,
+      "text": "context window at the beginning because"
+    },
+    {
+      "start": 1997.16,
+      "duration": 3.28,
+      "text": "like it's not like you're adding stuff"
+    },
+    {
+      "start": 1998.88,
+      "duration": 5.8,
+      "text": "through unless it's a multi-agent kind"
+    },
+    {
+      "start": 2000.44,
+      "duration": 6.12,
+      "text": "of turn BYT chat there um okay and then"
+    },
+    {
+      "start": 2004.68,
+      "duration": 3.48,
+      "text": "what was the last question here other"
+    },
+    {
+      "start": 2006.56,
+      "duration": 3.4,
+      "text": "question was uh can you talk about how"
+    },
+    {
+      "start": 2008.16,
+      "duration": 4.44,
+      "text": "Azure Foundry handles reasoning tokens"
+    },
+    {
+      "start": 2009.96,
+      "duration": 5.8,
+      "text": "and how we can get a glimpse of them"
+    },
+    {
+      "start": 2012.6,
+      "duration": 5.96,
+      "text": "yeah so the on the output of the API it"
+    },
+    {
+      "start": 2015.76,
+      "duration": 5.84,
+      "text": "does give you some information on here's"
+    },
+    {
+      "start": 2018.56,
+      "duration": 5.4,
+      "text": "how the um how much of the um or here's"
+    },
+    {
+      "start": 2021.6,
+      "duration": 4.92,
+      "text": "how many tokens were used um each time"
+    },
+    {
+      "start": 2023.96,
+      "duration": 3.92,
+      "text": "around so it will if you do need to keep"
+    },
+    {
+      "start": 2026.52,
+      "duration": 3.08,
+      "text": "track of your tokens like input and"
+    },
+    {
+      "start": 2027.88,
+      "duration": 3.68,
+      "text": "output for like cost savings and that"
+    },
+    {
+      "start": 2029.6,
+      "duration": 3.64,
+      "text": "sort of thing um you can keep track of"
+    },
+    {
+      "start": 2031.56,
+      "duration": 4.04,
+      "text": "that just um capture that in your"
+    },
+    {
+      "start": 2033.24,
+      "duration": 4.08,
+      "text": "Telemetry on the output um there's a"
+    },
+    {
+      "start": 2035.6,
+      "duration": 3.6,
+      "text": "field there that will tell you how many"
+    },
+    {
+      "start": 2037.32,
+      "duration": 5.16,
+      "text": "um Tok were used and then you can just"
+    },
+    {
+      "start": 2039.2,
+      "duration": 5.8,
+      "text": "keep a running tally of that and then a"
+    },
+    {
+      "start": 2042.48,
+      "duration": 3.96,
+      "text": "so very cool uh there are this has been"
+    },
+    {
+      "start": 2045.0,
+      "duration": 3.0,
+      "text": "exciting there's so many questions for"
+    },
+    {
+      "start": 2046.44,
+      "duration": 3.28,
+      "text": "you so I'm going to take these and we'll"
+    },
+    {
+      "start": 2048.0,
+      "duration": 3.8,
+      "text": "write them up for you and put them after"
+    },
+    {
+      "start": 2049.72,
+      "duration": 3.52,
+      "text": "the fact uh just want to say thank you"
+    },
+    {
+      "start": 2051.8,
+      "duration": 3.4,
+      "text": "so much Jennifer this has been one of"
+    },
+    {
+      "start": 2053.24,
+      "duration": 2.8,
+      "text": "the most exciting ones we're GNA take H"
+    },
+    {
+      "start": 2055.2,
+      "duration": 2.96,
+      "text": "your word you're gonna come back and"
+    },
+    {
+      "start": 2056.04,
+      "duration": 7.0,
+      "text": "talk agents with us another time thank"
+    },
+    {
+      "start": 2058.16,
+      "duration": 4.88,
+      "text": "you okay thanks guys"
+    },
+    {
+      "start": 2066.72,
+      "duration": 4.0,
+      "text": "bye e"
+    }
+  ]
+}

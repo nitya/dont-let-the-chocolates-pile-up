@@ -1,0 +1,13 @@
+# Foundry routine (preview): every Tuesday 10:00 New York time, prep the next episode.
+# Schema from the microsoft-foundry skill (foundry-agent/routine/references/cli-crud.md). Not yet run against a project.
+#   azd extension install azure.ai.routines
+#   azd ai routine create emcee-weekly-prep --file agents/foundry/routine-weekly-prep.yaml
+triggers:
+  default:
+    type: schedule
+    cron_expression: "0 10 * * 2"
+    time_zone: America/New_York
+action:
+  type: invoke_agent_responses_api
+  agent_name: emcee
+  input: "prep next"

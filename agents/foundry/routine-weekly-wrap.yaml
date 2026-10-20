@@ -1,0 +1,11 @@
+# Foundry routine (preview): every Tuesday 09:00 New York time, wrap up the episode that aired on Monday.
+#   azd ai routine create emcee-weekly-wrap --file agents/foundry/routine-weekly-wrap.yaml
+triggers:
+  default:
+    type: schedule
+    cron_expression: "0 9 * * 2"
+    time_zone: America/New_York
+action:
+  type: invoke_agent_responses_api
+  agent_name: emcee
+  input: "wrap up the latest episode"

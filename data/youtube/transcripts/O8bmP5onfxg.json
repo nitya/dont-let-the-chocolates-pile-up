@@ -1,0 +1,5423 @@
+{
+  "videoId": "O8bmP5onfxg",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:00:38+00:00",
+  "segments": [
+    {
+      "start": 9.36,
+      "duration": 3.44,
+      "text": "Hey everyone. Thank you for joining us"
+    },
+    {
+      "start": 11.24,
+      "duration": 3.0,
+      "text": "for the next session of our Model Monday"
+    },
+    {
+      "start": 12.8,
+      "duration": 2.88,
+      "text": "series."
+    },
+    {
+      "start": 14.24,
+      "duration": 3.12,
+      "text": "My name is Anna. I'll be your producer"
+    },
+    {
+      "start": 15.68,
+      "duration": 3.52,
+      "text": "for this session."
+    },
+    {
+      "start": 17.36,
+      "duration": 4.68,
+      "text": "I'm an event planner for Reactor joining"
+    },
+    {
+      "start": 19.2,
+      "duration": 4.28,
+      "text": "you from Redmond, Washington."
+    },
+    {
+      "start": 22.04,
+      "duration": 3.24,
+      "text": "Before we start, I do have some quick"
+    },
+    {
+      "start": 23.48,
+      "duration": 3.12,
+      "text": "housekeeping."
+    },
+    {
+      "start": 25.28,
+      "duration": 3.6,
+      "text": "Please take a moment to read our code of"
+    },
+    {
+      "start": 26.6,
+      "duration": 4.08,
+      "text": "conduct."
+    },
+    {
+      "start": 28.88,
+      "duration": 3.08,
+      "text": "We seek to provide a respectful"
+    },
+    {
+      "start": 30.68,
+      "duration": 2.92,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 31.96,
+      "duration": 3.48,
+      "text": "presenters."
+    },
+    {
+      "start": 33.6,
+      "duration": 3.04,
+      "text": "While we absolutely encourage engagement"
+    },
+    {
+      "start": 35.44,
+      "duration": 2.4,
+      "text": "in the chat,"
+    },
+    {
+      "start": 36.64,
+      "duration": 3.28,
+      "text": "we ask that you please be mindful of"
+    },
+    {
+      "start": 37.84,
+      "duration": 4.2,
+      "text": "your commentary, remain professional and"
+    },
+    {
+      "start": 39.92,
+      "duration": 3.64,
+      "text": "on topic."
+    },
+    {
+      "start": 42.04,
+      "duration": 3.12,
+      "text": "Keep an eye on that chat. We'll be"
+    },
+    {
+      "start": 43.56,
+      "duration": 3.72,
+      "text": "dropping helpful links and checking for"
+    },
+    {
+      "start": 45.16,
+      "duration": 4.52,
+      "text": "questions for our presenter and guests"
+    },
+    {
+      "start": 47.28,
+      "duration": 4.16,
+      "text": "to answer live."
+    },
+    {
+      "start": 49.68,
+      "duration": 4.04,
+      "text": "Our session is being recorded. It will"
+    },
+    {
+      "start": 51.44,
+      "duration": 4.68,
+      "text": "be available to view on demand right"
+    },
+    {
+      "start": 53.72,
+      "duration": 3.72,
+      "text": "here on the Reactor channel."
+    },
+    {
+      "start": 56.12,
+      "duration": 3.44,
+      "text": "With that, I'd love to turn it over to"
+    },
+    {
+      "start": 57.44,
+      "duration": 5.0,
+      "text": "our host for today. Carlotta, thank you"
+    },
+    {
+      "start": 59.56,
+      "duration": 2.88,
+      "text": "so much for joining."
+    },
+    {
+      "start": 62.6,
+      "duration": 5.84,
+      "text": "Hi. Hi everyone and welcome. Thanks Anna"
+    },
+    {
+      "start": 65.88,
+      "duration": 5.56,
+      "text": "for for the introduction. Welcome to"
+    },
+    {
+      "start": 68.44,
+      "duration": 5.32,
+      "text": "another episode of Model Mondays. I'm"
+    },
+    {
+      "start": 71.44,
+      "duration": 5.08,
+      "text": "Carlotta. I'm an AI advocate in the"
+    },
+    {
+      "start": 73.76,
+      "duration": 6.36,
+      "text": "DevRel team at Microsoft and I'll be"
+    },
+    {
+      "start": 76.52,
+      "duration": 6.24,
+      "text": "your host for today's episode."
+    },
+    {
+      "start": 80.12,
+      "duration": 5.2,
+      "text": "Let us know where are you joining from."
+    },
+    {
+      "start": 82.76,
+      "duration": 5.0,
+      "text": "I'm I'm joining from Italy right now,"
+    },
+    {
+      "start": 85.32,
+      "duration": 4.88,
+      "text": "but I'm curious where everybody"
+    },
+    {
+      "start": 87.76,
+      "duration": 5.04,
+      "text": "is is joining from. I love that we have"
+    },
+    {
+      "start": 90.2,
+      "duration": 5.4,
+      "text": "a global audience. Always curious to"
+    },
+    {
+      "start": 92.8,
+      "duration": 4.4,
+      "text": "know where people are are watching from."
+    },
+    {
+      "start": 95.6,
+      "duration": 4.32,
+      "text": "So,"
+    },
+    {
+      "start": 97.2,
+      "duration": 4.48,
+      "text": "if it's your first time joining this"
+    },
+    {
+      "start": 99.92,
+      "duration": 4.12,
+      "text": "series,"
+    },
+    {
+      "start": 101.68,
+      "duration": 4.36,
+      "text": "a couple of words about Model Mondays."
+    },
+    {
+      "start": 104.04,
+      "duration": 4.92,
+      "text": "It's a series running on Microsoft"
+    },
+    {
+      "start": 106.04,
+      "duration": 4.76,
+      "text": "Reactor every Monday."
+    },
+    {
+      "start": 108.96,
+      "duration": 4.8,
+      "text": "It's designed with the mission of"
+    },
+    {
+      "start": 110.8,
+      "duration": 6.08,
+      "text": "helping AI engineers and developers to"
+    },
+    {
+      "start": 113.76,
+      "duration": 6.68,
+      "text": "choose the right models for their AI AI"
+    },
+    {
+      "start": 116.88,
+      "duration": 5.08,
+      "text": "apps in Digens, which is kind of"
+    },
+    {
+      "start": 120.44,
+      "duration": 3.4,
+      "text": "you know"
+    },
+    {
+      "start": 121.96,
+      "duration": 4.84,
+      "text": "a challenging task these days where we"
+    },
+    {
+      "start": 123.84,
+      "duration": 4.76,
+      "text": "have a new models released every week."
+    },
+    {
+      "start": 126.8,
+      "duration": 3.8,
+      "text": "We also host"
+    },
+    {
+      "start": 128.6,
+      "duration": 4.28,
+      "text": "AMAs"
+    },
+    {
+      "start": 130.6,
+      "duration": 4.72,
+      "text": "on Fridays on the Microsoft Foundry"
+    },
+    {
+      "start": 132.88,
+      "duration": 4.6,
+      "text": "Discord community as a follow up of the"
+    },
+    {
+      "start": 135.32,
+      "duration": 4.56,
+      "text": "Monday episode and I'll give you more"
+    },
+    {
+      "start": 137.48,
+      "duration": 6.08,
+      "text": "details for the episode of this week as"
+    },
+    {
+      "start": 139.88,
+      "duration": 6.88,
+      "text": "well. And fun fact, last Friday we"
+    },
+    {
+      "start": 143.56,
+      "duration": 5.16,
+      "text": "celebrated one year of Modern Mondays."
+    },
+    {
+      "start": 146.76,
+      "duration": 4.2,
+      "text": "We are so glad of the interest and the"
+    },
+    {
+      "start": 148.72,
+      "duration": 3.68,
+      "text": "enthusiasm of this community about this"
+    },
+    {
+      "start": 150.96,
+      "duration": 4.64,
+      "text": "show."
+    },
+    {
+      "start": 152.4,
+      "duration": 5.76,
+      "text": "So maybe let us know in the chat, you"
+    },
+    {
+      "start": 155.6,
+      "duration": 5.4,
+      "text": "know, if you are joining for the first"
+    },
+    {
+      "start": 158.16,
+      "duration": 4.2,
+      "text": "time or maybe"
+    },
+    {
+      "start": 161.0,
+      "duration": 3.08,
+      "text": "you are"
+    },
+    {
+      "start": 162.36,
+      "duration": 4.16,
+      "text": "you know, following this show since the"
+    },
+    {
+      "start": 164.08,
+      "duration": 6.12,
+      "text": "beginning. So you want to celebrate with"
+    },
+    {
+      "start": 166.52,
+      "duration": 6.0,
+      "text": "us the one year achievement. So for"
+    },
+    {
+      "start": 170.2,
+      "duration": 5.48,
+      "text": "today we have"
+    },
+    {
+      "start": 172.52,
+      "duration": 6.08,
+      "text": "another great guest. We have Farzad"
+    },
+    {
+      "start": 175.68,
+      "duration": 5.84,
+      "text": "from principal PM in the Korea team in"
+    },
+    {
+      "start": 178.6,
+      "duration": 6.48,
+      "text": "Microsoft who will unbox what's new in"
+    },
+    {
+      "start": 181.52,
+      "duration": 4.8,
+      "text": "Foundry IQ with with a great hands-on"
+    },
+    {
+      "start": 185.08,
+      "duration": 3.64,
+      "text": "demo."
+    },
+    {
+      "start": 186.32,
+      "duration": 4.4,
+      "text": "In in Microsoft Foundry."
+    },
+    {
+      "start": 188.72,
+      "duration": 4.04,
+      "text": "But before"
+    },
+    {
+      "start": 190.72,
+      "duration": 3.32,
+      "text": "you know, introducing our guest for"
+    },
+    {
+      "start": 192.76,
+      "duration": 3.32,
+      "text": "today"
+    },
+    {
+      "start": 194.04,
+      "duration": 7.28,
+      "text": "and going into kind of the tech"
+    },
+    {
+      "start": 196.08,
+      "duration": 9.0,
+      "text": "spotlight section, we have the usual"
+    },
+    {
+      "start": 201.32,
+      "duration": 6.92,
+      "text": "news highlights for the week"
+    },
+    {
+      "start": 205.08,
+      "duration": 6.56,
+      "text": "that have been"
+    },
+    {
+      "start": 208.24,
+      "duration": 5.48,
+      "text": "put together for us by my co-worker"
+    },
+    {
+      "start": 211.64,
+      "duration": 6.72,
+      "text": "Sharmila who who you know, most of you"
+    },
+    {
+      "start": 213.72,
+      "duration": 7.0,
+      "text": "are probably familiar with since she is"
+    },
+    {
+      "start": 218.36,
+      "duration": 4.28,
+      "text": "she's always on the show. So"
+    },
+    {
+      "start": 220.72,
+      "duration": 4.64,
+      "text": "let me roll out"
+    },
+    {
+      "start": 222.64,
+      "duration": 6.28,
+      "text": "video so we can have a look at the news"
+    },
+    {
+      "start": 225.36,
+      "duration": 3.56,
+      "text": "highlights for the week."
+    },
+    {
+      "start": 231.8,
+      "duration": 5.92,
+      "text": "Hello everyone and welcome to Model"
+    },
+    {
+      "start": 233.92,
+      "duration": 3.8,
+      "text": "Monday's news highlights."
+    },
+    {
+      "start": 238.12,
+      "duration": 2.64,
+      "text": "The first highlight of this week is"
+    },
+    {
+      "start": 240.39,
+      "duration": 1.13,
+      "text": ">> [clears throat]"
+    },
+    {
+      "start": 240.76,
+      "duration": 3.16,
+      "text": ">> a"
+    },
+    {
+      "start": 241.52,
+      "duration": 2.4,
+      "text": "new"
+    },
+    {
+      "start": 245.04,
+      "duration": 5.24,
+      "text": "big announcement that we made last week"
+    },
+    {
+      "start": 247.04,
+      "duration": 5.8,
+      "text": "around Fireworks AI being available in"
+    },
+    {
+      "start": 250.28,
+      "duration": 5.0,
+      "text": "Microsoft Foundry. And this is huge"
+    },
+    {
+      "start": 252.84,
+      "duration": 5.2,
+      "text": "because it gives developers access to"
+    },
+    {
+      "start": 255.28,
+      "duration": 5.04,
+      "text": "high-performance inference for all"
+    },
+    {
+      "start": 258.04,
+      "duration": 4.76,
+      "text": "popular open models directly from their"
+    },
+    {
+      "start": 260.32,
+      "duration": 4.96,
+      "text": "Foundry projects. So developers can run"
+    },
+    {
+      "start": 262.8,
+      "duration": 5.32,
+      "text": "models like Deep Seek, Kimmy, and other"
+    },
+    {
+      "start": 265.28,
+      "duration": 5.36,
+      "text": "frontier frontier open models with low"
+    },
+    {
+      "start": 268.12,
+      "duration": 4.76,
+      "text": "latency, serverless inference, or"
+    },
+    {
+      "start": 270.64,
+      "duration": 4.68,
+      "text": "provision throughput deployments."
+    },
+    {
+      "start": 272.88,
+      "duration": 4.88,
+      "text": "Even better, teams can deploy their own"
+    },
+    {
+      "start": 275.32,
+      "duration": 5.64,
+      "text": "fine-tuned versions of open models at"
+    },
+    {
+      "start": 277.76,
+      "duration": 6.04,
+      "text": "production scale, making Foundry an even"
+    },
+    {
+      "start": 280.96,
+      "duration": 6.32,
+      "text": "more flexible platform for building and"
+    },
+    {
+      "start": 283.8,
+      "duration": 5.48,
+      "text": "running AI systems. And this is a really"
+    },
+    {
+      "start": 287.28,
+      "duration": 4.24,
+      "text": "huge"
+    },
+    {
+      "start": 289.28,
+      "duration": 3.28,
+      "text": "announcement, especially in the light of"
+    },
+    {
+      "start": 291.52,
+      "duration": 2.8,
+      "text": "how"
+    },
+    {
+      "start": 292.56,
+      "duration": 4.88,
+      "text": "everyone wants to customize their own"
+    },
+    {
+      "start": 294.32,
+      "duration": 6.2,
+      "text": "models. So we're making it easier for"
+    },
+    {
+      "start": 297.44,
+      "duration": 4.24,
+      "text": "you to do that in Foundry."
+    },
+    {
+      "start": 300.52,
+      "duration": 3.84,
+      "text": "Moving on,"
+    },
+    {
+      "start": 301.68,
+      "duration": 5.96,
+      "text": "Microsoft introduced VALL-E Voice as"
+    },
+    {
+      "start": 304.36,
+      "duration": 6.0,
+      "text": "ASR, a new speech-to-text model designed"
+    },
+    {
+      "start": 307.64,
+      "duration": 4.84,
+      "text": "for long-form audio understanding. And"
+    },
+    {
+      "start": 310.36,
+      "duration": 4.96,
+      "text": "instead of breaking recordings into"
+    },
+    {
+      "start": 312.48,
+      "duration": 4.96,
+      "text": "short chunks, VALL-E Voice can process"
+    },
+    {
+      "start": 315.32,
+      "duration": 4.72,
+      "text": "up to 60 minutes of audio in a single"
+    },
+    {
+      "start": 317.44,
+      "duration": 5.4,
+      "text": "pass, producing structured scrap"
+    },
+    {
+      "start": 320.04,
+      "duration": 4.96,
+      "text": "transcripts that captures who spoke,"
+    },
+    {
+      "start": 322.84,
+      "duration": 4.6,
+      "text": "what they said, and when they said said"
+    },
+    {
+      "start": 325.0,
+      "duration": 4.96,
+      "text": "it. With multilingual support and"
+    },
+    {
+      "start": 327.44,
+      "duration": 4.8,
+      "text": "speaker tracking built in, it's designed"
+    },
+    {
+      "start": 329.96,
+      "duration": 6.04,
+      "text": "for real-world scenarios like meetings,"
+    },
+    {
+      "start": 332.24,
+      "duration": 6.68,
+      "text": "podcasts, and interviews."
+    },
+    {
+      "start": 336.0,
+      "duration": 4.4,
+      "text": "The third update is on Git is around"
+    },
+    {
+      "start": 338.92,
+      "duration": 3.64,
+      "text": "GitHub."
+    },
+    {
+      "start": 340.4,
+      "duration": 4.16,
+      "text": "So GitHub pulled back the curtain on the"
+    },
+    {
+      "start": 342.56,
+      "duration": 5.2,
+      "text": "security architecture that is powering"
+    },
+    {
+      "start": 344.56,
+      "duration": 5.96,
+      "text": "their agentic workflows. Because"
+    },
+    {
+      "start": 347.76,
+      "duration": 5.08,
+      "text": "AI agents can execute tasks and interact"
+    },
+    {
+      "start": 350.52,
+      "duration": 5.64,
+      "text": "with code repositories, the system is"
+    },
+    {
+      "start": 352.84,
+      "duration": 6.0,
+      "text": "designed around defense-in-depth"
+    },
+    {
+      "start": 356.16,
+      "duration": 4.88,
+      "text": "security, including isolation,"
+    },
+    {
+      "start": 358.84,
+      "duration": 5.24,
+      "text": "constrained outputs, and comprehensive"
+    },
+    {
+      "start": 361.04,
+      "duration": 6.24,
+      "text": "logging. The goal is to ensure AI agents"
+    },
+    {
+      "start": 364.08,
+      "duration": 4.72,
+      "text": "can automate development tasks safely"
+    },
+    {
+      "start": 367.28,
+      "duration": 3.84,
+      "text": "while protecting against prompt"
+    },
+    {
+      "start": 368.8,
+      "duration": 5.88,
+      "text": "injection, malicious tools, or"
+    },
+    {
+      "start": 371.12,
+      "duration": 3.56,
+      "text": "compromised environments."
+    },
+    {
+      "start": 374.88,
+      "duration": 3.72,
+      "text": "And"
+    },
+    {
+      "start": 376.12,
+      "duration": 5.64,
+      "text": "um the next thing is around what's new"
+    },
+    {
+      "start": 378.6,
+      "duration": 5.96,
+      "text": "in Microsoft Foundry, like a dev blog."
+    },
+    {
+      "start": 381.76,
+      "duration": 4.68,
+      "text": "So, if you go to our dev blogs, we every"
+    },
+    {
+      "start": 384.56,
+      "duration": 3.84,
+      "text": "month we have the what's new in"
+    },
+    {
+      "start": 386.44,
+      "duration": 4.76,
+      "text": "Microsoft Foundry, which is a"
+    },
+    {
+      "start": 388.4,
+      "duration": 4.2,
+      "text": "kind of a a roundup of all monthly"
+    },
+    {
+      "start": 391.2,
+      "duration": 3.08,
+      "text": "announcements that we have made. We"
+    },
+    {
+      "start": 392.6,
+      "duration": 2.8,
+      "text": "capture a lot of this in this Model"
+    },
+    {
+      "start": 394.28,
+      "duration": 3.68,
+      "text": "Mondays"
+    },
+    {
+      "start": 395.4,
+      "duration": 5.88,
+      "text": "um podcast, but then it's nice to see it"
+    },
+    {
+      "start": 397.96,
+      "duration": 5.44,
+      "text": "all in one place. And for Feb 2026, uh"
+    },
+    {
+      "start": 401.28,
+      "duration": 4.16,
+      "text": "we delivered a lot of improvements"
+    },
+    {
+      "start": 403.4,
+      "duration": 4.32,
+      "text": "across models, agents, and developer"
+    },
+    {
+      "start": 405.44,
+      "duration": 4.56,
+      "text": "tooling. Some of the highlights include"
+    },
+    {
+      "start": 407.72,
+      "duration": 4.4,
+      "text": "all the new reasoning models, updates to"
+    },
+    {
+      "start": 410.0,
+      "duration": 4.6,
+      "text": "the Microsoft Agent Framework, and"
+    },
+    {
+      "start": 412.12,
+      "duration": 5.28,
+      "text": "continued expansion of the Foundry model"
+    },
+    {
+      "start": 414.6,
+      "duration": 4.92,
+      "text": "catalog. And these updates are focused"
+    },
+    {
+      "start": 417.4,
+      "duration": 3.64,
+      "text": "on helping developers build more capable"
+    },
+    {
+      "start": 419.52,
+      "duration": 4.08,
+      "text": "AI agents and production-ready"
+    },
+    {
+      "start": 421.04,
+      "duration": 4.52,
+      "text": "applications. So, go ahead and take a"
+    },
+    {
+      "start": 423.6,
+      "duration": 3.68,
+      "text": "read of it if you just want like a dump"
+    },
+    {
+      "start": 425.56,
+      "duration": 2.96,
+      "text": "of all the things that happened in"
+    },
+    {
+      "start": 427.28,
+      "duration": 3.8,
+      "text": "Foundry"
+    },
+    {
+      "start": 428.52,
+      "duration": 4.92,
+      "text": "over the last month."
+    },
+    {
+      "start": 431.08,
+      "duration": 5.16,
+      "text": "And finally, I want to uh put a"
+    },
+    {
+      "start": 433.44,
+      "duration": 4.32,
+      "text": "spotlight on another podcast uh that"
+    },
+    {
+      "start": 436.24,
+      "duration": 4.6,
+      "text": "just kicked off. It's just called The"
+    },
+    {
+      "start": 437.76,
+      "duration": 5.28,
+      "text": "Shift Podcast, and it's from Microsoft,"
+    },
+    {
+      "start": 440.84,
+      "duration": 4.04,
+      "text": "and it explores the growing transition"
+    },
+    {
+      "start": 443.04,
+      "duration": 4.68,
+      "text": "to agentic AI."
+    },
+    {
+      "start": 444.88,
+      "duration": 4.6,
+      "text": "The So, systems that don't just answer"
+    },
+    {
+      "start": 447.72,
+      "duration": 4.0,
+      "text": "questions, but actually take action"
+    },
+    {
+      "start": 449.48,
+      "duration": 4.08,
+      "text": "across tools and workflows. And the"
+    },
+    {
+      "start": 451.72,
+      "duration": 5.04,
+      "text": "discussion here focuses on how"
+    },
+    {
+      "start": 453.56,
+      "duration": 5.96,
+      "text": "organizations are moving from isolated"
+    },
+    {
+      "start": 456.76,
+      "duration": 5.12,
+      "text": "AI copilots to autonomous multi-step"
+    },
+    {
+      "start": 459.52,
+      "duration": 6.44,
+      "text": "agents that can reason, plan, and"
+    },
+    {
+      "start": 461.88,
+      "duration": 6.2,
+      "text": "execute tasks across enterprise systems."
+    },
+    {
+      "start": 465.96,
+      "duration": 4.6,
+      "text": "So, the biggest takeaway is that next"
+    },
+    {
+      "start": 468.08,
+      "duration": 4.32,
+      "text": "phase of AI adoption is about agents"
+    },
+    {
+      "start": 470.56,
+      "duration": 4.36,
+      "text": "working alongside humans as"
+    },
+    {
+      "start": 472.4,
+      "duration": 4.6,
+      "text": "collaborators and not just assistants."
+    },
+    {
+      "start": 474.92,
+      "duration": 5.04,
+      "text": "And there are eight episodes that are"
+    },
+    {
+      "start": 477.0,
+      "duration": 8.04,
+      "text": "getting dropped. So, go take bookmark"
+    },
+    {
+      "start": 479.96,
+      "duration": 6.84,
+      "text": "this page and go take a listen."
+    },
+    {
+      "start": 485.04,
+      "duration": 4.2,
+      "text": "Moving on, uh"
+    },
+    {
+      "start": 486.8,
+      "duration": 5.28,
+      "text": "uh as usual we have our hugging face"
+    },
+    {
+      "start": 489.24,
+      "duration": 5.84,
+      "text": "updates. Um and in this week I already"
+    },
+    {
+      "start": 492.08,
+      "duration": 5.64,
+      "text": "talked about the Microsoft VIBE Voice"
+    },
+    {
+      "start": 495.08,
+      "duration": 5.12,
+      "text": "ASR which is available in Foundry"
+    },
+    {
+      "start": 497.72,
+      "duration": 6.16,
+      "text": "through Hugging Face. The next is"
+    },
+    {
+      "start": 500.2,
+      "duration": 5.64,
+      "text": "MiniMax M2.5 from MiniMax AI, a"
+    },
+    {
+      "start": 503.88,
+      "duration": 4.88,
+      "text": "large-scale agentic model built for"
+    },
+    {
+      "start": 505.84,
+      "duration": 5.12,
+      "text": "coding, tool use, and search. What"
+    },
+    {
+      "start": 508.76,
+      "duration": 4.96,
+      "text": "stands out here is efficiency across"
+    },
+    {
+      "start": 510.96,
+      "duration": 5.92,
+      "text": "long multi-phase tasks, things like"
+    },
+    {
+      "start": 513.72,
+      "duration": 4.16,
+      "text": "multi-file refactors or CI-gated code"
+    },
+    {
+      "start": 516.88,
+      "duration": 3.2,
+      "text": "changes."
+    },
+    {
+      "start": 517.88,
+      "duration": 5.28,
+      "text": "It plans before it acts, maintains"
+    },
+    {
+      "start": 520.08,
+      "duration": 6.28,
+      "text": "states across steps, and is designed for"
+    },
+    {
+      "start": 523.16,
+      "duration": 6.44,
+      "text": "autonomous engineering and productivity."
+    },
+    {
+      "start": 526.36,
+      "duration": 5.76,
+      "text": "And finally, Qwen 3.59 billion is the"
+    },
+    {
+      "start": 529.6,
+      "duration": 5.4,
+      "text": "largest model in the Qwen 3.5 small"
+    },
+    {
+      "start": 532.12,
+      "duration": 7.16,
+      "text": "series. And this one brings long context"
+    },
+    {
+      "start": 535.0,
+      "duration": 6.72,
+      "text": "multi-modal reasoning up to 262,000"
+    },
+    {
+      "start": 539.28,
+      "duration": 4.92,
+      "text": "tokens onto consumer-grade hardware."
+    },
+    {
+      "start": 541.72,
+      "duration": 4.68,
+      "text": "It's open Apache 2 license and"
+    },
+    {
+      "start": 544.2,
+      "duration": 5.28,
+      "text": "well-suited for analyzing long"
+    },
+    {
+      "start": 546.4,
+      "duration": 5.96,
+      "text": "documents, large code bases, or mixed"
+    },
+    {
+      "start": 549.48,
+      "duration": 5.08,
+      "text": "image-text inputs without chunking."
+    },
+    {
+      "start": 552.36,
+      "duration": 3.8,
+      "text": "Together, all these models show where"
+    },
+    {
+      "start": 554.56,
+      "duration": 4.16,
+      "text": "things are heading in terms of long"
+    },
+    {
+      "start": 556.16,
+      "duration": 5.72,
+      "text": "context, fewer hand-offs, and models"
+    },
+    {
+      "start": 558.72,
+      "duration": 5.52,
+      "text": "that can reason across entire workflows."
+    },
+    {
+      "start": 561.88,
+      "duration": 4.64,
+      "text": "So, you can explore and deploy all these"
+    },
+    {
+      "start": 564.24,
+      "duration": 5.0,
+      "text": "models in Microsoft Foundry"
+    },
+    {
+      "start": 566.52,
+      "duration": 5.12,
+      "text": "through the Hugging Face collection."
+    },
+    {
+      "start": 569.24,
+      "duration": 4.44,
+      "text": "So, that brings us to a wrap of all the"
+    },
+    {
+      "start": 571.64,
+      "duration": 4.96,
+      "text": "weekly highlights. I also want to kind"
+    },
+    {
+      "start": 573.68,
+      "duration": 4.96,
+      "text": "of point out that today it is NVIDIA GTC"
+    },
+    {
+      "start": 576.6,
+      "duration": 4.04,
+      "text": "and we are dropping a lot of"
+    },
+    {
+      "start": 578.64,
+      "duration": 3.24,
+      "text": "announcements in collaboration with"
+    },
+    {
+      "start": 580.64,
+      "duration": 3.6,
+      "text": "NVIDIA."
+    },
+    {
+      "start": 581.88,
+      "duration": 4.88,
+      "text": "Uh please keep a eye out for it. And"
+    },
+    {
+      "start": 584.24,
+      "duration": 5.36,
+      "text": "next week, on the Model Mondays episode,"
+    },
+    {
+      "start": 586.76,
+      "duration": 6.16,
+      "text": "I will be talking a lot of the NVIDIA"
+    },
+    {
+      "start": 589.6,
+      "duration": 6.56,
+      "text": "GTC announcements that we made. Thank"
+    },
+    {
+      "start": 592.92,
+      "duration": 6.6,
+      "text": "you, and handing it back to"
+    },
+    {
+      "start": 596.16,
+      "duration": 3.36,
+      "text": "back to the team. Bye."
+    },
+    {
+      "start": 600.24,
+      "duration": 4.84,
+      "text": "Great. Thanks, Sharmila, for this uh"
+    },
+    {
+      "start": 602.6,
+      "duration": 5.04,
+      "text": "great weekly um"
+    },
+    {
+      "start": 605.08,
+      "duration": 4.8,
+      "text": "news recap. As as always, always very"
+    },
+    {
+      "start": 607.64,
+      "duration": 4.68,
+      "text": "helpful and very interesting."
+    },
+    {
+      "start": 609.88,
+      "duration": 6.08,
+      "text": "Uh and uh we're looking forward for, you"
+    },
+    {
+      "start": 612.32,
+      "duration": 6.04,
+      "text": "know, uh she she she is at NVIDIA GTC,"
+    },
+    {
+      "start": 615.96,
+      "duration": 5.16,
+      "text": "so we're looking forward to what she is"
+    },
+    {
+      "start": 618.36,
+      "duration": 5.12,
+      "text": "uh going to bring to Model Mondays next"
+    },
+    {
+      "start": 621.12,
+      "duration": 4.92,
+      "text": "week from, uh you know, insights from"
+    },
+    {
+      "start": 623.48,
+      "duration": 4.32,
+      "text": "the event. Um and we're living exciting"
+    },
+    {
+      "start": 626.04,
+      "duration": 4.56,
+      "text": "times where, you know, this incredible"
+    },
+    {
+      "start": 627.8,
+      "duration": 6.56,
+      "text": "pace of innovation each week. Okay, let"
+    },
+    {
+      "start": 630.6,
+      "duration": 6.12,
+      "text": "let's move to our next section. Uh and"
+    },
+    {
+      "start": 634.36,
+      "duration": 6.88,
+      "text": "and by the way, I've seen uh a question"
+    },
+    {
+      "start": 636.72,
+      "duration": 7.32,
+      "text": "from the chat um about um"
+    },
+    {
+      "start": 641.24,
+      "duration": 6.56,
+      "text": "VIVE Focus. Uh is VIVE Focus available"
+    },
+    {
+      "start": 644.04,
+      "duration": 6.12,
+      "text": "as a service? Um so, yes, it is. So,"
+    },
+    {
+      "start": 647.8,
+      "duration": 4.04,
+      "text": "it's it's model that you can basically"
+    },
+    {
+      "start": 650.16,
+      "duration": 3.48,
+      "text": "use um"
+    },
+    {
+      "start": 651.84,
+      "duration": 3.76,
+      "text": "you can deploy your"
+    },
+    {
+      "start": 653.64,
+      "duration": 2.52,
+      "text": "uh subscription um"
+    },
+    {
+      "start": 655.6,
+      "duration": 2.48,
+      "text": "uh"
+    },
+    {
+      "start": 656.16,
+      "duration": 4.24,
+      "text": "within Microsoft Foundry. And thanks,"
+    },
+    {
+      "start": 658.08,
+      "duration": 5.72,
+      "text": "Anita, for posting uh some additional"
+    },
+    {
+      "start": 660.4,
+      "duration": 6.12,
+      "text": "resources about uh VIVE Focus. So,"
+    },
+    {
+      "start": 663.8,
+      "duration": 5.72,
+      "text": "uh I'm looking forward to to test it. Um"
+    },
+    {
+      "start": 666.52,
+      "duration": 5.28,
+      "text": "okay, so um let's move on with our next"
+    },
+    {
+      "start": 669.52,
+      "duration": 3.56,
+      "text": "section. Uh and keep your questions"
+    },
+    {
+      "start": 671.8,
+      "duration": 2.56,
+      "text": "coming"
+    },
+    {
+      "start": 673.08,
+      "duration": 5.96,
+      "text": "uh because, you know, we're going to"
+    },
+    {
+      "start": 674.36,
+      "duration": 6.64,
+      "text": "have a Q&A uh with our guest as well."
+    },
+    {
+      "start": 679.04,
+      "duration": 5.08,
+      "text": "So, we want this to be"
+    },
+    {
+      "start": 681.0,
+      "duration": 5.48,
+      "text": "um as interactive as possible. Um"
+    },
+    {
+      "start": 684.12,
+      "duration": 5.68,
+      "text": "so, we're going to cover now what's new"
+    },
+    {
+      "start": 686.48,
+      "duration": 7.08,
+      "text": "in Foundry IQ. And for that, I'm pleased"
+    },
+    {
+      "start": 689.8,
+      "duration": 7.4,
+      "text": "to welcome on stage our guest uh Farzad,"
+    },
+    {
+      "start": 693.56,
+      "duration": 5.92,
+      "text": "um principal PM at Core AI in Microsoft."
+    },
+    {
+      "start": 697.2,
+      "duration": 4.76,
+      "text": "Hi Farzad, how are you doing?"
+    },
+    {
+      "start": 699.48,
+      "duration": 5.24,
+      "text": "Hey Coral, thanks for having me."
+    },
+    {
+      "start": 701.96,
+      "duration": 4.28,
+      "text": "Sure. Um I'm I'm pleased to have you"
+    },
+    {
+      "start": 704.72,
+      "duration": 3.34,
+      "text": "here. So do you want to introduce a bit"
+    },
+    {
+      "start": 706.24,
+      "duration": 2.28,
+      "text": "your role in Microsoft?"
+    },
+    {
+      "start": 708.06,
+      "duration": 2.42,
+      "text": ">> [snorts]"
+    },
+    {
+      "start": 708.52,
+      "duration": 5.08,
+      "text": ">> Yeah, sure. Uh everybody, my name is"
+    },
+    {
+      "start": 710.48,
+      "duration": 5.24,
+      "text": "Farzad. I'm a uh principal PM uh working"
+    },
+    {
+      "start": 713.6,
+      "duration": 3.68,
+      "text": "on Foundry AI Q and Azure AI Search and"
+    },
+    {
+      "start": 715.72,
+      "duration": 3.24,
+      "text": "all things kind of rag and knowledge"
+    },
+    {
+      "start": 717.28,
+      "duration": 5.08,
+      "text": "retrieval related."
+    },
+    {
+      "start": 718.96,
+      "duration": 5.68,
+      "text": "Exciting. Um so at this point I would"
+    },
+    {
+      "start": 722.36,
+      "duration": 5.12,
+      "text": "say uh let let's start with you know"
+    },
+    {
+      "start": 724.64,
+      "duration": 4.4,
+      "text": "very simple question. What is Foundry AI"
+    },
+    {
+      "start": 727.48,
+      "duration": 3.4,
+      "text": "Q?"
+    },
+    {
+      "start": 729.04,
+      "duration": 4.2,
+      "text": "Great question. It's often one I hear a"
+    },
+    {
+      "start": 730.88,
+      "duration": 4.76,
+      "text": "lot nowadays over the past few months."
+    },
+    {
+      "start": 733.24,
+      "duration": 4.56,
+      "text": "So Foundry AI Q is really about giving"
+    },
+    {
+      "start": 735.64,
+      "duration": 3.36,
+      "text": "your AI agents or models uh for this"
+    },
+    {
+      "start": 737.8,
+      "duration": 3.64,
+      "text": "audience, I know models are very"
+    },
+    {
+      "start": 739.0,
+      "duration": 4.36,
+      "text": "popular, really about giving your models"
+    },
+    {
+      "start": 741.44,
+      "duration": 3.64,
+      "text": "uh instant access to your enterprise"
+    },
+    {
+      "start": 743.36,
+      "duration": 4.12,
+      "text": "knowledge. And so whether that's"
+    },
+    {
+      "start": 745.08,
+      "duration": 4.64,
+      "text": "documents, web, unstructured data,"
+    },
+    {
+      "start": 747.48,
+      "duration": 5.04,
+      "text": "semi-structured data, structured data,"
+    },
+    {
+      "start": 749.72,
+      "duration": 5.32,
+      "text": "all data and maybe M365, SharePoint,"
+    },
+    {
+      "start": 752.52,
+      "duration": 5.96,
+      "text": "Fabric, wherever it is through a single"
+    },
+    {
+      "start": 755.04,
+      "duration": 5.04,
+      "text": "secure enterprise grade API. Uh really"
+    },
+    {
+      "start": 758.48,
+      "duration": 3.8,
+      "text": "just unlocking all that enterprise"
+    },
+    {
+      "start": 760.08,
+      "duration": 4.04,
+      "text": "knowledge with a built-in agentic"
+    },
+    {
+      "start": 762.28,
+      "duration": 4.08,
+      "text": "retrieval engine under the hood for"
+    },
+    {
+      "start": 764.12,
+      "duration": 4.56,
+      "text": "powering the most advanced retrieval"
+    },
+    {
+      "start": 766.36,
+      "duration": 5.64,
+      "text": "augmented generation scenarios in order"
+    },
+    {
+      "start": 768.68,
+      "duration": 7.16,
+      "text": "to ground your language models or agents"
+    },
+    {
+      "start": 772.0,
+      "duration": 3.84,
+      "text": "with your own enterprise context."
+    },
+    {
+      "start": 778.32,
+      "duration": 4.8,
+      "text": "Great. Thanks Farzad for for this kind"
+    },
+    {
+      "start": 780.56,
+      "duration": 4.12,
+      "text": "of overview. Uh so maybe I know we have"
+    },
+    {
+      "start": 783.12,
+      "duration": 4.8,
+      "text": "another couple of slides, so maybe we"
+    },
+    {
+      "start": 784.68,
+      "duration": 5.92,
+      "text": "can deep dive a bit on the layers and"
+    },
+    {
+      "start": 787.92,
+      "duration": 4.32,
+      "text": "components of Foundry AI Q."
+    },
+    {
+      "start": 790.6,
+      "duration": 2.72,
+      "text": "Yeah, let's do it. So I really love this"
+    },
+    {
+      "start": 792.24,
+      "duration": 3.68,
+      "text": "slide because I think it really"
+    },
+    {
+      "start": 793.32,
+      "duration": 4.72,
+      "text": "highlights uh the entire Foundry AI Q"
+    },
+    {
+      "start": 795.92,
+      "duration": 4.2,
+      "text": "suite. So as I mentioned, Foundry AI Q"
+    },
+    {
+      "start": 798.04,
+      "duration": 5.04,
+      "text": "is really this investment uh from from"
+    },
+    {
+      "start": 800.12,
+      "duration": 4.76,
+      "text": "Microsoft in a knowledge layer for your"
+    },
+    {
+      "start": 803.08,
+      "duration": 3.12,
+      "text": "agents, right? So at the end of the day"
+    },
+    {
+      "start": 804.88,
+      "duration": 4.0,
+      "text": "to get the most value out of your"
+    },
+    {
+      "start": 806.2,
+      "duration": 4.2,
+      "text": "language models, uh and AI agents that"
+    },
+    {
+      "start": 808.88,
+      "duration": 3.6,
+      "text": "you may be building."
+    },
+    {
+      "start": 810.4,
+      "duration": 4.12,
+      "text": "In order to really do that, you need a"
+    },
+    {
+      "start": 812.48,
+      "duration": 4.32,
+      "text": "really robust knowledge retrieval layer,"
+    },
+    {
+      "start": 814.52,
+      "duration": 4.44,
+      "text": "right? Or in other words,"
+    },
+    {
+      "start": 816.8,
+      "duration": 4.28,
+      "text": "some sort of suite of products or APIs"
+    },
+    {
+      "start": 818.96,
+      "duration": 4.32,
+      "text": "or services that can perform retrieval"
+    },
+    {
+      "start": 821.08,
+      "duration": 4.2,
+      "text": "augmented generation, which is"
+    },
+    {
+      "start": 823.28,
+      "duration": 4.84,
+      "text": "effectively the the rack pattern, which"
+    },
+    {
+      "start": 825.28,
+      "duration": 5.16,
+      "text": "gives language models"
+    },
+    {
+      "start": 828.12,
+      "duration": 4.44,
+      "text": "access to to your data or your context."
+    },
+    {
+      "start": 830.44,
+      "duration": 4.12,
+      "text": "And so inside of Foundry IQ, as you can"
+    },
+    {
+      "start": 832.56,
+      "duration": 4.6,
+      "text": "see here, we support a variety of"
+    },
+    {
+      "start": 834.56,
+      "duration": 4.2,
+      "text": "different out of the box sources. So"
+    },
+    {
+      "start": 837.16,
+      "duration": 4.28,
+      "text": "we'll show a quick demo of this in a"
+    },
+    {
+      "start": 838.76,
+      "duration": 4.52,
+      "text": "bit, but data from Fabric, Microsoft"
+    },
+    {
+      "start": 841.44,
+      "duration": 3.84,
+      "text": "OneLake. If you're I love OneLake cuz if"
+    },
+    {
+      "start": 843.28,
+      "duration": 4.12,
+      "text": "you're shortcutting and mirroring from"
+    },
+    {
+      "start": 845.28,
+      "duration": 3.68,
+      "text": "maybe other clouds or services, it makes"
+    },
+    {
+      "start": 847.4,
+      "duration": 4.48,
+      "text": "it really really easy to ground your"
+    },
+    {
+      "start": 848.96,
+      "duration": 4.88,
+      "text": "agents inside of Microsoft Foundry."
+    },
+    {
+      "start": 851.88,
+      "duration": 3.4,
+      "text": "And then existing Azure AI search"
+    },
+    {
+      "start": 853.84,
+      "duration": 3.2,
+      "text": "customers, if you have your vector"
+    },
+    {
+      "start": 855.28,
+      "duration": 4.0,
+      "text": "indexes, it's a very popular product"
+    },
+    {
+      "start": 857.04,
+      "duration": 4.8,
+      "text": "inside of Microsoft Azure, you can also"
+    },
+    {
+      "start": 859.28,
+      "duration": 3.88,
+      "text": "use this as part of Foundry IQ. And then"
+    },
+    {
+      "start": 861.84,
+      "duration": 3.32,
+      "text": "of course,"
+    },
+    {
+      "start": 863.16,
+      "duration": 4.56,
+      "text": "a lot of data sits inside the M365"
+    },
+    {
+      "start": 865.16,
+      "duration": 4.84,
+      "text": "ecosystem. So if you have"
+    },
+    {
+      "start": 867.72,
+      "duration": 3.8,
+      "text": "Office documents, your in SharePoint,"
+    },
+    {
+      "start": 870.0,
+      "duration": 3.52,
+      "text": "your PDFs, your your your Word"
+    },
+    {
+      "start": 871.52,
+      "duration": 3.56,
+      "text": "documents, your Excel files, we also"
+    },
+    {
+      "start": 873.52,
+      "duration": 4.8,
+      "text": "have native grounding capabilities"
+    },
+    {
+      "start": 875.08,
+      "duration": 6.12,
+      "text": "directly through M365. And then also, we"
+    },
+    {
+      "start": 878.32,
+      "duration": 5.12,
+      "text": "we now support Bing web search. So if"
+    },
+    {
+      "start": 881.2,
+      "duration": 4.36,
+      "text": "you want to give your models or agents"
+    },
+    {
+      "start": 883.44,
+      "duration": 4.28,
+      "text": "access to the web, we also support that"
+    },
+    {
+      "start": 885.56,
+      "duration": 6.16,
+      "text": "now. And then additionally, we also"
+    },
+    {
+      "start": 887.72,
+      "duration": 5.68,
+      "text": "support MCP or model context protocol as"
+    },
+    {
+      "start": 891.72,
+      "duration": 4.88,
+      "text": "a native knowledge source inside of"
+    },
+    {
+      "start": 893.4,
+      "duration": 5.16,
+      "text": "Foundry IQ. So if you have custom 3P"
+    },
+    {
+      "start": 896.6,
+      "duration": 4.16,
+      "text": "business applications or non-Microsoft"
+    },
+    {
+      "start": 898.56,
+      "duration": 4.56,
+      "text": "sources that may be"
+    },
+    {
+      "start": 900.76,
+      "duration": 4.6,
+      "text": "MCP server head compatible, you can also"
+    },
+    {
+      "start": 903.12,
+      "duration": 4.12,
+      "text": "now natively connect those as well. And"
+    },
+    {
+      "start": 905.36,
+      "duration": 3.68,
+      "text": "so I talked a lot about these different"
+    },
+    {
+      "start": 907.24,
+      "duration": 4.52,
+      "text": "knowledge sources, but within Foundry"
+    },
+    {
+      "start": 909.04,
+      "duration": 5.16,
+      "text": "IQ, the main goal we want is for users"
+    },
+    {
+      "start": 911.76,
+      "duration": 4.88,
+      "text": "to really try and replicate their entire"
+    },
+    {
+      "start": 914.2,
+      "duration": 3.24,
+      "text": "knowledge domain. So how can you make an"
+    },
+    {
+      "start": 916.64,
+      "duration": 3.0,
+      "text": "AI"
+    },
+    {
+      "start": 917.44,
+      "duration": 5.44,
+      "text": "AI agent or language model as"
+    },
+    {
+      "start": 919.64,
+      "duration": 5.76,
+      "text": "intelligent as your best employee,"
+    },
+    {
+      "start": 922.88,
+      "duration": 5.08,
+      "text": "or someone who has really, really deep"
+    },
+    {
+      "start": 925.4,
+      "duration": 4.56,
+      "text": "subject matter expertise in a given"
+    },
+    {
+      "start": 927.96,
+      "duration": 4.4,
+      "text": "domain. So, with that, we created this"
+    },
+    {
+      "start": 929.96,
+      "duration": 4.76,
+      "text": "notion, this primitive inside of Foundry"
+    },
+    {
+      "start": 932.36,
+      "duration": 4.88,
+      "text": "IQ, which is built on top of Azure AI"
+    },
+    {
+      "start": 934.72,
+      "duration": 4.44,
+      "text": "Search's resource API, this concept of"
+    },
+    {
+      "start": 937.24,
+      "duration": 3.92,
+      "text": "knowledge bases. So, this knowledge"
+    },
+    {
+      "start": 939.16,
+      "duration": 3.76,
+      "text": "bases is really just this collection of"
+    },
+    {
+      "start": 941.16,
+      "duration": 3.72,
+      "text": "different knowledge sources with some of"
+    },
+    {
+      "start": 942.92,
+      "duration": 3.76,
+      "text": "the examples that I mentioned earlier."
+    },
+    {
+      "start": 944.88,
+      "duration": 4.56,
+      "text": "Within these knowledge sources, there's"
+    },
+    {
+      "start": 946.68,
+      "duration": 6.6,
+      "text": "two different types. It could be indexed"
+    },
+    {
+      "start": 949.44,
+      "duration": 5.72,
+      "text": "or synced as as as some people like like"
+    },
+    {
+      "start": 953.28,
+      "duration": 4.48,
+      "text": "to use, which is effectively how you can"
+    },
+    {
+      "start": 955.16,
+      "duration": 5.52,
+      "text": "create this this index or copy of your"
+    },
+    {
+      "start": 957.76,
+      "duration": 5.12,
+      "text": "underlying data and doing some advanced"
+    },
+    {
+      "start": 960.68,
+      "duration": 4.4,
+      "text": "techniques under the hood like"
+    },
+    {
+      "start": 962.88,
+      "duration": 4.2,
+      "text": "parsing if it's unstructured data using"
+    },
+    {
+      "start": 965.08,
+      "duration": 4.96,
+      "text": "tools like Azure Document Intelligence"
+    },
+    {
+      "start": 967.08,
+      "duration": 6.12,
+      "text": "or content understanding"
+    },
+    {
+      "start": 970.04,
+      "duration": 5.04,
+      "text": "that has has good context of OCR models"
+    },
+    {
+      "start": 973.2,
+      "duration": 4.8,
+      "text": "to really understand how your"
+    },
+    {
+      "start": 975.08,
+      "duration": 4.8,
+      "text": "unstructured data has tables, figures,"
+    },
+    {
+      "start": 978.0,
+      "duration": 3.72,
+      "text": "embedded images, charts, all that all"
+    },
+    {
+      "start": 979.88,
+      "duration": 3.68,
+      "text": "that fancy stuff."
+    },
+    {
+      "start": 981.72,
+      "duration": 4.8,
+      "text": "Vectorize it, chunk it, and then put it"
+    },
+    {
+      "start": 983.56,
+      "duration": 5.84,
+      "text": "in a nice clean format that's very LLM"
+    },
+    {
+      "start": 986.52,
+      "duration": 4.6,
+      "text": "friendly for for for grounding time. And"
+    },
+    {
+      "start": 989.4,
+      "duration": 3.88,
+      "text": "then we also have this notion of remote"
+    },
+    {
+      "start": 991.12,
+      "duration": 4.48,
+      "text": "sources. So, this effectively is, \"Hey,"
+    },
+    {
+      "start": 993.28,
+      "duration": 4.04,
+      "text": "I have all my data already sitting in a"
+    },
+    {
+      "start": 995.6,
+      "duration": 4.32,
+      "text": "very, very large ecosystem.\" In this"
+    },
+    {
+      "start": 997.32,
+      "duration": 4.24,
+      "text": "case, maybe M365 SharePoint. And so, we"
+    },
+    {
+      "start": 999.92,
+      "duration": 3.0,
+      "text": "actually partnered with them 365"
+    },
+    {
+      "start": 1001.56,
+      "duration": 3.08,
+      "text": "SharePoint Teams actually have a"
+    },
+    {
+      "start": 1002.92,
+      "duration": 3.52,
+      "text": "SharePoint remote knowledge source, for"
+    },
+    {
+      "start": 1004.64,
+      "duration": 4.84,
+      "text": "example, where we effectively just"
+    },
+    {
+      "start": 1006.44,
+      "duration": 4.6,
+      "text": "called the M365 Copilot Retrieval API."
+    },
+    {
+      "start": 1009.48,
+      "duration": 3.48,
+      "text": "So, we have this different funnel of"
+    },
+    {
+      "start": 1011.04,
+      "duration": 3.64,
+      "text": "indexed and remote remote sources. So,"
+    },
+    {
+      "start": 1012.96,
+      "duration": 3.2,
+      "text": "depending upon your business need, you"
+    },
+    {
+      "start": 1014.68,
+      "duration": 3.36,
+      "text": "could also choose which route you may"
+    },
+    {
+      "start": 1016.16,
+      "duration": 3.76,
+      "text": "want to take. And then what good is all"
+    },
+    {
+      "start": 1018.04,
+      "duration": 4.52,
+      "text": "this sources if you don't have some sort"
+    },
+    {
+      "start": 1019.92,
+      "duration": 4.6,
+      "text": "of agentic retrieval engine under the"
+    },
+    {
+      "start": 1022.56,
+      "duration": 3.48,
+      "text": "hood. So, I'll show a couple examples of"
+    },
+    {
+      "start": 1024.52,
+      "duration": 3.84,
+      "text": "this on the next slide, but this"
+    },
+    {
+      "start": 1026.04,
+      "duration": 4.64,
+      "text": "effectively is a is a notion of a lot of"
+    },
+    {
+      "start": 1028.36,
+      "duration": 4.28,
+      "text": "customers are asking very, very complex"
+    },
+    {
+      "start": 1030.68,
+      "duration": 4.16,
+      "text": "questions to their language models. And"
+    },
+    {
+      "start": 1032.64,
+      "duration": 3.76,
+      "text": "so, in this case, you can see I was"
+    },
+    {
+      "start": 1034.84,
+      "duration": 4.8,
+      "text": "I'm an I'm an by background, so I'm a"
+    },
+    {
+      "start": 1036.4,
+      "duration": 5.72,
+      "text": "huge, uh, mechanic nerd. And so, uh, in"
+    },
+    {
+      "start": 1039.64,
+      "duration": 3.8,
+      "text": "this example, I would look to, uh, a"
+    },
+    {
+      "start": 1042.12,
+      "duration": 2.48,
+      "text": "question that I would ask. I was"
+    },
+    {
+      "start": 1043.44,
+      "duration": 3.72,
+      "text": "actually troubleshooting my car the"
+    },
+    {
+      "start": 1044.6,
+      "duration": 4.6,
+      "text": "other day, and I was trying to surface a"
+    },
+    {
+      "start": 1047.16,
+      "duration": 3.84,
+      "text": "language model that was grounded in a"
+    },
+    {
+      "start": 1049.2,
+      "duration": 3.72,
+      "text": "technical manual. And I was asking a"
+    },
+    {
+      "start": 1051.0,
+      "duration": 3.92,
+      "text": "very, very long question to this"
+    },
+    {
+      "start": 1052.92,
+      "duration": 4.28,
+      "text": "language model, and I realized that it"
+    },
+    {
+      "start": 1054.92,
+      "duration": 3.96,
+      "text": "actually needed context from not just"
+    },
+    {
+      "start": 1057.2,
+      "duration": 3.12,
+      "text": "technical manuals, but some parts were"
+    },
+    {
+      "start": 1058.88,
+      "duration": 3.52,
+      "text": "on the web, some parts were in a"
+    },
+    {
+      "start": 1060.32,
+      "duration": 4.08,
+      "text": "separate database, and some part was on"
+    },
+    {
+      "start": 1062.4,
+      "duration": 4.32,
+      "text": "this PDF technical manual. And so, this"
+    },
+    {
+      "start": 1064.4,
+      "duration": 4.72,
+      "text": "agenty rag engine really decom-"
+    },
+    {
+      "start": 1066.72,
+      "duration": 5.0,
+      "text": "decomposes and plans a query against"
+    },
+    {
+      "start": 1069.12,
+      "duration": 4.68,
+      "text": "this Foundry IQ knowledge base, selects"
+    },
+    {
+      "start": 1071.72,
+      "duration": 4.84,
+      "text": "the different sources, and then also has"
+    },
+    {
+      "start": 1073.8,
+      "duration": 4.36,
+      "text": "built-in reflection and evaluation. And,"
+    },
+    {
+      "start": 1076.56,
+      "duration": 4.08,
+      "text": "as I mentioned before, it has this"
+    },
+    {
+      "start": 1078.16,
+      "duration": 4.6,
+      "text": "agenty element to it, where in the event"
+    },
+    {
+      "start": 1080.64,
+      "duration": 4.28,
+      "text": "that it retrieves, you know, maybe not"
+    },
+    {
+      "start": 1082.76,
+      "duration": 4.32,
+      "text": "the best context, the reflection"
+    },
+    {
+      "start": 1084.92,
+      "duration": 4.8,
+      "text": "actually then plans another query, and"
+    },
+    {
+      "start": 1087.08,
+      "duration": 5.24,
+      "text": "it keeps on iterating based upon it has"
+    },
+    {
+      "start": 1089.72,
+      "duration": 5.52,
+      "text": "enough context in order to to to ground"
+    },
+    {
+      "start": 1092.32,
+      "duration": 4.68,
+      "text": "your LLM or agent most effectively. And"
+    },
+    {
+      "start": 1095.24,
+      "duration": 3.2,
+      "text": "so, that's Foundry IQ's agenty rag"
+    },
+    {
+      "start": 1097.0,
+      "duration": 3.96,
+      "text": "engine."
+    },
+    {
+      "start": 1098.44,
+      "duration": 5.12,
+      "text": "It's impressive to see how rag pattern"
+    },
+    {
+      "start": 1100.96,
+      "duration": 4.0,
+      "text": "have changed from, you know, since 2"
+    },
+    {
+      "start": 1103.56,
+      "duration": 4.24,
+      "text": "years ago,"
+    },
+    {
+      "start": 1104.96,
+      "duration": 5.44,
+      "text": "when we kind of,"
+    },
+    {
+      "start": 1107.8,
+      "duration": 5.56,
+      "text": "you know, built a rag pattern for a"
+    },
+    {
+      "start": 1110.4,
+      "duration": 6.12,
+      "text": "single agent, and now we are more"
+    },
+    {
+      "start": 1113.36,
+      "duration": 6.2,
+      "text": "focused on, you know, as you said,"
+    },
+    {
+      "start": 1116.52,
+      "duration": 6.52,
+      "text": "creating kind of a knowledge base for"
+    },
+    {
+      "start": 1119.56,
+      "duration": 5.84,
+      "text": "the whole company. So, you know, the the"
+    },
+    {
+      "start": 1123.04,
+      "duration": 5.56,
+      "text": "whole agenty fleet of"
+    },
+    {
+      "start": 1125.4,
+      "duration": 5.48,
+      "text": "my company can kind of share"
+    },
+    {
+      "start": 1128.6,
+      "duration": 3.76,
+      "text": "this knowledge, which pull from"
+    },
+    {
+      "start": 1130.88,
+      "duration": 3.6,
+      "text": "different,"
+    },
+    {
+      "start": 1132.36,
+      "duration": 5.16,
+      "text": "remote sources."
+    },
+    {
+      "start": 1134.48,
+      "duration": 4.24,
+      "text": "And then we have agenty rag, so,"
+    },
+    {
+      "start": 1137.52,
+      "duration": 3.72,
+      "text": "yeah,"
+    },
+    {
+      "start": 1138.72,
+      "duration": 5.48,
+      "text": "it's really impressive how"
+    },
+    {
+      "start": 1141.24,
+      "duration": 5.68,
+      "text": "how different and advanced is rag now"
+    },
+    {
+      "start": 1144.2,
+      "duration": 4.96,
+      "text": "with respect to, you know, only a couple"
+    },
+    {
+      "start": 1146.92,
+      "duration": 4.52,
+      "text": "of years ago, maybe less."
+    },
+    {
+      "start": 1149.16,
+      "duration": 4.04,
+      "text": "Huge thanks for that for for this"
+    },
+    {
+      "start": 1151.44,
+      "duration": 4.44,
+      "text": "overview. I know we have a question in"
+    },
+    {
+      "start": 1153.2,
+      "duration": 5.2,
+      "text": "the chat, but I just want to roll out"
+    },
+    {
+      "start": 1155.88,
+      "duration": 5.64,
+      "text": "your demo if you agree and then we can"
+    },
+    {
+      "start": 1158.4,
+      "duration": 5.04,
+      "text": "have a chat and ask a few a few"
+    },
+    {
+      "start": 1161.52,
+      "duration": 3.28,
+      "text": "additional questions."
+    },
+    {
+      "start": 1163.44,
+      "duration": 3.56,
+      "text": "Yeah, let's do it."
+    },
+    {
+      "start": 1164.8,
+      "duration": 4.32,
+      "text": "Let's go ahead."
+    },
+    {
+      "start": 1167.0,
+      "duration": 4.08,
+      "text": "Welcome to Microsoft Foundry. In this"
+    },
+    {
+      "start": 1169.12,
+      "duration": 4.6,
+      "text": "video, I'm going to show you how to use"
+    },
+    {
+      "start": 1171.08,
+      "duration": 4.68,
+      "text": "Foundry IQ. You can start by going to"
+    },
+    {
+      "start": 1173.72,
+      "duration": 4.12,
+      "text": "ar.azure.com."
+    },
+    {
+      "start": 1175.76,
+      "duration": 4.64,
+      "text": "Go ahead and select one of your Foundry"
+    },
+    {
+      "start": 1177.84,
+      "duration": 4.56,
+      "text": "projects. You can select one over here"
+    },
+    {
+      "start": 1180.4,
+      "duration": 3.92,
+      "text": "or create a new project. Once you're"
+    },
+    {
+      "start": 1182.4,
+      "duration": 4.12,
+      "text": "inside of a Foundry project, you want to"
+    },
+    {
+      "start": 1184.32,
+      "duration": 4.12,
+      "text": "get started by clicking the build tab."
+    },
+    {
+      "start": 1186.52,
+      "duration": 3.92,
+      "text": "You can see here you'll land on your"
+    },
+    {
+      "start": 1188.44,
+      "duration": 3.96,
+      "text": "agent dashboard. You can see a bunch of"
+    },
+    {
+      "start": 1190.44,
+      "duration": 4.24,
+      "text": "different agents. To get started with"
+    },
+    {
+      "start": 1192.4,
+      "duration": 4.2,
+      "text": "Foundry IQ, you can either get started"
+    },
+    {
+      "start": 1194.68,
+      "duration": 3.72,
+      "text": "first by clicking the knowledge tab and"
+    },
+    {
+      "start": 1196.6,
+      "duration": 4.92,
+      "text": "adding some knowledge bases or"
+    },
+    {
+      "start": 1198.4,
+      "duration": 6.44,
+      "text": "alternatively, you can go into an agent,"
+    },
+    {
+      "start": 1201.52,
+      "duration": 5.88,
+      "text": "click the knowledge tab, click add,"
+    },
+    {
+      "start": 1204.84,
+      "duration": 5.48,
+      "text": "connect to Foundry IQ."
+    },
+    {
+      "start": 1207.4,
+      "duration": 5.0,
+      "text": "Over here, it'll ask for how how you can"
+    },
+    {
+      "start": 1210.32,
+      "duration": 4.88,
+      "text": "connect your Azure AI search. This is a"
+    },
+    {
+      "start": 1212.4,
+      "duration": 5.0,
+      "text": "requirement for using Foundry IQ."
+    },
+    {
+      "start": 1215.2,
+      "duration": 4.4,
+      "text": "You can see here I have connections"
+    },
+    {
+      "start": 1217.4,
+      "duration": 4.76,
+      "text": "already. If not, you can connect your AI"
+    },
+    {
+      "start": 1219.6,
+      "duration": 4.2,
+      "text": "search resource or create a new one."
+    },
+    {
+      "start": 1222.16,
+      "duration": 3.44,
+      "text": "In this case, I already have knowledge"
+    },
+    {
+      "start": 1223.8,
+      "duration": 3.8,
+      "text": "bases created, but let's create a new"
+    },
+    {
+      "start": 1225.6,
+      "duration": 4.24,
+      "text": "one."
+    },
+    {
+      "start": 1227.6,
+      "duration": 4.24,
+      "text": "Here, it takes me to the knowledge tab"
+    },
+    {
+      "start": 1229.84,
+      "duration": 4.04,
+      "text": "where I can now create Foundry IQ"
+    },
+    {
+      "start": 1231.84,
+      "duration": 3.52,
+      "text": "knowledge bases."
+    },
+    {
+      "start": 1233.88,
+      "duration": 2.96,
+      "text": "Get started by clicking create a"
+    },
+    {
+      "start": 1235.36,
+      "duration": 3.04,
+      "text": "knowledge base."
+    },
+    {
+      "start": 1236.84,
+      "duration": 3.64,
+      "text": "You can see here the list of knowledge"
+    },
+    {
+      "start": 1238.4,
+      "duration": 4.16,
+      "text": "sources that we have available."
+    },
+    {
+      "start": 1240.48,
+      "duration": 4.32,
+      "text": "For example, if I have data sitting in"
+    },
+    {
+      "start": 1242.56,
+      "duration": 4.24,
+      "text": "blob storage, I can create a blob"
+    },
+    {
+      "start": 1244.8,
+      "duration": 4.04,
+      "text": "storage knowledge source."
+    },
+    {
+      "start": 1246.8,
+      "duration": 5.32,
+      "text": "I can click the blob storage knowledge"
+    },
+    {
+      "start": 1248.84,
+      "duration": 5.0,
+      "text": "source style, click connect."
+    },
+    {
+      "start": 1252.12,
+      "duration": 4.68,
+      "text": "Here, I can give my blob storage"
+    },
+    {
+      "start": 1253.84,
+      "duration": 4.52,
+      "text": "knowledge source a name, a description,"
+    },
+    {
+      "start": 1256.8,
+      "duration": 3.2,
+      "text": "and then connect to the storage accounts"
+    },
+    {
+      "start": 1258.36,
+      "duration": 3.6,
+      "text": "dynamically."
+    },
+    {
+      "start": 1260.0,
+      "duration": 4.52,
+      "text": "You can also choose to authenticate by"
+    },
+    {
+      "start": 1261.96,
+      "duration": 4.12,
+      "text": "API keys or you can use managed"
+    },
+    {
+      "start": 1264.52,
+      "duration": 3.08,
+      "text": "identity."
+    },
+    {
+      "start": 1266.08,
+      "duration": 3.64,
+      "text": "There's also a property called content"
+    },
+    {
+      "start": 1267.6,
+      "duration": 4.08,
+      "text": "extraction mode. Content extraction mode"
+    },
+    {
+      "start": 1269.72,
+      "duration": 3.96,
+      "text": "has minimal or standard. If you use"
+    },
+    {
+      "start": 1271.68,
+      "duration": 4.48,
+      "text": "standard, this actually uses Azure"
+    },
+    {
+      "start": 1273.68,
+      "duration": 4.32,
+      "text": "content understanding Pro for parsing"
+    },
+    {
+      "start": 1276.16,
+      "duration": 3.2,
+      "text": "your documents."
+    },
+    {
+      "start": 1278.0,
+      "duration": 3.28,
+      "text": "Here, you can select your embedding"
+    },
+    {
+      "start": 1279.36,
+      "duration": 4.72,
+      "text": "model. You can also select the chat"
+    },
+    {
+      "start": 1281.28,
+      "duration": 4.12,
+      "text": "completion model for verbalization. This"
+    },
+    {
+      "start": 1284.08,
+      "duration": 3.24,
+      "text": "is useful if your documents are"
+    },
+    {
+      "start": 1285.4,
+      "duration": 3.84,
+      "text": "multimodal."
+    },
+    {
+      "start": 1287.32,
+      "duration": 3.76,
+      "text": "Then, you can have some advanced options"
+    },
+    {
+      "start": 1289.24,
+      "duration": 3.32,
+      "text": "specific to the knowledge source that"
+    },
+    {
+      "start": 1291.08,
+      "duration": 3.36,
+      "text": "you're creating."
+    },
+    {
+      "start": 1292.56,
+      "duration": 3.24,
+      "text": "Once you create your knowledge sources,"
+    },
+    {
+      "start": 1294.44,
+      "duration": 3.52,
+      "text": "you can go ahead and add them to a"
+    },
+    {
+      "start": 1295.8,
+      "duration": 3.84,
+      "text": "knowledge base. You can see here, I've"
+    },
+    {
+      "start": 1297.96,
+      "duration": 4.04,
+      "text": "created a knowledge base with two"
+    },
+    {
+      "start": 1299.64,
+      "duration": 4.36,
+      "text": "knowledge sources. If you want to create"
+    },
+    {
+      "start": 1302.0,
+      "duration": 3.96,
+      "text": "a knowledge source to a knowledge base,"
+    },
+    {
+      "start": 1304.0,
+      "duration": 3.08,
+      "text": "you can go ahead and click create new"
+    },
+    {
+      "start": 1305.96,
+      "duration": 2.44,
+      "text": "with the knowledge source that you'd"
+    },
+    {
+      "start": 1307.08,
+      "duration": 2.88,
+      "text": "like to add."
+    },
+    {
+      "start": 1308.4,
+      "duration": 3.2,
+      "text": "Or, if you already have existing"
+    },
+    {
+      "start": 1309.96,
+      "duration": 4.0,
+      "text": "knowledge sources created, such as an"
+    },
+    {
+      "start": 1311.6,
+      "duration": 4.2,
+      "text": "Azure AI search index, web, or a blob"
+    },
+    {
+      "start": 1313.96,
+      "duration": 4.0,
+      "text": "knowledge source, you can go ahead and"
+    },
+    {
+      "start": 1315.8,
+      "duration": 4.04,
+      "text": "click add existing. And you can see"
+    },
+    {
+      "start": 1317.96,
+      "duration": 3.96,
+      "text": "knowledge sources that exist on my"
+    },
+    {
+      "start": 1319.84,
+      "duration": 3.92,
+      "text": "Foundry IQ resource."
+    },
+    {
+      "start": 1321.92,
+      "duration": 3.68,
+      "text": "Once you have it in a knowledge base,"
+    },
+    {
+      "start": 1323.76,
+      "duration": 3.64,
+      "text": "you can give your knowledge base a name"
+    },
+    {
+      "start": 1325.6,
+      "duration": 3.64,
+      "text": "and a description. The description's"
+    },
+    {
+      "start": 1327.4,
+      "duration": 4.12,
+      "text": "really important but because this will"
+    },
+    {
+      "start": 1329.24,
+      "duration": 4.96,
+      "text": "help the agent find and discover and"
+    },
+    {
+      "start": 1331.52,
+      "duration": 3.92,
+      "text": "invoke the knowledge base."
+    },
+    {
+      "start": 1334.2,
+      "duration": 3.88,
+      "text": "You can see here, there's a chat"
+    },
+    {
+      "start": 1335.44,
+      "duration": 4.96,
+      "text": "completions model to my knowledge base."
+    },
+    {
+      "start": 1338.08,
+      "duration": 5.04,
+      "text": "This actually initiates the query"
+    },
+    {
+      "start": 1340.4,
+      "duration": 4.48,
+      "text": "planning and reasoning over the"
+    },
+    {
+      "start": 1343.12,
+      "duration": 3.36,
+      "text": "knowledge sources."
+    },
+    {
+      "start": 1344.88,
+      "duration": 3.56,
+      "text": "There's also a property called retrieval"
+    },
+    {
+      "start": 1346.48,
+      "duration": 4.04,
+      "text": "reasoning effort. Inside of retrieval"
+    },
+    {
+      "start": 1348.44,
+      "duration": 4.36,
+      "text": "reasoning effort, you can select the"
+    },
+    {
+      "start": 1350.52,
+      "duration": 4.4,
+      "text": "level of reasoning you want to your"
+    },
+    {
+      "start": 1352.8,
+      "duration": 5.76,
+      "text": "Foundry IQ resource to have. This is"
+    },
+    {
+      "start": 1354.92,
+      "duration": 6.04,
+      "text": "effectively how much agentic rag and"
+    },
+    {
+      "start": 1358.56,
+      "duration": 4.08,
+      "text": "iterations you want to go against your"
+    },
+    {
+      "start": 1360.96,
+      "duration": 3.68,
+      "text": "knowledge sources to retrieve the best"
+    },
+    {
+      "start": 1362.64,
+      "duration": 3.24,
+      "text": "quality information. The higher the"
+    },
+    {
+      "start": 1364.64,
+      "duration": 2.92,
+      "text": "reasoning effort, the longer the"
+    },
+    {
+      "start": 1365.88,
+      "duration": 3.48,
+      "text": "latency."
+    },
+    {
+      "start": 1367.56,
+      "duration": 4.8,
+      "text": "Output mode, you have two output modes,"
+    },
+    {
+      "start": 1369.36,
+      "duration": 4.48,
+      "text": "extractive data and answer synthesis."
+    },
+    {
+      "start": 1372.36,
+      "duration": 3.24,
+      "text": "Choose whichever one you"
+    },
+    {
+      "start": 1373.84,
+      "duration": 3.16,
+      "text": "feel you want your output mode for your"
+    },
+    {
+      "start": 1375.6,
+      "duration": 3.72,
+      "text": "scenario."
+    },
+    {
+      "start": 1377.0,
+      "duration": 4.68,
+      "text": "Lastly, we have retrieval instructions."
+    },
+    {
+      "start": 1379.32,
+      "duration": 4.56,
+      "text": "This is your retrieval steering that"
+    },
+    {
+      "start": 1381.68,
+      "duration": 4.16,
+      "text": "helps with Foundry IQ do source"
+    },
+    {
+      "start": 1383.88,
+      "duration": 3.36,
+      "text": "selection. So, you can give a natural"
+    },
+    {
+      "start": 1385.84,
+      "duration": 3.12,
+      "text": "language whatever business rules you"
+    },
+    {
+      "start": 1387.24,
+      "duration": 4.04,
+      "text": "want on how you want to retrieve and"
+    },
+    {
+      "start": 1388.96,
+      "duration": 4.04,
+      "text": "prioritize different sources."
+    },
+    {
+      "start": 1391.28,
+      "duration": 3.92,
+      "text": "Once you have your knowledge base, you"
+    },
+    {
+      "start": 1393.0,
+      "duration": 3.68,
+      "text": "can click use in an agent. If you"
+    },
+    {
+      "start": 1395.2,
+      "duration": 4.6,
+      "text": "haven't already created agent, you can"
+    },
+    {
+      "start": 1396.68,
+      "duration": 3.12,
+      "text": "go ahead and click that."
+    },
+    {
+      "start": 1400.4,
+      "duration": 3.76,
+      "text": "Now, I'm inside of Foundry Agent"
+    },
+    {
+      "start": 1402.04,
+      "duration": 3.96,
+      "text": "Builder. Inside of my Foundry Agent that"
+    },
+    {
+      "start": 1404.16,
+      "duration": 4.08,
+      "text": "I've already created called Zava Supply"
+    },
+    {
+      "start": 1406.0,
+      "duration": 4.88,
+      "text": "Chain Intelligence Agent, I went ahead"
+    },
+    {
+      "start": 1408.24,
+      "duration": 6.08,
+      "text": "and had and deployed a model and I gave"
+    },
+    {
+      "start": 1410.88,
+      "duration": 5.12,
+      "text": "it some system prompt or instructions."
+    },
+    {
+      "start": 1414.32,
+      "duration": 4.72,
+      "text": "You can see here inside of the knowledge"
+    },
+    {
+      "start": 1416.0,
+      "duration": 4.76,
+      "text": "tab that I've added a knowledge base."
+    },
+    {
+      "start": 1419.04,
+      "duration": 5.76,
+      "text": "You can add more knowledge bases if you"
+    },
+    {
+      "start": 1420.76,
+      "duration": 4.04,
+      "text": "truly want for your Foundry Agent."
+    },
+    {
+      "start": 1425.12,
+      "duration": 5.0,
+      "text": "Next, you can type some questions to"
+    },
+    {
+      "start": 1427.08,
+      "duration": 3.04,
+      "text": "your Foundry Agent."
+    },
+    {
+      "start": 1434.52,
+      "duration": 4.08,
+      "text": "You can see in this example, I went"
+    },
+    {
+      "start": 1436.48,
+      "duration": 4.28,
+      "text": "ahead and answered this query. You can"
+    },
+    {
+      "start": 1438.6,
+      "duration": 5.32,
+      "text": "see here that my Foundry Agent gave me"
+    },
+    {
+      "start": 1440.76,
+      "duration": 5.32,
+      "text": "back results grounded in information"
+    },
+    {
+      "start": 1443.92,
+      "duration": 3.96,
+      "text": "from my knowledge sources, in this case"
+    },
+    {
+      "start": 1446.08,
+      "duration": 3.24,
+      "text": "Blob Storage."
+    },
+    {
+      "start": 1447.88,
+      "duration": 3.36,
+      "text": "You can see the name of the knowledge"
+    },
+    {
+      "start": 1449.32,
+      "duration": 3.64,
+      "text": "base connection as well."
+    },
+    {
+      "start": 1451.24,
+      "duration": 3.2,
+      "text": "You can also click the debug tab to"
+    },
+    {
+      "start": 1452.96,
+      "duration": 3.32,
+      "text": "actually look at the trace history of"
+    },
+    {
+      "start": 1454.44,
+      "duration": 3.64,
+      "text": "exactly what you're what went on under"
+    },
+    {
+      "start": 1456.28,
+      "duration": 4.76,
+      "text": "the hood inside of the Foundry Agent"
+    },
+    {
+      "start": 1458.08,
+      "duration": 6.72,
+      "text": "service. You can see here that a"
+    },
+    {
+      "start": 1461.04,
+      "duration": 5.84,
+      "text": "knowledge base MCP tool call was made in"
+    },
+    {
+      "start": 1464.8,
+      "duration": 4.64,
+      "text": "order to retrieve documents from my"
+    },
+    {
+      "start": 1466.88,
+      "duration": 4.24,
+      "text": "Foundry IQ resource. And there you can"
+    },
+    {
+      "start": 1469.44,
+      "duration": 3.96,
+      "text": "see all the context that's been passed"
+    },
+    {
+      "start": 1471.12,
+      "duration": 2.28,
+      "text": "in."
+    },
+    {
+      "start": 1474.4,
+      "duration": 3.48,
+      "text": "That is Foundry IQ."
+    },
+    {
+      "start": 1482.84,
+      "duration": 5.84,
+      "text": "Huge thanks, uh, huge thanks for this,"
+    },
+    {
+      "start": 1486.84,
+      "duration": 4.68,
+      "text": "uh, hands-on walk-through. That was"
+    },
+    {
+      "start": 1488.68,
+      "duration": 4.76,
+      "text": "very, uh, insightful and we have a few"
+    },
+    {
+      "start": 1491.52,
+      "duration": 3.4,
+      "text": "questions from the chat. And and thanks"
+    },
+    {
+      "start": 1493.44,
+      "duration": 3.4,
+      "text": "for, you know,"
+    },
+    {
+      "start": 1494.92,
+      "duration": 3.92,
+      "text": "uh, answering to,"
+    },
+    {
+      "start": 1496.84,
+      "duration": 3.56,
+      "text": "uh, to the audience in the chat already,"
+    },
+    {
+      "start": 1498.84,
+      "duration": 2.88,
+      "text": "but I want to deep dive in a few of"
+    },
+    {
+      "start": 1500.4,
+      "duration": 3.28,
+      "text": "those."
+    },
+    {
+      "start": 1501.72,
+      "duration": 4.68,
+      "text": "I start with Pablo,"
+    },
+    {
+      "start": 1503.68,
+      "duration": 5.36,
+      "text": "who is asking a question I've also heard"
+    },
+    {
+      "start": 1506.4,
+      "duration": 5.12,
+      "text": "a lot and I guess you heard a lot as"
+    },
+    {
+      "start": 1509.04,
+      "duration": 4.72,
+      "text": "well. So, how does retrieval"
+    },
+    {
+      "start": 1511.52,
+      "duration": 4.36,
+      "text": "effectiveness for different type of"
+    },
+    {
+      "start": 1513.76,
+      "duration": 5.16,
+      "text": "data, structured and unstructured,"
+    },
+    {
+      "start": 1515.88,
+      "duration": 5.12,
+      "text": "differs between Foundry IQ and Azure AI"
+    },
+    {
+      "start": 1518.92,
+      "duration": 3.8,
+      "text": "Search? Please provide some technical"
+    },
+    {
+      "start": 1521.0,
+      "duration": 4.04,
+      "text": "differences."
+    },
+    {
+      "start": 1522.72,
+      "duration": 5.2,
+      "text": "Yeah, great great great question. So,"
+    },
+    {
+      "start": 1525.04,
+      "duration": 5.64,
+      "text": "generally speaking, Foundry IQ is the"
+    },
+    {
+      "start": 1527.92,
+      "duration": 5.28,
+      "text": "act of using Azure AI Search, the"
+    },
+    {
+      "start": 1530.68,
+      "duration": 5.32,
+      "text": "underlying resource or API that powers"
+    },
+    {
+      "start": 1533.2,
+      "duration": 5.6,
+      "text": "Foundry IQ. And specifically, the latest"
+    },
+    {
+      "start": 1536.0,
+      "duration": 4.56,
+      "text": "data plane primitives or APIs, which is"
+    },
+    {
+      "start": 1538.8,
+      "duration": 3.52,
+      "text": "what I mentioned earlier, knowledge"
+    },
+    {
+      "start": 1540.56,
+      "duration": 5.04,
+      "text": "sources and knowledge bases that we"
+    },
+    {
+      "start": 1542.32,
+      "duration": 5.08,
+      "text": "launched at Ignite 2025."
+    },
+    {
+      "start": 1545.6,
+      "duration": 4.0,
+      "text": "And so, the retrieval effectiveness for"
+    },
+    {
+      "start": 1547.4,
+      "duration": 4.04,
+      "text": "this, specifically it specializes in"
+    },
+    {
+      "start": 1549.6,
+      "duration": 4.12,
+      "text": "right now unstructured data. So, if you"
+    },
+    {
+      "start": 1551.44,
+      "duration": 4.64,
+      "text": "use the the underlying parsing"
+    },
+    {
+      "start": 1553.72,
+      "duration": 4.76,
+      "text": "mechanisms and Azure AI Search Search"
+    },
+    {
+      "start": 1556.08,
+      "duration": 4.32,
+      "text": "index, it it builds on top of all the"
+    },
+    {
+      "start": 1558.48,
+      "duration": 3.48,
+      "text": "other Azure AI Search retrieval"
+    },
+    {
+      "start": 1560.4,
+      "duration": 3.92,
+      "text": "effectiveness like vector search and"
+    },
+    {
+      "start": 1561.96,
+      "duration": 5.76,
+      "text": "hybrid search that a lot of customers"
+    },
+    {
+      "start": 1564.32,
+      "duration": 5.4,
+      "text": "use globally over the past few years."
+    },
+    {
+      "start": 1567.72,
+      "duration": 4.52,
+      "text": "The the main cutting-edge difference is"
+    },
+    {
+      "start": 1569.72,
+      "duration": 5.96,
+      "text": "the agentic or iterative searching part"
+    },
+    {
+      "start": 1572.24,
+      "duration": 4.88,
+      "text": "where it could enables multiple index"
+    },
+    {
+      "start": 1575.68,
+      "duration": 3.12,
+      "text": "searching. So, as I mentioned earlier,"
+    },
+    {
+      "start": 1577.12,
+      "duration": 3.44,
+      "text": "it could does agentic retrieval over not"
+    },
+    {
+      "start": 1578.8,
+      "duration": 4.24,
+      "text": "just a single source, but multiple"
+    },
+    {
+      "start": 1580.56,
+      "duration": 4.56,
+      "text": "different sources. And so, from a"
+    },
+    {
+      "start": 1583.04,
+      "duration": 3.8,
+      "text": "technical difference perspective,"
+    },
+    {
+      "start": 1585.12,
+      "duration": 3.0,
+      "text": "regardless of whether your data is"
+    },
+    {
+      "start": 1586.84,
+      "duration": 2.8,
+      "text": "structured, semi-structured,"
+    },
+    {
+      "start": 1588.12,
+      "duration": 3.6,
+      "text": "unstructured,"
+    },
+    {
+      "start": 1589.64,
+      "duration": 3.16,
+      "text": "we actually ran some evaluations. Our"
+    },
+    {
+      "start": 1591.72,
+      "duration": 3.56,
+      "text": "applied science teams ran some"
+    },
+    {
+      "start": 1592.8,
+      "duration": 4.36,
+      "text": "evaluations and we actually found that"
+    },
+    {
+      "start": 1595.28,
+      "duration": 4.88,
+      "text": "customers that use Foundry IQ as their"
+    },
+    {
+      "start": 1597.16,
+      "duration": 6.44,
+      "text": "underlying retrieval system for the rag"
+    },
+    {
+      "start": 1600.16,
+      "duration": 5.36,
+      "text": "pattern, actually found a 36% better"
+    },
+    {
+      "start": 1603.6,
+      "duration": 5.48,
+      "text": "answer response quality for their AI"
+    },
+    {
+      "start": 1605.52,
+      "duration": 5.72,
+      "text": "agents. So, in short, Foundry IQ is"
+    },
+    {
+      "start": 1609.08,
+      "duration": 3.8,
+      "text": "Azure AI Search under the hood at a more"
+    },
+    {
+      "start": 1611.24,
+      "duration": 4.52,
+      "text": "lower level,"
+    },
+    {
+      "start": 1612.88,
+      "duration": 4.72,
+      "text": "um and uh you get 36% better agent"
+    },
+    {
+      "start": 1615.76,
+      "duration": 3.92,
+      "text": "quality."
+    },
+    {
+      "start": 1617.6,
+      "duration": 3.48,
+      "text": "Nice, and we have a kind of related"
+    },
+    {
+      "start": 1619.68,
+      "duration": 3.88,
+      "text": "question,"
+    },
+    {
+      "start": 1621.08,
+      "duration": 5.52,
+      "text": "a follow-up one. So, is every source in"
+    },
+    {
+      "start": 1623.56,
+      "duration": 4.92,
+      "text": "Foundry IQ converted into an Azure AI"
+    },
+    {
+      "start": 1626.6,
+      "duration": 4.68,
+      "text": "search?"
+    },
+    {
+      "start": 1628.48,
+      "duration": 5.76,
+      "text": "Yeah, so that depends on what knowledge"
+    },
+    {
+      "start": 1631.28,
+      "duration": 5.36,
+      "text": "source you're configuring, right? So, if"
+    },
+    {
+      "start": 1634.24,
+      "duration": 4.08,
+      "text": "it's any of the indexed uh sources, so"
+    },
+    {
+      "start": 1636.64,
+      "duration": 4.12,
+      "text": "like if for example, if you have a bunch"
+    },
+    {
+      "start": 1638.32,
+      "duration": 4.0,
+      "text": "of PDFs sitting in Azure blob storage"
+    },
+    {
+      "start": 1640.76,
+      "duration": 3.52,
+      "text": "and select the Azure blob knowledge"
+    },
+    {
+      "start": 1642.32,
+      "duration": 3.96,
+      "text": "source, it actually creates the"
+    },
+    {
+      "start": 1644.28,
+      "duration": 4.0,
+      "text": "underlying integrated vectorization"
+    },
+    {
+      "start": 1646.28,
+      "duration": 4.2,
+      "text": "pipeline. So, for those of you who know"
+    },
+    {
+      "start": 1648.28,
+      "duration": 4.36,
+      "text": "about Azure AI search, the indexer, the"
+    },
+    {
+      "start": 1650.48,
+      "duration": 4.2,
+      "text": "data source, the vector index, the skill"
+    },
+    {
+      "start": 1652.64,
+      "duration": 4.16,
+      "text": "set, and it actually creates all that"
+    },
+    {
+      "start": 1654.68,
+      "duration": 4.24,
+      "text": "for you under the hood. If you select a"
+    },
+    {
+      "start": 1656.8,
+      "duration": 4.36,
+      "text": "remote knowledge source like, you know,"
+    },
+    {
+      "start": 1658.92,
+      "duration": 3.88,
+      "text": "web or Bing, obviously we're not going"
+    },
+    {
+      "start": 1661.16,
+      "duration": 3.12,
+      "text": "to create a vector index of the entire"
+    },
+    {
+      "start": 1662.8,
+      "duration": 4.08,
+      "text": "web. So, it's strictly just doing a"
+    },
+    {
+      "start": 1664.28,
+      "duration": 4.96,
+      "text": "remote or federated API call. So, the"
+    },
+    {
+      "start": 1666.88,
+      "duration": 4.04,
+      "text": "answer is dependent upon uh what"
+    },
+    {
+      "start": 1669.24,
+      "duration": 3.4,
+      "text": "knowledge source you're using, but it's"
+    },
+    {
+      "start": 1670.92,
+      "duration": 4.4,
+      "text": "all going to be configured inside of"
+    },
+    {
+      "start": 1672.64,
+      "duration": 4.24,
+      "text": "that Azure AI search resource."
+    },
+    {
+      "start": 1675.32,
+      "duration": 3.48,
+      "text": "Tha- thanks for clarifying. That was"
+    },
+    {
+      "start": 1676.88,
+      "duration": 3.28,
+      "text": "very helpful. Um and then we have"
+    },
+    {
+      "start": 1678.8,
+      "duration": 3.68,
+      "text": "another"
+    },
+    {
+      "start": 1680.16,
+      "duration": 5.6,
+      "text": "um another pointed question,"
+    },
+    {
+      "start": 1682.48,
+      "duration": 4.84,
+      "text": "uh so far a lot of customers ask about"
+    },
+    {
+      "start": 1685.76,
+      "duration": 3.72,
+      "text": "ACLs"
+    },
+    {
+      "start": 1687.32,
+      "duration": 5.52,
+      "text": "uh or role-based access control in"
+    },
+    {
+      "start": 1689.48,
+      "duration": 5.52,
+      "text": "indexed documents and knowledge sources."
+    },
+    {
+      "start": 1692.84,
+      "duration": 5.0,
+      "text": "Uh can you discuss, please? Uh any any"
+    },
+    {
+      "start": 1695.0,
+      "duration": 4.68,
+      "text": "thoughts uh for us on this?"
+    },
+    {
+      "start": 1697.84,
+      "duration": 5.0,
+      "text": "Great question, and I often hear this a"
+    },
+    {
+      "start": 1699.68,
+      "duration": 5.16,
+      "text": "lot. So, um in order to be have your"
+    },
+    {
+      "start": 1702.84,
+      "duration": 4.64,
+      "text": "agents enterprise secure, you need to"
+    },
+    {
+      "start": 1704.84,
+      "duration": 5.16,
+      "text": "make sure that, hey, if if uh Carlotta"
+    },
+    {
+      "start": 1707.48,
+      "duration": 3.6,
+      "text": "tries, you know, asking an agent about,"
+    },
+    {
+      "start": 1710.0,
+      "duration": 3.12,
+      "text": "hey, when is Farzad going to get"
+    },
+    {
+      "start": 1711.08,
+      "duration": 3.8,
+      "text": "promoted, I don't want her to see, you"
+    },
+    {
+      "start": 1713.12,
+      "duration": 2.92,
+      "text": "know, that document on how my manager is"
+    },
+    {
+      "start": 1714.88,
+      "duration": 2.92,
+      "text": "going to promote me, right? It's quite"
+    },
+    {
+      "start": 1716.04,
+      "duration": 3.48,
+      "text": "confidential. And so, as an AI"
+    },
+    {
+      "start": 1717.8,
+      "duration": 2.92,
+      "text": "developer, you want to go ahead and"
+    },
+    {
+      "start": 1719.52,
+      "duration": 1.8,
+      "text": "build in"
+    },
+    {
+      "start": 1720.72,
+      "duration": 3.08,
+      "text": "um"
+    },
+    {
+      "start": 1721.32,
+      "duration": 4.32,
+      "text": "uh your your your your Apple pipelines"
+    },
+    {
+      "start": 1723.8,
+      "duration": 3.84,
+      "text": "and our back, however those underlying"
+    },
+    {
+      "start": 1725.64,
+      "duration": 3.96,
+      "text": "source documents are configured. So, the"
+    },
+    {
+      "start": 1727.64,
+      "duration": 3.8,
+      "text": "good news is is we actually use the"
+    },
+    {
+      "start": 1729.6,
+      "duration": 3.48,
+      "text": "existing"
+    },
+    {
+      "start": 1731.44,
+      "duration": 3.76,
+      "text": "filter predicate or filter pattern"
+    },
+    {
+      "start": 1733.08,
+      "duration": 4.08,
+      "text": "inside of Foundry IQ under the hood. So,"
+    },
+    {
+      "start": 1735.2,
+      "duration": 4.0,
+      "text": "the same thing that exists for for Azure"
+    },
+    {
+      "start": 1737.16,
+      "duration": 3.44,
+      "text": "AI Search. So, again, dependent upon"
+    },
+    {
+      "start": 1739.2,
+      "duration": 3.72,
+      "text": "your knowledge source, the developer"
+    },
+    {
+      "start": 1740.6,
+      "duration": 4.16,
+      "text": "experience will will depend on how much"
+    },
+    {
+      "start": 1742.92,
+      "duration": 3.32,
+      "text": "level of effort you actually need to do."
+    },
+    {
+      "start": 1744.76,
+      "duration": 3.48,
+      "text": "So, the existing SharePoint index"
+    },
+    {
+      "start": 1746.24,
+      "duration": 3.84,
+      "text": "knowledge source, today you kind of have"
+    },
+    {
+      "start": 1748.24,
+      "duration": 4.88,
+      "text": "to do a little bit more custom work in"
+    },
+    {
+      "start": 1750.08,
+      "duration": 6.52,
+      "text": "order to make sure that whatever your"
+    },
+    {
+      "start": 1753.12,
+      "duration": 5.96,
+      "text": "AQLs can pass through in order to your"
+    },
+    {
+      "start": 1756.6,
+      "duration": 3.8,
+      "text": "underlying index. Um however, if you use"
+    },
+    {
+      "start": 1759.08,
+      "duration": 3.8,
+      "text": "something like a SharePoint remote"
+    },
+    {
+      "start": 1760.4,
+      "duration": 5.92,
+      "text": "knowledge source, it actually already"
+    },
+    {
+      "start": 1762.88,
+      "duration": 6.76,
+      "text": "respects the what whatever"
+    },
+    {
+      "start": 1766.32,
+      "duration": 5.4,
+      "text": "AQL and RBAC controls are already"
+    },
+    {
+      "start": 1769.64,
+      "duration": 4.72,
+      "text": "implemented because it's a federated API"
+    },
+    {
+      "start": 1771.72,
+      "duration": 4.28,
+      "text": "and it takes in a user access token"
+    },
+    {
+      "start": 1774.36,
+      "duration": 3.76,
+      "text": "based upon exactly the doc source"
+    },
+    {
+      "start": 1776.0,
+      "duration": 4.12,
+      "text": "documents you have access to. So, moving"
+    },
+    {
+      "start": 1778.12,
+      "duration": 3.6,
+      "text": "forward, we're committed to making sure"
+    },
+    {
+      "start": 1780.12,
+      "duration": 3.48,
+      "text": "that regardless of where your knowledge"
+    },
+    {
+      "start": 1781.72,
+      "duration": 3.88,
+      "text": "lives, we want to make sure we have the"
+    },
+    {
+      "start": 1783.6,
+      "duration": 5.2,
+      "text": "best possible developer experience for"
+    },
+    {
+      "start": 1785.6,
+      "duration": 5.12,
+      "text": "customers to do very very little work"
+    },
+    {
+      "start": 1788.8,
+      "duration": 4.24,
+      "text": "from a customization perspective to make"
+    },
+    {
+      "start": 1790.72,
+      "duration": 4.44,
+      "text": "sure that all their AQLs, regardless of"
+    },
+    {
+      "start": 1793.04,
+      "duration": 4.36,
+      "text": "your knowledge source, are respected"
+    },
+    {
+      "start": 1795.16,
+      "duration": 3.24,
+      "text": "once it's inside of this Foundry IQ"
+    },
+    {
+      "start": 1797.4,
+      "duration": 3.36,
+      "text": "layer."
+    },
+    {
+      "start": 1798.4,
+      "duration": 5.48,
+      "text": "Um So, yeah, I'll leave it there. Yeah."
+    },
+    {
+      "start": 1800.76,
+      "duration": 5.56,
+      "text": "Yeah, that's essential when you want to"
+    },
+    {
+      "start": 1803.88,
+      "duration": 5.04,
+      "text": "bring an enterprise-ready"
+    },
+    {
+      "start": 1806.32,
+      "duration": 5.52,
+      "text": "solution to a production."
+    },
+    {
+      "start": 1808.92,
+      "duration": 4.76,
+      "text": "So, we have another question from Jose"
+    },
+    {
+      "start": 1811.84,
+      "duration": 4.24,
+      "text": "Silva,"
+    },
+    {
+      "start": 1813.68,
+      "duration": 4.32,
+      "text": "but I think you kind of covered it, but"
+    },
+    {
+      "start": 1816.08,
+      "duration": 3.76,
+      "text": "you might want to"
+    },
+    {
+      "start": 1818.0,
+      "duration": 3.88,
+      "text": "add some more details."
+    },
+    {
+      "start": 1819.84,
+      "duration": 4.08,
+      "text": "And the question is, can we use data"
+    },
+    {
+      "start": 1821.88,
+      "duration": 3.4,
+      "text": "ingestion too?"
+    },
+    {
+      "start": 1823.92,
+      "duration": 2.96,
+      "text": "Great question. I didn't highlight this"
+    },
+    {
+      "start": 1825.28,
+      "duration": 3.24,
+      "text": "too much, but inside of the demo when I"
+    },
+    {
+      "start": 1826.88,
+      "duration": 3.88,
+      "text": "was walking through the knowledge source"
+    },
+    {
+      "start": 1828.52,
+      "duration": 3.92,
+      "text": "configuration, you'll actually notice"
+    },
+    {
+      "start": 1830.76,
+      "duration": 3.68,
+      "text": "that for the index knowledge sources, we"
+    },
+    {
+      "start": 1832.44,
+      "duration": 4.08,
+      "text": "have a new property called content"
+    },
+    {
+      "start": 1834.44,
+      "duration": 4.0,
+      "text": "extraction mode. And so, on this"
+    },
+    {
+      "start": 1836.52,
+      "duration": 4.76,
+      "text": "property called content extraction mode,"
+    },
+    {
+      "start": 1838.44,
+      "duration": 4.68,
+      "text": "we have two modes, minimal and standard."
+    },
+    {
+      "start": 1841.28,
+      "duration": 4.44,
+      "text": "When you click standard, you'll actually"
+    },
+    {
+      "start": 1843.12,
+      "duration": 5.36,
+      "text": "see that this actually uses"
+    },
+    {
+      "start": 1845.72,
+      "duration": 4.8,
+      "text": "the Azure document intelligence or"
+    },
+    {
+      "start": 1848.48,
+      "duration": 5.16,
+      "text": "new name Azure content understanding"
+    },
+    {
+      "start": 1850.52,
+      "duration": 5.56,
+      "text": "suite of APIs that specialize in"
+    },
+    {
+      "start": 1853.64,
+      "duration": 5.24,
+      "text": "document parsing. So I highly recommend"
+    },
+    {
+      "start": 1856.08,
+      "duration": 5.4,
+      "text": "this for customers that have very you"
+    },
+    {
+      "start": 1858.88,
+      "duration": 4.0,
+      "text": "know multi-modal rich unstructured data"
+    },
+    {
+      "start": 1861.48,
+      "duration": 3.0,
+      "text": "which really really helps with data"
+    },
+    {
+      "start": 1862.88,
+      "duration": 2.6,
+      "text": "ingestion. And then of course the good"
+    },
+    {
+      "start": 1864.48,
+      "duration": 1.92,
+      "text": "news"
+    },
+    {
+      "start": 1865.48,
+      "duration": 3.08,
+      "text": "is"
+    },
+    {
+      "start": 1866.4,
+      "duration": 4.32,
+      "text": "if if you regardless of what mode you"
+    },
+    {
+      "start": 1868.56,
+      "duration": 4.68,
+      "text": "select it actually has change detection"
+    },
+    {
+      "start": 1870.72,
+      "duration": 4.12,
+      "text": "built in into your underlying pipeline."
+    },
+    {
+      "start": 1873.24,
+      "duration": 3.52,
+      "text": "So if you have a pipeline where your"
+    },
+    {
+      "start": 1874.84,
+      "duration": 4.24,
+      "text": "SharePoint or blob storage documents are"
+    },
+    {
+      "start": 1876.76,
+      "duration": 4.88,
+      "text": "being modified over time, the second it"
+    },
+    {
+      "start": 1879.08,
+      "duration": 4.84,
+      "text": "gets modified, your pipeline will rerun"
+    },
+    {
+      "start": 1881.64,
+      "duration": 5.2,
+      "text": "based upon that last modified you know"
+    },
+    {
+      "start": 1883.92,
+      "duration": 5.48,
+      "text": "timestamp. So data ingestion is fully"
+    },
+    {
+      "start": 1886.84,
+      "duration": 5.4,
+      "text": "supported inside of Foundry IQ."
+    },
+    {
+      "start": 1889.4,
+      "duration": 5.2,
+      "text": "That's great to know. Um so"
+    },
+    {
+      "start": 1892.24,
+      "duration": 4.76,
+      "text": "we have another one from Nitya."
+    },
+    {
+      "start": 1894.6,
+      "duration": 5.84,
+      "text": "Are there built-in evaluations for"
+    },
+    {
+      "start": 1897.0,
+      "duration": 5.68,
+      "text": "assessing efficiency of Foundry IQ calls"
+    },
+    {
+      "start": 1900.44,
+      "duration": 3.96,
+      "text": "or best practice for creating custom"
+    },
+    {
+      "start": 1902.68,
+      "duration": 2.92,
+      "text": "ones?"
+    },
+    {
+      "start": 1904.4,
+      "duration": 3.72,
+      "text": "Great question."
+    },
+    {
+      "start": 1905.6,
+      "duration": 4.28,
+      "text": "So in general inside of Foundry IQ"
+    },
+    {
+      "start": 1908.12,
+      "duration": 4.12,
+      "text": "there's no built-in evaluation"
+    },
+    {
+      "start": 1909.88,
+      "duration": 4.68,
+      "text": "capability. That being said, one of the"
+    },
+    {
+      "start": 1912.24,
+      "duration": 4.68,
+      "text": "benefits about Foundry IQ is you can use"
+    },
+    {
+      "start": 1914.56,
+      "duration": 4.2,
+      "text": "it with Foundry Agent Service as you see"
+    },
+    {
+      "start": 1916.92,
+      "duration": 3.72,
+      "text": "see here on the screen."
+    },
+    {
+      "start": 1918.76,
+      "duration": 3.96,
+      "text": "So when you use it with Foundry Agent"
+    },
+    {
+      "start": 1920.64,
+      "duration": 4.12,
+      "text": "Service you can actually leverage the"
+    },
+    {
+      "start": 1922.72,
+      "duration": 4.64,
+      "text": "Foundry observability and evaluations"
+    },
+    {
+      "start": 1924.76,
+      "duration": 4.88,
+      "text": "capabilities and evaluate things based"
+    },
+    {
+      "start": 1927.36,
+      "duration": 3.44,
+      "text": "upon groundedness, trustworthy AI, you"
+    },
+    {
+      "start": 1929.64,
+      "duration": 2.64,
+      "text": "know harmfulness and all the"
+    },
+    {
+      "start": 1930.8,
+      "duration": 4.96,
+      "text": "out-of-the-box metrics that are"
+    },
+    {
+      "start": 1932.28,
+      "duration": 6.24,
+      "text": "supported inside of Foundry evaluations"
+    },
+    {
+      "start": 1935.76,
+      "duration": 5.08,
+      "text": "SDK or even the UI here. So that's the"
+    },
+    {
+      "start": 1938.52,
+      "duration": 4.12,
+      "text": "recommended pattern. And specifically"
+    },
+    {
+      "start": 1940.84,
+      "duration": 3.24,
+      "text": "with Foundry IQ it's it's a retrieval"
+    },
+    {
+      "start": 1942.64,
+      "duration": 3.64,
+      "text": "system at the end of the day. So you"
+    },
+    {
+      "start": 1944.08,
+      "duration": 3.8,
+      "text": "want to really measure your rag points"
+    },
+    {
+      "start": 1946.28,
+      "duration": 5.32,
+      "text": "of failure. Hey, is Foundry IQ"
+    },
+    {
+      "start": 1947.88,
+      "duration": 5.36,
+      "text": "retrieving the the right context? Is it"
+    },
+    {
+      "start": 1951.6,
+      "duration": 3.16,
+      "text": "is it retrieving you know all the"
+    },
+    {
+      "start": 1953.24,
+      "duration": 4.4,
+      "text": "different context I need for a certain"
+    },
+    {
+      "start": 1954.76,
+      "duration": 4.68,
+      "text": "query? So it 100% is completely"
+    },
+    {
+      "start": 1957.64,
+      "duration": 4.16,
+      "text": "compatible but this is why we recommend"
+    },
+    {
+      "start": 1959.44,
+      "duration": 3.84,
+      "text": "using it within Foundry cuz you get the"
+    },
+    {
+      "start": 1961.8,
+      "duration": 4.96,
+      "text": "out-of-the-box observability and"
+    },
+    {
+      "start": 1963.28,
+      "duration": 3.48,
+      "text": "evaluation capabilities."
+    },
+    {
+      "start": 1966.84,
+      "duration": 5.2,
+      "text": "Thanks Farzad. And we we're still"
+    },
+    {
+      "start": 1970.2,
+      "duration": 5.96,
+      "text": "there's still questions coming. I'm I'm"
+    },
+    {
+      "start": 1972.04,
+      "duration": 6.76,
+      "text": "very glad, you know, of all these"
+    },
+    {
+      "start": 1976.16,
+      "duration": 6.6,
+      "text": "interest and enthusiasm from from the"
+    },
+    {
+      "start": 1978.8,
+      "duration": 7.44,
+      "text": "community around Foundry IQ. So we have"
+    },
+    {
+      "start": 1982.76,
+      "duration": 6.76,
+      "text": "kind of a follow-up question"
+    },
+    {
+      "start": 1986.24,
+      "duration": 5.64,
+      "text": "of the the the previous one regarding"
+    },
+    {
+      "start": 1989.52,
+      "duration": 5.4,
+      "text": "our old base access control."
+    },
+    {
+      "start": 1991.88,
+      "duration": 5.92,
+      "text": "So is there any connection"
+    },
+    {
+      "start": 1994.92,
+      "duration": 6.52,
+      "text": "to Microsoft Purview to monitor for data"
+    },
+    {
+      "start": 1997.8,
+      "duration": 5.68,
+      "text": "loss prevention or insider risk if docs"
+    },
+    {
+      "start": 2001.44,
+      "duration": 3.8,
+      "text": "are accessed that should not be"
+    },
+    {
+      "start": 2003.48,
+      "duration": 3.24,
+      "text": "accessed?"
+    },
+    {
+      "start": 2005.24,
+      "duration": 2.76,
+      "text": "Yeah, great question. So we actually"
+    },
+    {
+      "start": 2006.72,
+      "duration": 3.88,
+      "text": "have a couple integrations with"
+    },
+    {
+      "start": 2008.0,
+      "duration": 4.4,
+      "text": "Microsoft Purview and we're only"
+    },
+    {
+      "start": 2010.6,
+      "duration": 3.24,
+      "text": "focusing from a roadmap perspective on"
+    },
+    {
+      "start": 2012.4,
+      "duration": 3.8,
+      "text": "on enhancing the collaboration with"
+    },
+    {
+      "start": 2013.84,
+      "duration": 4.04,
+      "text": "Microsoft Purview. So for example, if"
+    },
+    {
+      "start": 2016.2,
+      "duration": 4.36,
+      "text": "you have documents that have sensitivity"
+    },
+    {
+      "start": 2017.88,
+      "duration": 4.24,
+      "text": "labels like Farzad's promotion document,"
+    },
+    {
+      "start": 2020.56,
+      "duration": 3.64,
+      "text": "obviously that probably is highly"
+    },
+    {
+      "start": 2022.12,
+      "duration": 5.28,
+      "text": "classified information. So inside of"
+    },
+    {
+      "start": 2024.2,
+      "duration": 5.12,
+      "text": "Foundry IQ, well we actually have"
+    },
+    {
+      "start": 2027.4,
+      "duration": 3.48,
+      "text": "a preview going on right now where you"
+    },
+    {
+      "start": 2029.32,
+      "duration": 3.04,
+      "text": "can actually I'll send a link to the"
+    },
+    {
+      "start": 2030.88,
+      "duration": 3.56,
+      "text": "blog in a bit. It's a very well written"
+    },
+    {
+      "start": 2032.36,
+      "duration": 5.12,
+      "text": "blog by by our product team where we"
+    },
+    {
+      "start": 2034.44,
+      "duration": 4.76,
+      "text": "actually show the sensitivity labels. So"
+    },
+    {
+      "start": 2037.48,
+      "duration": 4.44,
+      "text": "over here in this example in your agent"
+    },
+    {
+      "start": 2039.2,
+      "duration": 4.36,
+      "text": "playground, one you you won't just have"
+    },
+    {
+      "start": 2041.92,
+      "duration": 3.4,
+      "text": "the ability to display Purview"
+    },
+    {
+      "start": 2043.56,
+      "duration": 3.44,
+      "text": "sensitivity labels or any of our data"
+    },
+    {
+      "start": 2045.32,
+      "duration": 3.8,
+      "text": "governance things, but you could"
+    },
+    {
+      "start": 2047.0,
+      "duration": 4.16,
+      "text": "actually have as I mentioned earlier the"
+    },
+    {
+      "start": 2049.12,
+      "duration": 4.16,
+      "text": "filter predicate in line to make sure"
+    },
+    {
+      "start": 2051.16,
+      "duration": 3.64,
+      "text": "these are actually respected"
+    },
+    {
+      "start": 2053.28,
+      "duration": 4.28,
+      "text": "by the language model or agent at"
+    },
+    {
+      "start": 2054.8,
+      "duration": 4.2,
+      "text": "runtime. And so more specifically to"
+    },
+    {
+      "start": 2057.56,
+      "duration": 3.24,
+      "text": "your question, you could also configure"
+    },
+    {
+      "start": 2059.0,
+      "duration": 4.28,
+      "text": "Microsoft Purview. It'd be a little bit"
+    },
+    {
+      "start": 2060.8,
+      "duration": 4.36,
+      "text": "more custom work, but once you have your"
+    },
+    {
+      "start": 2063.28,
+      "duration": 4.72,
+      "text": "Foundry IQ knowledge base, you can use"
+    },
+    {
+      "start": 2065.16,
+      "duration": 4.92,
+      "text": "Microsoft Purview dashboarding and data"
+    },
+    {
+      "start": 2068.0,
+      "duration": 3.72,
+      "text": "loss prevention capabilities"
+    },
+    {
+      "start": 2070.08,
+      "duration": 3.4,
+      "text": "to to set up. So it's a little bit more"
+    },
+    {
+      "start": 2071.72,
+      "duration": 4.12,
+      "text": "custom work, being completely honest,"
+    },
+    {
+      "start": 2073.48,
+      "duration": 4.88,
+      "text": "but it is possible."
+    },
+    {
+      "start": 2075.84,
+      "duration": 5.36,
+      "text": "I'm learning a lot for this Q&A from"
+    },
+    {
+      "start": 2078.36,
+      "duration": 5.36,
+      "text": "this Q&A. So, thank thank you, Farzad."
+    },
+    {
+      "start": 2081.2,
+      "duration": 4.92,
+      "text": "I'll take one more question,"
+    },
+    {
+      "start": 2083.72,
+      "duration": 3.72,
+      "text": "and then I mean,"
+    },
+    {
+      "start": 2086.12,
+      "duration": 4.28,
+      "text": "keep your question coming since we are"
+    },
+    {
+      "start": 2087.44,
+      "duration": 4.68,
+      "text": "going to have an AMA on Friday as well."
+    },
+    {
+      "start": 2090.4,
+      "duration": 3.56,
+      "text": "And Farzad, thank you so much. You're"
+    },
+    {
+      "start": 2092.12,
+      "duration": 4.2,
+      "text": "very kind to answer all these questions."
+    },
+    {
+      "start": 2093.96,
+      "duration": 4.48,
+      "text": "I think that, you know, that"
+    },
+    {
+      "start": 2096.32,
+      "duration": 4.96,
+      "text": "interacting with you directly for the"
+    },
+    {
+      "start": 2098.44,
+      "duration": 4.8,
+      "text": "community is it's very it's very unique"
+    },
+    {
+      "start": 2101.28,
+      "duration": 5.04,
+      "text": "opportunity. So, we have another"
+    },
+    {
+      "start": 2103.24,
+      "duration": 6.04,
+      "text": "question about can we rank knowledge"
+    },
+    {
+      "start": 2106.32,
+      "duration": 6.48,
+      "text": "sources so core"
+    },
+    {
+      "start": 2109.28,
+      "duration": 6.88,
+      "text": "bedrock truth stay at the top and can't"
+    },
+    {
+      "start": 2112.8,
+      "duration": 6.48,
+      "text": "be overridden while another while other"
+    },
+    {
+      "start": 2116.16,
+      "duration": 5.96,
+      "text": "info is treated as lower confidence or"
+    },
+    {
+      "start": 2119.28,
+      "duration": 2.84,
+      "text": "provisional?"
+    },
+    {
+      "start": 2124.08,
+      "duration": 6.0,
+      "text": "I see. So,"
+    },
+    {
+      "start": 2126.84,
+      "duration": 4.68,
+      "text": "yes and no. So, for for the tactical"
+    },
+    {
+      "start": 2130.08,
+      "duration": 4.0,
+      "text": "thing that I would do as an AI developer"
+    },
+    {
+      "start": 2131.52,
+      "duration": 4.88,
+      "text": "to achieve custom ranking is inside of"
+    },
+    {
+      "start": 2134.08,
+      "duration": 3.6,
+      "text": "these latest Foundry IQ capabilities, we"
+    },
+    {
+      "start": 2136.4,
+      "duration": 3.28,
+      "text": "have a property called retrieval"
+    },
+    {
+      "start": 2137.68,
+      "duration": 3.64,
+      "text": "instructions. And so, what this property"
+    },
+    {
+      "start": 2139.68,
+      "duration": 4.16,
+      "text": "retrieval instructions means is"
+    },
+    {
+      "start": 2141.32,
+      "duration": 5.12,
+      "text": "effectively designed for you as a owner"
+    },
+    {
+      "start": 2143.84,
+      "duration": 4.96,
+      "text": "of your AI agent or rag application to"
+    },
+    {
+      "start": 2146.44,
+      "duration": 4.2,
+      "text": "give custom language business rules to"
+    },
+    {
+      "start": 2148.8,
+      "duration": 3.76,
+      "text": "how you want your Foundry IQ agent to"
+    },
+    {
+      "start": 2150.64,
+      "duration": 3.8,
+      "text": "retrieval engine to actually perform."
+    },
+    {
+      "start": 2152.56,
+      "duration": 3.52,
+      "text": "So, you can give retrieval instructions"
+    },
+    {
+      "start": 2154.44,
+      "duration": 4.04,
+      "text": "the same way you'd prompt a language"
+    },
+    {
+      "start": 2156.08,
+      "duration": 4.68,
+      "text": "model or any AI agent. Hey, for queries"
+    },
+    {
+      "start": 2158.48,
+      "duration": 4.48,
+      "text": "about, you know, Farzad's promotion"
+    },
+    {
+      "start": 2160.76,
+      "duration": 4.32,
+      "text": "document, prioritize HR documents. For"
+    },
+    {
+      "start": 2162.96,
+      "duration": 4.72,
+      "text": "anything else, please do a web search."
+    },
+    {
+      "start": 2165.08,
+      "duration": 4.56,
+      "text": "So, you can give and some some natural"
+    },
+    {
+      "start": 2167.68,
+      "duration": 4.72,
+      "text": "language business rules in plain rich"
+    },
+    {
+      "start": 2169.64,
+      "duration": 4.76,
+      "text": "text as part of this property. Even more"
+    },
+    {
+      "start": 2172.4,
+      "duration": 4.52,
+      "text": "lower level, you can leverage the"
+    },
+    {
+      "start": 2174.4,
+      "duration": 3.92,
+      "text": "existing scoring profiles that exist"
+    },
+    {
+      "start": 2176.92,
+      "duration": 3.48,
+      "text": "inside of Azure AI search. So, it's a"
+    },
+    {
+      "start": 2178.32,
+      "duration": 4.52,
+      "text": "little bit more lower level APIs, but"
+    },
+    {
+      "start": 2180.4,
+      "duration": 4.56,
+      "text": "then you can enable things like document"
+    },
+    {
+      "start": 2182.84,
+      "duration": 4.04,
+      "text": "boosting based upon geolocation,"
+    },
+    {
+      "start": 2184.96,
+      "duration": 3.88,
+      "text": "document date,"
+    },
+    {
+      "start": 2186.88,
+      "duration": 3.48,
+      "text": "um, and so on. Uh, keywords, matching"
+    },
+    {
+      "start": 2188.84,
+      "duration": 3.28,
+      "text": "keywords, all these different things."
+    },
+    {
+      "start": 2190.36,
+      "duration": 3.44,
+      "text": "So, we have the different capabilities"
+    },
+    {
+      "start": 2192.12,
+      "duration": 3.8,
+      "text": "to make sure these, you know, sources of"
+    },
+    {
+      "start": 2193.8,
+      "duration": 3.36,
+      "text": "truth, uh, stay at the top, but at the"
+    },
+    {
+      "start": 2195.92,
+      "duration": 3.0,
+      "text": "at the end of the day, we are a"
+    },
+    {
+      "start": 2197.16,
+      "duration": 3.36,
+      "text": "retrieval system and retrieval engine,"
+    },
+    {
+      "start": 2198.92,
+      "duration": 3.56,
+      "text": "so we want to honor and give the most"
+    },
+    {
+      "start": 2200.52,
+      "duration": 4.28,
+      "text": "comprehensive suite of customization"
+    },
+    {
+      "start": 2202.48,
+      "duration": 5.44,
+      "text": "capabilities tailored to whatever, uh,"
+    },
+    {
+      "start": 2204.8,
+      "duration": 4.8,
+      "text": "your your uh, unmet need really is."
+    },
+    {
+      "start": 2207.92,
+      "duration": 3.8,
+      "text": "Thank you so much, Farzad. I know you"
+    },
+    {
+      "start": 2209.6,
+      "duration": 4.76,
+      "text": "you need to leave. I need you have a"
+    },
+    {
+      "start": 2211.72,
+      "duration": 5.16,
+      "text": "flight to catch, but, uh, thank you so"
+    },
+    {
+      "start": 2214.36,
+      "duration": 4.8,
+      "text": "much for joining us today. Uh,"
+    },
+    {
+      "start": 2216.88,
+      "duration": 4.6,
+      "text": "that was very, uh, inspiring and"
+    },
+    {
+      "start": 2219.16,
+      "duration": 4.6,
+      "text": "insightful. So, thank you so much for"
+    },
+    {
+      "start": 2221.48,
+      "duration": 3.44,
+      "text": "joining us and, uh,"
+    },
+    {
+      "start": 2223.76,
+      "duration": 3.32,
+      "text": "um,"
+    },
+    {
+      "start": 2224.92,
+      "duration": 4.84,
+      "text": "yeah, I'm I'm in, um, I'm looking"
+    },
+    {
+      "start": 2227.08,
+      "duration": 5.12,
+      "text": "forward for for all these people to,"
+    },
+    {
+      "start": 2229.76,
+      "duration": 5.4,
+      "text": "you know, deep dive, uh, into Foundry IQ"
+    },
+    {
+      "start": 2232.2,
+      "duration": 5.36,
+      "text": "more and keep coming, um, more questions"
+    },
+    {
+      "start": 2235.16,
+      "duration": 3.92,
+      "text": "that we can answer on on the Friday I"
+    },
+    {
+      "start": 2237.56,
+      "duration": 4.08,
+      "text": "may, um,"
+    },
+    {
+      "start": 2239.08,
+      "duration": 4.28,
+      "text": "uh, next Friday."
+    },
+    {
+      "start": 2241.64,
+      "duration": 4.76,
+      "text": "Awesome. Yeah, I highly recommend"
+    },
+    {
+      "start": 2243.36,
+      "duration": 4.16,
+      "text": "visiting aka.ms/foundryiq,"
+    },
+    {
+      "start": 2246.4,
+      "duration": 3.04,
+      "text": "and you can get all access to the"
+    },
+    {
+      "start": 2247.52,
+      "duration": 3.68,
+      "text": "documentation and all the good stuff,"
+    },
+    {
+      "start": 2249.44,
+      "duration": 3.36,
+      "text": "uh, that I posted that we talked about"
+    },
+    {
+      "start": 2251.2,
+      "duration": 2.92,
+      "text": "earlier. And, uh, yeah, thanks for"
+    },
+    {
+      "start": 2252.8,
+      "duration": 2.88,
+      "text": "having me."
+    },
+    {
+      "start": 2254.12,
+      "duration": 5.2,
+      "text": "Thanks, Farzad."
+    },
+    {
+      "start": 2255.68,
+      "duration": 5.68,
+      "text": "Um, okay, so let's move on, um,"
+    },
+    {
+      "start": 2259.32,
+      "duration": 5.56,
+      "text": "with the deck."
+    },
+    {
+      "start": 2261.36,
+      "duration": 5.6,
+      "text": "Let's see if I am able to do that."
+    },
+    {
+      "start": 2264.88,
+      "duration": 5.72,
+      "text": "So,"
+    },
+    {
+      "start": 2266.96,
+      "duration": 5.32,
+      "text": "okay. Yeah, because I have another, um,"
+    },
+    {
+      "start": 2270.6,
+      "duration": 3.6,
+      "text": "resource, uh,"
+    },
+    {
+      "start": 2272.28,
+      "duration": 4.6,
+      "text": "um, another resource to share with you"
+    },
+    {
+      "start": 2274.2,
+      "duration": 5.92,
+      "text": "all, uh, if you want to deep dive in in"
+    },
+    {
+      "start": 2276.88,
+      "duration": 7.44,
+      "text": "Foundry IQ more or generally speaking"
+    },
+    {
+      "start": 2280.12,
+      "duration": 8.08,
+      "text": "uh, to, um, Microsoft IQs, uh, more. Uh,"
+    },
+    {
+      "start": 2284.32,
+      "duration": 6.76,
+      "text": "we have the, uh, Microsoft IQ series,"
+    },
+    {
+      "start": 2288.2,
+      "duration": 7.28,
+      "text": "uh, who is going to start on March, uh,"
+    },
+    {
+      "start": 2291.08,
+      "duration": 7.96,
+      "text": "18th. Um, and it's a developer focused"
+    },
+    {
+      "start": 2295.48,
+      "duration": 4.24,
+      "text": "content series designed to explain,"
+    },
+    {
+      "start": 2299.04,
+      "duration": 2.56,
+      "text": "uh,"
+    },
+    {
+      "start": 2299.72,
+      "duration": 5.96,
+      "text": "you know, Microsoft IQ and its"
+    },
+    {
+      "start": 2301.6,
+      "duration": 6.2,
+      "text": "individual IQs including Foundry"
+    },
+    {
+      "start": 2305.68,
+      "duration": 4.12,
+      "text": "Foundry IQ of course which is which will"
+    },
+    {
+      "start": 2307.8,
+      "duration": 4.4,
+      "text": "be the the first one that will be"
+    },
+    {
+      "start": 2309.8,
+      "duration": 3.4,
+      "text": "featured by the series."
+    },
+    {
+      "start": 2312.2,
+      "duration": 3.4,
+      "text": "So"
+    },
+    {
+      "start": 2313.2,
+      "duration": 4.32,
+      "text": "the idea here is that this series will"
+    },
+    {
+      "start": 2315.6,
+      "duration": 4.96,
+      "text": "have developers move beyond you know"
+    },
+    {
+      "start": 2317.52,
+      "duration": 5.88,
+      "text": "basic graph concepts and understand how"
+    },
+    {
+      "start": 2320.56,
+      "duration": 5.44,
+      "text": "Foundry IQ supports knowledge centric"
+    },
+    {
+      "start": 2323.4,
+      "duration": 4.72,
+      "text": "and agent aware AI system bringing"
+    },
+    {
+      "start": 2326.0,
+      "duration": 5.24,
+      "text": "together retrieval but also reasoning"
+    },
+    {
+      "start": 2328.12,
+      "duration": 6.72,
+      "text": "synthesis and orchestration in authentic"
+    },
+    {
+      "start": 2331.24,
+      "duration": 7.16,
+      "text": "workflows. So yeah just wanted to share"
+    },
+    {
+      "start": 2334.84,
+      "duration": 5.08,
+      "text": "this nice series as you go through this"
+    },
+    {
+      "start": 2338.4,
+      "duration": 3.92,
+      "text": "learning journey"
+    },
+    {
+      "start": 2339.92,
+      "duration": 4.56,
+      "text": "in Foundry IQ."
+    },
+    {
+      "start": 2342.32,
+      "duration": 5.04,
+      "text": "And then as I said next Friday we're"
+    },
+    {
+      "start": 2344.48,
+      "duration": 7.28,
+      "text": "going to host our usual"
+    },
+    {
+      "start": 2347.36,
+      "duration": 9.88,
+      "text": "Foundry Friday AMA on Discord."
+    },
+    {
+      "start": 2351.76,
+      "duration": 9.44,
+      "text": "We are going to have as a guest Matthew"
+    },
+    {
+      "start": 2357.24,
+      "duration": 5.52,
+      "text": "who is a PM in the same team as Matthew."
+    },
+    {
+      "start": 2361.2,
+      "duration": 4.76,
+      "text": "So"
+    },
+    {
+      "start": 2362.76,
+      "duration": 5.2,
+      "text": "he's going to you know answer any"
+    },
+    {
+      "start": 2365.96,
+      "duration": 3.44,
+      "text": "any questions we weren't able to cover"
+    },
+    {
+      "start": 2367.96,
+      "duration": 3.2,
+      "text": "today"
+    },
+    {
+      "start": 2369.4,
+      "duration": 6.12,
+      "text": "and maybe more that will come from the"
+    },
+    {
+      "start": 2371.16,
+      "duration": 6.8,
+      "text": "community. So join us on Foundry Discord"
+    },
+    {
+      "start": 2375.52,
+      "duration": 4.12,
+      "text": "and and bring bring your question to the"
+    },
+    {
+      "start": 2377.96,
+      "duration": 3.56,
+      "text": "table. Again it's"
+    },
+    {
+      "start": 2379.64,
+      "duration": 3.44,
+      "text": "all all these are great opportunities to"
+    },
+    {
+      "start": 2381.52,
+      "duration": 3.12,
+      "text": "interact directly with the product"
+    },
+    {
+      "start": 2383.08,
+      "duration": 4.08,
+      "text": "group. So"
+    },
+    {
+      "start": 2384.64,
+      "duration": 5.24,
+      "text": "I think that's that's very unique"
+    },
+    {
+      "start": 2387.16,
+      "duration": 6.64,
+      "text": "opportunities for for you all."
+    },
+    {
+      "start": 2389.88,
+      "duration": 6.4,
+      "text": "And thanks Anna for sharing the link to"
+    },
+    {
+      "start": 2393.8,
+      "duration": 4.6,
+      "text": "the Foundry"
+    },
+    {
+      "start": 2396.28,
+      "duration": 4.52,
+      "text": "Friday AMA"
+    },
+    {
+      "start": 2398.4,
+      "duration": 6.84,
+      "text": "for next Friday."
+    },
+    {
+      "start": 2400.8,
+      "duration": 6.16,
+      "text": "Okay and also Modern Mondays as I said"
+    },
+    {
+      "start": 2405.24,
+      "duration": 4.24,
+      "text": "we host"
+    },
+    {
+      "start": 2406.96,
+      "duration": 4.64,
+      "text": "an episode each Monday. So we have we"
+    },
+    {
+      "start": 2409.48,
+      "duration": 5.52,
+      "text": "are going to have a new episode with a"
+    },
+    {
+      "start": 2411.6,
+      "duration": 7.52,
+      "text": "new topic next week."
+    },
+    {
+      "start": 2415.0,
+      "duration": 5.96,
+      "text": "It will be the 14th episode of season 3"
+    },
+    {
+      "start": 2419.12,
+      "duration": 3.48,
+      "text": "and we're going to cover what's new in"
+    },
+    {
+      "start": 2420.96,
+      "duration": 6.24,
+      "text": "Foundry tools."
+    },
+    {
+      "start": 2422.6,
+      "duration": 9.56,
+      "text": "So make sure to join us for our next"
+    },
+    {
+      "start": 2427.2,
+      "duration": 8.48,
+      "text": "episode as well. And with that,"
+    },
+    {
+      "start": 2432.16,
+      "duration": 6.32,
+      "text": "I'm I will wrap up this this episode."
+    },
+    {
+      "start": 2435.68,
+      "duration": 5.76,
+      "text": "Thank you so much everyone for joining"
+    },
+    {
+      "start": 2438.48,
+      "duration": 5.24,
+      "text": "us today for you know commenting, asking"
+    },
+    {
+      "start": 2441.44,
+      "duration": 5.36,
+      "text": "questions to Foundry um"
+    },
+    {
+      "start": 2443.72,
+      "duration": 4.68,
+      "text": "it was you know great to"
+    },
+    {
+      "start": 2446.8,
+      "duration": 5.6,
+      "text": "hosting this"
+    },
+    {
+      "start": 2448.4,
+      "duration": 6.56,
+      "text": "Q&A uh about Foundry IQ. So thank you so"
+    },
+    {
+      "start": 2452.4,
+      "duration": 5.84,
+      "text": "much for your interest and all the"
+    },
+    {
+      "start": 2454.96,
+      "duration": 7.08,
+      "text": "interactions. And see you soon either"
+    },
+    {
+      "start": 2458.24,
+      "duration": 6.24,
+      "text": "Friday on Discord or next week with"
+    },
+    {
+      "start": 2462.04,
+      "duration": 6.32,
+      "text": "Foundry tools and the next episode of"
+    },
+    {
+      "start": 2464.48,
+      "duration": 3.88,
+      "text": "Modern Mondays. Thank you so much."
+    },
+    {
+      "start": 2470.84,
+      "duration": 4.16,
+      "text": "Thank you all for joining and thanks"
+    },
+    {
+      "start": 2472.48,
+      "duration": 5.0,
+      "text": "again to our speakers."
+    },
+    {
+      "start": 2475.0,
+      "duration": 4.88,
+      "text": "The session is part of a series."
+    },
+    {
+      "start": 2477.48,
+      "duration": 4.68,
+      "text": "To register for future shows and watch"
+    },
+    {
+      "start": 2479.88,
+      "duration": 6.24,
+      "text": "past episodes on demand, you can follow"
+    },
+    {
+      "start": 2482.16,
+      "duration": 5.24,
+      "text": "the link on the screen or in the chat."
+    },
+    {
+      "start": 2486.12,
+      "duration": 3.76,
+      "text": "We're always looking to improve our"
+    },
+    {
+      "start": 2487.4,
+      "duration": 4.12,
+      "text": "sessions and your experience."
+    },
+    {
+      "start": 2489.88,
+      "duration": 4.0,
+      "text": "If you have any feedback for us, we"
+    },
+    {
+      "start": 2491.52,
+      "duration": 4.28,
+      "text": "would love to hear what you have to say."
+    },
+    {
+      "start": 2493.88,
+      "duration": 3.56,
+      "text": "You can find that link on the screen or"
+    },
+    {
+      "start": 2495.8,
+      "duration": 4.88,
+      "text": "in the chat."
+    },
+    {
+      "start": 2497.44,
+      "duration": 3.24,
+      "text": "And we'll see you at the next one."
+    },
+    {
+      "start": 2511.95,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 2519.81,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 2526.36,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 2530.0,
+      "duration": 2.32,
+      "text": ">> Look."
+    },
+    {
+      "start": 2535.53,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 2546.67,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 2562.96,
+      "duration": 2.16,
+      "text": ">> Look."
+    },
+    {
+      "start": 2587.28,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 2604.68,
+      "duration": 2.12,
+      "text": ">> Look."
+    }
+  ]
+}

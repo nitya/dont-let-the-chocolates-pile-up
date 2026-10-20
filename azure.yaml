@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
+name: dont-let-the-chocolates-pile-up
+metadata:
+  template: dont-let-the-chocolates-pile-up@0.1.0
+
+# The Foundry project + Emcee hosted agent are added by `azd ai agent init`
+# (driven by the microsoft-foundry skill). See infra/README.md.
+services:
+  site:
+    project: ./site
+    language: py
+    host: appservice
+    hooks:
+      prepackage:
+        posix:
+          shell: sh
+          run: rm -rf data && cp -r ../data data
+        windows:
+          shell: pwsh
+          run: Remove-Item -Recurse -Force data -ErrorAction SilentlyContinue; Copy-Item -Recurse ../data data

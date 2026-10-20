@@ -1,0 +1,27 @@
+# Secrets / credentials
+.env
+*.env
+cookies*.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Build output
+slides/dist/
+
+# Site runtime state, test temp dirs, local venvs
+site/.state/
+site/.pytest_tmp/
+site/.venv*/
+site/data/
+
+# Evals
+evals/.venv/
+evals/.env
+artifacts/
+
+# Emcee agents (separate venv: agent-framework needs mcp<2, the site pins mcp 2.x)
+agents/.venv*/
+agents/.env
+agents/.out/

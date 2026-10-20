@@ -1,0 +1,3061 @@
+{
+  "source": {
+    "repo": "https://github.com/microsoft/model-mondays",
+    "commit": "31a23c47f78aacfaa1da55767a5715acad49966b",
+    "importedAt": "2026-10-20T00:07:08+00:00",
+    "license": "MIT"
+  },
+  "episodes": [
+    {
+      "id": "s1-e01",
+      "season": 1,
+      "episode": 1,
+      "date": "2025-03-10",
+      "time": "",
+      "title": "Hands on With GitHub Models",
+      "description": "Welcome to the kickoff episode of Model Mondays exploring GitHub Models, model comparison, and the Azure Inference API for seamless model integration.",
+      "host": "",
+      "speakers": [
+        "Nitya Narasimhan"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E1.webp",
+      "page": "episodes/s1-e01.md",
+      "highlights": [
+        {
+          "title": "Empowering innovation: the next generation of the Phi family",
+          "url": "https://azure.microsoft.com//blog/empowering-innovation-the-next-generation-of-the-phi-family/",
+          "description": ""
+        },
+        {
+          "title": "Introducing Microsoft Foundry Labs: A hub for the latest AI research and experiments at Microsoft",
+          "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft",
+          "description": ""
+        },
+        {
+          "title": "Better Search, Smarter AI: Cohere Rerank v3.5",
+          "url": "https://techcommunity.microsoft.com/blog/machinelearningblog/better-search-smarter-ai-cohere-rerank-v3-5-launches-on-azure-ai-foundry/4386392",
+          "description": ""
+        },
+        {
+          "title": "Announcing DeepSeek-V3 on Microsoft Foundry and GitHub",
+          "url": "https://techcommunity.microsoft.com/blog/machinelearningblog/announcing-deepseek-v3-on-azure-ai-foundry-and-github/4390438",
+          "description": ""
+        },
+        {
+          "title": "Introducing Stability AI Generative Visual Models to Microsoft Foundry",
+          "url": "https://techcommunity.microsoft.com/blog/machinelearningblog/introducing-stability-ai-generative-visual-models-to-azure-ai-foundry/4377271",
+          "description": ""
+        }
+      ],
+      "spotlight": {
+        "title": "Hands on With GitHub Models",
+        "speakers": [
+          "Nitya Narasimhan"
+        ],
+        "description": "Introduction to GitHub Models exploring model catalog, playground, and Azure Inference API for easy model interaction.",
+        "resources": [
+          {
+            "title": "The GitHub Models Marketplace",
+            "url": "https://github.com/marketplace/models",
+            "description": ""
+          },
+          {
+            "title": "The GitHub Models Codespaces Template",
+            "url": "https://github.com/github/codespaces-models",
+            "description": ""
+          },
+          {
+            "title": "The GitHub Models Documentation",
+            "url": "https://docs.github.com/en/github-models",
+            "description": ""
+          },
+          {
+            "title": "Microsoft Foundry Model Catalog",
+            "url": "https://ai.azure.com/explore/models",
+            "description": ""
+          },
+          {
+            "title": "Azure AI Model Inference API",
+            "url": "https://learn.microsoft.com/en-us/azure/machine-learning/reference-model-inference-api?view=azureml-api-2&tabs=python",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=20&pp=iAQB",
+        "blog": "https://techcommunity.microsoft.com/blog/machinelearningblog/introducing-model-mondays-%E2%80%93-your-ai-model-power-up/4390773",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-03-10-s01-e01.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E1.png"
+      },
+      "youtube": {
+        "videoId": "dohvGc7eyqU",
+        "url": "https://www.youtube.com/watch?v=dohvGc7eyqU",
+        "title": "Model Mondays – Hands On With GitHub Models",
+        "publishedAt": "2025-03-10T17:30:06Z",
+        "liveStatus": "none",
+        "durationSec": 1952,
+        "viewCount": 1733,
+        "likeCount": 43,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/dohvGc7eyqU.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e02",
+      "season": 1,
+      "episode": 2,
+      "date": "2025-03-17",
+      "time": "",
+      "title": "Hands on With Reasoning Models",
+      "description": "In this episode, we dive into the fascinating world of Reasoning Models exploring what they are, how they work, and when to use them for complex problem-solving.",
+      "host": "",
+      "speakers": [
+        "Jennifer Marsman"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E2.webp",
+      "page": "episodes/s1-e02.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Reasoning Models",
+        "speakers": [
+          "Jennifer Marsman"
+        ],
+        "description": "Deep dive into reasoning models with Jennifer Marsman, exploring how these models work, their use cases, and when to use them.",
+        "resources": [
+          {
+            "title": "The GitHub Marketplace",
+            "url": "https://github.com/marketplace/models",
+            "description": ""
+          },
+          {
+            "title": "Microsoft Foundry Model Catalog",
+            "url": "https://ai.azure.com/explore/models",
+            "description": ""
+          },
+          {
+            "title": "Jennifer Marsman's Sample Repo",
+            "url": "https://github.com/jennifermarsman/o1Analysis",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=nTqr4pzxF-k&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=19&pp=iAQB",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-03-17-s01-e02.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E2.png"
+      },
+      "youtube": {
+        "videoId": "nTqr4pzxF-k",
+        "url": "https://www.youtube.com/watch?v=nTqr4pzxF-k",
+        "title": "Model Mondays – Hands on with Reasoning Models (o1 and beyond)",
+        "publishedAt": "2025-03-17T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 2117,
+        "viewCount": 879,
+        "likeCount": 21,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/nTqr4pzxF-k.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e03",
+      "season": 1,
+      "episode": 3,
+      "date": "2025-03-24",
+      "time": "",
+      "title": "Hands on With Search & Retrieval Models",
+      "description": "Dive into the world of Search & Retrieval Models with Cohere, learning why rerank models are the secret sauce of high-quality search.",
+      "host": "",
+      "speakers": [
+        "Neel Gokhale (Cohere)"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E3.webp",
+      "page": "episodes/s1-e03.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Search & Retrieval Models",
+        "speakers": [
+          "Neel Gokhale (Cohere)"
+        ],
+        "description": "Exploring search and retrieval models with Cohere's Neel Gokhale, focusing on rerank models and their applications.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=Qs4fdy17b40&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=18&pp=iAQB",
+        "blog": "https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-why-rerank-models-are-the-secret-sauce-of-high-quality-search/4396032",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-03-24-s01-e03.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E3.png"
+      },
+      "youtube": {
+        "videoId": "Qs4fdy17b40",
+        "url": "https://www.youtube.com/watch?v=Qs4fdy17b40",
+        "title": "Model Mondays - Hands-on with Search & Retrieval Models",
+        "publishedAt": "2025-03-24T17:30:15Z",
+        "liveStatus": "none",
+        "durationSec": 2005,
+        "viewCount": 862,
+        "likeCount": 25,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/Qs4fdy17b40.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e04",
+      "season": 1,
+      "episode": 4,
+      "date": "2025-04-07",
+      "time": "",
+      "title": "Hands on With Visual Generative Models",
+      "description": "Dive into the fascinating world of Visual Generative Models with Ken Hoge of Stability AI, learning about Stable Diffusion and creative AI.",
+      "host": "",
+      "speakers": [
+        "Ken Hoge (Stability AI)"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E4.webp",
+      "page": "episodes/s1-e04.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Visual Generative Models",
+        "speakers": [
+          "Ken Hoge (Stability AI)"
+        ],
+        "description": "Exploring visual generative models with Stability AI, focusing on image generation and creative applications.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=kDR09m_cUKs&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=17&pp=iAQB",
+        "blog": "https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-04-07-s01-e04.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E4.png"
+      },
+      "youtube": {
+        "videoId": "kDR09m_cUKs",
+        "url": "https://www.youtube.com/watch?v=kDR09m_cUKs",
+        "title": "Model Mondays - Hands-on with Visual Generative Models",
+        "publishedAt": "2025-03-31T17:30:27Z",
+        "liveStatus": "none",
+        "durationSec": 1962,
+        "viewCount": 729,
+        "likeCount": 25,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/kDR09m_cUKs.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e05",
+      "season": 1,
+      "episode": 5,
+      "date": "2025-04-14",
+      "time": "",
+      "title": "Hands on With Fine-Tuning Models",
+      "description": "Learn how to fine-tune models to adapt them to your specific use cases, improving performance and relevance.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E5.webp",
+      "page": "episodes/s1-e05.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Fine-Tuning Models",
+        "speakers": [],
+        "description": "Teaching your model new tricks with fine-tuning, exploring Mistral and customization techniques.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=iCPl693s3dA&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=16&pp=iAQB",
+        "blog": "https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-fine-tuning-models"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-04-14-s01-e05.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E5.png"
+      },
+      "youtube": {
+        "videoId": "iCPl693s3dA",
+        "url": "https://www.youtube.com/watch?v=iCPl693s3dA",
+        "title": "Model Mondays - Hands-on with Fine-Tuning Models",
+        "publishedAt": "2025-04-07T17:30:33Z",
+        "liveStatus": "none",
+        "durationSec": 2151,
+        "viewCount": 696,
+        "likeCount": 25,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/iCPl693s3dA.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e06",
+      "season": 1,
+      "episode": 6,
+      "date": "2025-04-21",
+      "time": "",
+      "title": "Hands on With Local AI Development",
+      "description": "Explore local AI development with AI Toolkit, learning how to run models on your own hardware.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E6.webp",
+      "page": "episodes/s1-e06.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Local AI Development",
+        "speakers": [],
+        "description": "Bringing AI home with local development using AI Toolkit and on-device models.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=MgIfvEEZN7o&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=15&pp=iAQB",
+        "blog": "https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-bringing-ai-home-with-local-development/4403619",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e6-hands-on-with-local-ai-development"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-04-21-s01-e06.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E6.png"
+      },
+      "youtube": {
+        "videoId": "MgIfvEEZN7o",
+        "url": "https://www.youtube.com/watch?v=MgIfvEEZN7o",
+        "title": "Model Mondays - Hands-on with Local AI Development",
+        "publishedAt": "2025-04-14T17:30:10Z",
+        "liveStatus": "none",
+        "durationSec": 2068,
+        "viewCount": 1266,
+        "likeCount": 35,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/MgIfvEEZN7o.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e07",
+      "season": 1,
+      "episode": 7,
+      "date": "2025-04-28",
+      "time": "",
+      "title": "Hands on With Open Source Models",
+      "description": "Dive into the world of open source AI models, exploring Llama 4 and how to leverage open source in your projects.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E7.webp",
+      "page": "episodes/s1-e07.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Open Source Models",
+        "speakers": [],
+        "description": "Exploring open source models with Meta's Llama 4 and the broader open source ecosystem.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=2E842zOGIyI&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=14&pp=iAQB",
+        "blog": "https://techcommunity.microsoft.com/blog/aiplatformblog/expanding-the-llama-4-herd-new-models-now-available-on-azure-ai-foundry/4403609",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s1-e7-hands-on-with-open-source-models"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-04-28-s01-e07.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E7.png"
+      },
+      "youtube": {
+        "videoId": "2E842zOGIyI",
+        "url": "https://www.youtube.com/watch?v=2E842zOGIyI",
+        "title": "Model Mondays - Hands-on with Open Source and AI Models",
+        "publishedAt": "2025-04-21T17:30:16Z",
+        "liveStatus": "none",
+        "durationSec": 2228,
+        "viewCount": 1037,
+        "likeCount": 36,
+        "commentCount": 2,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/2E842zOGIyI.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s1-e08",
+      "season": 1,
+      "episode": 8,
+      "date": "2025-05-05",
+      "time": "",
+      "title": "Hands on With Forecasting Models",
+      "description": "Learn about forecasting models and how to use them for time series prediction and analysis.",
+      "host": "",
+      "speakers": [
+        "Nixtla (TimeGEN)"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S1-E8.webp",
+      "page": "episodes/s1-e08.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Hands on With Forecasting Models",
+        "speakers": [
+          "Nixtla (TimeGEN)"
+        ],
+        "description": "Exploring forecasting models and time series prediction with Nixtla's TimeGEN.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=_I6qDdp5Vo4&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=13&pp=iAQB0gcJCcMJAYcqIYzv"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-05-05-s01-e08.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S1-E8.png"
+      },
+      "youtube": {
+        "videoId": "_I6qDdp5Vo4",
+        "url": "https://www.youtube.com/watch?v=_I6qDdp5Vo4",
+        "title": "Model Mondays - Hands-on with Forecasting Models",
+        "publishedAt": "2025-04-28T17:30:52Z",
+        "liveStatus": "none",
+        "durationSec": 2285,
+        "viewCount": 779,
+        "likeCount": 27,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/_I6qDdp5Vo4.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e01",
+      "season": 2,
+      "episode": 1,
+      "date": "2025-06-16",
+      "time": "1:30pm ET",
+      "title": "Advanced Reasoning Models",
+      "description": "Season 2 kicks off with a deep dive into advanced reasoning models, exploring how models like DeepSeek R1 and Azure OpenAI's o-series are pushing the boundaries of problem-solving and decision-making.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Marlene Mhangami"
+      ],
+      "status": "completed",
+      "tags": [
+        "reasoning",
+        "DeepSeek",
+        "LangChain",
+        "advanced-ai",
+        "chain-of-thought"
+      ],
+      "banner": "banners/S2-E1.webp",
+      "page": "episodes/s2-e01.md",
+      "highlights": [
+        {
+          "title": "Microsoft Foundry Model Catalog Expansion",
+          "url": "https://azure.microsoft.com/blog/",
+          "description": "New models from DeepSeek, XAI, Meta, and Mistral now available under Microsoft service terms."
+        },
+        {
+          "title": "Video Playground Launch",
+          "url": "https://ai.azure.com",
+          "description": "New prompt-to-video generation capability in Microsoft Foundry with exportable code."
+        },
+        {
+          "title": "Model Router GA",
+          "url": "https://learn.microsoft.com/azure/ai-foundry",
+          "description": "Automatic model selection optimizing for cost and performance now generally available."
+        },
+        {
+          "title": "Grok 3 Models Available",
+          "url": "https://azure.microsoft.com",
+          "description": "Grok 3 and Grok 3 Mini with long context and advanced reasoning now in catalog."
+        },
+        {
+          "title": "DeepSeek R1-10528 Release",
+          "url": "https://deepseek.com",
+          "description": "Improved reasoning with hallucination blocking, ideal for agents and co-pilots."
+        }
+      ],
+      "spotlight": {
+        "title": "Building a Deep Researcher with DeepSeek R1 and LangChain",
+        "speakers": [
+          "Marlene Mhangami"
+        ],
+        "description": "Hands-on demonstration of leveraging reasoning models to build intelligent research applications using DeepSeek and LangChain.",
+        "resources": [
+          {
+            "title": "How to use reasoning models with Microsoft Foundry",
+            "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/how-to/use-chat-reasoning",
+            "type": "documentation"
+          },
+          {
+            "title": "Deep Researcher Lab (Build)",
+            "url": "https://aka.ms/build/lab331",
+            "type": "lab"
+          },
+          {
+            "title": "Tutorial: Get started with DeepSeek-R1",
+            "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/tutorials/get-started-deepseek-r1",
+            "type": "documentation"
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "registration": "https://developer.microsoft.com/en-us/reactor/events/25905/",
+        "recording": "https://aka.ms/model-mondays/playlist",
+        "recap": "https://github.com/orgs/azure-ai-foundry/discussions/55",
+        "announcement": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/season-02/announcements/e1-announce.md",
+        "summary": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/season-02/summaries/e01-summary.md"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-06-16-s02-e01.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E1.png"
+      },
+      "youtube": {
+        "videoId": "ffxUEenM4B8",
+        "url": "https://www.youtube.com/watch?v=ffxUEenM4B8",
+        "title": "Model Mondays - Advanced Reasoning",
+        "publishedAt": "2025-06-16T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 2110,
+        "viewCount": 1083,
+        "likeCount": 38,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/ffxUEenM4B8.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.29,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e02",
+      "season": 2,
+      "episode": 2,
+      "date": "2025-06-23",
+      "time": "",
+      "title": "Model Context Protocol",
+      "description": "Deep dive into Model Context Protocol (MCP) exploring how it enables better context sharing and model interactions.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E2.webp",
+      "page": "episodes/s2-e02.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Model Context Protocol",
+        "speakers": [],
+        "description": "Understanding Model Context Protocol and how to leverage it for improved model interactions.",
+        "resources": [
+          {
+            "title": "Model Context Protocol Documentation",
+            "url": "https://modelcontextprotocol.io/",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=cPS3cWRZTps&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=9&pp=iAQB",
+        "recap": "https://github.com/orgs/azure-ai-foundry/discussions/64",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e02-model-context-protocol",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e2---understanding-model-context-protocol-mcp/4427914"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-06-23-s02-e02.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E2.png"
+      },
+      "youtube": {
+        "videoId": "cPS3cWRZTps",
+        "url": "https://www.youtube.com/watch?v=cPS3cWRZTps",
+        "title": "Model Mondays - Model Context Protocol",
+        "publishedAt": "2025-06-23T17:30:34Z",
+        "liveStatus": "none",
+        "durationSec": 1831,
+        "viewCount": 1077,
+        "likeCount": 21,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/cPS3cWRZTps.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e03",
+      "season": 2,
+      "episode": 3,
+      "date": "2025-06-30",
+      "time": "",
+      "title": "SLMs and Reasoning",
+      "description": "Exploring Small Language Models (SLMs) and their reasoning capabilities, learning when and how to use them effectively.",
+      "host": "",
+      "speakers": [
+        "Mojan Javaheripi"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E3.webp",
+      "page": "episodes/s2-e03.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "SLMs and Reasoning",
+        "speakers": [
+          "Mojan Javaheripi"
+        ],
+        "description": "Understanding Small Language Models and how they leverage reasoning capabilities.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=VLQKZq8L9Uk&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=1&pp=iAQB",
+        "recap": "https://github.com/orgs/azure-ai-foundry/discussions/76",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e02-model-context-protocol",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/s2e3-understanding-slms-and-reasoning-with-mojan-javaheripi/4429758"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-06-30-s02-e03.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E3.png"
+      },
+      "youtube": {
+        "videoId": "VLQKZq8L9Uk",
+        "url": "https://www.youtube.com/watch?v=VLQKZq8L9Uk",
+        "title": "Model Mondays - Small Language Models",
+        "publishedAt": "2025-06-30T17:30:32Z",
+        "liveStatus": "none",
+        "durationSec": 2287,
+        "viewCount": 1089,
+        "likeCount": 27,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/VLQKZq8L9Uk.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e04",
+      "season": 2,
+      "episode": 4,
+      "date": "2025-07-07",
+      "time": "",
+      "title": "AI & Dev Experience",
+      "description": "Exploring AI-powered developer experiences and tools that enhance productivity and code quality.",
+      "host": "",
+      "speakers": [
+        "Leo Yao"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E4.webp",
+      "page": "episodes/s2-e04.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "AI & Dev Experience",
+        "speakers": [
+          "Leo Yao"
+        ],
+        "description": "Understanding how AI is transforming the developer experience with tools and workflows.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=tNiFbf3XP6k&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=11&pp=iAQB",
+        "recap": "https://discord.gg/azureaifoundry?event=1382861578201858058",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e04-ai-developer-experiences",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/s2e4-understanding-ai-developer-experiences-with-leo-yao/4431643"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-07-07-s02-e04.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E4.png"
+      },
+      "youtube": {
+        "videoId": "tNiFbf3XP6k",
+        "url": "https://www.youtube.com/watch?v=tNiFbf3XP6k",
+        "title": "Model Mondays - AI & Developer Experience",
+        "publishedAt": "2025-07-07T17:30:55Z",
+        "liveStatus": "none",
+        "durationSec": 2023,
+        "viewCount": 1458,
+        "likeCount": 34,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/tNiFbf3XP6k.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e05",
+      "season": 2,
+      "episode": 5,
+      "date": "2025-07-14",
+      "time": "",
+      "title": "Fine-Tuning & Distillation",
+      "description": "Learn about fine-tuning and distillation techniques to customize and optimize models for your specific needs.",
+      "host": "",
+      "speakers": [
+        "Dave Voutila"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E5.webp",
+      "page": "episodes/s2-e05.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Fine-Tuning & Distillation",
+        "speakers": [
+          "Dave Voutila"
+        ],
+        "description": "Deep dive into fine-tuning and model distillation techniques for optimizing model performance.",
+        "resources": []
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=VSNGzBB20aw&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=10&pp=iAQB",
+        "recap": "https://discord.gg/azureaifoundry?event=1382862245721014476",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e05-fine-tuning-and-distillation",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e5-%E2%80%93-fine-tuning--distillation-with-dave-voutila/4433445"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-07-14-s02-e05.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E5.png"
+      },
+      "youtube": {
+        "videoId": "VSNGzBB20aw",
+        "url": "https://www.youtube.com/watch?v=VSNGzBB20aw",
+        "title": "Model Mondays - Fine Tuning & Distillation",
+        "publishedAt": "2025-07-14T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 2746,
+        "viewCount": 1243,
+        "likeCount": 42,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/VSNGzBB20aw.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e06",
+      "season": 2,
+      "episode": 6,
+      "date": "2025-07-21",
+      "time": "",
+      "title": "Research & Innovation",
+      "description": "Deep dive into AI research and innovation with Microsoft researchers, plus a customer story from Capacity.",
+      "host": "",
+      "speakers": [
+        "Seokjin Han and Saumil Shrivastava"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E6.webp",
+      "page": "episodes/s2-e06.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Research & Innovation",
+        "speakers": [
+          "Seokjin Han and Saumil Shrivastava"
+        ],
+        "description": "Exploring cutting-edge AI research and innovation from Microsoft Research.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "Capacity Answer Engine",
+        "company": "Capacity",
+        "description": "How Capacity's Answer Engine uses Microsoft Foundry models to unlock insights from organizational knowledge."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=chjpVSrk3jA",
+        "recap": "https://discord.gg/D7bAFEwj?event=1382862595849064548",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e06-research-and-innovation",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/s2e6-understanding-research--innovation-with-seokjin-han-and-saumil-shrivastava/4436717"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-07-21-s02-e06.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E6.png"
+      },
+      "youtube": {
+        "videoId": "chjpVSrk3jA",
+        "url": "https://www.youtube.com/watch?v=chjpVSrk3jA",
+        "title": "Model Mondays - Research & Innovation",
+        "publishedAt": "2025-07-21T17:30:09Z",
+        "liveStatus": "none",
+        "durationSec": 2850,
+        "viewCount": 607,
+        "likeCount": 24,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/chjpVSrk3jA.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e07",
+      "season": 2,
+      "episode": 7,
+      "date": "2025-07-28",
+      "time": "",
+      "title": "AI-Assisted Azure Development",
+      "description": "Learn about AI-assisted Azure development and hear from SightMachine on manufacturing AI applications.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E7.webp",
+      "page": "episodes/s2-e07.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "AI-Assisted Azure Development",
+        "speakers": [],
+        "description": "Exploring AI-assisted development tools and workflows for Azure applications.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "SightMachine Manufacturing AI",
+        "company": "SightMachine",
+        "description": "How SightMachine uses AI agents and ML applications for manufacturing predictive maintenance and optimization."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=mSrg1uP136g&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=8&pp=iAQB",
+        "recap": "https://discord.gg/qxuvxPBR?event=1382862912804360354",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e07-ai-assisted-azure-development-dd9b8e9e-de8f-45ad-ba0b-beaa3001e507",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/s2e7-%C2%B7-ai-assisted-azure-development/4438177"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-07-28-s02-e07.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E7.png"
+      },
+      "youtube": {
+        "videoId": "mSrg1uP136g",
+        "url": "https://www.youtube.com/watch?v=mSrg1uP136g",
+        "title": "Model Mondays - AI-Assisted Azure Development",
+        "publishedAt": "2025-07-28T17:30:18Z",
+        "liveStatus": "none",
+        "durationSec": 3215,
+        "viewCount": 1307,
+        "likeCount": 44,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/mSrg1uP136g.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e08",
+      "season": 2,
+      "episode": 8,
+      "date": "2025-08-04",
+      "time": "",
+      "title": "On-Device & Local AI",
+      "description": "Deep dive into on-device and local AI capabilities, plus a customer story from Xander on memory AI.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E8.webp",
+      "page": "episodes/s2-e08.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "On-Device & Local AI",
+        "speakers": [],
+        "description": "Exploring on-device and local AI deployment strategies and best practices.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "Xander Memory AI",
+        "company": "Xander",
+        "description": "How Xander uses AI to capture and curate personal stories and memories."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=ILBDDCJ0d9g&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=7&pp=iAQB",
+        "recap": "https://discord.gg/azureaifoundry?event=1382863345777901670",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e08-on-device-and-local-ai",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e8-on-device--local-ai/4440693"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-08-04-s02-e08.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E8.png"
+      },
+      "youtube": {
+        "videoId": "ILBDDCJ0d9g",
+        "url": "https://www.youtube.com/watch?v=ILBDDCJ0d9g",
+        "title": "Model Mondays - On-Device & Local AI",
+        "publishedAt": "2025-08-04T17:31:47Z",
+        "liveStatus": "none",
+        "durationSec": 3096,
+        "viewCount": 1316,
+        "likeCount": 30,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/ILBDDCJ0d9g.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e09",
+      "season": 2,
+      "episode": 9,
+      "date": "2025-08-11",
+      "time": "",
+      "title": "AI Agents",
+      "description": "Explore AI agents and autonomous systems, plus a customer story from Atomicwork on agentic AI.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E9.webp",
+      "page": "episodes/s2-e09.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "AI Agents",
+        "speakers": [],
+        "description": "Understanding AI agents and how to build autonomous systems with models.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "Atomicwork Agentic Systems",
+        "company": "Atomicwork",
+        "description": "How Atomicwork designs integrated AI systems that learn and adapt to task context."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=fjSxraAmGMI&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=6&pp=iAQB0gcJCcMJAYcqIYzv",
+        "recap": "https://discord.gg/azureaifoundry?event=1382863654961025174",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e09-ai-agents",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e9-models-for-ai-agents/4443162"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-08-11-s02-e09.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E9.png"
+      },
+      "youtube": {
+        "videoId": "fjSxraAmGMI",
+        "url": "https://www.youtube.com/watch?v=fjSxraAmGMI",
+        "title": "Model Mondays - AI Agents",
+        "publishedAt": "2025-08-11T17:30:18Z",
+        "liveStatus": "none",
+        "durationSec": 3206,
+        "viewCount": 2529,
+        "likeCount": 84,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/fjSxraAmGMI.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e10",
+      "season": 2,
+      "episode": 10,
+      "date": "2025-08-18",
+      "time": "",
+      "title": "Document Processing",
+      "description": "Learn about AI-powered document processing and hear from Oracle Health on clinical AI applications.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E10.webp",
+      "page": "episodes/s2-e10.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Document Processing",
+        "speakers": [],
+        "description": "Automating document processing with AI models for extraction and analysis.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "Oracle Health Clinical AI",
+        "company": "Oracle",
+        "description": "How fine tuning helps improve quality and reduce latency in clinical AI settings."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=tqOecUt_wCc&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=5&pp=iAQB",
+        "recap": "https://discord.gg/azureaifoundry?event=1382864122902745228",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e10-document-processing",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e10-automating-document-processing-with-ai/4446093"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-08-18-s02-e10.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E10.png"
+      },
+      "youtube": {
+        "videoId": "tqOecUt_wCc",
+        "url": "https://www.youtube.com/watch?v=tqOecUt_wCc",
+        "title": "Model Mondays - Document Processing",
+        "publishedAt": "2025-08-18T17:30:23Z",
+        "liveStatus": "none",
+        "durationSec": 2890,
+        "viewCount": 1312,
+        "likeCount": 32,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/tqOecUt_wCc.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e11",
+      "season": 2,
+      "episode": 11,
+      "date": "2025-08-25",
+      "time": "",
+      "title": "AI Foundry Speech Playground",
+      "description": "Deep dive into speech AI in Microsoft Foundry, plus a customer story from Healow on multimodal healthcare AI.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E11.webp",
+      "page": "episodes/s2-e11.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "AI Foundry Speech Playground",
+        "speakers": [],
+        "description": "Exploring speech AI capabilities in Microsoft Foundry for voice applications.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "Healow Multimodal Healthcare",
+        "company": "Healow",
+        "description": "How Healow uses multimodal AI to enhance healthcare experiences."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=Rr4iSCyE7IY&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=4&pp=iAQB",
+        "recap": "https://discord.gg/azureaifoundry?event=1382864441191960696",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e11-ai-foundry-speech-playground",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e11-exploring-speech-ai-in-azure-ai-foundry/4448135"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-08-25-s02-e11.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E11.png"
+      },
+      "youtube": {
+        "videoId": "Rr4iSCyE7IY",
+        "url": "https://www.youtube.com/watch?v=Rr4iSCyE7IY",
+        "title": "Model Mondays - Speech Playgrounds",
+        "publishedAt": "2025-08-25T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 2781,
+        "viewCount": 734,
+        "likeCount": 26,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/Rr4iSCyE7IY.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e12",
+      "season": 2,
+      "episode": 12,
+      "date": "2025-09-08",
+      "time": "",
+      "title": "Models & Observability",
+      "description": "Explore model observability and monitoring, plus a customer story from Saifr on compliance AI.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E12.webp",
+      "page": "episodes/s2-e12.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Models & Observability",
+        "speakers": [],
+        "description": "Understanding model observability and monitoring for production AI systems.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "Saifr Compliance AI",
+        "company": "Saifr",
+        "description": "How Saifr's AI solutions help financial service developers create compliant apps and agents."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=gEH2ACNf5b0&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB",
+        "recap": "https://discord.gg/azureaifoundry?event=1382864811649536120",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e12-models-and-observability",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e12-models--observability/4452789"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-09-08-s02-e12.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E12.png"
+      },
+      "youtube": {
+        "videoId": "gEH2ACNf5b0",
+        "url": "https://www.youtube.com/watch?v=gEH2ACNf5b0",
+        "title": "Model Mondays - Models & Observability",
+        "publishedAt": "2025-09-08T17:31:00Z",
+        "liveStatus": "none",
+        "durationSec": 3267,
+        "viewCount": 1022,
+        "likeCount": 37,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/gEH2ACNf5b0.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s2-e13",
+      "season": 2,
+      "episode": 13,
+      "date": "2025-09-15",
+      "time": "",
+      "title": "Open-Source Models (Hugging Face)",
+      "description": "Deep dive into open-source models and Hugging Face, plus a customer story from DraftWise on legal AI.",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S2-E13.webp",
+      "page": "episodes/s2-e13.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Open-Source Models (Hugging Face)",
+        "speakers": [],
+        "description": "Exploring the world of open-source models with Hugging Face integration.",
+        "resources": []
+      },
+      "customerStory": {
+        "title": "DraftWise Legal AI",
+        "company": "DraftWise",
+        "description": "How AI models are revolutionizing legal contracting with DraftWise."
+      },
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=BANtEq-0FsE",
+        "recap": "https://discord.gg/Z8JZsrP5P5?event=1414657387062628442",
+        "slides": "https://speakerdeck.com/nitya/model-mondays-s2e13-open-source-models-and-hugging-face",
+        "blog": "https://techcommunity.microsoft.com/blog/educatordeveloperblog/model-mondays-s2e13-open-source-models-hugging-face/4454335"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-09-15-s02-e13.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S2-E13.png"
+      },
+      "youtube": {
+        "videoId": "BANtEq-0FsE",
+        "url": "https://www.youtube.com/watch?v=BANtEq-0FsE",
+        "title": "Model Mondays - Open Source Models",
+        "publishedAt": "2025-09-15T17:30:55Z",
+        "liveStatus": "none",
+        "durationSec": 4024,
+        "viewCount": 936,
+        "likeCount": 29,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/BANtEq-0FsE.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e01",
+      "season": 3,
+      "episode": 1,
+      "date": "2025-12-01",
+      "time": "1:30pm ET",
+      "title": "Microsoft Foundry Model Router",
+      "description": "What if you could always pick the perfect model, instantly? See Foundry Model Router make split-second decisions that save money and boost performance.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Sanjeev Jagtap"
+      ],
+      "status": "completed",
+      "tags": [
+        "model-router",
+        "automation",
+        "cost-optimization",
+        "ignite",
+        "foundry"
+      ],
+      "banner": "banners/S3-E1.webp",
+      "page": "episodes/s3-e01.md",
+      "highlights": [
+        {
+          "title": "Model Router GA Announcement",
+          "url": "https://ignite.microsoft.com",
+          "description": "Microsoft Foundry Model Router reaches general availability at Ignite 2025."
+        }
+      ],
+      "spotlight": {
+        "title": "Model Router Deep Dive",
+        "speakers": [
+          "Sanjeev Jagtap"
+        ],
+        "description": "Core AI PM Lead Sanjeev Jagtap discusses the GA announcement at Microsoft Ignite and demonstrates real-world applications.",
+        "resources": [
+          {
+            "title": "Ignite Theater Session THR722",
+            "url": "https://ignite.microsoft.com/en-US/sessions/THR722",
+            "type": "video"
+          },
+          {
+            "title": "AI Tour Lab: Automate Model Selection",
+            "url": "https://github.com/microsoft/aitour26-LTG153-automate-model-selection-and-ai-app-design-with-microsoft-foundry",
+            "type": "lab"
+          }
+        ]
+      },
+      "customerStory": {
+        "title": "Adobe Document Intelligence",
+        "company": "Adobe",
+        "speakers": [],
+        "description": "How Adobe leverages model routing for document processing at scale."
+      },
+      "studyCorner": {
+        "lesson": "L0: Introduction to Models for Beginners",
+        "description": "Overview of the Models for Beginners curriculum and learning path.",
+        "resources": [
+          {
+            "title": "Models for Beginners Curriculum",
+            "url": "https://aka.ms/models-for-beginners"
+          }
+        ]
+      },
+      "links": {
+        "registration": "https://aka.ms/model-mondays/rsvp",
+        "recording": "https://img.youtube.com/vi/zE1tfuPGfFY/hqdefault.jpg"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-12-01-s03-e01.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E1.png"
+      },
+      "youtube": {
+        "videoId": "zE1tfuPGfFY",
+        "url": "https://www.youtube.com/watch?v=zE1tfuPGfFY",
+        "title": "Model Mondays - Model Router",
+        "publishedAt": "2025-12-01T18:32:09Z",
+        "liveStatus": "none",
+        "durationSec": 3072,
+        "viewCount": 573,
+        "likeCount": 21,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/zE1tfuPGfFY.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.33,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e02",
+      "season": 3,
+      "episode": 2,
+      "date": "2025-12-08",
+      "time": "1:30pm ET",
+      "title": "Red Teaming for AI Safety",
+      "description": "Learn how to safeguard your AI agents with red teaming techniques and automated adversarial testing in Microsoft Foundry.",
+      "host": "Nitya Narasimhan",
+      "speakers": [],
+      "status": "completed",
+      "tags": [
+        "red-teaming",
+        "security",
+        "responsible-ai",
+        "ignite",
+        "safety"
+      ],
+      "banner": "banners/S3-E2.webp",
+      "page": "episodes/s3-e02.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "AI Red Teaming Agent in Microsoft Foundry",
+        "speakers": [],
+        "description": "Hands-on exploration of automated red teaming tools and techniques for securing AI applications.",
+        "resources": [
+          {
+            "title": "Ignite Lab: Safeguard Your Agents",
+            "url": "https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-microsoft-foundry",
+            "type": "lab"
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": {
+        "lesson": "L1: Language Models",
+        "description": "Understanding the fundamentals of large language models and how they work.",
+        "resources": []
+      },
+      "links": {
+        "registration": "https://aka.ms/model-mondays/rsvp"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-12-08-s03-e02.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E2.png"
+      },
+      "youtube": {
+        "videoId": "70OCsYjOsbs",
+        "url": "https://www.youtube.com/watch?v=70OCsYjOsbs",
+        "title": "Model Mondays - AI Red Teaming Agent",
+        "publishedAt": "2025-12-08T18:30:49Z",
+        "liveStatus": "none",
+        "durationSec": 4464,
+        "viewCount": 1269,
+        "likeCount": 41,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/70OCsYjOsbs.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.75,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e03",
+      "season": 3,
+      "episode": 3,
+      "date": "2025-12-15",
+      "time": "1:30pm ET",
+      "title": "Foundry Local: Edge AI Applications",
+      "description": "Explore how to deploy AI models locally and at the edge using Microsoft Foundry Local capabilities.",
+      "host": "Nitya Narasimhan",
+      "speakers": [],
+      "status": "completed",
+      "tags": [
+        "edge-ai",
+        "local-deployment",
+        "foundry-local",
+        "multimodal"
+      ],
+      "banner": "banners/S3-E3.webp",
+      "page": "episodes/s3-e03.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Edge AI for Beginners",
+        "speakers": [],
+        "description": "Introduction to deploying models at the edge with hands-on examples and best practices.",
+        "resources": [
+          {
+            "title": "Edge AI for Beginners Module 08",
+            "url": "https://github.com/microsoft/edgeai-for-beginners/blob/main/Module08/README.md",
+            "type": "documentation"
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": {
+        "lesson": "L2: Multimodal Models",
+        "description": "Exploring models that work with text, images, audio, and video.",
+        "resources": []
+      },
+      "links": {
+        "registration": "https://aka.ms/model-mondays/rsvp"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2025-12-15-s03-e03.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E3.png"
+      },
+      "youtube": {
+        "videoId": "2607tZyXJsY",
+        "url": "https://www.youtube.com/watch?v=2607tZyXJsY",
+        "title": "Model Mondays - What’s New In Foundry Local​",
+        "publishedAt": "2025-12-15T18:33:08Z",
+        "liveStatus": "none",
+        "durationSec": 3355,
+        "viewCount": 825,
+        "likeCount": 24,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/2607tZyXJsY.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.25,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e04",
+      "season": 3,
+      "episode": 4,
+      "date": "2026-01-12",
+      "time": "1:30pm ET",
+      "title": "Microsoft Agent Framework",
+      "description": "Explore Microsoft Agent Framework for building scalable AI solutions with multi-agent orchestration.",
+      "host": "Korey Stegared-Pace",
+      "speakers": [
+        "Shawn Henry"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E4.webp",
+      "page": "episodes/s3-e04.md",
+      "highlights": [
+        {
+          "title": "Microsoft Agent Framework",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Build scalable AI solutions with multi-agent orchestration"
+        },
+        {
+          "title": "Microsoft Foundry Updates",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Latest features and capabilities"
+        },
+        {
+          "title": "Agent Development Tools",
+          "url": "https://aka.ms/model-mondays",
+          "description": "New tools for building agentic AI"
+        },
+        {
+          "title": "Multi-Agent Systems",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Architecture patterns and best practices"
+        },
+        {
+          "title": "Production Deployment",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Taking agents from development to production"
+        }
+      ],
+      "spotlight": {
+        "title": "Microsoft Agent Framework",
+        "speakers": [
+          "Shawn Henry"
+        ],
+        "description": "Want to build scalable AI solutions with multi-agent orchestration on Microsoft Foundry? The Microsoft Agent Framework provides a comprehensive platform for creating, managing, and deploying multi-agent systems with enterprise-grade capabilities.",
+        "resources": [
+          {
+            "title": "Microsoft Agent Framework Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Multi-Agent Systems Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Sample Implementations",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": {
+        "lesson": "L3: Reasoning Models",
+        "description": "Deep dive into reasoning models and their applications.",
+        "resources": []
+      },
+      "links": {
+        "registration": "https://aka.ms/model-mondays/rsvp"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-01-12-s03-e04.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E4.png"
+      },
+      "youtube": {
+        "videoId": "z-ijqbPq8zg",
+        "url": "https://www.youtube.com/watch?v=z-ijqbPq8zg",
+        "title": "Model Mondays - Microsoft Agent Framework",
+        "publishedAt": "2026-01-12T18:30:14Z",
+        "liveStatus": "none",
+        "durationSec": 3343,
+        "viewCount": 2971,
+        "likeCount": 58,
+        "commentCount": 2,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/z-ijqbPq8zg.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e05",
+      "season": 3,
+      "episode": 5,
+      "date": "2026-01-19",
+      "time": "",
+      "title": "Responses API",
+      "description": "Join us as Guy Gregory demonstrates the Responses API and explains why this technology matters for agent development. Learn how it streamlines the agent creation workflow by unifying chat completion and assistants API capabilities into a single, cohesive experience on Microsoft Foundry.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Guy Gregory"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E5.webp",
+      "page": "episodes/s3-e05.md",
+      "highlights": [
+        {
+          "title": "OpenAI Responses API",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Unified API for agent creation"
+        },
+        {
+          "title": "Chat Completion Updates",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Latest enhancements and features"
+        },
+        {
+          "title": "Assistants API Evolution",
+          "url": "https://aka.ms/model-mondays",
+          "description": "New capabilities and integrations"
+        },
+        {
+          "title": "Agent Development",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Streamlined workflow for building agents"
+        },
+        {
+          "title": "Microsoft Foundry Integration",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Seamless integration with Foundry services"
+        }
+      ],
+      "spotlight": {
+        "title": "Responses Api",
+        "speakers": [
+          "Guy Gregory"
+        ],
+        "description": "The Responses API is a stateful API from OpenAI that unifies the chat completion and assistants API capabilities in one experience to streamline your agent creation workflow in Microsoft Foundry.",
+        "resources": [
+          {
+            "title": "Responses API Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Migration Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Code Samples",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-01-19-s03-e05.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E5.png"
+      },
+      "youtube": null
+    },
+    {
+      "id": "s3-e06",
+      "season": 3,
+      "episode": 6,
+      "date": "2026-01-26",
+      "time": "",
+      "title": "Fine-Tuning & Responses API (Double Header)",
+      "description": "Join Dave Voutila and Guy Gregory for a comprehensive exploration of fine-tuning and the Responses API. Learn how these technologies work together to enable powerful agent development workflows on Microsoft Foundry, from model customization to production deployment.",
+      "host": "Bethany Jepchumba",
+      "speakers": [
+        "Dave Voutila"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E6.webp",
+      "page": "episodes/s3-e06.md",
+      "highlights": [
+        {
+          "title": "Fine-Tuning in Microsoft Foundry",
+          "url": "https://aka.ms/model-mondays",
+          "description": "New features and tools"
+        },
+        {
+          "title": "Responses API Deep Dive",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Advanced capabilities and patterns"
+        },
+        {
+          "title": "Model Customization",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Best practices for fine-tuning"
+        },
+        {
+          "title": "Developer Experience",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Simplified workflows and tools"
+        },
+        {
+          "title": "Agent Development",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Building production-ready agents"
+        }
+      ],
+      "spotlight": {
+        "title": "Fine-Tuning & Responses Api",
+        "speakers": [
+          "Dave Voutila"
+        ],
+        "description": "Join us for this special double-header tech spotlight covering two key topics for agentic AI development.",
+        "resources": [
+          {
+            "title": "Fine-Tuning Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Responses API Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Code Samples",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-01-26-s03-e06.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E6.png"
+      },
+      "youtube": {
+        "videoId": "vsSleri3RPo",
+        "url": "https://www.youtube.com/watch?v=vsSleri3RPo",
+        "title": "Model Mondays - Code-First with Responses API",
+        "publishedAt": "2026-01-26T18:30:15Z",
+        "liveStatus": "none",
+        "durationSec": 3797,
+        "viewCount": 923,
+        "likeCount": 25,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/vsSleri3RPo.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.25,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e07",
+      "season": 3,
+      "episode": 7,
+      "date": "2026-02-02",
+      "time": "",
+      "title": "Synthetic Data Generation",
+      "description": "Join William Liang as he explores Synthetic Data Generation capabilities in Microsoft Foundry. Discover how to create high-quality, safe, and diverse datasets for model evaluation and fine-tuning, enabling more robust and reliable AI solutions.",
+      "host": "Bethany Jepchumba",
+      "speakers": [
+        "William Liang"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E7.webp",
+      "page": "episodes/s3-e07.md",
+      "highlights": [
+        {
+          "title": "Synthetic Data in Microsoft Foundry",
+          "url": "https://aka.ms/model-mondays",
+          "description": "New capabilities and features"
+        },
+        {
+          "title": "Data Quality",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Ensuring high-quality training data"
+        },
+        {
+          "title": "Model Evaluation",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Testing with synthetic datasets"
+        },
+        {
+          "title": "Fine-Tuning Best Practices",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Optimizing model customization"
+        },
+        {
+          "title": "Responsible AI",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Safe and diverse data generation"
+        }
+      ],
+      "spotlight": {
+        "title": "Synthetic Data Generation",
+        "speakers": [
+          "William Liang"
+        ],
+        "description": "Your model development is only as good as the evaluation and fine-tuning datasets you use! But finding high-quality, safe and diverse data is a challenge. Learn how Microsoft Foundry's Synthetic Data Generation capabilities can help.",
+        "resources": [
+          {
+            "title": "Synthetic Data Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Best Practices Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Sample Notebooks",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-02-02-s03-e07.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E7.png"
+      },
+      "youtube": {
+        "videoId": "TVAOBnR49r0",
+        "url": "https://www.youtube.com/watch?v=TVAOBnR49r0",
+        "title": "Model Mondays - Synthetic Data Generation",
+        "publishedAt": "2026-02-02T18:30:20Z",
+        "liveStatus": "none",
+        "durationSec": 2494,
+        "viewCount": 761,
+        "likeCount": 30,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/TVAOBnR49r0.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e08",
+      "season": 3,
+      "episode": 8,
+      "date": "2026-02-09",
+      "time": "",
+      "title": "Foundry Portal & Next-Gen UI",
+      "description": "Join Amir Zur as he showcases the Microsoft Foundry portal and next-gen UI experience. Learn how the platform provides comprehensive end-to-end workflows for agentic AI development, from initial planning through prototype to production deployment.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Amir Zur"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E8.webp",
+      "page": "episodes/s3-e08.md",
+      "highlights": [
+        {
+          "title": "Microsoft Foundry Portal",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Next-generation user interface"
+        },
+        {
+          "title": "End-to-End Workflows",
+          "url": "https://aka.ms/model-mondays",
+          "description": "From planning to production"
+        },
+        {
+          "title": "Developer Experience",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Streamlined development tools"
+        },
+        {
+          "title": "Agentic AI Platform",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Comprehensive agent development"
+        },
+        {
+          "title": "UI/UX Updates",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Enhanced interface and features"
+        }
+      ],
+      "spotlight": {
+        "title": "Foundry Portal & Next-Gen Ui",
+        "speakers": [
+          "Amir Zur"
+        ],
+        "description": "Building agentic AI solutions requires end-to-end workflows that take you from planning to prototype and production. Discover the Microsoft Foundry portal and the next-gen UI experience that makes this journey seamless.",
+        "resources": [
+          {
+            "title": "Foundry Portal Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "UI Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Video Tutorials",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-02-09-s03-e08.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E8.png"
+      },
+      "youtube": {
+        "videoId": "eTtPuc2nz2Y",
+        "url": "https://www.youtube.com/watch?v=eTtPuc2nz2Y",
+        "title": "Model Mondays - Next-Gen UI Experiences",
+        "publishedAt": "2026-02-09T18:31:23Z",
+        "liveStatus": "none",
+        "durationSec": 3099,
+        "viewCount": 912,
+        "likeCount": 17,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/eTtPuc2nz2Y.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.6,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e09",
+      "season": 3,
+      "episode": 9,
+      "date": "2026-02-16",
+      "time": "",
+      "title": "Foundry Labs",
+      "description": "Join Yash Lara as he showcases Foundry Labs and explores cutting-edge projects from Microsoft Research. Learn about Magentic-UI, Fara, Phi-4, and other innovative technologies that are shaping the future of AI development.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Yash Lara"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E9.webp",
+      "page": "episodes/s3-e09.md",
+      "highlights": [
+        {
+          "title": "Foundry Labs Launch",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Experimental models and tools"
+        },
+        {
+          "title": "Magentic-UI",
+          "url": "https://aka.ms/model-mondays",
+          "description": "UI generation with AI"
+        },
+        {
+          "title": "Fara Framework",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Advanced agentic capabilities"
+        },
+        {
+          "title": "Phi-4 Model",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Latest small language model"
+        },
+        {
+          "title": "Microsoft Research",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Cutting-edge AI innovation"
+        }
+      ],
+      "spotlight": {
+        "title": "Foundry Labs",
+        "speakers": [
+          "Yash Lara"
+        ],
+        "description": "Want to experiment with cutting edge models and advanced tools from Microsoft Research? Foundry Labs provides access to experimental projects and innovative technologies before they reach general availability.",
+        "resources": [
+          {
+            "title": "Foundry Labs Portal",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Sample Projects",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-02-16-s03-e09.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E9.png"
+      },
+      "youtube": null
+    },
+    {
+      "id": "s3-e10",
+      "season": 3,
+      "episode": 10,
+      "date": "2026-02-23",
+      "time": "",
+      "title": "Foundry Agents",
+      "description": "Join Bala Venkataraman as he explores Foundry Agents and the comprehensive platform for building AI applications and agents. Learn how the unified runtime and integrated tools streamline your journey from planning to production deployment.",
+      "host": "Carlotta Castelluccio",
+      "speakers": [
+        "Bala Venkataraman"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E10.webp",
+      "page": "episodes/s3-e10.md",
+      "highlights": [
+        {
+          "title": "Foundry Agents Platform",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Unified agent runtime"
+        },
+        {
+          "title": "AI App Factory",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Streamlined development pipeline"
+        },
+        {
+          "title": "Planning to Production",
+          "url": "https://aka.ms/model-mondays",
+          "description": "End-to-end workflows"
+        },
+        {
+          "title": "Agent Management",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Tools and services"
+        },
+        {
+          "title": "Enterprise Deployment",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Production-ready solutions"
+        }
+      ],
+      "spotlight": {
+        "title": "Foundry Agents",
+        "speakers": [
+          "Bala Venkataraman"
+        ],
+        "description": "Microsoft Foundry is your AI app and agent factory. Discover how Foundry Agents provides a unified runtime and comprehensive tools taking you from planning to production with enterprise-grade capabilities.",
+        "resources": [
+          {
+            "title": "Microsoft Foundry Demos",
+            "url": "../../labs/microsoft-foundry/foundry-agents-2026-02/",
+            "description": ""
+          },
+          {
+            "title": "Foundry Agents Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Getting Started Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Architecture Overview",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-02-23-s03-e10.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E10.png"
+      },
+      "youtube": {
+        "videoId": "Gw8Il0qJPD0",
+        "url": "https://www.youtube.com/watch?v=Gw8Il0qJPD0",
+        "title": "Model Mondays - Hands on With Claude + Microsoft Foundry Agent",
+        "publishedAt": "2026-02-23T18:30:13Z",
+        "liveStatus": "none",
+        "durationSec": 4469,
+        "viewCount": 5986,
+        "likeCount": 84,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/Gw8Il0qJPD0.txt",
+        "matchedBy": "override",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e11",
+      "season": 3,
+      "episode": 11,
+      "date": "2026-03-02",
+      "time": "",
+      "title": "Hands-on With BFL + Microsoft Foundry Observability",
+      "description": "Join Sebastian Kohlmeier as he demonstrates the Foundry Control Plane and its capabilities for managing multi-agent systems at enterprise scale. Learn how to monitor, manage, and optimize your AI fleet operations from a unified interface.",
+      "host": "Nitya Narasimhan",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E11.webp",
+      "page": "episodes/s3-e11.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-03-02-s03-e11.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E11-BFL.png"
+      },
+      "youtube": {
+        "videoId": "HGsc6-7Wj_8",
+        "url": "https://www.youtube.com/watch?v=HGsc6-7Wj_8",
+        "title": "Hands-on with Black Forest Labs + Microsoft Foundry Observability",
+        "publishedAt": "2026-03-02T18:30:24Z",
+        "liveStatus": "none",
+        "durationSec": 4029,
+        "viewCount": 2048,
+        "likeCount": 28,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/HGsc6-7Wj_8.txt",
+        "matchedBy": "override",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e12",
+      "season": 3,
+      "episode": 12,
+      "date": "2026-03-09",
+      "time": "",
+      "title": "AI Toolkit",
+      "description": "Join Rong Lu as she showcases the AI Toolkit and demonstrates how it accelerates your development workflow. Learn how to plan, build, evaluate, customize, and deploy agentic AI solutions directly from Visual Studio Code with seamless Microsoft Foundry integration.",
+      "host": "April Gittens",
+      "speakers": [
+        "Leo Yao"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E12.webp",
+      "page": "episodes/s3-e12.md",
+      "highlights": [
+        {
+          "title": "AI Toolkit for VS Code",
+          "url": "https://aka.ms/model-mondays",
+          "description": "IDE-integrated development"
+        },
+        {
+          "title": "End-to-End Workflow",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Plan, build, evaluate, deploy"
+        },
+        {
+          "title": "Developer Experience",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Streamlined IDE integration"
+        },
+        {
+          "title": "Model Customization",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Fine-tuning from VS Code"
+        },
+        {
+          "title": "Microsoft Foundry Integration",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Seamless platform connection"
+        }
+      ],
+      "spotlight": {
+        "title": "Ai Toolkit",
+        "speakers": [
+          "Leo Yao"
+        ],
+        "description": "Want to plan, build, evaluate, customize, and deploy your agentic AI solutions right from your IDE? The AI Toolkit accelerates end-to-end developer experiences with Microsoft Foundry directly in Visual Studio Code.",
+        "resources": [
+          {
+            "title": "AI Toolkit Extension",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Video Tutorials",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-03-09-s03-e12.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E12.png"
+      },
+      "youtube": {
+        "videoId": "LNgzxNloqbg",
+        "url": "https://www.youtube.com/watch?v=LNgzxNloqbg",
+        "title": "Model Mondays - AI Developer Experiences",
+        "publishedAt": "2026-03-09T17:30:15Z",
+        "liveStatus": "none",
+        "durationSec": 3448,
+        "viewCount": 870,
+        "likeCount": 23,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/LNgzxNloqbg.txt",
+        "matchedBy": "override",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e13",
+      "season": 3,
+      "episode": 13,
+      "date": "2026-03-16",
+      "time": "",
+      "title": "Foundry IQ",
+      "description": "Join Farzad Sunavala as he explores Foundry IQ and demonstrates how the unified knowledge layer enables agents to access and utilize enterprise data effectively. Learn about context engineering, retrieval patterns, and best practices for knowledge-powered agents.",
+      "host": "Carlotta Castelluccio",
+      "speakers": [
+        "Farzad Sunavala"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E13.webp",
+      "page": "episodes/s3-e13.md",
+      "highlights": [
+        {
+          "title": "Foundry IQ Launch",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Unified knowledge layer"
+        },
+        {
+          "title": "Azure AI Search Integration",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Powered by enterprise search"
+        },
+        {
+          "title": "Context Engineering",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Enhanced retrieval capabilities"
+        },
+        {
+          "title": "Agent Data Access",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Seamless knowledge integration"
+        },
+        {
+          "title": "Knowledge Management",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Unified information layer"
+        }
+      ],
+      "spotlight": {
+        "title": "Foundry Iq",
+        "speakers": [
+          "Farzad Sunavala"
+        ],
+        "description": "Foundry IQ is a unified knowledge layer powered by Azure AI Search, allowing agents to query and retrieve data for context engineering. Discover how it transforms agent capabilities with intelligent knowledge access.",
+        "resources": [
+          {
+            "title": "Foundry IQ Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Azure AI Search Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Integration Examples",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-03-16-s03-e13.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E13.png"
+      },
+      "youtube": {
+        "videoId": "O8bmP5onfxg",
+        "url": "https://www.youtube.com/watch?v=O8bmP5onfxg",
+        "title": "Model Mondays - What's New In Foundry IQ?",
+        "publishedAt": "2026-03-16T17:30:38Z",
+        "liveStatus": "none",
+        "durationSec": 2605,
+        "viewCount": 1031,
+        "likeCount": 39,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/O8bmP5onfxg.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e14",
+      "season": 3,
+      "episode": 14,
+      "date": "2026-03-23",
+      "time": "",
+      "title": "Foundry Tools & MCP",
+      "description": "Join SeokJin Han as he demonstrates Foundry Tools and the Model Context Protocol integration. Learn how agents can discover and utilize tools through MCP Servers, extending their capabilities with a standardized interface and growing ecosystem.",
+      "host": "Lee Stott",
+      "speakers": [
+        "SeokJin Han"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E14.webp",
+      "page": "episodes/s3-e14.md",
+      "highlights": [
+        {
+          "title": "Foundry Tools Hub",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Central tool discovery"
+        },
+        {
+          "title": "Model Context Protocol",
+          "url": "https://aka.ms/model-mondays",
+          "description": "MCP server integration"
+        },
+        {
+          "title": "Agent Capabilities",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Extended functionality"
+        },
+        {
+          "title": "Tool Integration",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Seamless tool connections"
+        },
+        {
+          "title": "MCP Ecosystem",
+          "url": "https://aka.ms/model-mondays",
+          "description": "Growing tool marketplace"
+        }
+      ],
+      "spotlight": {
+        "title": "Foundry Tools & Mcp",
+        "speakers": [
+          "SeokJin Han"
+        ],
+        "description": "The Foundry Tools provide a central hub for agents to discover and integrate tools (MCP Servers) to extend their capabilities. See the new Foundry MCP Server and discover Foundry Tools in action!",
+        "resources": [
+          {
+            "title": "Foundry Tools Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "MCP Server Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Building MCP Servers",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-03-23-s03-e14.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E14.png"
+      },
+      "youtube": {
+        "videoId": "mV8T9QIAEhg",
+        "url": "https://www.youtube.com/watch?v=mV8T9QIAEhg",
+        "title": "Model Mondays - Open Models with Fireworks AI & Microsoft Foundry MCP Server",
+        "publishedAt": "2026-03-23T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 3956,
+        "viewCount": 847,
+        "likeCount": 27,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/mV8T9QIAEhg.txt",
+        "matchedBy": "override",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e15",
+      "season": 3,
+      "episode": 15,
+      "date": "2026-03-30",
+      "time": "",
+      "title": "Spotlight on: Hugging Face, Agent 365 & Work IQ",
+      "description": "",
+      "host": "",
+      "speakers": [],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E15.webp",
+      "page": "episodes/s3-e15.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Agent 365 And Work Iq",
+        "speakers": [],
+        "description": "",
+        "resources": [
+          {
+            "title": "Agent 365 Documentation",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Deployment Guide",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          },
+          {
+            "title": "Security Best Practices",
+            "url": "https://aka.ms/model-mondays",
+            "description": ""
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-03-30-s03-e15.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E15.png"
+      },
+      "youtube": {
+        "videoId": "Kd6EPBfvDo4",
+        "url": "https://www.youtube.com/watch?v=Kd6EPBfvDo4",
+        "title": "Model Mondays - Build AI with Hugging Face Models, Build Enterprise Agents With Agent 365 & Work IQ",
+        "publishedAt": "2026-03-30T17:30:33Z",
+        "liveStatus": "none",
+        "durationSec": 3854,
+        "viewCount": 1076,
+        "likeCount": 37,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/Kd6EPBfvDo4.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.86,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e16",
+      "season": 3,
+      "episode": 16,
+      "date": "2026-04-06",
+      "time": "",
+      "title": "Unlocking Enterprise Value With Cohere",
+      "description": "Join lead maintainer Peli de Halleux as he demonstrates GitHub Agentic Workflows and shows how to automate GitHub tasks using AI agents with plain English instructions. Learn about the technology, explore key features, and see real-world examples of AI-powered GitHub automation.",
+      "host": "Andrea Griffiths",
+      "speakers": [
+        "Peli de Halleux"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E16.webp",
+      "page": "episodes/s3-e16.md",
+      "highlights": [],
+      "spotlight": {
+        "title": "Github Agentic Workflows",
+        "speakers": [
+          "Peli de Halleux"
+        ],
+        "description": "> ‼️ This Tech Spotlight will be rescheduled to a later date given a last-minute conflict for the speaker. Our episode today will be 30 mins.",
+        "resources": [
+          {
+            "title": "GitHub Agentic Workflows: Docs",
+            "url": "https://github.github.com/gh-aw/",
+            "description": "Learn concepts & explore examples"
+          },
+          {
+            "title": "GitHub Agentic Workflows: Repo",
+            "url": "https://github.com/github/gh-aw",
+            "description": "Repository with code & samples"
+          },
+          {
+            "title": "Weekly Updates",
+            "url": "https://github.github.com/gh-aw/blog/",
+            "description": "Changelogs and Latest Release notes"
+          }
+        ]
+      },
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-04-06-s03-e16.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E16-cohere.png"
+      },
+      "youtube": {
+        "videoId": "7bgLTt1obZI",
+        "url": "https://www.youtube.com/watch?v=7bgLTt1obZI",
+        "title": "Model Mondays - Unlocking enterprise value with Cohere",
+        "publishedAt": "2026-04-06T17:31:24Z",
+        "liveStatus": "none",
+        "durationSec": 2579,
+        "viewCount": 2936,
+        "likeCount": 24,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/7bgLTt1obZI.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.57,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s3-e17",
+      "season": 3,
+      "episode": 17,
+      "date": "2026-04-20",
+      "time": "1:30pm ET",
+      "title": "Building Foundry Agents Code-First in Visual Studio Code",
+      "description": "Build Microsoft Foundry agents in Visual Studio Code with Foundry Toolkit, GitHub Copilot, and Foundry Skills.",
+      "host": "Carlotta Castellucio",
+      "speakers": [
+        "Junjie Li",
+        "Filisha Shah"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S3-E17.webp",
+      "page": "episodes/s3-e17.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-04-20-s03-e17.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S3-E17-03.png"
+      },
+      "youtube": {
+        "videoId": "Qxq-vB44nUk",
+        "url": "https://www.youtube.com/watch?v=Qxq-vB44nUk",
+        "title": "Model Mondays - Building Microsoft Foundry Agents Within VS Code",
+        "publishedAt": "2026-04-20T17:30:42Z",
+        "liveStatus": "none",
+        "durationSec": 3102,
+        "viewCount": 2003,
+        "likeCount": 57,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/Qxq-vB44nUk.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.29,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e01",
+      "season": 4,
+      "episode": 1,
+      "date": "2026-08-10",
+      "time": "1:30pm ET",
+      "title": "Spotlight on MAI Models",
+      "description": "At Microsoft Build, we announced a family of seven new models developed in-house at Microsoft AI. These models form a new multimodal ecosystem designed to work across a variety of real-world tasks - with models to support image, voice, transcription, coding, and reasoning. Join us as we talk to the Microsoft AI models team about what's new in the MAI family, how this works under the hood, and what we can do to use them more effectively for building AI agents.",
+      "host": "Amy Boyd",
+      "speakers": [
+        "Sophie Lebrecht",
+        "Yanan Cai"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S4-E1.webp",
+      "page": "episodes/s4-e01.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-08-10-s04-e01.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E1.png"
+      },
+      "youtube": {
+        "videoId": "C7SUG4s7aLo",
+        "url": "https://www.youtube.com/watch?v=C7SUG4s7aLo",
+        "title": "Model Mondays - Spotlight On: MAI Models",
+        "publishedAt": "2026-08-10T17:31:37Z",
+        "liveStatus": "none",
+        "durationSec": 3385,
+        "viewCount": 758,
+        "likeCount": 20,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/C7SUG4s7aLo.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e02",
+      "season": 4,
+      "episode": 2,
+      "date": "2026-08-17",
+      "time": "1:30pm ET",
+      "title": "Cohere for Agentic AI",
+      "description": "In this episode of Model Mondays, we’ll go under the hood of the latest Cohere models in Microsoft Foundry: Command A+ for agentic, multilingual, and reasoning-heavy workloads; Embed v4 for semantic search and retrieval; and Rerank v4 for improving grounded answer quality by reordering retrieved context before generation. We’ll explore how these models fit together in an enterprise RAG pipeline, how developers can evaluate retrieval quality and model behavior, and leverage Cohere models to build more accurate, secure, and context-aware AI agents.",
+      "host": "Bethany Jepchumba",
+      "speakers": [
+        "Andy Tran"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S4-E2.webp",
+      "page": "episodes/s4-e02.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-08-17-s04-e02.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E2.png"
+      },
+      "youtube": {
+        "videoId": "CtGqQAZZGjU",
+        "url": "https://www.youtube.com/watch?v=CtGqQAZZGjU",
+        "title": "Cohere for Agentic AI: Models, Demos, and the Path to Optimized Agents",
+        "publishedAt": "2026-08-17T17:30:13Z",
+        "liveStatus": "none",
+        "durationSec": 3375,
+        "viewCount": 883,
+        "likeCount": 27,
+        "commentCount": 2,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/CtGqQAZZGjU.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.33,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e03",
+      "season": 4,
+      "episode": 3,
+      "date": "2026-08-24",
+      "time": "1:30pm ET",
+      "title": "Spotlight on Model Router",
+      "description": "AI agents rarely rely on a single model to solve every task. In this episode of Model Mondays, we'll explore how model router helps developers apply a hill-climbing approach to agent development by continuously finding better models for different steps in a workflow. Learn how to evaluate models, compare performance across providers and model families, and dynamically route requests to the model best suited for each task. Through discussions and demos, we'll show how model router helps agents improve quality, efficiency, and cost by treating model selection as an ongoing optimization process rather than a one-time decision.",
+      "host": "Lee Stott",
+      "speakers": [
+        "Sanjeev Jagtap",
+        "Lee Stott",
+        "Nitya Narasimhan",
+        "Sharmila Chockalingam"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S4-E3.webp",
+      "page": "episodes/s4-e03.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {
+        "recording": "https://www.youtube.com/watch?v=od_WTpE2nH4"
+      },
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-08-24-s04-e03.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E3.png"
+      },
+      "youtube": {
+        "videoId": "od_WTpE2nH4",
+        "url": "https://www.youtube.com/watch?v=od_WTpE2nH4",
+        "title": "Model Mondays - Spotlight On Model router in Microsoft Foundry",
+        "publishedAt": "2026-08-24T17:29:49Z",
+        "liveStatus": "none",
+        "durationSec": 4307,
+        "viewCount": 860,
+        "likeCount": 31,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/od_WTpE2nH4.txt",
+        "matchedBy": "episode-link",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e04",
+      "season": 4,
+      "episode": 4,
+      "date": "2026-08-31",
+      "time": "1:30pm ET",
+      "title": "From Research to Reality",
+      "description": "Foundry Labs is where developers can explore the latest AI innovations emerging from Microsoft Research and Microsoft AI. In this episode, we'll look at how experimental models and research projects make their way from breakthrough ideas to real-world impact. We'll then take a closer look at one of these experiments, Fara1.5 - a family of small but powerful computer-use models designed for browser automation that can navigate websites, fill forms, and complete multi-step tasks, while setting new state-of-the-art performance among models in its class. Finally, this week Developer Corner will showcase how to build with Foundry-hosted models within the GitHub copilot App using Foundry Canvas.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Gulsimo Osimi",
+        "Yash Lara"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S4-E4.webp",
+      "page": "episodes/s4-e04.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-08-31-s04-e04.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E4.png"
+      },
+      "youtube": {
+        "videoId": "5jK-4TaZocY",
+        "url": "https://www.youtube.com/watch?v=5jK-4TaZocY",
+        "title": "Model Mondays - From Research to Reality: Discovering Microsoft's AI Innovations in Foundry Labs",
+        "publishedAt": "2026-08-31T17:30:08Z",
+        "liveStatus": "none",
+        "durationSec": 3669,
+        "viewCount": 1294,
+        "likeCount": 18,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/5jK-4TaZocY.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.4,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e05",
+      "season": 4,
+      "episode": 5,
+      "date": "2026-09-14",
+      "time": "1:30pm ET",
+      "title": "Claude Models in Microsoft Foundry: Tool Integrations in Practice",
+      "description": "A single well-crafted prompt only gets an agent so far. This session shows how to take agents further with tool integrations available for Claude in Microsoft Foundry hosted on Azure. We'll build workflows from scratch, covering the setup choices that matter most and how to get them right from the start",
+      "host": "Gustavo Cordido",
+      "speakers": [
+        "Amanda Wong",
+        "Haoran Cheng"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S4-E5.webp",
+      "page": "episodes/s4-e05.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-09-14-s04-e05.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E5.png"
+      },
+      "youtube": {
+        "videoId": "x5qDSukgTi4",
+        "url": "https://www.youtube.com/watch?v=x5qDSukgTi4",
+        "title": "Model Mondays - Spotlight On Claude Models",
+        "publishedAt": "2026-09-14T17:30:15Z",
+        "liveStatus": "none",
+        "durationSec": 3771,
+        "viewCount": 1492,
+        "likeCount": 27,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/x5qDSukgTi4.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.25,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e06",
+      "season": 4,
+      "episode": 6,
+      "date": "2026-09-21",
+      "time": "1:30pm ET",
+      "title": "Spotlight on Azure OpenAI",
+      "description": "Azure OpenAI provides a broad family of models for generation, reasoning, coding, multimodal, and real-time experiences, allowing developers to select the right capability for each part of an application. Join us as we explore these models in Microsoft Foundry and see how they can be combined with grounding, tools, and evaluation to build effective AI agents.",
+      "host": "Nitya Narasimhan",
+      "speakers": [
+        "Ananya Bishnoi"
+      ],
+      "status": "completed",
+      "tags": [],
+      "banner": "banners/S4-E6.webp",
+      "page": "episodes/s4-e06.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-09-21-s04-e06.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E6.png"
+      },
+      "youtube": {
+        "videoId": "HnnJ54xJmEM",
+        "url": "https://www.youtube.com/watch?v=HnnJ54xJmEM",
+        "title": "Model Mondays - Spotlight on Azure Open AI",
+        "publishedAt": "2026-09-21T17:30:07Z",
+        "liveStatus": "none",
+        "durationSec": 3340,
+        "viewCount": 1487,
+        "likeCount": 20,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/HnnJ54xJmEM.txt",
+        "matchedBy": "override",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e07",
+      "season": 4,
+      "episode": 7,
+      "date": "2026-09-28",
+      "time": "1:30pm ET",
+      "title": "Mistral OCR-4 & Building AI Agents in Microsoft Foundry",
+      "description": "Mistral models offer developers a versatile family of models for reasoning, coding, multilingual, and multimodal workloads, with options suited to different requirements for capability, speed, and efficiency. Join us as we explore the Mistral OCR-4 model in Microsoft Foundry and see how Mistral models can support practical agent workflows.",
+      "host": "Amy Boyd",
+      "speakers": [
+        "Victor Rojo",
+        "Peyman Mohajerian"
+      ],
+      "status": "scheduled",
+      "tags": [],
+      "banner": "banners/S4-E7.webp",
+      "page": "episodes/s4-e07.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-09-28-s04-e07.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E7.png"
+      },
+      "youtube": {
+        "videoId": "OX1RWeQGhfg",
+        "url": "https://www.youtube.com/watch?v=OX1RWeQGhfg",
+        "title": "Model Mondays - Mistral OCR-4 and Building AI Agents in Microsoft Foundry",
+        "publishedAt": "2026-09-28T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 3980,
+        "viewCount": 1644,
+        "likeCount": 25,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/OX1RWeQGhfg.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e08",
+      "season": 4,
+      "episode": 8,
+      "date": "2026-10-05",
+      "time": "1:30pm ET",
+      "title": "Fine-Tuned Models",
+      "description": "Fine-tuning adapts a model to the language, examples, and behaviors of a specific task, helping developers improve quality, reduce prompt complexity, and right-size performance and cost. Join us as we explore the latest fine-tuning capabilities in Microsoft Foundry and see how customized models can strengthen specialized AI agent experiences.",
+      "host": "Bethany Jepchumba",
+      "speakers": [],
+      "status": "scheduled",
+      "tags": [],
+      "banner": "banners/S4-E8.webp",
+      "page": "episodes/s4-e08.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-10-05-s04-e08.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E8.png"
+      },
+      "youtube": {
+        "videoId": "b-82zc3LdMM",
+        "url": "https://www.youtube.com/watch?v=b-82zc3LdMM",
+        "title": "Model Mondays - Spotlight On Fine-Tuned Models",
+        "publishedAt": "2026-10-05T17:30:10Z",
+        "liveStatus": "none",
+        "durationSec": 3408,
+        "viewCount": 1436,
+        "likeCount": 30,
+        "commentCount": 1,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/b-82zc3LdMM.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e09",
+      "season": 4,
+      "episode": 9,
+      "date": "2026-10-12",
+      "time": "1:30pm ET",
+      "title": "Spotlight on Speech Models",
+      "description": "Speech models enable applications to understand and generate spoken language, supporting experiences such as transcription, voice interaction, and accessible conversational interfaces. Join us as we explore speech capabilities in Microsoft Foundry and see how they can be integrated into responsive, voice-enabled AI agents.",
+      "host": "Gustavo Cordido",
+      "speakers": [],
+      "status": "scheduled",
+      "tags": [],
+      "banner": "banners/S4-E9.webp",
+      "page": "episodes/s4-e09.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-10-12-s04-e09.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E9.png"
+      },
+      "youtube": {
+        "videoId": "rBFQLt3StVI",
+        "url": "https://www.youtube.com/watch?v=rBFQLt3StVI",
+        "title": "Model Mondays - Voice Agents Upgraded: New Speech Models and Agent Experience In Foundry",
+        "publishedAt": "2026-10-12T17:30:12Z",
+        "liveStatus": "none",
+        "durationSec": 3704,
+        "viewCount": 1896,
+        "likeCount": 23,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": "youtube/transcripts/rBFQLt3StVI.txt",
+        "matchedBy": "date+title-match",
+        "matchScore": 1.2,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e10",
+      "season": 4,
+      "episode": 10,
+      "date": "2026-10-19",
+      "time": "1:30pm ET",
+      "title": "Spotlight on Hugging Face",
+      "description": "Hugging Face expands the range of open models developers can discover, while Managed Compute provides the infrastructure needed to deploy and run selected models for real-time inference. Join us as we explore this workflow in Microsoft Foundry and see how an open model can move from the catalog into a working AI agent.",
+      "host": "Amy Boyd",
+      "speakers": [],
+      "status": "scheduled",
+      "tags": [],
+      "banner": "banners/S4-E10.webp",
+      "page": "episodes/s4-e10.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-10-19-s04-e10.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E10.png"
+      },
+      "youtube": {
+        "videoId": "naK9Ul44Dbs",
+        "url": "https://www.youtube.com/watch?v=naK9Ul44Dbs",
+        "title": "Model Mondays - Spotlight on Hugging Face & Managed Compute",
+        "publishedAt": "2026-10-19T17:30:11Z",
+        "liveStatus": "none",
+        "durationSec": 3902,
+        "viewCount": 818,
+        "likeCount": 12,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": null,
+        "matchedBy": "date+title-match",
+        "matchScore": 1.5,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e11",
+      "season": 4,
+      "episode": 11,
+      "date": "2026-10-26",
+      "time": "1:30pm ET",
+      "title": "Spotlight on Open Models",
+      "description": "Open models such as Kimi-K and Inkling give developers additional choices for reasoning, coding, and agentic workloads, with different tradeoffs in capability, flexibility, and deployment. Join us as we explore these models in Microsoft Foundry and see how evaluation can help identify the right open model for an AI agent.",
+      "host": "Bethany Jepchumba",
+      "speakers": [],
+      "status": "scheduled",
+      "tags": [],
+      "banner": "banners/S4-E11.webp",
+      "page": "episodes/s4-e11.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-10-26-s04-e11.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E11.png"
+      },
+      "youtube": {
+        "videoId": "pmz_6Sg0QAY",
+        "url": "https://www.youtube.com/watch?v=pmz_6Sg0QAY",
+        "title": "Model Mondays - Train and customize open models with Fireworks on Foundry",
+        "publishedAt": "2026-10-26T17:30:00Z",
+        "liveStatus": "upcoming",
+        "durationSec": 0,
+        "viewCount": 0,
+        "likeCount": 0,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": null,
+        "matchedBy": "override",
+        "matchScore": 1.0,
+        "needsReview": false
+      }
+    },
+    {
+      "id": "s4-e12",
+      "season": 4,
+      "episode": 12,
+      "date": "2026-11-02",
+      "time": "1:30pm ET",
+      "title": "Spotlight on NVIDIA Models",
+      "description": "NVIDIA models give developers options for building and deploying AI workloads that require strong reasoning, generation, and accelerated inference across a range of application scenarios. Join us as we explore NVIDIA models in Microsoft Foundry and see how they can be evaluated and used to build effective AI agents.",
+      "host": "Nitya Narasimhan",
+      "speakers": [],
+      "status": "scheduled",
+      "tags": [],
+      "banner": "banners/S4-E12.webp",
+      "page": "episodes/s4-e12.md",
+      "highlights": [],
+      "spotlight": null,
+      "customerStory": null,
+      "studyCorner": null,
+      "links": {},
+      "source": {
+        "page": "https://github.com/microsoft/model-mondays/blob/31a23c47f78aacfaa1da55767a5715acad49966b/docs/model-mondays/2026-11-02-s04-e12.md",
+        "banner": "https://raw.githubusercontent.com/microsoft/model-mondays/31a23c47f78aacfaa1da55767a5715acad49966b/docs/assets/model-mondays/S4-E12.png"
+      },
+      "youtube": {
+        "videoId": "JGP6e6SuFHU",
+        "url": "https://www.youtube.com/watch?v=JGP6e6SuFHU",
+        "title": "Model Mondays - Spotlight on NVIDIA models",
+        "publishedAt": "2026-11-02T18:30:00Z",
+        "liveStatus": "upcoming",
+        "durationSec": 0,
+        "viewCount": 0,
+        "likeCount": 0,
+        "commentCount": 0,
+        "statsFetchedAt": "2026-10-20T00:00:17+00:00",
+        "transcript": null,
+        "matchedBy": "date+title-match",
+        "matchScore": 2.0,
+        "needsReview": false
+      }
+    }
+  ]
+}

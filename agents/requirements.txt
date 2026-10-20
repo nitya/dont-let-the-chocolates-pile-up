@@ -1,0 +1,21 @@
+# Emcee agents (Microsoft Agent Framework). Install into a dedicated venv:
+#   python -m venv agents/.venv && agents/.venv/bin/pip install -r agents/requirements.txt
+# Do NOT install into the site's environment: agent-framework needs mcp<2, the site pins mcp==2.3.0.
+agent-framework-core==1.22.0
+agent-framework-foundry==1.15.0
+agent-framework-openai==1.17.0
+# Foundry hosted-agent adapter (beta; ResponsesHostServer) and its agent-server packages
+agent-framework-foundry-hosting==1.0.0b261015
+azure-ai-agentserver-core==2.3.0b1
+azure-ai-agentserver-responses==2.4.0b1
+azure-ai-agentserver-invocations==1.2.0
+mcp==1.30.0
+azure-identity==1.26.0
+azure-ai-projects==2.7.0
+openai==3.35.1
+httpx==0.28.1
+python-dotenv==1.2.4
+pydantic==2.14.1
+opentelemetry-sdk==1.45.1
+# Tests
+pytest==9.1.1

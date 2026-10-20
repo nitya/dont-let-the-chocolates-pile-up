@@ -9,3 +9,18 @@ You’ll see how skills act as specialized stations on the line—automatically 
 
 Finally, we’ll zoom out to rethink DevRel in the age of AI: moving from handcrafted, instructor-led content to scalable, self-guided learning experiences built on repeatable systems. It’s time to stop chasing the conveyor belt—and start running your own agent-powered chocolate factory… without having to stuff the extra content in your hat.
 
+
+## What's here
+
+| | |
+|---|---|
+| 🎤 **The talk** | [slides/deck.md](slides/deck.md) (Marp) · [slide descriptions](slides/SLIDE-DESCRIPTIONS.md) · [demo runbook](demo/RUNBOOK.md) |
+| 🎓 **Try it yourself** | [learn/](learn/README.md): a self-guided path, from setup to an automated, evaluated content line |
+| 🍫 **The line** | [skills](.github/skills/) · [site + MCP server](site/) · [Emcee crew](agents/) · [evals](evals/) |
+| 📊 **The data** | [data/](data/README.md): the Model Mondays series (50 episodes), refreshed on demand |
+
+**The playbook:** *make it work* (decompose & delegate) → *make it better* (optimize) → *make it scale* (automate).
+
+Start with [learn/00-setup.md](learn/00-setup.md).
+
+Model Mondays data and banners © Microsoft Corporation, MIT License, from [microsoft/model-mondays](https://github.com/microsoft/model-mondays).

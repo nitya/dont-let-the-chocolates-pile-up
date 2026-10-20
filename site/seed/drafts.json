@@ -1,0 +1,28 @@
+[
+  {
+    "status": "approved",
+    "reviewer_note": "Seed sample for rehearsals",
+    "episode_id": "s4-e09",
+    "kind": "recap",
+    "title": "Recap: Voice agents upgraded with new speech models in Foundry",
+    "author_agent": "emcee/producer",
+    "sources": [
+      "https://www.youtube.com/watch?v=rBFQLt3StVI",
+      "data/episodes/s4-e09.md",
+      "data/youtube/videos.json#rBFQLt3StVI"
+    ],
+    "content_markdown": "Season 4, Episode 9 put **speech models** in the spotlight: the models that let applications understand and generate spoken language for transcription, real-time voice interaction and accessible conversational interfaces.\n\n### What we covered\n\n- **Weekly news highlights** on new models and infrastructure.\n- **Voice agents in Microsoft Foundry**: an overview of what you can build today.\n- **Live demo**: building, testing, monitoring and optimizing a voice agent for a finance scenario in the Foundry playground.\n- **Audio models**: the latest in speech-to-text, text-to-speech and speech-to-speech, including new MAI models.\n- **Architectures and pipelines** for speech in Foundry, followed by customer use cases and Q&A.\n\n### Watch next\n\nJump to the live demo at **0:14:14** or the speech architectures segment at **0:44:48** using the chapter list above.\n\n> Resources: [aka.ms/model-mondays](https://aka.ms/model-mondays) · [collection](https://aka.ms/model-mondays/collection)"
+  },
+  {
+    "status": "pending",
+    "episode_id": "s4-e10",
+    "kind": "social",
+    "title": "Today: Hugging Face + Managed Compute on Model Mondays",
+    "author_agent": "emcee/social",
+    "sources": [
+      "https://www.youtube.com/watch?v=naK9Ul44Dbs",
+      "data/episodes/s4-e10.md"
+    ],
+    "content_markdown": "**LinkedIn / X**\n\nToday on #ModelMondays: from the Hugging Face catalog to a working AI agent. 🤗\n\nAmy Boyd shows how Managed Compute in Microsoft Foundry deploys open models for real-time inference — and wires one into an agent.\n\n📅 Monday, Oct 19 · 1:30pm ET\n▶️ https://www.youtube.com/watch?v=naK9Ul44Dbs"
+  }
+]

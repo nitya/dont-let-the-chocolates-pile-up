@@ -1,0 +1,4443 @@
+{
+  "videoId": "_I6qDdp5Vo4",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:11+00:00",
+  "segments": [
+    {
+      "start": 0.96,
+      "duration": 4.08,
+      "text": "Hello everyone and thank you for joining"
+    },
+    {
+      "start": 2.64,
+      "duration": 3.6,
+      "text": "us for today's session. My name is Danny"
+    },
+    {
+      "start": 5.04,
+      "duration": 3.76,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 6.24,
+      "duration": 4.56,
+      "text": "York Reactor Space. Before we start, I"
+    },
+    {
+      "start": 8.8,
+      "duration": 3.44,
+      "text": "have a few things to go over. Please"
+    },
+    {
+      "start": 10.8,
+      "duration": 3.68,
+      "text": "take a moment to review our code of"
+    },
+    {
+      "start": 12.24,
+      "duration": 4.28,
+      "text": "conduct. We seek to provide a respectful"
+    },
+    {
+      "start": 14.48,
+      "duration": 4.16,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 16.52,
+      "duration": 3.8,
+      "text": "presenters. We encourage engagement in"
+    },
+    {
+      "start": 18.64,
+      "duration": 4.24,
+      "text": "the chat, but please be mindful of your"
+    },
+    {
+      "start": 20.32,
+      "duration": 4.88,
+      "text": "commentary, remain professional, and on"
+    },
+    {
+      "start": 22.88,
+      "duration": 4.0,
+      "text": "topic. Useful links will be shared in"
+    },
+    {
+      "start": 25.2,
+      "duration": 3.44,
+      "text": "the chat."
+    },
+    {
+      "start": 26.88,
+      "duration": 4.88,
+      "text": "The session is recorded and will be"
+    },
+    {
+      "start": 28.64,
+      "duration": 5.16,
+      "text": "available on demand in 24 to 48 hours on"
+    },
+    {
+      "start": 31.76,
+      "duration": 4.24,
+      "text": "the Microsoft Reactor YouTube"
+    },
+    {
+      "start": 33.8,
+      "duration": 4.52,
+      "text": "channel. Which brings us to today's"
+    },
+    {
+      "start": 36.0,
+      "duration": 4.56,
+      "text": "session. It will run for approximately"
+    },
+    {
+      "start": 38.32,
+      "duration": 4.32,
+      "text": "30 minutes with time for questions"
+    },
+    {
+      "start": 40.56,
+      "duration": 5.96,
+      "text": "throughout. I will now turn it over to"
+    },
+    {
+      "start": 42.64,
+      "duration": 3.88,
+      "text": "our speaker for introductions."
+    },
+    {
+      "start": 48.4,
+      "duration": 5.36,
+      "text": "Thank you so much, Danny. And welcome,"
+    },
+    {
+      "start": 50.96,
+      "duration": 4.72,
+      "text": "welcome, welcome to Model Mondays. Uh"
+    },
+    {
+      "start": 53.76,
+      "duration": 4.88,
+      "text": "this is an exciting day for many reasons"
+    },
+    {
+      "start": 55.68,
+      "duration": 6.24,
+      "text": "because hi Charila we made it to the end"
+    },
+    {
+      "start": 58.64,
+      "duration": 5.52,
+      "text": "of season 1. This is episode 8 and we"
+    },
+    {
+      "start": 61.92,
+      "duration": 4.56,
+      "text": "are so excited. So of course we had to"
+    },
+    {
+      "start": 64.16,
+      "duration": 4.0,
+      "text": "like do something special and our focus"
+    },
+    {
+      "start": 66.48,
+      "duration": 4.64,
+      "text": "today is going to be on hands-on with"
+    },
+    {
+      "start": 68.16,
+      "duration": 5.56,
+      "text": "forecasting models with Kian Tran from"
+    },
+    {
+      "start": 71.12,
+      "duration": 5.04,
+      "text": "uh Nixla. But before we go there uh"
+    },
+    {
+      "start": 73.72,
+      "duration": 4.2,
+      "text": "Charma what are you excited about this"
+    },
+    {
+      "start": 76.16,
+      "duration": 4.44,
+      "text": "week?"
+    },
+    {
+      "start": 77.92,
+      "duration": 5.68,
+      "text": "I'm actually excited that we"
+    },
+    {
+      "start": 80.6,
+      "duration": 5.56,
+      "text": "successfully completed eight episodes"
+    },
+    {
+      "start": 83.6,
+      "duration": 4.56,
+      "text": "and uh we have seen a lot of great"
+    },
+    {
+      "start": 86.16,
+      "duration": 3.44,
+      "text": "interest from the community and I I"
+    },
+    {
+      "start": 88.16,
+      "duration": 4.0,
+      "text": "really thank the community for"
+    },
+    {
+      "start": 89.6,
+      "duration": 5.36,
+      "text": "supporting us and making it to all the"
+    },
+    {
+      "start": 92.16,
+      "duration": 4.96,
+      "text": "shows and to the AMA on Fridays and"
+    },
+    {
+      "start": 94.96,
+      "duration": 4.0,
+      "text": "asking all the great questions. So"
+    },
+    {
+      "start": 97.12,
+      "duration": 3.68,
+      "text": "please keep it going. We are still"
+    },
+    {
+      "start": 98.96,
+      "duration": 5.28,
+      "text": "planning to come back with another"
+    },
+    {
+      "start": 100.8,
+      "duration": 6.88,
+      "text": "season. Um but details of that later."
+    },
+    {
+      "start": 104.24,
+      "duration": 6.32,
+      "text": "Let's jump into the into episode 8."
+    },
+    {
+      "start": 107.68,
+      "duration": 5.52,
+      "text": "Yeah. Yes. So, this is uh an episode"
+    },
+    {
+      "start": 110.56,
+      "duration": 5.04,
+      "text": "with a spotlight on uh time forecasting"
+    },
+    {
+      "start": 113.2,
+      "duration": 4.96,
+      "text": "models. But as you know, we usually"
+    },
+    {
+      "start": 115.6,
+      "duration": 5.28,
+      "text": "start off with a fiveminut quick review"
+    },
+    {
+      "start": 118.16,
+      "duration": 6.72,
+      "text": "of the top news items in models from the"
+    },
+    {
+      "start": 120.88,
+      "duration": 6.0,
+      "text": "past week. Take it away Charma."
+    },
+    {
+      "start": 124.88,
+      "duration": 5.36,
+      "text": "Thank you Nita. Today we are going to"
+    },
+    {
+      "start": 126.88,
+      "duration": 5.92,
+      "text": "close out our season 1 of Model Monday"
+    },
+    {
+      "start": 130.24,
+      "duration": 4.88,
+      "text": "series with incredible highlights that"
+    },
+    {
+      "start": 132.8,
+      "duration": 4.24,
+      "text": "showcase the cutting edge innovation"
+    },
+    {
+      "start": 135.12,
+      "duration": 6.16,
+      "text": "happening in Azure AI Foundry and"
+    },
+    {
+      "start": 137.04,
+      "duration": 6.56,
+      "text": "beyond. So let's dive in. Um on Azure AI"
+    },
+    {
+      "start": 141.28,
+      "duration": 5.36,
+      "text": "Foundry last week we just launched the"
+    },
+    {
+      "start": 143.6,
+      "duration": 5.36,
+      "text": "GPT image one model. This is a"
+    },
+    {
+      "start": 146.64,
+      "duration": 4.4,
+      "text": "groundbreaking model that takes image"
+    },
+    {
+      "start": 148.96,
+      "duration": 3.44,
+      "text": "generation to the next level. And we've"
+    },
+    {
+      "start": 151.04,
+      "duration": 3.92,
+      "text": "been seeing a lot of these image"
+    },
+    {
+      "start": 152.4,
+      "duration": 4.96,
+      "text": "generation models and uh we even"
+    },
+    {
+      "start": 154.96,
+      "duration": 5.6,
+      "text": "introduced the image playground uh when"
+    },
+    {
+      "start": 157.36,
+      "duration": 5.12,
+      "text": "we talked about um stability AI and"
+    },
+    {
+      "start": 160.56,
+      "duration": 4.08,
+      "text": "these models are available on the image"
+    },
+    {
+      "start": 162.48,
+      "duration": 4.88,
+      "text": "playground and this particular model it"
+    },
+    {
+      "start": 164.64,
+      "duration": 5.36,
+      "text": "excels at creating highly realistic"
+    },
+    {
+      "start": 167.36,
+      "duration": 5.04,
+      "text": "complex and detailed im images from text"
+    },
+    {
+      "start": 170.0,
+      "duration": 4.72,
+      "text": "prompts and it's actually setting a new"
+    },
+    {
+      "start": 172.4,
+      "duration": 4.8,
+      "text": "standard for enterprisegrade image"
+    },
+    {
+      "start": 174.72,
+      "duration": 5.52,
+      "text": "generation by blending creativity with"
+    },
+    {
+      "start": 177.2,
+      "duration": 4.12,
+      "text": "control right within Azure serverless"
+    },
+    {
+      "start": 180.24,
+      "duration": 4.88,
+      "text": "this"
+    },
+    {
+      "start": 181.32,
+      "duration": 6.28,
+      "text": "environment move and uh as as always"
+    },
+    {
+      "start": 185.12,
+      "duration": 5.28,
+      "text": "there's a QR code there so please take a"
+    },
+    {
+      "start": 187.6,
+      "duration": 4.88,
+      "text": "screenshot and the QR code usually takes"
+    },
+    {
+      "start": 190.4,
+      "duration": 4.16,
+      "text": "you to the actual model so you can play"
+    },
+    {
+      "start": 192.48,
+      "duration": 4.56,
+      "text": "around with the model if it is a model"
+    },
+    {
+      "start": 194.56,
+      "duration": 3.92,
+      "text": "highlight and in other cases where it's"
+    },
+    {
+      "start": 197.04,
+      "duration": 4.12,
+      "text": "not a model highlight it'll take you"
+    },
+    {
+      "start": 198.48,
+      "duration": 5.84,
+      "text": "either to the blog or to a GitHub"
+    },
+    {
+      "start": 201.16,
+      "duration": 6.04,
+      "text": "repository now next we want to kind of"
+    },
+    {
+      "start": 204.32,
+      "duration": 5.76,
+      "text": "talk about some agent news um so"
+    },
+    {
+      "start": 207.2,
+      "duration": 6.08,
+      "text": "Google's agent to agent framework work"
+    },
+    {
+      "start": 210.08,
+      "duration": 6.04,
+      "text": "has dropped some u fantastic samples"
+    },
+    {
+      "start": 213.28,
+      "duration": 5.68,
+      "text": "recently including an integration with"
+    },
+    {
+      "start": 216.12,
+      "duration": 4.84,
+      "text": "Microsoft's semantic kernel. So this"
+    },
+    {
+      "start": 218.96,
+      "duration": 5.12,
+      "text": "actually unlocks new possibilities for"
+    },
+    {
+      "start": 220.96,
+      "duration": 6.0,
+      "text": "building complex multi- aent systems and"
+    },
+    {
+      "start": 224.08,
+      "duration": 5.44,
+      "text": "semantic kernels helps agents plan,"
+    },
+    {
+      "start": 226.96,
+      "duration": 5.28,
+      "text": "coordinate and reason across tasks more"
+    },
+    {
+      "start": 229.52,
+      "duration": 4.48,
+      "text": "efficiently. So actually semantic kernel"
+    },
+    {
+      "start": 232.24,
+      "duration": 3.92,
+      "text": "is now becoming the universal"
+    },
+    {
+      "start": 234.0,
+      "duration": 5.56,
+      "text": "orchestration layer for multi-agent"
+    },
+    {
+      "start": 236.16,
+      "duration": 6.16,
+      "text": "workflows even beyond Azure"
+    },
+    {
+      "start": 239.56,
+      "duration": 4.72,
+      "text": "ecosystems. And then again kind of"
+    },
+    {
+      "start": 242.32,
+      "duration": 4.16,
+      "text": "continuing with the agent um"
+    },
+    {
+      "start": 244.28,
+      "duration": 4.68,
+      "text": "announcements, our very own Jennifer"
+    },
+    {
+      "start": 246.48,
+      "duration": 5.2,
+      "text": "Marsman who was here on Model Monday's"
+    },
+    {
+      "start": 248.96,
+      "duration": 6.0,
+      "text": "episode uh two talking about reasoning"
+    },
+    {
+      "start": 251.68,
+      "duration": 5.76,
+      "text": "models. uh she's from the Microsoft team"
+    },
+    {
+      "start": 254.96,
+      "duration": 5.36,
+      "text": "and she has released an open-source"
+    },
+    {
+      "start": 257.44,
+      "duration": 5.28,
+      "text": "toolkit for experimenting with multi-"
+    },
+    {
+      "start": 260.32,
+      "duration": 4.72,
+      "text": "aent systems. It's packed with real"
+    },
+    {
+      "start": 262.72,
+      "duration": 4.36,
+      "text": "world research samples focused on agent"
+    },
+    {
+      "start": 265.04,
+      "duration": 4.32,
+      "text": "collaboration, negotiation, and"
+    },
+    {
+      "start": 267.08,
+      "duration": 4.36,
+      "text": "competition. And if you're serious about"
+    },
+    {
+      "start": 269.36,
+      "duration": 4.64,
+      "text": "multi-agent architectures, this is a"
+    },
+    {
+      "start": 271.44,
+      "duration": 5.28,
+      "text": "must bookmark resource. So building"
+    },
+    {
+      "start": 274.0,
+      "duration": 5.28,
+      "text": "multi-agent AI is not just the future,"
+    },
+    {
+      "start": 276.72,
+      "duration": 4.72,
+      "text": "it's actually happening right now. And"
+    },
+    {
+      "start": 279.28,
+      "duration": 4.56,
+      "text": "we at Microsoft we are helping to define"
+    },
+    {
+      "start": 281.44,
+      "duration": 5.44,
+      "text": "that. And again the QR code takes you to"
+    },
+    {
+      "start": 283.84,
+      "duration": 5.16,
+      "text": "a g the GitHub repository. So go in and"
+    },
+    {
+      "start": 286.88,
+      "duration": 5.64,
+      "text": "try this out"
+    },
+    {
+      "start": 289.0,
+      "duration": 7.8,
+      "text": "today. Then next we"
+    },
+    {
+      "start": 292.52,
+      "duration": 6.44,
+      "text": "have the remote um MCP server"
+    },
+    {
+      "start": 296.8,
+      "duration": 4.0,
+      "text": "announcement. So the future of MCP is"
+    },
+    {
+      "start": 298.96,
+      "duration": 4.64,
+      "text": "remote and it's already here. If you've"
+    },
+    {
+      "start": 300.8,
+      "duration": 5.36,
+      "text": "been playing with AI agents or LLM tools"
+    },
+    {
+      "start": 303.6,
+      "duration": 5.52,
+      "text": "like Copilot in VS Code, you have"
+    },
+    {
+      "start": 306.16,
+      "duration": 4.8,
+      "text": "probably heard of MCP and it's fast"
+    },
+    {
+      "start": 309.12,
+      "duration": 4.64,
+      "text": "becoming the connective tissue for the"
+    },
+    {
+      "start": 310.96,
+      "duration": 4.32,
+      "text": "modern AI stack. And the guide that we"
+    },
+    {
+      "start": 313.76,
+      "duration": 4.08,
+      "text": "are showing here will help you deploy"
+    },
+    {
+      "start": 315.28,
+      "duration": 5.52,
+      "text": "your own remote MCP server in under an"
+    },
+    {
+      "start": 317.84,
+      "duration": 5.2,
+      "text": "hour. Now imagine this. Instead of every"
+    },
+    {
+      "start": 320.8,
+      "duration": 5.28,
+      "text": "tool running locally, you run a remote"
+    },
+    {
+      "start": 323.04,
+      "duration": 5.76,
+      "text": "MCP server, fully serverless, hosted on"
+    },
+    {
+      "start": 326.08,
+      "duration": 4.96,
+      "text": "Azure container apps, secure, scalable,"
+    },
+    {
+      "start": 328.8,
+      "duration": 5.72,
+      "text": "and API key protected. Now, that's like"
+    },
+    {
+      "start": 331.04,
+      "duration": 7.04,
+      "text": "a g game game changer in the MCP"
+    },
+    {
+      "start": 334.52,
+      "duration": 4.92,
+      "text": "world. And then moving on, like of"
+    },
+    {
+      "start": 338.08,
+      "duration": 5.2,
+      "text": "course we've been talking about agent"
+    },
+    {
+      "start": 339.44,
+      "duration": 6.64,
+      "text": "news, MCP. Now, as we build all these"
+    },
+    {
+      "start": 343.28,
+      "duration": 5.92,
+      "text": "sophisticated AI agents, security"
+    },
+    {
+      "start": 346.08,
+      "duration": 5.6,
+      "text": "becomes critical. And Microsoft just"
+    },
+    {
+      "start": 349.2,
+      "duration": 5.12,
+      "text": "published deep insights into securing"
+    },
+    {
+      "start": 351.68,
+      "duration": 5.2,
+      "text": "the MCP implementations, the systems"
+    },
+    {
+      "start": 354.32,
+      "duration": 5.04,
+      "text": "that orchestrate agent activities, model"
+    },
+    {
+      "start": 356.88,
+      "duration": 4.64,
+      "text": "routing and resource allocation. So if"
+    },
+    {
+      "start": 359.36,
+      "duration": 4.8,
+      "text": "you're deploying agents at scale, you"
+    },
+    {
+      "start": 361.52,
+      "duration": 6.32,
+      "text": "must think about securing the MCP, your"
+    },
+    {
+      "start": 364.16,
+      "duration": 6.32,
+      "text": "MCP from day one from image. So that"
+    },
+    {
+      "start": 367.84,
+      "duration": 4.72,
+      "text": "brings us to the end of model Monday's"
+    },
+    {
+      "start": 370.48,
+      "duration": 4.16,
+      "text": "highlights. So from image generation"
+    },
+    {
+      "start": 372.56,
+      "duration": 4.52,
+      "text": "breakthroughs to agent orchestration,"
+    },
+    {
+      "start": 374.64,
+      "duration": 5.52,
+      "text": "multi-agent research and security"
+    },
+    {
+      "start": 377.08,
+      "duration": 5.48,
+      "text": "foundations, we have seen AI innovations"
+    },
+    {
+      "start": 380.16,
+      "duration": 4.8,
+      "text": "accelerate faster than ever. Thank you"
+    },
+    {
+      "start": 382.56,
+      "duration": 5.36,
+      "text": "for joining us every week on this model"
+    },
+    {
+      "start": 384.96,
+      "duration": 5.68,
+      "text": "Monday's uh highlights and episode. Stay"
+    },
+    {
+      "start": 387.92,
+      "duration": 5.72,
+      "text": "curious and stay building. Nita, back to"
+    },
+    {
+      "start": 390.64,
+      "duration": 3.0,
+      "text": "you."
+    },
+    {
+      "start": 394.08,
+      "duration": 3.76,
+      "text": "Thanks Cara. That's, you know, I thought"
+    },
+    {
+      "start": 396.16,
+      "duration": 3.44,
+      "text": "coming up to build with two weeks left"
+    },
+    {
+      "start": 397.84,
+      "duration": 4.4,
+      "text": "to go that we would actually have less"
+    },
+    {
+      "start": 399.6,
+      "duration": 4.56,
+      "text": "news now, but it's like a non-stop drum"
+    },
+    {
+      "start": 402.24,
+      "duration": 3.6,
+      "text": "beat. Uh I I will also say that I think"
+    },
+    {
+      "start": 404.16,
+      "duration": 4.72,
+      "text": "we had agent hacks that's just wrapping"
+    },
+    {
+      "start": 405.84,
+      "duration": 4.96,
+      "text": "up right now. Um if you were on our um"
+    },
+    {
+      "start": 408.88,
+      "duration": 3.52,
+      "text": "channel last week and we had Pamela Fox,"
+    },
+    {
+      "start": 410.8,
+      "duration": 3.76,
+      "text": "she has a really nice repo with a whole"
+    },
+    {
+      "start": 412.4,
+      "duration": 3.92,
+      "text": "bunch of agent samples as well. We will"
+    },
+    {
+      "start": 414.56,
+      "duration": 3.6,
+      "text": "be putting all of these together in our"
+    },
+    {
+      "start": 416.32,
+      "duration": 3.76,
+      "text": "repository. So do kind of keep an eye"
+    },
+    {
+      "start": 418.16,
+      "duration": 4.0,
+      "text": "out for that. But yeah, I'm excited"
+    },
+    {
+      "start": 420.08,
+      "duration": 4.56,
+      "text": "about MCP. Um did not know about"
+    },
+    {
+      "start": 422.16,
+      "duration": 4.48,
+      "text": "semantic kernel and so that's cool. uh"
+    },
+    {
+      "start": 424.64,
+      "duration": 3.6,
+      "text": "and I can't really you know wait for a"
+    },
+    {
+      "start": 426.64,
+      "duration": 3.52,
+      "text": "build to be done so we have a lot of"
+    },
+    {
+      "start": 428.24,
+      "duration": 3.76,
+      "text": "things to play with after that as well"
+    },
+    {
+      "start": 430.16,
+      "duration": 4.16,
+      "text": "but we are here today because we"
+    },
+    {
+      "start": 432.0,
+      "duration": 4.64,
+      "text": "actually want to put the spotlight on"
+    },
+    {
+      "start": 434.32,
+      "duration": 6.88,
+      "text": "forecasting models so I want to bring to"
+    },
+    {
+      "start": 436.64,
+      "duration": 7.52,
+      "text": "the stage our two speakers from Nixa uh"
+    },
+    {
+      "start": 441.2,
+      "duration": 6.64,
+      "text": "K and Tan"
+    },
+    {
+      "start": 444.16,
+      "duration": 6.44,
+      "text": "hello everyone hi I'm do you guys want"
+    },
+    {
+      "start": 447.84,
+      "duration": 6.0,
+      "text": "do you girls want to introduce"
+    },
+    {
+      "start": 450.6,
+      "duration": 5.48,
+      "text": "yourself and tellselves"
+    },
+    {
+      "start": 453.84,
+      "duration": 4.64,
+      "text": "I I'll go ahead and introduce myself."
+    },
+    {
+      "start": 456.08,
+      "duration": 6.08,
+      "text": "I'm uh Queen Chang, a developer advocate"
+    },
+    {
+      "start": 458.48,
+      "duration": 7.12,
+      "text": "at this club. Um I have been gradually"
+    },
+    {
+      "start": 462.16,
+      "duration": 6.72,
+      "text": "posting tips on Python and data science"
+    },
+    {
+      "start": 465.6,
+      "duration": 5.84,
+      "text": "on uh code cut and uh my current mission"
+    },
+    {
+      "start": 468.88,
+      "duration": 6.8,
+      "text": "is to make data science tools more"
+    },
+    {
+      "start": 471.44,
+      "duration": 6.32,
+      "text": "accessible to uh data scientists."
+    },
+    {
+      "start": 475.68,
+      "duration": 4.32,
+      "text": "Hi everyone, my name is EBE and I'm the"
+    },
+    {
+      "start": 477.76,
+      "duration": 4.08,
+      "text": "data scientist at Nexula. I'm super"
+    },
+    {
+      "start": 480.0,
+      "duration": 4.16,
+      "text": "happy to see all of you guys join"
+    },
+    {
+      "start": 481.84,
+      "duration": 4.32,
+      "text": "today's meeting. Uh and thank you for"
+    },
+    {
+      "start": 484.16,
+      "duration": 4.08,
+      "text": "for joining it. Uh I'm here to answer"
+    },
+    {
+      "start": 486.16,
+      "duration": 4.48,
+      "text": "any question if you you're having any uh"
+    },
+    {
+      "start": 488.24,
+      "duration": 3.92,
+      "text": "for the presentation."
+    },
+    {
+      "start": 490.64,
+      "duration": 3.04,
+      "text": "Uh we're really really happy to have"
+    },
+    {
+      "start": 492.16,
+      "duration": 3.2,
+      "text": "both of you here because I think this is"
+    },
+    {
+      "start": 493.68,
+      "duration": 3.44,
+      "text": "an area that a lot of people have had"
+    },
+    {
+      "start": 495.36,
+      "duration": 2.96,
+      "text": "kind of questions around but also I"
+    },
+    {
+      "start": 497.12,
+      "duration": 2.8,
+      "text": "think you're one of the first folks to"
+    },
+    {
+      "start": 498.32,
+      "duration": 4.32,
+      "text": "come in here talking about specialized"
+    },
+    {
+      "start": 499.92,
+      "duration": 4.64,
+      "text": "models. So uh let me kind of go ahead."
+    },
+    {
+      "start": 502.64,
+      "duration": 2.96,
+      "text": "Uh before we do that though char is"
+    },
+    {
+      "start": 504.56,
+      "duration": 3.36,
+      "text": "there anything you want to say before we"
+    },
+    {
+      "start": 505.6,
+      "duration": 4.56,
+      "text": "start on the slides? No, I mean as you"
+    },
+    {
+      "start": 507.92,
+      "duration": 5.84,
+      "text": "mentioned this is our first uh episode"
+    },
+    {
+      "start": 510.16,
+      "duration": 6.72,
+      "text": "on like a very focused uh area like"
+    },
+    {
+      "start": 513.76,
+      "duration": 5.68,
+      "text": "forecasting with uh Nixla Time. So we're"
+    },
+    {
+      "start": 516.88,
+      "duration": 5.76,
+      "text": "excited to see um her hear more from"
+    },
+    {
+      "start": 519.44,
+      "duration": 5.84,
+      "text": "Kuen and eBay and also to also hear from"
+    },
+    {
+      "start": 522.64,
+      "duration": 4.56,
+      "text": "the community what kind of use cases you"
+    },
+    {
+      "start": 525.28,
+      "duration": 4.24,
+      "text": "all have um when you're thinking"
+    },
+    {
+      "start": 527.2,
+      "duration": 4.0,
+      "text": "thinking about forecasting models. So go"
+    },
+    {
+      "start": 529.52,
+      "duration": 4.08,
+      "text": "ahead Ken, we don't want to take up your"
+    },
+    {
+      "start": 531.2,
+      "duration": 7.44,
+      "text": "time."
+    },
+    {
+      "start": 533.6,
+      "duration": 7.84,
+      "text": "Uh okay. Yeah. So who is Nixla? Um Nixla"
+    },
+    {
+      "start": 538.64,
+      "duration": 4.8,
+      "text": "is an AI startup specializing time"
+    },
+    {
+      "start": 541.44,
+      "duration": 5.04,
+      "text": "series forecasting and anomaly"
+    },
+    {
+      "start": 543.44,
+      "duration": 5.88,
+      "text": "detection. Our mission is to democratize"
+    },
+    {
+      "start": 546.48,
+      "duration": 7.12,
+      "text": "advanced AI tools and make them"
+    },
+    {
+      "start": 549.32,
+      "duration": 8.12,
+      "text": "accessible to organization of all size."
+    },
+    {
+      "start": 553.6,
+      "duration": 6.8,
+      "text": "Um our key offering include TAMG GBT a"
+    },
+    {
+      "start": 557.44,
+      "duration": 7.04,
+      "text": "generative pre-train transformer model"
+    },
+    {
+      "start": 560.4,
+      "duration": 6.48,
+      "text": "for time series data and uh we also have"
+    },
+    {
+      "start": 564.48,
+      "duration": 5.84,
+      "text": "open source libraries including SAS"
+    },
+    {
+      "start": 566.88,
+      "duration": 6.04,
+      "text": "forecast, ML forecast, neuro forecast"
+    },
+    {
+      "start": 570.32,
+      "duration": 5.84,
+      "text": "which cover a wide range of forecasting"
+    },
+    {
+      "start": 572.92,
+      "duration": 7.48,
+      "text": "needs and um we have partnered with"
+    },
+    {
+      "start": 576.16,
+      "duration": 8.56,
+      "text": "Microsoft to integrate TAMGBT into Azure"
+    },
+    {
+      "start": 580.4,
+      "duration": 4.32,
+      "text": "under the name TAM gen one."
+    },
+    {
+      "start": 588.24,
+      "duration": 7.44,
+      "text": "Um so what is TAMJ1? Uh it is our time"
+    },
+    {
+      "start": 592.16,
+      "duration": 7.2,
+      "text": "GBT model optimized specifically for"
+    },
+    {
+      "start": 595.68,
+      "duration": 6.96,
+      "text": "Microsoft Azure platform. It features"
+    },
+    {
+      "start": 599.36,
+      "duration": 5.92,
+      "text": "zero short forecasting meaning it can"
+    },
+    {
+      "start": 602.64,
+      "duration": 6.56,
+      "text": "generate highly accurate predictions"
+    },
+    {
+      "start": 605.28,
+      "duration": 7.68,
+      "text": "without requiring any model training."
+    },
+    {
+      "start": 609.2,
+      "duration": 7.4,
+      "text": "um is versatile and is supporting"
+    },
+    {
+      "start": 612.96,
+      "duration": 6.8,
+      "text": "applications across retail, finance,"
+    },
+    {
+      "start": 616.6,
+      "duration": 6.04,
+      "text": "energy. Um it's also easy to deploy"
+    },
+    {
+      "start": 619.76,
+      "duration": 5.36,
+      "text": "through the Azure AI studio and Azure"
+    },
+    {
+      "start": 622.64,
+      "duration": 4.96,
+      "text": "machine learning requiring just a few"
+    },
+    {
+      "start": 625.12,
+      "duration": 5.72,
+      "text": "slide of code."
+    },
+    {
+      "start": 627.6,
+      "duration": 5.92,
+      "text": "Some of the benefits includes cost"
+    },
+    {
+      "start": 630.84,
+      "duration": 6.92,
+      "text": "effectiveness with a pace as you go"
+    },
+    {
+      "start": 633.52,
+      "duration": 7.68,
+      "text": "model that cut down infrastructure cost"
+    },
+    {
+      "start": 637.76,
+      "duration": 6.56,
+      "text": "um and it can also scale very well with"
+    },
+    {
+      "start": 641.2,
+      "duration": 6.48,
+      "text": "um large forecasting task. It is"
+    },
+    {
+      "start": 644.32,
+      "duration": 8.12,
+      "text": "enterprise grade sec uh ready and it's"
+    },
+    {
+      "start": 647.68,
+      "duration": 4.76,
+      "text": "leverage Azure compliance standards."
+    },
+    {
+      "start": 652.72,
+      "duration": 4.16,
+      "text": "I think you had a a demo setup that you"
+    },
+    {
+      "start": 654.88,
+      "duration": 3.84,
+      "text": "were going to go into but before uh we"
+    },
+    {
+      "start": 656.88,
+      "duration": 4.08,
+      "text": "jump to that I was maybe going to say"
+    },
+    {
+      "start": 658.72,
+      "duration": 3.84,
+      "text": "that our audience is a combination of"
+    },
+    {
+      "start": 660.96,
+      "duration": 4.0,
+      "text": "people who are very new to this field"
+    },
+    {
+      "start": 662.56,
+      "duration": 5.2,
+      "text": "and those who have a lot of experience."
+    },
+    {
+      "start": 664.96,
+      "duration": 4.72,
+      "text": "So um would you be willing to share a"
+    },
+    {
+      "start": 667.76,
+      "duration": 3.44,
+      "text": "few kind of like domains where you're"
+    },
+    {
+      "start": 669.68,
+      "duration": 3.92,
+      "text": "seeing forecasting models being used"
+    },
+    {
+      "start": 671.2,
+      "duration": 4.64,
+      "text": "today?"
+    },
+    {
+      "start": 673.6,
+      "duration": 4.8,
+      "text": "EB do you want to answer this question?"
+    },
+    {
+      "start": 675.84,
+      "duration": 5.04,
+      "text": "Yeah sure. Um I can I can take this"
+    },
+    {
+      "start": 678.4,
+      "duration": 5.44,
+      "text": "question. So as we have been uh we have"
+    },
+    {
+      "start": 680.88,
+      "duration": 6.32,
+      "text": "been written here. So our um client is"
+    },
+    {
+      "start": 683.84,
+      "duration": 6.4,
+      "text": "actually very wild um and have a very"
+    },
+    {
+      "start": 687.2,
+      "duration": 5.44,
+      "text": "wide range. So um for the most of the"
+    },
+    {
+      "start": 690.24,
+      "duration": 4.56,
+      "text": "time we are seeing people in finance in"
+    },
+    {
+      "start": 692.64,
+      "duration": 4.56,
+      "text": "retail as well in industrial production"
+    },
+    {
+      "start": 694.8,
+      "duration": 5.12,
+      "text": "who are using our model. So for example"
+    },
+    {
+      "start": 697.2,
+      "duration": 4.96,
+      "text": "in retail there is a very large need for"
+    },
+    {
+      "start": 699.92,
+      "duration": 4.96,
+      "text": "time series forecasting in u demand"
+    },
+    {
+      "start": 702.16,
+      "duration": 5.12,
+      "text": "forecasting and for finance it's like u"
+    },
+    {
+      "start": 704.88,
+      "duration": 5.2,
+      "text": "more apparent like people are um for"
+    },
+    {
+      "start": 707.28,
+      "duration": 4.96,
+      "text": "example forecasting the stock price or"
+    },
+    {
+      "start": 710.08,
+      "duration": 5.76,
+      "text": "uh the movement as well as like for"
+    },
+    {
+      "start": 712.24,
+      "duration": 5.44,
+      "text": "other derivative or options um and also"
+    },
+    {
+      "start": 715.84,
+      "duration": 4.0,
+      "text": "like we are seeing a lot of people using"
+    },
+    {
+      "start": 717.68,
+      "duration": 3.92,
+      "text": "uh time gen or time GBT in their uh"
+    },
+    {
+      "start": 719.84,
+      "duration": 4.88,
+      "text": "industrial production for example the"
+    },
+    {
+      "start": 721.6,
+      "duration": 4.88,
+      "text": "energy forecast or actually uh some"
+    },
+    {
+      "start": 724.72,
+      "duration": 3.68,
+      "text": "chemical production and things like"
+    },
+    {
+      "start": 726.48,
+      "duration": 3.68,
+      "text": "that."
+    },
+    {
+      "start": 728.4,
+      "duration": 3.76,
+      "text": "Yeah, I'm already seeing some questions"
+    },
+    {
+      "start": 730.16,
+      "duration": 3.28,
+      "text": "uh coming up in the chat, but uh maybe"
+    },
+    {
+      "start": 732.16,
+      "duration": 2.64,
+      "text": "we can play the video and then we'll"
+    },
+    {
+      "start": 733.44,
+      "duration": 3.84,
+      "text": "collect the questions while we wait."
+    },
+    {
+      "start": 734.8,
+      "duration": 5.88,
+      "text": "Would that be good? Yeah. Yeah, let's"
+    },
+    {
+      "start": 737.28,
+      "duration": 3.4,
+      "text": "let's play it."
+    },
+    {
+      "start": 742.96,
+      "duration": 5.44,
+      "text": "Hi. Hi, I'm Queen Chang, developer"
+    },
+    {
+      "start": 745.92,
+      "duration": 5.04,
+      "text": "advocate at Nixa. Today we will dive"
+    },
+    {
+      "start": 748.4,
+      "duration": 5.12,
+      "text": "into demand forecasting to predict"
+    },
+    {
+      "start": 750.96,
+      "duration": 5.76,
+      "text": "future customer demand based on"
+    },
+    {
+      "start": 753.52,
+      "duration": 5.92,
+      "text": "historical data. We will introduce time"
+    },
+    {
+      "start": 756.72,
+      "duration": 6.12,
+      "text": "gen a powerful foundation model for time"
+    },
+    {
+      "start": 759.44,
+      "duration": 6.44,
+      "text": "series forecasting developed by"
+    },
+    {
+      "start": 762.84,
+      "duration": 6.12,
+      "text": "mixer. A common challenge in demand"
+    },
+    {
+      "start": 765.88,
+      "duration": 7.44,
+      "text": "forecasting is dealing with intermittent"
+    },
+    {
+      "start": 768.96,
+      "duration": 8.96,
+      "text": "demand a time series that contain many"
+    },
+    {
+      "start": 773.32,
+      "duration": 7.08,
+      "text": "zeros mapped by occasional spikes."
+    },
+    {
+      "start": 777.92,
+      "duration": 5.56,
+      "text": "Traditional models often struggle with"
+    },
+    {
+      "start": 780.4,
+      "duration": 5.48,
+      "text": "these patterns due to their irregular"
+    },
+    {
+      "start": 783.48,
+      "duration": 6.12,
+      "text": "patterns and data"
+    },
+    {
+      "start": 785.88,
+      "duration": 6.92,
+      "text": "gaps. Time genes this challenge through"
+    },
+    {
+      "start": 789.6,
+      "duration": 5.52,
+      "text": "it transformer based architecture. It"
+    },
+    {
+      "start": 792.8,
+      "duration": 5.84,
+      "text": "has been trained on billions of time"
+    },
+    {
+      "start": 795.12,
+      "duration": 7.28,
+      "text": "series across diverse domains like"
+    },
+    {
+      "start": 798.64,
+      "duration": 6.08,
+      "text": "retail, energy and finance. This broad"
+    },
+    {
+      "start": 802.4,
+      "duration": 5.12,
+      "text": "exposure enables it to recognize"
+    },
+    {
+      "start": 804.72,
+      "duration": 5.2,
+      "text": "patterns in noisy data sets and"
+    },
+    {
+      "start": 807.52,
+      "duration": 4.92,
+      "text": "generalize well even for highly"
+    },
+    {
+      "start": 809.92,
+      "duration": 5.28,
+      "text": "intermittent demand"
+    },
+    {
+      "start": 812.44,
+      "duration": 7.44,
+      "text": "scenarios. In this demo we will walk"
+    },
+    {
+      "start": 815.2,
+      "duration": 8.28,
+      "text": "through how to use gen model for demand"
+    },
+    {
+      "start": 819.88,
+      "duration": 6.64,
+      "text": "forecasting. First go to your"
+    },
+    {
+      "start": 823.48,
+      "duration": 7.8,
+      "text": "project. Go to model"
+    },
+    {
+      "start": 826.52,
+      "duration": 4.76,
+      "text": "catalog and search for tam"
+    },
+    {
+      "start": 832.84,
+      "duration": 4.32,
+      "text": "genen. Click"
+    },
+    {
+      "start": 835.48,
+      "duration": 4.64,
+      "text": "deploy."
+    },
+    {
+      "start": 837.16,
+      "duration": 7.6,
+      "text": "Continue. Since I already have a"
+    },
+    {
+      "start": 840.12,
+      "duration": 9.24,
+      "text": "subscription, I will go to models endp"
+    },
+    {
+      "start": 844.76,
+      "duration": 6.44,
+      "text": "points. Copy the endpoint URL and API"
+    },
+    {
+      "start": 849.36,
+      "duration": 3.84,
+      "text": "key."
+    },
+    {
+      "start": 851.2,
+      "duration": 5.6,
+      "text": "You will need these credentials to"
+    },
+    {
+      "start": 853.2,
+      "duration": 6.84,
+      "text": "interact with the Tamgen API later. To"
+    },
+    {
+      "start": 856.8,
+      "duration": 6.24,
+      "text": "install Nixla, type pip install"
+    },
+    {
+      "start": 860.04,
+      "duration": 6.76,
+      "text": "Nixla. Next, instantiate the Nixla"
+    },
+    {
+      "start": 863.04,
+      "duration": 7.92,
+      "text": "client object by specify the base URL"
+    },
+    {
+      "start": 866.8,
+      "duration": 6.64,
+      "text": "that we copied earlier and the API key."
+    },
+    {
+      "start": 870.96,
+      "duration": 6.72,
+      "text": "In this demo, we will use a sample of"
+    },
+    {
+      "start": 873.44,
+      "duration": 7.88,
+      "text": "the M5 data set that tracks daily demand"
+    },
+    {
+      "start": 877.68,
+      "duration": 7.8,
+      "text": "for food items sold in a California"
+    },
+    {
+      "start": 881.32,
+      "duration": 8.08,
+      "text": "store. In this data set, each row"
+    },
+    {
+      "start": 885.48,
+      "duration": 7.0,
+      "text": "represent a unique date and"
+    },
+    {
+      "start": 889.4,
+      "duration": 6.52,
+      "text": "product. The Y column is a demand value"
+    },
+    {
+      "start": 892.48,
+      "duration": 6.4,
+      "text": "for that date. Sell price is the item's"
+    },
+    {
+      "start": 895.92,
+      "duration": 6.08,
+      "text": "price on that day. The event type"
+    },
+    {
+      "start": 898.88,
+      "duration": 6.08,
+      "text": "columns are external variables to help"
+    },
+    {
+      "start": 902.0,
+      "duration": 6.64,
+      "text": "the model understand external influences"
+    },
+    {
+      "start": 904.96,
+      "duration": 6.68,
+      "text": "on demand. Next, let's visualize a few"
+    },
+    {
+      "start": 908.64,
+      "duration": 5.68,
+      "text": "demand series using client"
+    },
+    {
+      "start": 911.64,
+      "duration": 6.36,
+      "text": "doplot. This function display the"
+    },
+    {
+      "start": 914.32,
+      "duration": 7.28,
+      "text": "historical demands over time. Here we"
+    },
+    {
+      "start": 918.0,
+      "duration": 6.4,
+      "text": "limit the view to the last 360 days of"
+    },
+    {
+      "start": 921.6,
+      "duration": 6.16,
+      "text": "two food items. The plot show"
+    },
+    {
+      "start": 924.4,
+      "duration": 7.44,
+      "text": "intermittent demands pattern extended"
+    },
+    {
+      "start": 927.76,
+      "duration": 6.04,
+      "text": "periods of zero or low domain punctuated"
+    },
+    {
+      "start": 931.84,
+      "duration": 4.88,
+      "text": "by certain"
+    },
+    {
+      "start": 933.8,
+      "duration": 6.04,
+      "text": "spots. Next we will apply log"
+    },
+    {
+      "start": 936.72,
+      "duration": 5.76,
+      "text": "transformation to the data to compare"
+    },
+    {
+      "start": 939.84,
+      "duration": 4.76,
+      "text": "extreme values which have reduced the"
+    },
+    {
+      "start": 942.48,
+      "duration": 5.44,
+      "text": "influence of large"
+    },
+    {
+      "start": 944.6,
+      "duration": 5.64,
+      "text": "outliers. We will also add one to all"
+    },
+    {
+      "start": 947.92,
+      "duration": 4.24,
+      "text": "points before taking the log to handle"
+    },
+    {
+      "start": 950.24,
+      "duration": 4.56,
+      "text": "zeros."
+    },
+    {
+      "start": 952.16,
+      "duration": 5.56,
+      "text": "Now let's plot to compare the original"
+    },
+    {
+      "start": 954.8,
+      "duration": 6.0,
+      "text": "and transform series on the same"
+    },
+    {
+      "start": 957.72,
+      "duration": 5.4,
+      "text": "chart. This plot show two lines"
+    },
+    {
+      "start": 960.8,
+      "duration": 5.28,
+      "text": "representing the original and transform"
+    },
+    {
+      "start": 963.12,
+      "duration": 6.32,
+      "text": "data. The blue line indicates the"
+    },
+    {
+      "start": 966.08,
+      "duration": 5.44,
+      "text": "original data which includes more pics."
+    },
+    {
+      "start": 969.44,
+      "duration": 5.12,
+      "text": "The red lines represents the lock"
+    },
+    {
+      "start": 971.52,
+      "duration": 7.16,
+      "text": "transform data which smooths out the"
+    },
+    {
+      "start": 974.56,
+      "duration": 8.48,
+      "text": "picss. Now let's skip the last"
+    },
+    {
+      "start": 978.68,
+      "duration": 7.68,
+      "text": "28 time steps for the test set and use"
+    },
+    {
+      "start": 983.04,
+      "duration": 6.8,
+      "text": "the rest as input to the"
+    },
+    {
+      "start": 986.36,
+      "duration": 6.6,
+      "text": "model. To generate forecast, we will use"
+    },
+    {
+      "start": 989.84,
+      "duration": 7.12,
+      "text": "the client forecast function. This"
+    },
+    {
+      "start": 992.96,
+      "duration": 7.72,
+      "text": "method sends our training data to the"
+    },
+    {
+      "start": 996.96,
+      "duration": 9.08,
+      "text": "deployed time gen model and retrieves"
+    },
+    {
+      "start": 1000.68,
+      "duration": 10.08,
+      "text": "prediction. H equ= 28 forecast 28 steps"
+    },
+    {
+      "start": 1006.04,
+      "duration": 8.28,
+      "text": "ahead level equal 80 as 80% prediction"
+    },
+    {
+      "start": 1010.76,
+      "duration": 6.04,
+      "text": "intervals time column tic column and ID"
+    },
+    {
+      "start": 1014.32,
+      "duration": 5.36,
+      "text": "column define the structure of the time"
+    },
+    {
+      "start": 1016.8,
+      "duration": 6.6,
+      "text": "series data running this code will give"
+    },
+    {
+      "start": 1019.68,
+      "duration": 6.08,
+      "text": "us the predictions for the training"
+    },
+    {
+      "start": 1023.4,
+      "duration": 4.68,
+      "text": "data since we apply a lock"
+    },
+    {
+      "start": 1025.76,
+      "duration": 4.88,
+      "text": "transformation be we will reverse the"
+    },
+    {
+      "start": 1028.08,
+      "duration": 4.16,
+      "text": "lock transformation to return to the"
+    },
+    {
+      "start": 1030.64,
+      "duration": 4.0,
+      "text": "original scale."
+    },
+    {
+      "start": 1032.24,
+      "duration": 5.84,
+      "text": "In the forecast table, we can see the"
+    },
+    {
+      "start": 1034.64,
+      "duration": 5.4,
+      "text": "forecasted demands and the 80%"
+    },
+    {
+      "start": 1038.08,
+      "duration": 5.2,
+      "text": "confidence interval"
+    },
+    {
+      "start": 1040.04,
+      "duration": 5.44,
+      "text": "bells. To measure the model performance,"
+    },
+    {
+      "start": 1043.28,
+      "duration": 5.24,
+      "text": "let's plot the"
+    },
+    {
+      "start": 1045.48,
+      "duration": 7.8,
+      "text": "predictions against the actual"
+    },
+    {
+      "start": 1048.52,
+      "duration": 7.68,
+      "text": "values of two food items. In this plot,"
+    },
+    {
+      "start": 1053.28,
+      "duration": 5.92,
+      "text": "the actual values are highlighted in"
+    },
+    {
+      "start": 1056.2,
+      "duration": 5.16,
+      "text": "blues and the predictions are"
+    },
+    {
+      "start": 1059.2,
+      "duration": 6.4,
+      "text": "highlighted in pink."
+    },
+    {
+      "start": 1061.36,
+      "duration": 5.4,
+      "text": "The shaded areas represents the 80%"
+    },
+    {
+      "start": 1065.6,
+      "duration": 4.16,
+      "text": "prediction"
+    },
+    {
+      "start": 1066.76,
+      "duration": 5.56,
+      "text": "intervals. Overall, we can see that the"
+    },
+    {
+      "start": 1069.76,
+      "duration": 5.2,
+      "text": "model captures the trend well"
+    },
+    {
+      "start": 1072.32,
+      "duration": 5.76,
+      "text": "maintaining reasonable accuracy within"
+    },
+    {
+      "start": 1074.96,
+      "duration": 5.52,
+      "text": "the prediction intervals. Finally, we"
+    },
+    {
+      "start": 1078.08,
+      "duration": 9.08,
+      "text": "can measure the mean absolute error of"
+    },
+    {
+      "start": 1080.48,
+      "duration": 10.48,
+      "text": "the model. The M AE of this model is"
+    },
+    {
+      "start": 1087.16,
+      "duration": 8.52,
+      "text": "0.51 indicates that on average the model"
+    },
+    {
+      "start": 1090.96,
+      "duration": 7.92,
+      "text": "forecast deviates by around 0.51 units"
+    },
+    {
+      "start": 1095.68,
+      "duration": 5.6,
+      "text": "from the actual demand. Considering the"
+    },
+    {
+      "start": 1098.88,
+      "duration": 5.04,
+      "text": "intermittent nature of the data, this is"
+    },
+    {
+      "start": 1101.28,
+      "duration": 5.04,
+      "text": "a solid performance."
+    },
+    {
+      "start": 1103.92,
+      "duration": 5.28,
+      "text": "To further improve the model, we will"
+    },
+    {
+      "start": 1106.32,
+      "duration": 8.4,
+      "text": "finetune it with the finetune steps set"
+    },
+    {
+      "start": 1109.2,
+      "duration": 8.08,
+      "text": "to 10 and the fetune loss to be MAE."
+    },
+    {
+      "start": 1114.72,
+      "duration": 6.04,
+      "text": "This will allow the model to adjust its"
+    },
+    {
+      "start": 1117.28,
+      "duration": 7.44,
+      "text": "ways using the training"
+    },
+    {
+      "start": 1120.76,
+      "duration": 7.64,
+      "text": "data. Next, we will rename columns and"
+    },
+    {
+      "start": 1124.72,
+      "duration": 6.32,
+      "text": "apply the reverse lock transform again"
+    },
+    {
+      "start": 1128.4,
+      "duration": 5.2,
+      "text": "to the fon results."
+    },
+    {
+      "start": 1131.04,
+      "duration": 5.76,
+      "text": "Then add the final predictions to the"
+    },
+    {
+      "start": 1133.6,
+      "duration": 7.12,
+      "text": "merge results data frame to compare them"
+    },
+    {
+      "start": 1136.8,
+      "duration": 5.84,
+      "text": "side by side with the original forecast."
+    },
+    {
+      "start": 1140.72,
+      "duration": 4.72,
+      "text": "From the output, we can see that the"
+    },
+    {
+      "start": 1142.64,
+      "duration": 5.24,
+      "text": "finune version improves accuracy."
+    },
+    {
+      "start": 1145.44,
+      "duration": 5.32,
+      "text": "Dropping the MIE from"
+    },
+    {
+      "start": 1147.88,
+      "duration": 5.8,
+      "text": "0.51 to"
+    },
+    {
+      "start": 1150.76,
+      "duration": 5.48,
+      "text": "0.49. This demonstrates that fetuning"
+    },
+    {
+      "start": 1153.68,
+      "duration": 6.8,
+      "text": "helps the model adapt better to the"
+    },
+    {
+      "start": 1156.24,
+      "duration": 7.04,
+      "text": "specific characteristic of our data set."
+    },
+    {
+      "start": 1160.48,
+      "duration": 5.32,
+      "text": "In conclusion, you can see that time gen"
+    },
+    {
+      "start": 1163.28,
+      "duration": 5.6,
+      "text": "is a powerful tool for demand"
+    },
+    {
+      "start": 1165.8,
+      "duration": 6.12,
+      "text": "forecasting. With finetuning, it adapts"
+    },
+    {
+      "start": 1168.88,
+      "duration": 5.0,
+      "text": "even better to your specific data,"
+    },
+    {
+      "start": 1171.92,
+      "duration": 4.72,
+      "text": "helping you make accurate"
+    },
+    {
+      "start": 1173.88,
+      "duration": 5.88,
+      "text": "decisions. For more examples and use"
+    },
+    {
+      "start": 1176.64,
+      "duration": 6.12,
+      "text": "case of Tamgen, visit the official Nexa"
+    },
+    {
+      "start": 1179.76,
+      "duration": 3.0,
+      "text": "documentation."
+    },
+    {
+      "start": 1186.08,
+      "duration": 3.36,
+      "text": "Awesome. Thank you. uh if I if I kept"
+    },
+    {
+      "start": 1188.24,
+      "duration": 2.4,
+      "text": "looking off screen it's because there"
+    },
+    {
+      "start": 1189.44,
+      "duration": 4.48,
+      "text": "were actually a bunch of questions"
+    },
+    {
+      "start": 1190.64,
+      "duration": 5.2,
+      "text": "coming in so I was kind of like happy um"
+    },
+    {
+      "start": 1193.92,
+      "duration": 2.96,
+      "text": "this was really great and uh Charma I"
+    },
+    {
+      "start": 1195.84,
+      "duration": 4.08,
+      "text": "don't know if you want to jump into"
+    },
+    {
+      "start": 1196.88,
+      "duration": 5.04,
+      "text": "questions or if we should basically um"
+    },
+    {
+      "start": 1199.92,
+      "duration": 5.12,
+      "text": "take a minute to see if there's anything"
+    },
+    {
+      "start": 1201.92,
+      "duration": 4.64,
+      "text": "else you want to add otherwise no we can"
+    },
+    {
+      "start": 1205.04,
+      "duration": 3.92,
+      "text": "we should jump into questions and then"
+    },
+    {
+      "start": 1206.56,
+      "duration": 4.08,
+      "text": "we can come back okay so I think the"
+    },
+    {
+      "start": 1208.96,
+      "duration": 3.44,
+      "text": "very first question someone asked is"
+    },
+    {
+      "start": 1210.64,
+      "duration": 3.6,
+      "text": "what's the backend code used for time"
+    },
+    {
+      "start": 1212.4,
+      "duration": 4.24,
+      "text": "genen so I'm not sure if you can share"
+    },
+    {
+      "start": 1214.24,
+      "duration": 4.4,
+      "text": "that but we'd love to know as"
+    },
+    {
+      "start": 1216.64,
+      "duration": 4.72,
+      "text": "Yeah, maybe I can take this question."
+    },
+    {
+      "start": 1218.64,
+      "duration": 5.68,
+      "text": "So, timejang is a big a big model"
+    },
+    {
+      "start": 1221.36,
+      "duration": 5.44,
+      "text": "pre-trained on the transformer model."
+    },
+    {
+      "start": 1224.32,
+      "duration": 4.0,
+      "text": "Um, as for the specific structure,"
+    },
+    {
+      "start": 1226.8,
+      "duration": 3.68,
+      "text": "probably we are not going to be able to"
+    },
+    {
+      "start": 1228.32,
+      "duration": 4.88,
+      "text": "share more about it, but yeah, it's a"
+    },
+    {
+      "start": 1230.48,
+      "duration": 5.6,
+      "text": "pre-trained model for um on billions of"
+    },
+    {
+      "start": 1233.2,
+      "duration": 4.72,
+      "text": "time series data."
+    },
+    {
+      "start": 1236.08,
+      "duration": 4.24,
+      "text": "I think the next question that came up"
+    },
+    {
+      "start": 1237.92,
+      "duration": 4.48,
+      "text": "was um I think you'd actually answered"
+    },
+    {
+      "start": 1240.32,
+      "duration": 3.36,
+      "text": "it offline but uh someone had asked why"
+    },
+    {
+      "start": 1242.4,
+      "duration": 3.04,
+      "text": "do you have why why did you use the"
+    },
+    {
+      "start": 1243.68,
+      "duration": 3.76,
+      "text": "zeros forecasting technique? This is"
+    },
+    {
+      "start": 1245.44,
+      "duration": 5.04,
+      "text": "Adil."
+    },
+    {
+      "start": 1247.44,
+      "duration": 5.68,
+      "text": "Um actually I think for time gen we we"
+    },
+    {
+      "start": 1250.48,
+      "duration": 5.6,
+      "text": "have both um zeros for feature as well"
+    },
+    {
+      "start": 1253.12,
+      "duration": 5.68,
+      "text": "as for um specific data we also have the"
+    },
+    {
+      "start": 1256.08,
+      "duration": 4.72,
+      "text": "fine-tuning feature. So basically the"
+    },
+    {
+      "start": 1258.8,
+      "duration": 4.16,
+      "text": "reason why we're having zeroot uh"
+    },
+    {
+      "start": 1260.8,
+      "duration": 4.48,
+      "text": "forecasting feature is because that"
+    },
+    {
+      "start": 1262.96,
+      "duration": 4.48,
+      "text": "first it is fast and secondly it is very"
+    },
+    {
+      "start": 1265.28,
+      "duration": 4.24,
+      "text": "easy to use. So for example if you are"
+    },
+    {
+      "start": 1267.44,
+      "duration": 4.8,
+      "text": "not um if you're not fine-tuning"
+    },
+    {
+      "start": 1269.52,
+      "duration": 4.72,
+      "text": "specifically on your data um time GPT"
+    },
+    {
+      "start": 1272.24,
+      "duration": 4.48,
+      "text": "can generate the the forecast in a very"
+    },
+    {
+      "start": 1274.24,
+      "duration": 5.68,
+      "text": "short uh time period. For example the"
+    },
+    {
+      "start": 1276.72,
+      "duration": 6.32,
+      "text": "the example you saw before um time GPT"
+    },
+    {
+      "start": 1279.92,
+      "duration": 5.92,
+      "text": "is able to generate the the answer um in"
+    },
+    {
+      "start": 1283.04,
+      "duration": 5.04,
+      "text": "only six seconds. However, if you're"
+    },
+    {
+      "start": 1285.84,
+      "duration": 4.8,
+      "text": "just doing like zero fe um zero shot"
+    },
+    {
+      "start": 1288.08,
+      "duration": 4.08,
+      "text": "feed um forecasting, then the time is"
+    },
+    {
+      "start": 1290.64,
+      "duration": 4.72,
+      "text": "going to be even even shorter. I think"
+    },
+    {
+      "start": 1292.16,
+      "duration": 5.2,
+      "text": "it's uh three or four second. And uh it"
+    },
+    {
+      "start": 1295.36,
+      "duration": 4.48,
+      "text": "might not be a very big difference if"
+    },
+    {
+      "start": 1297.36,
+      "duration": 4.16,
+      "text": "you're taking like one time series."
+    },
+    {
+      "start": 1299.84,
+      "duration": 6.16,
+      "text": "However, if you're having a lot of them"
+    },
+    {
+      "start": 1301.52,
+      "duration": 6.4,
+      "text": "like um thousand and um 10,000 of um"
+    },
+    {
+      "start": 1306.0,
+      "duration": 4.24,
+      "text": "time series, this make a very big"
+    },
+    {
+      "start": 1307.92,
+      "duration": 4.32,
+      "text": "difference."
+    },
+    {
+      "start": 1310.24,
+      "duration": 3.52,
+      "text": "Um I'm going to take questions off the"
+    },
+    {
+      "start": 1312.24,
+      "duration": 2.96,
+      "text": "chat and then I think we some of the"
+    },
+    {
+      "start": 1313.76,
+      "duration": 4.0,
+      "text": "things you're saying I hope we come back"
+    },
+    {
+      "start": 1315.2,
+      "duration": 4.48,
+      "text": "to it as well later but uh I think Adel"
+    },
+    {
+      "start": 1317.76,
+      "duration": 4.08,
+      "text": "had a followup which may be related and"
+    },
+    {
+      "start": 1319.68,
+      "duration": 5.84,
+      "text": "he was asking how do we deploy to"
+    },
+    {
+      "start": 1321.84,
+      "duration": 5.12,
+      "text": "production environments um anyone want I"
+    },
+    {
+      "start": 1325.52,
+      "duration": 3.36,
+      "text": "mean I know you in the demo we saw"
+    },
+    {
+      "start": 1326.96,
+      "duration": 3.6,
+      "text": "deployed to Azure and kind of think of"
+    },
+    {
+      "start": 1328.88,
+      "duration": 4.8,
+      "text": "that as a production environment but I'm"
+    },
+    {
+      "start": 1330.56,
+      "duration": 5.72,
+      "text": "guessing the broader question is how do"
+    },
+    {
+      "start": 1333.68,
+      "duration": 4.56,
+      "text": "you deploy time genen in"
+    },
+    {
+      "start": 1336.28,
+      "duration": 4.12,
+      "text": "enterprise anything that they should"
+    },
+    {
+      "start": 1338.24,
+      "duration": 2.16,
+      "text": "consider"
+    },
+    {
+      "start": 1341.44,
+      "duration": 4.4,
+      "text": "Uh, Kuian, do you want to take this or"
+    },
+    {
+      "start": 1343.76,
+      "duration": 5.84,
+      "text": "should I go ahead?"
+    },
+    {
+      "start": 1345.84,
+      "duration": 6.32,
+      "text": "Uh, you can go ahead. Yeah. Um, for so"
+    },
+    {
+      "start": 1349.6,
+      "duration": 5.04,
+      "text": "for time gen, we we have both timeg and"
+    },
+    {
+      "start": 1352.16,
+      "duration": 5.52,
+      "text": "timegen and timegen is going to be"
+    },
+    {
+      "start": 1354.64,
+      "duration": 5.04,
+      "text": "specifically for our Asia environment."
+    },
+    {
+      "start": 1357.68,
+      "duration": 3.6,
+      "text": "Um, so we already show like how we are"
+    },
+    {
+      "start": 1359.68,
+      "duration": 4.88,
+      "text": "going to be deploying it in the in the"
+    },
+    {
+      "start": 1361.28,
+      "duration": 6.24,
+      "text": "Asia studio. Um I think um basically"
+    },
+    {
+      "start": 1364.56,
+      "duration": 4.8,
+      "text": "this is in the Asia marketplace and if"
+    },
+    {
+      "start": 1367.52,
+      "duration": 3.6,
+      "text": "you are using the Asia environment you"
+    },
+    {
+      "start": 1369.36,
+      "duration": 4.48,
+      "text": "are going to be able to search the model"
+    },
+    {
+      "start": 1371.12,
+      "duration": 4.88,
+      "text": "in the marketplace and like use it into"
+    },
+    {
+      "start": 1373.84,
+      "duration": 5.2,
+      "text": "production in no time. And if you're"
+    },
+    {
+      "start": 1376.0,
+      "duration": 5.2,
+      "text": "using time GPT then it's uh going to be"
+    },
+    {
+      "start": 1379.04,
+      "duration": 3.92,
+      "text": "not dependable on um what environment"
+    },
+    {
+      "start": 1381.2,
+      "duration": 4.88,
+      "text": "you're going to use. You just need the"
+    },
+    {
+      "start": 1382.96,
+      "duration": 5.12,
+      "text": "API key and call the endpoint. Yeah, you"
+    },
+    {
+      "start": 1386.08,
+      "duration": 5.92,
+      "text": "can go to nla.io"
+    },
+    {
+      "start": 1388.08,
+      "duration": 7.6,
+      "text": "And uh basically just click try GBT and"
+    },
+    {
+      "start": 1392.0,
+      "duration": 8.0,
+      "text": "grab the API uh key endpoint if you want"
+    },
+    {
+      "start": 1395.68,
+      "duration": 5.92,
+      "text": "to try it out in your local environment."
+    },
+    {
+      "start": 1400.0,
+      "duration": 2.92,
+      "text": "I'm trying to put the links in the chat"
+    },
+    {
+      "start": 1401.6,
+      "duration": 4.32,
+      "text": "as we go."
+    },
+    {
+      "start": 1402.92,
+      "duration": 4.28,
+      "text": "Um Anil actually has other Adil had"
+    },
+    {
+      "start": 1405.92,
+      "duration": 3.28,
+      "text": "other questions but let me first take"
+    },
+    {
+      "start": 1407.2,
+      "duration": 3.76,
+      "text": "the one from Jeremy. Um he said can you"
+    },
+    {
+      "start": 1409.2,
+      "duration": 3.92,
+      "text": "please talk about use cases in IoT?"
+    },
+    {
+      "start": 1410.96,
+      "duration": 4.0,
+      "text": "Actually I'm interested in that. Uh any"
+    },
+    {
+      "start": 1413.12,
+      "duration": 3.84,
+      "text": "use cases in IoT? I I I guess I would"
+    },
+    {
+      "start": 1414.96,
+      "duration": 4.24,
+      "text": "also want to know IoT versus industrial"
+    },
+    {
+      "start": 1416.96,
+      "duration": 3.12,
+      "text": "IoT because I think they're both um"
+    },
+    {
+      "start": 1419.2,
+      "duration": 2.4,
+      "text": "different in terms of their"
+    },
+    {
+      "start": 1420.08,
+      "duration": 3.44,
+      "text": "requirements."
+    },
+    {
+      "start": 1421.6,
+      "duration": 5.36,
+      "text": "Yeah. Yeah. Uh definitely. I think for"
+    },
+    {
+      "start": 1423.52,
+      "duration": 5.2,
+      "text": "IoT the the main thing is that the like"
+    },
+    {
+      "start": 1426.96,
+      "duration": 4.56,
+      "text": "the time series is going to be having"
+    },
+    {
+      "start": 1428.72,
+      "duration": 6.24,
+      "text": "very small granularity like for example"
+    },
+    {
+      "start": 1431.52,
+      "duration": 6.64,
+      "text": "like second or even millisecond nancond"
+    },
+    {
+      "start": 1434.96,
+      "duration": 6.16,
+      "text": "right um so time GPT is actually having"
+    },
+    {
+      "start": 1438.16,
+      "duration": 5.04,
+      "text": "several use case um for the machine"
+    },
+    {
+      "start": 1441.12,
+      "duration": 5.04,
+      "text": "generated metrics which is very similar"
+    },
+    {
+      "start": 1443.2,
+      "duration": 6.4,
+      "text": "to the IoT data so for example we have a"
+    },
+    {
+      "start": 1446.16,
+      "duration": 6.16,
+      "text": "client with um chemical production and"
+    },
+    {
+      "start": 1449.6,
+      "duration": 4.96,
+      "text": "um in their production process they have"
+    },
+    {
+      "start": 1452.32,
+      "duration": 4.96,
+      "text": "u mesh measuring the different u metrics"
+    },
+    {
+      "start": 1454.56,
+      "duration": 5.92,
+      "text": "for example the the heating or um the"
+    },
+    {
+      "start": 1457.28,
+      "duration": 5.48,
+      "text": "pressure of the production uh device or"
+    },
+    {
+      "start": 1460.48,
+      "duration": 5.76,
+      "text": "like the uh the usage of different"
+    },
+    {
+      "start": 1462.76,
+      "duration": 6.12,
+      "text": "energy measured in um different kind of"
+    },
+    {
+      "start": 1466.24,
+      "duration": 5.92,
+      "text": "ways. So the the data is actually coming"
+    },
+    {
+      "start": 1468.88,
+      "duration": 5.12,
+      "text": "in in milliseconds and seconds. Um I"
+    },
+    {
+      "start": 1472.16,
+      "duration": 5.84,
+      "text": "think that's going to be a very similar"
+    },
+    {
+      "start": 1474.0,
+      "duration": 5.52,
+      "text": "use case for IoT data. Um does that"
+    },
+    {
+      "start": 1478.0,
+      "duration": 3.84,
+      "text": "help? Yeah, I think there's that. Are"
+    },
+    {
+      "start": 1479.52,
+      "duration": 3.36,
+      "text": "there any this is me just kind of asking"
+    },
+    {
+      "start": 1481.84,
+      "duration": 2.64,
+      "text": "on the side, but are there any"
+    },
+    {
+      "start": 1482.88,
+      "duration": 3.76,
+      "text": "characteristics of the time series data"
+    },
+    {
+      "start": 1484.48,
+      "duration": 3.84,
+      "text": "like are there specific kinds of like"
+    },
+    {
+      "start": 1486.64,
+      "duration": 3.52,
+      "text": "for instance I I thought about it from a"
+    },
+    {
+      "start": 1488.32,
+      "duration": 4.0,
+      "text": "responsible AI perspective, right? Do"
+    },
+    {
+      "start": 1490.16,
+      "duration": 4.0,
+      "text": "you look for data that has like uniform"
+    },
+    {
+      "start": 1492.32,
+      "duration": 3.76,
+      "text": "distribution across various like do you"
+    },
+    {
+      "start": 1494.16,
+      "duration": 4.0,
+      "text": "provide any guidance for how people"
+    },
+    {
+      "start": 1496.08,
+      "duration": 4.64,
+      "text": "should actually create the data for you"
+    },
+    {
+      "start": 1498.16,
+      "duration": 5.04,
+      "text": "or do you not care? Yeah, actually this"
+    },
+    {
+      "start": 1500.72,
+      "duration": 5.6,
+      "text": "is a very good question. Uh time GPDS uh"
+    },
+    {
+      "start": 1503.2,
+      "duration": 5.28,
+      "text": "aimed to democracize the the time series"
+    },
+    {
+      "start": 1506.32,
+      "duration": 4.24,
+      "text": "uh forecasting sphere. So actually we"
+    },
+    {
+      "start": 1508.48,
+      "duration": 4.4,
+      "text": "don't have any requirement for uh"
+    },
+    {
+      "start": 1510.56,
+      "duration": 5.12,
+      "text": "cleaning or specifically preparing the"
+    },
+    {
+      "start": 1512.88,
+      "duration": 4.64,
+      "text": "data set for time GPT. Um actually you"
+    },
+    {
+      "start": 1515.68,
+      "duration": 4.48,
+      "text": "can just uh as long as you have a whole"
+    },
+    {
+      "start": 1517.52,
+      "duration": 4.88,
+      "text": "time series without missing value um you"
+    },
+    {
+      "start": 1520.16,
+      "duration": 4.4,
+      "text": "can just throw it into time GPT and it's"
+    },
+    {
+      "start": 1522.4,
+      "duration": 4.0,
+      "text": "uh going to be uh automatically"
+    },
+    {
+      "start": 1524.56,
+      "duration": 4.24,
+      "text": "processing the data and like preparing"
+    },
+    {
+      "start": 1526.4,
+      "duration": 4.48,
+      "text": "your data for the forecast uh scaling"
+    },
+    {
+      "start": 1528.8,
+      "duration": 4.24,
+      "text": "whatever cleansing we need to do before"
+    },
+    {
+      "start": 1530.88,
+      "duration": 4.72,
+      "text": "feeding it into the transformer and then"
+    },
+    {
+      "start": 1533.04,
+      "duration": 4.48,
+      "text": "uh we can have the result in like three"
+    },
+    {
+      "start": 1535.6,
+      "duration": 4.72,
+      "text": "lines of code."
+    },
+    {
+      "start": 1537.52,
+      "duration": 5.68,
+      "text": "That's actually very uh attractive for"
+    },
+    {
+      "start": 1540.32,
+      "duration": 6.16,
+      "text": "me. Um, next question from IQates was,"
+    },
+    {
+      "start": 1543.2,
+      "duration": 6.08,
+      "text": "\"Are there any different size models?\""
+    },
+    {
+      "start": 1546.48,
+      "duration": 4.32,
+      "text": "Uh, sorry. Are there any different size"
+    },
+    {
+      "start": 1549.28,
+      "duration": 3.68,
+      "text": "models? I'm guessing when they mean size"
+    },
+    {
+      "start": 1550.8,
+      "duration": 3.52,
+      "text": "and IQ mates, please do clarify. I think"
+    },
+    {
+      "start": 1552.96,
+      "duration": 3.28,
+      "text": "when they say size, they probably mean"
+    },
+    {
+      "start": 1554.32,
+      "duration": 4.32,
+      "text": "parameters, but maybe they also mean"
+    },
+    {
+      "start": 1556.24,
+      "duration": 5.36,
+      "text": "mini and large uh fullfeatured models."
+    },
+    {
+      "start": 1558.64,
+      "duration": 4.72,
+      "text": "I'm not sure. Both questions are valid."
+    },
+    {
+      "start": 1561.6,
+      "duration": 4.72,
+      "text": "Yeah. Yeah, definitely. I I think I can"
+    },
+    {
+      "start": 1563.36,
+      "duration": 4.48,
+      "text": "answer both then. So um for the"
+    },
+    {
+      "start": 1566.32,
+      "duration": 3.92,
+      "text": "different sides of model whether or not"
+    },
+    {
+      "start": 1567.84,
+      "duration": 4.64,
+      "text": "we have a mini version of time GPT uh"
+    },
+    {
+      "start": 1570.24,
+      "duration": 3.6,
+      "text": "the quick answer is no like time GPT is"
+    },
+    {
+      "start": 1572.48,
+      "duration": 3.6,
+      "text": "um the only model that we are having"
+    },
+    {
+      "start": 1573.84,
+      "duration": 3.84,
+      "text": "right now but in the future definitely u"
+    },
+    {
+      "start": 1576.08,
+      "duration": 4.32,
+      "text": "for increasing the speed of making"
+    },
+    {
+      "start": 1577.68,
+      "duration": 4.08,
+      "text": "forecast or like making uh fine-tuning"
+    },
+    {
+      "start": 1580.4,
+      "duration": 4.64,
+      "text": "uh we were thinking about like adding"
+    },
+    {
+      "start": 1581.76,
+      "duration": 6.24,
+      "text": "the the mini version of it. Um however"
+    },
+    {
+      "start": 1585.04,
+      "duration": 6.0,
+      "text": "um for different size of model if you're"
+    },
+    {
+      "start": 1588.0,
+      "duration": 5.28,
+      "text": "talking about param um parameter like we"
+    },
+    {
+      "start": 1591.04,
+      "duration": 4.96,
+      "text": "do have fine-tuning feature so we have"
+    },
+    {
+      "start": 1593.28,
+      "duration": 6.16,
+      "text": "different p u fine-tuning capability for"
+    },
+    {
+      "start": 1596.0,
+      "duration": 5.2,
+      "text": "time GPT and um you can specify like how"
+    },
+    {
+      "start": 1599.44,
+      "duration": 3.28,
+      "text": "you want to fine tune the model as well"
+    },
+    {
+      "start": 1601.2,
+      "duration": 3.92,
+      "text": "as how much you want to fine tune the"
+    },
+    {
+      "start": 1602.72,
+      "duration": 5.52,
+      "text": "model so it's going to be depending on"
+    },
+    {
+      "start": 1605.12,
+      "duration": 5.04,
+      "text": "your use case specifically"
+    },
+    {
+      "start": 1608.24,
+      "duration": 4.48,
+      "text": "and some of these questions I may be"
+    },
+    {
+      "start": 1610.16,
+      "duration": 4.4,
+      "text": "kind of asking out of order so hopefully"
+    },
+    {
+      "start": 1612.72,
+      "duration": 3.6,
+      "text": "the general gentleman who asked kind of"
+    },
+    {
+      "start": 1614.56,
+      "duration": 3.92,
+      "text": "knows they're connected. Uh this one"
+    },
+    {
+      "start": 1616.32,
+      "duration": 3.6,
+      "text": "says, \"How about global forecasting?\""
+    },
+    {
+      "start": 1618.48,
+      "duration": 2.48,
+      "text": "And I'm I'm guessing that's connected to"
+    },
+    {
+      "start": 1619.92,
+      "duration": 2.88,
+      "text": "the previous question where I was"
+    },
+    {
+      "start": 1620.96,
+      "duration": 2.92,
+      "text": "talking about production environments."
+    },
+    {
+      "start": 1622.8,
+      "duration": 3.92,
+      "text": "So"
+    },
+    {
+      "start": 1623.88,
+      "duration": 5.48,
+      "text": "uh what does global forecasting mean in"
+    },
+    {
+      "start": 1626.72,
+      "duration": 4.8,
+      "text": "that context, I guess?"
+    },
+    {
+      "start": 1629.36,
+      "duration": 3.76,
+      "text": "Yeah, actually I'm I'm also a little bit"
+    },
+    {
+      "start": 1631.52,
+      "duration": 3.84,
+      "text": "confused. Can you elaborate on the on"
+    },
+    {
+      "start": 1633.12,
+      "duration": 3.68,
+      "text": "the question a little bit more? Yeah,"
+    },
+    {
+      "start": 1635.36,
+      "duration": 2.8,
+      "text": "Adil, if you want to clarify the"
+    },
+    {
+      "start": 1636.8,
+      "duration": 3.92,
+      "text": "question in the chat, we'll grab that"
+    },
+    {
+      "start": 1638.16,
+      "duration": 4.08,
+      "text": "from you. Uh in the meantime uh let's go"
+    },
+    {
+      "start": 1640.72,
+      "duration": 3.68,
+      "text": "to the next one because we are kind of"
+    },
+    {
+      "start": 1642.24,
+      "duration": 4.48,
+      "text": "closing on on time. Uh the question from"
+    },
+    {
+      "start": 1644.4,
+      "duration": 5.6,
+      "text": "IQ was how light or heavy is the model"
+    },
+    {
+      "start": 1646.72,
+      "duration": 5.36,
+      "text": "infrastructure needed to run this. Uh"
+    },
+    {
+      "start": 1650.0,
+      "duration": 4.16,
+      "text": "actually on our website you can go to"
+    },
+    {
+      "start": 1652.08,
+      "duration": 5.04,
+      "text": "next slide and see our documentation on"
+    },
+    {
+      "start": 1654.16,
+      "duration": 5.28,
+      "text": "data requirements. We have a specific um"
+    },
+    {
+      "start": 1657.12,
+      "duration": 5.04,
+      "text": "section contribute um attribute to the"
+    },
+    {
+      "start": 1659.44,
+      "duration": 6.52,
+      "text": "like the infrastructure you need for"
+    },
+    {
+      "start": 1662.16,
+      "duration": 6.4,
+      "text": "running the u timeg model. However, um"
+    },
+    {
+      "start": 1665.96,
+      "duration": 5.72,
+      "text": "actually it's not very much to be"
+    },
+    {
+      "start": 1668.56,
+      "duration": 6.16,
+      "text": "honest. You can run it with uh CPU or"
+    },
+    {
+      "start": 1671.68,
+      "duration": 4.56,
+      "text": "GPU, whatever you like. Um so the quick"
+    },
+    {
+      "start": 1674.72,
+      "duration": 4.56,
+      "text": "question is that as long as you have"
+    },
+    {
+      "start": 1676.24,
+      "duration": 6.96,
+      "text": "your own environment set up like um the"
+    },
+    {
+      "start": 1679.28,
+      "duration": 6.08,
+      "text": "the model is actually quite light."
+    },
+    {
+      "start": 1683.2,
+      "duration": 3.92,
+      "text": "Um Andrew Klein said, \"Has anyone used"
+    },
+    {
+      "start": 1685.36,
+      "duration": 4.48,
+      "text": "this to help determine the probability"
+    },
+    {
+      "start": 1687.12,
+      "duration": 4.24,
+      "text": "of failure in mechanical equipment?\""
+    },
+    {
+      "start": 1689.84,
+      "duration": 3.28,
+      "text": "That's interesting actually. Yes, that's"
+    },
+    {
+      "start": 1691.36,
+      "duration": 3.84,
+      "text": "an interesting question. I I think it's"
+    },
+    {
+      "start": 1693.12,
+      "duration": 4.48,
+      "text": "probably uh linked back to the to the"
+    },
+    {
+      "start": 1695.2,
+      "duration": 5.2,
+      "text": "use case we we're having. Um probably I"
+    },
+    {
+      "start": 1697.6,
+      "duration": 6.56,
+      "text": "I can't tell more about our client. Uh"
+    },
+    {
+      "start": 1700.4,
+      "duration": 5.68,
+      "text": "but uh the idea here is um like a more"
+    },
+    {
+      "start": 1704.16,
+      "duration": 5.2,
+      "text": "complex question about the whole system"
+    },
+    {
+      "start": 1706.08,
+      "duration": 6.16,
+      "text": "of the chemical production and it's not"
+    },
+    {
+      "start": 1709.36,
+      "duration": 6.56,
+      "text": "simply about one device being like"
+    },
+    {
+      "start": 1712.24,
+      "duration": 6.24,
+      "text": "failed or like uh is it working um"
+    },
+    {
+      "start": 1715.92,
+      "duration": 5.84,
+      "text": "successfully. Uh but this is a part of"
+    },
+    {
+      "start": 1718.48,
+      "duration": 6.64,
+      "text": "the whole problem like to detect making"
+    },
+    {
+      "start": 1721.76,
+      "duration": 7.52,
+      "text": "anomaly detection on the on the um"
+    },
+    {
+      "start": 1725.12,
+      "duration": 6.72,
+      "text": "production or um data generated from the"
+    },
+    {
+      "start": 1729.28,
+      "duration": 4.8,
+      "text": "from the mach machine. So I'm I'm"
+    },
+    {
+      "start": 1731.84,
+      "duration": 3.92,
+      "text": "guessing you must have uh evaluation"
+    },
+    {
+      "start": 1734.08,
+      "duration": 4.72,
+      "text": "techniques to make sure that the kinds"
+    },
+    {
+      "start": 1735.76,
+      "duration": 4.96,
+      "text": "of predictions that your model makes are"
+    },
+    {
+      "start": 1738.8,
+      "duration": 3.92,
+      "text": "kind of within the bounds of reason like"
+    },
+    {
+      "start": 1740.72,
+      "duration": 4.48,
+      "text": "responsible behavior so to speak, right?"
+    },
+    {
+      "start": 1742.72,
+      "duration": 6.48,
+      "text": "Maybe that's what he was alluding to."
+    },
+    {
+      "start": 1745.2,
+      "duration": 6.48,
+      "text": "Definitely. So um I think for time"
+    },
+    {
+      "start": 1749.2,
+      "duration": 5.76,
+      "text": "series forecasting like we have a whole"
+    },
+    {
+      "start": 1751.68,
+      "duration": 5.92,
+      "text": "evaluation pipeline implemented with the"
+    },
+    {
+      "start": 1754.96,
+      "duration": 6.08,
+      "text": "uh stats forecast or utils forecast that"
+    },
+    {
+      "start": 1757.6,
+      "duration": 6.56,
+      "text": "is with um um showed in the in the"
+    },
+    {
+      "start": 1761.04,
+      "duration": 5.28,
+      "text": "presentation we had and uh for anomaly"
+    },
+    {
+      "start": 1764.16,
+      "duration": 5.2,
+      "text": "detection task uh we're probably just"
+    },
+    {
+      "start": 1766.32,
+      "duration": 6.48,
+      "text": "going to um for example monitor the the"
+    },
+    {
+      "start": 1769.36,
+      "duration": 4.68,
+      "text": "F1 score or like the classification um"
+    },
+    {
+      "start": 1772.8,
+      "duration": 3.92,
+      "text": "metrics"
+    },
+    {
+      "start": 1774.04,
+      "duration": 4.04,
+      "text": "there Uh I'll there's one more question"
+    },
+    {
+      "start": 1776.72,
+      "duration": 2.72,
+      "text": "but I'll just ask this as a tangent"
+    },
+    {
+      "start": 1778.08,
+      "duration": 2.88,
+      "text": "because you you did mention you're a"
+    },
+    {
+      "start": 1779.44,
+      "duration": 3.68,
+      "text": "data scientist and Quinn's done a lot of"
+    },
+    {
+      "start": 1780.96,
+      "duration": 3.84,
+      "text": "work in the space. Uh do you maybe"
+    },
+    {
+      "start": 1783.12,
+      "duration": 2.88,
+      "text": "maintain a collection of papers because"
+    },
+    {
+      "start": 1784.8,
+      "duration": 2.8,
+      "text": "this is one of the areas where there's a"
+    },
+    {
+      "start": 1786.0,
+      "duration": 3.76,
+      "text": "ton of like interesting research that's"
+    },
+    {
+      "start": 1787.6,
+      "duration": 4.32,
+      "text": "going into like really making the the"
+    },
+    {
+      "start": 1789.76,
+      "duration": 4.4,
+      "text": "the efficiencies of these models better."
+    },
+    {
+      "start": 1791.92,
+      "duration": 4.16,
+      "text": "So do you potentially have any of these"
+    },
+    {
+      "start": 1794.16,
+      "duration": 4.8,
+      "text": "somewhere that you would recommend? If"
+    },
+    {
+      "start": 1796.08,
+      "duration": 7.0,
+      "text": "so, please do put them in the chat. Um"
+    },
+    {
+      "start": 1798.96,
+      "duration": 6.96,
+      "text": "the last question that I see here is um"
+    },
+    {
+      "start": 1803.08,
+      "duration": 4.68,
+      "text": "alo when should I use foundation okay"
+    },
+    {
+      "start": 1805.92,
+      "duration": 3.76,
+      "text": "when to use foundation models as"
+    },
+    {
+      "start": 1807.76,
+      "duration": 4.96,
+      "text": "compared to classical stat statistical"
+    },
+    {
+      "start": 1809.68,
+      "duration": 4.8,
+      "text": "forecasting techniques. So what was what"
+    },
+    {
+      "start": 1812.72,
+      "duration": 4.64,
+      "text": "kind of the value of a a foundational"
+    },
+    {
+      "start": 1814.48,
+      "duration": 5.44,
+      "text": "model version of it? Yeah definitely. So"
+    },
+    {
+      "start": 1817.36,
+      "duration": 4.64,
+      "text": "I think um there there are basically"
+    },
+    {
+      "start": 1819.92,
+      "duration": 4.88,
+      "text": "three reasons why you should use uh a"
+    },
+    {
+      "start": 1822.0,
+      "duration": 4.96,
+      "text": "foundation model uh versus a handpicked"
+    },
+    {
+      "start": 1824.8,
+      "duration": 5.36,
+      "text": "statistic model or machine learning"
+    },
+    {
+      "start": 1826.96,
+      "duration": 6.0,
+      "text": "model or neuro forecast model um is"
+    },
+    {
+      "start": 1830.16,
+      "duration": 5.12,
+      "text": "because first of all um the transformer"
+    },
+    {
+      "start": 1832.96,
+      "duration": 5.12,
+      "text": "model based model the the big model time"
+    },
+    {
+      "start": 1835.28,
+      "duration": 5.36,
+      "text": "GPT is very accurate so it's trained on"
+    },
+    {
+      "start": 1838.08,
+      "duration": 4.0,
+      "text": "billions of time series already and um"
+    },
+    {
+      "start": 1840.64,
+      "duration": 4.32,
+      "text": "probably it's going to generate better"
+    },
+    {
+      "start": 1842.08,
+      "duration": 5.6,
+      "text": "forecasting accuracy than um those other"
+    },
+    {
+      "start": 1844.96,
+      "duration": 5.12,
+      "text": "models and secondly is going to be very"
+    },
+    {
+      "start": 1847.68,
+      "duration": 5.28,
+      "text": "that the time GPT or time gen is very"
+    },
+    {
+      "start": 1850.08,
+      "duration": 4.96,
+      "text": "easy to uh implement. Uh as you can saw"
+    },
+    {
+      "start": 1852.96,
+      "duration": 3.68,
+      "text": "from the example uh you don't need to"
+    },
+    {
+      "start": 1855.04,
+      "duration": 3.84,
+      "text": "train the model. You don't need to do"
+    },
+    {
+      "start": 1856.64,
+      "duration": 4.4,
+      "text": "anything for data processing. You"
+    },
+    {
+      "start": 1858.88,
+      "duration": 5.2,
+      "text": "basically just deploy the model and uh"
+    },
+    {
+      "start": 1861.04,
+      "duration": 5.44,
+      "text": "make it into use. Uh it's going to be as"
+    },
+    {
+      "start": 1864.08,
+      "duration": 4.72,
+      "text": "uh little as three lines of code. Uh or"
+    },
+    {
+      "start": 1866.48,
+      "duration": 4.96,
+      "text": "if you want to add a little bit uh class"
+    },
+    {
+      "start": 1868.8,
+      "duration": 4.24,
+      "text": "um generalization or specification for"
+    },
+    {
+      "start": 1871.44,
+      "duration": 4.56,
+      "text": "your data, you're going to fine-tune the"
+    },
+    {
+      "start": 1873.04,
+      "duration": 5.6,
+      "text": "model a little bit more. um but that um"
+    },
+    {
+      "start": 1876.0,
+      "duration": 4.56,
+      "text": "time gen is very easy to use. And"
+    },
+    {
+      "start": 1878.64,
+      "duration": 5.44,
+      "text": "thirdly, it doesn't need a lot of time"
+    },
+    {
+      "start": 1880.56,
+      "duration": 5.36,
+      "text": "to develop or to maintain. So time gen"
+    },
+    {
+      "start": 1884.08,
+      "duration": 3.52,
+      "text": "is going to be maintained by us instead"
+    },
+    {
+      "start": 1885.92,
+      "duration": 4.72,
+      "text": "of like you're going to fine-tune the"
+    },
+    {
+      "start": 1887.6,
+      "duration": 4.8,
+      "text": "model over the time. Um so these are"
+    },
+    {
+      "start": 1890.64,
+      "duration": 5.2,
+      "text": "probably the three main reason why you"
+    },
+    {
+      "start": 1892.4,
+      "duration": 6.72,
+      "text": "should use um specific um the time gen"
+    },
+    {
+      "start": 1895.84,
+      "duration": 5.76,
+      "text": "instead of handpicking your own model."
+    },
+    {
+      "start": 1899.12,
+      "duration": 3.84,
+      "text": "uh I think Adil was a person who asked"
+    },
+    {
+      "start": 1901.6,
+      "duration": 3.52,
+      "text": "about global forecasting and he"
+    },
+    {
+      "start": 1902.96,
+      "duration": 3.76,
+      "text": "clarified his question and said uh he's"
+    },
+    {
+      "start": 1905.12,
+      "duration": 4.32,
+      "text": "working with 12 countries and five"
+    },
+    {
+      "start": 1906.72,
+      "duration": 6.16,
+      "text": "channels uh on the forecasting model. So"
+    },
+    {
+      "start": 1909.44,
+      "duration": 4.88,
+      "text": "he says 12 countries five channels uh of"
+    },
+    {
+      "start": 1912.88,
+      "duration": 3.6,
+      "text": "the forecasting models will be"
+    },
+    {
+      "start": 1914.32,
+      "duration": 4.08,
+      "text": "generating for each one of them or one"
+    },
+    {
+      "start": 1916.48,
+      "duration": 4.24,
+      "text": "model is enough. So I guess what he's"
+    },
+    {
+      "start": 1918.4,
+      "duration": 4.72,
+      "text": "asking is how do you scale is should you"
+    },
+    {
+      "start": 1920.72,
+      "duration": 4.0,
+      "text": "is one model sufficient to handle all"
+    },
+    {
+      "start": 1923.12,
+      "duration": 5.04,
+      "text": "these streams or do you have to have one"
+    },
+    {
+      "start": 1924.72,
+      "duration": 5.76,
+      "text": "model per stream? uh for now um you can"
+    },
+    {
+      "start": 1928.16,
+      "duration": 4.48,
+      "text": "just using one model for for all of"
+    },
+    {
+      "start": 1930.48,
+      "duration": 4.72,
+      "text": "these. This is another advantage of the"
+    },
+    {
+      "start": 1932.64,
+      "duration": 5.48,
+      "text": "specialized um big model like you don't"
+    },
+    {
+      "start": 1935.2,
+      "duration": 5.68,
+      "text": "need to um do much training for"
+    },
+    {
+      "start": 1938.12,
+      "duration": 3.96,
+      "text": "that. And uh IQ mates who asked some of"
+    },
+    {
+      "start": 1940.88,
+      "duration": 2.96,
+      "text": "the previous questions says this is"
+    },
+    {
+      "start": 1942.08,
+      "duration": 3.84,
+      "text": "great the time series is valuable but"
+    },
+    {
+      "start": 1943.84,
+      "duration": 3.68,
+      "text": "very difficult to deal with which is why"
+    },
+    {
+      "start": 1945.92,
+      "duration": 4.08,
+      "text": "we're really happy that they both are"
+    },
+    {
+      "start": 1947.52,
+      "duration": 3.44,
+      "text": "here. Uh, I was going to ask and I'll"
+    },
+    {
+      "start": 1950.0,
+      "duration": 3.44,
+      "text": "check to see if there are more"
+    },
+    {
+      "start": 1950.96,
+      "duration": 4.08,
+      "text": "questions, but I was going to ask um I'm"
+    },
+    {
+      "start": 1953.44,
+      "duration": 3.36,
+      "text": "sure because you showed this really nice"
+    },
+    {
+      "start": 1955.04,
+      "duration": 3.28,
+      "text": "simple kind of walkthrough demo. I'm"
+    },
+    {
+      "start": 1956.8,
+      "duration": 3.52,
+      "text": "sure Nixla has a whole bunch of like"
+    },
+    {
+      "start": 1958.32,
+      "duration": 3.2,
+      "text": "notebooks and tutorials that people can"
+    },
+    {
+      "start": 1960.32,
+      "duration": 3.36,
+      "text": "use, right? Oh, you put them. Yeah,"
+    },
+    {
+      "start": 1961.52,
+      "duration": 4.08,
+      "text": "actually Anita, we do we did get the"
+    },
+    {
+      "start": 1963.68,
+      "duration": 3.2,
+      "text": "sample notebook from Quan. I'll send it"
+    },
+    {
+      "start": 1965.6,
+      "duration": 3.92,
+      "text": "to you so that you can add it to the"
+    },
+    {
+      "start": 1966.88,
+      "duration": 4.56,
+      "text": "GitHub and for everyone to go and take a"
+    },
+    {
+      "start": 1969.52,
+      "duration": 5.12,
+      "text": "look at it. Yeah. So, that would be"
+    },
+    {
+      "start": 1971.44,
+      "duration": 4.2,
+      "text": "great. Uh, Sean and uh I also recommend"
+    },
+    {
+      "start": 1974.64,
+      "duration": 3.44,
+      "text": "go to"
+    },
+    {
+      "start": 1975.64,
+      "duration": 6.2,
+      "text": "docs.nla.io. We have a bunch of examples"
+    },
+    {
+      "start": 1978.08,
+      "duration": 6.56,
+      "text": "there uh for different industries uh and"
+    },
+    {
+      "start": 1981.84,
+      "duration": 5.84,
+      "text": "also for different use cases such as uh"
+    },
+    {
+      "start": 1984.64,
+      "duration": 5.12,
+      "text": "anomaly detection."
+    },
+    {
+      "start": 1987.68,
+      "duration": 4.64,
+      "text": "That's awesome. I think she just put"
+    },
+    {
+      "start": 1989.76,
+      "duration": 4.4,
+      "text": "that in the chat as well. And um just"
+    },
+    {
+      "start": 1992.32,
+      "duration": 3.36,
+      "text": "because on a totally random note just"
+    },
+    {
+      "start": 1994.16,
+      "duration": 3.44,
+      "text": "because like right now I'm so fascinated"
+    },
+    {
+      "start": 1995.68,
+      "duration": 3.2,
+      "text": "with reasoning models. Uh I was"
+    },
+    {
+      "start": 1997.6,
+      "duration": 2.88,
+      "text": "wondering like do you where do you see"
+    },
+    {
+      "start": 1998.88,
+      "duration": 4.48,
+      "text": "the intersection of like like these"
+    },
+    {
+      "start": 2000.48,
+      "duration": 5.92,
+      "text": "really um kind of models capable of deep"
+    },
+    {
+      "start": 2003.36,
+      "duration": 4.88,
+      "text": "thinking versus something like time gen?"
+    },
+    {
+      "start": 2006.4,
+      "duration": 3.2,
+      "text": "Do you see them kind of overlapping on"
+    },
+    {
+      "start": 2008.24,
+      "duration": 4.36,
+      "text": "certain use cases like scientific"
+    },
+    {
+      "start": 2009.6,
+      "duration": 3.0,
+      "text": "reasoning?"
+    },
+    {
+      "start": 2013.76,
+      "duration": 5.2,
+      "text": "Do you do you want to take that? Yeah. I"
+    },
+    {
+      "start": 2016.48,
+      "duration": 4.64,
+      "text": "I don't have a uh the good answer for"
+    },
+    {
+      "start": 2018.96,
+      "duration": 3.92,
+      "text": "this."
+    },
+    {
+      "start": 2021.12,
+      "duration": 4.72,
+      "text": "Do you kind of feel like this might be"
+    },
+    {
+      "start": 2022.88,
+      "duration": 4.8,
+      "text": "where people go? Sorry. Go ahead. Oh,"
+    },
+    {
+      "start": 2025.84,
+      "duration": 4.24,
+      "text": "sorry. Uh I was not able to catch the"
+    },
+    {
+      "start": 2027.68,
+      "duration": 4.0,
+      "text": "the full question. Can you ask me? Oh, I"
+    },
+    {
+      "start": 2030.08,
+      "duration": 3.04,
+      "text": "was saying that um we're seeing kind of"
+    },
+    {
+      "start": 2031.68,
+      "duration": 2.72,
+      "text": "this emergence of reasoning models,"
+    },
+    {
+      "start": 2033.12,
+      "duration": 2.8,
+      "text": "right? Reasoning models that can"
+    },
+    {
+      "start": 2034.4,
+      "duration": 3.92,
+      "text": "actually take data and they they think"
+    },
+    {
+      "start": 2035.92,
+      "duration": 4.32,
+      "text": "deeply about the problem and some of the"
+    },
+    {
+      "start": 2038.32,
+      "duration": 3.12,
+      "text": "use cases they can also handle is like"
+    },
+    {
+      "start": 2040.24,
+      "duration": 2.32,
+      "text": "give it a they've got large context"
+    },
+    {
+      "start": 2041.44,
+      "duration": 4.08,
+      "text": "windows. I can give it a whole bunch of"
+    },
+    {
+      "start": 2042.56,
+      "duration": 5.52,
+      "text": "data and have it kind of do some for me."
+    },
+    {
+      "start": 2045.52,
+      "duration": 4.16,
+      "text": "So do you see maybe uh something like a"
+    },
+    {
+      "start": 2048.08,
+      "duration": 4.56,
+      "text": "time series forecasting model working"
+    },
+    {
+      "start": 2049.68,
+      "duration": 6.0,
+      "text": "with these models or potentially kind of"
+    },
+    {
+      "start": 2052.64,
+      "duration": 4.72,
+      "text": "having some reasoning on its own to kind"
+    },
+    {
+      "start": 2055.68,
+      "duration": 4.08,
+      "text": "of create these kind of enriched cases"
+    },
+    {
+      "start": 2057.36,
+      "duration": 5.36,
+      "text": "like or do you see reasoning taking over"
+    },
+    {
+      "start": 2059.76,
+      "duration": 4.88,
+      "text": "from specialized forecasting models?"
+    },
+    {
+      "start": 2062.72,
+      "duration": 5.04,
+      "text": "Yeah definitely I I think we have a lot"
+    },
+    {
+      "start": 2064.64,
+      "duration": 5.52,
+      "text": "of user question um about the same same"
+    },
+    {
+      "start": 2067.76,
+      "duration": 4.96,
+      "text": "topic. So for example, people want to"
+    },
+    {
+      "start": 2070.16,
+      "duration": 4.8,
+      "text": "have a specific restriction for their"
+    },
+    {
+      "start": 2072.72,
+      "duration": 4.08,
+      "text": "forecast like their boundary or like"
+    },
+    {
+      "start": 2074.96,
+      "duration": 3.92,
+      "text": "what kind of data they're going to"
+    },
+    {
+      "start": 2076.8,
+      "duration": 4.0,
+      "text": "forecast. They want to um have a little"
+    },
+    {
+      "start": 2078.88,
+      "duration": 4.8,
+      "text": "bit reasoning behind that and be able to"
+    },
+    {
+      "start": 2080.8,
+      "duration": 4.8,
+      "text": "tune the model more. Um but yeah the the"
+    },
+    {
+      "start": 2083.68,
+      "duration": 4.24,
+      "text": "reason is um the answer for this"
+    },
+    {
+      "start": 2085.6,
+      "duration": 4.96,
+      "text": "question is yes we do see that in the in"
+    },
+    {
+      "start": 2087.92,
+      "duration": 4.72,
+      "text": "the future we are going to incorporate"
+    },
+    {
+      "start": 2090.56,
+      "duration": 5.52,
+      "text": "the reasoning model with time GPT to"
+    },
+    {
+      "start": 2092.64,
+      "duration": 6.32,
+      "text": "generate better specialized or like um"
+    },
+    {
+      "start": 2096.08,
+      "duration": 4.56,
+      "text": "forecasting model that can suit to like"
+    },
+    {
+      "start": 2098.96,
+      "duration": 5.6,
+      "text": "different needs of time series"
+    },
+    {
+      "start": 2100.64,
+      "duration": 5.6,
+      "text": "forecasting. Yeah. Uh there is uh"
+    },
+    {
+      "start": 2104.56,
+      "duration": 3.92,
+      "text": "someone said do you have a GitHub link"
+    },
+    {
+      "start": 2106.24,
+      "duration": 5.2,
+      "text": "for time GPT? Uh I think we can put that"
+    },
+    {
+      "start": 2108.48,
+      "duration": 4.8,
+      "text": "in the chat if you have it. Uh and then"
+    },
+    {
+      "start": 2111.44,
+      "duration": 5.2,
+      "text": "uh Adil said thank you for sharing your"
+    },
+    {
+      "start": 2113.28,
+      "duration": 6.0,
+      "text": "knowledge base. Um and yeah I think so"
+    },
+    {
+      "start": 2116.64,
+      "duration": 4.72,
+      "text": "Shan I'll let you do the honor. Yeah."
+    },
+    {
+      "start": 2119.28,
+      "duration": 4.8,
+      "text": "Yeah. I think uh this was great and"
+    },
+    {
+      "start": 2121.36,
+      "duration": 4.72,
+      "text": "we've been like this is the I I would"
+    },
+    {
+      "start": 2124.08,
+      "duration": 3.84,
+      "text": "say this like the one of the first times"
+    },
+    {
+      "start": 2126.08,
+      "duration": 5.2,
+      "text": "where we had so many questions pouring"
+    },
+    {
+      "start": 2127.92,
+      "duration": 6.08,
+      "text": "in right from the get-go. So it shows um"
+    },
+    {
+      "start": 2131.28,
+      "duration": 4.96,
+      "text": "the interest that people have in time"
+    },
+    {
+      "start": 2134.0,
+      "duration": 4.88,
+      "text": "series and time for like forecasting"
+    },
+    {
+      "start": 2136.24,
+      "duration": 5.68,
+      "text": "models in general. Uh but for everyone"
+    },
+    {
+      "start": 2138.88,
+      "duration": 6.16,
+      "text": "we still uh can get quen and eBay if you"
+    },
+    {
+      "start": 2141.92,
+      "duration": 5.44,
+      "text": "can join us on the Friday discord um"
+    },
+    {
+      "start": 2145.04,
+      "duration": 5.28,
+      "text": "that is going to happen. Uh we have a"
+    },
+    {
+      "start": 2147.36,
+      "duration": 6.16,
+      "text": "typically we have a discord uh AMA on"
+    },
+    {
+      "start": 2150.32,
+      "duration": 5.76,
+      "text": "Fridays. So feel free to drop in there."
+    },
+    {
+      "start": 2153.52,
+      "duration": 4.96,
+      "text": "We hope Qen and uh eBay can also join us"
+    },
+    {
+      "start": 2156.08,
+      "duration": 5.12,
+      "text": "and you can keep continuing asking all"
+    },
+    {
+      "start": 2158.48,
+      "duration": 5.84,
+      "text": "these great questions and use this uh"
+    },
+    {
+      "start": 2161.2,
+      "duration": 5.2,
+      "text": "time to also check out our GitHub repo."
+    },
+    {
+      "start": 2164.32,
+      "duration": 5.44,
+      "text": "We will add the sample notebook that"
+    },
+    {
+      "start": 2166.4,
+      "duration": 5.52,
+      "text": "Kuan had sent us uh in the repo soon and"
+    },
+    {
+      "start": 2169.76,
+      "duration": 4.64,
+      "text": "you can check that out as well. Yeah."
+    },
+    {
+      "start": 2171.92,
+      "duration": 4.8,
+      "text": "And since this is the last episode of"
+    },
+    {
+      "start": 2174.4,
+      "duration": 3.92,
+      "text": "season 1, uh we would be very very bad"
+    },
+    {
+      "start": 2176.72,
+      "duration": 3.6,
+      "text": "if we didn't do a shout out to the"
+    },
+    {
+      "start": 2178.32,
+      "duration": 3.84,
+      "text": "entire series. So if you've just joined"
+    },
+    {
+      "start": 2180.32,
+      "duration": 3.6,
+      "text": "us now, there have been eight different"
+    },
+    {
+      "start": 2182.16,
+      "duration": 4.8,
+      "text": "episodes that have looked at everything"
+    },
+    {
+      "start": 2183.92,
+      "duration": 6.08,
+      "text": "from GitHub models and AI toolkit to uh"
+    },
+    {
+      "start": 2186.96,
+      "duration": 6.32,
+      "text": "cohair. We had visual uh generative AI."
+    },
+    {
+      "start": 2190.0,
+      "duration": 6.16,
+      "text": "We had uh mistrol and fine-tuning. We"
+    },
+    {
+      "start": 2193.28,
+      "duration": 4.64,
+      "text": "had open source, we had forecasting. So"
+    },
+    {
+      "start": 2196.16,
+      "duration": 5.12,
+      "text": "go check out that link for all the"
+    },
+    {
+      "start": 2197.92,
+      "duration": 5.12,
+      "text": "replays. And um one last thing, none of"
+    },
+    {
+      "start": 2201.28,
+      "duration": 3.76,
+      "text": "this would happen without our amazing"
+    },
+    {
+      "start": 2203.04,
+      "duration": 4.24,
+      "text": "Reactor team. So shout out to Danny who"
+    },
+    {
+      "start": 2205.04,
+      "duration": 4.64,
+      "text": "you never see, but you always here"
+    },
+    {
+      "start": 2207.28,
+      "duration": 5.28,
+      "text": "because we keep on time because of him."
+    },
+    {
+      "start": 2209.68,
+      "duration": 4.96,
+      "text": "And with that, uh thank you all. Uh"
+    },
+    {
+      "start": 2212.56,
+      "duration": 4.8,
+      "text": "don't, as Charma said, don't forget to"
+    },
+    {
+      "start": 2214.64,
+      "duration": 5.28,
+      "text": "join us for a Q&A on our Discord this"
+    },
+    {
+      "start": 2217.36,
+      "duration": 4.8,
+      "text": "Friday at 1:30. Bring your questions and"
+    },
+    {
+      "start": 2219.92,
+      "duration": 4.64,
+      "text": "we'll hope to see you there. and and"
+    },
+    {
+      "start": 2222.16,
+      "duration": 4.24,
+      "text": "yeah and also keep an eye out for our"
+    },
+    {
+      "start": 2224.56,
+      "duration": 3.76,
+      "text": "season. This is not the final season. We"
+    },
+    {
+      "start": 2226.4,
+      "duration": 5.28,
+      "text": "are hoping to come with a new season"
+    },
+    {
+      "start": 2228.32,
+      "duration": 6.48,
+      "text": "with new uh information for you all. So,"
+    },
+    {
+      "start": 2231.68,
+      "duration": 6.8,
+      "text": "and also feel free to let us know um uh"
+    },
+    {
+      "start": 2234.8,
+      "duration": 5.92,
+      "text": "how your feedback on our on our season"
+    },
+    {
+      "start": 2238.48,
+      "duration": 4.08,
+      "text": "one so far, what you would like to see,"
+    },
+    {
+      "start": 2240.72,
+      "duration": 4.16,
+      "text": "what you would like us to continue, what"
+    },
+    {
+      "start": 2242.56,
+      "duration": 4.56,
+      "text": "you would like us to change. Um, we"
+    },
+    {
+      "start": 2244.88,
+      "duration": 4.64,
+      "text": "would love that feedback to make the"
+    },
+    {
+      "start": 2247.12,
+      "duration": 5.04,
+      "text": "show more interesting for you, more"
+    },
+    {
+      "start": 2249.52,
+      "duration": 5.6,
+      "text": "valuable for all of you as well. Ask for"
+    },
+    {
+      "start": 2252.16,
+      "duration": 5.12,
+      "text": "more MCP. Sorry."
+    },
+    {
+      "start": 2255.12,
+      "duration": 4.88,
+      "text": "MCP."
+    },
+    {
+      "start": 2257.28,
+      "duration": 5.12,
+      "text": "Uh, and thank you all. So, a huge thanks"
+    },
+    {
+      "start": 2260.0,
+      "duration": 4.8,
+      "text": "to our guests from NIXLA and we will see"
+    },
+    {
+      "start": 2262.4,
+      "duration": 3.92,
+      "text": "you all on Friday for the AMA. Have a"
+    },
+    {
+      "start": 2264.8,
+      "duration": 3.04,
+      "text": "wonderful, wonderful May and we'll see"
+    },
+    {
+      "start": 2266.32,
+      "duration": 5.96,
+      "text": "you at Build if you make it there. Thank"
+    },
+    {
+      "start": 2267.84,
+      "duration": 4.44,
+      "text": "you. Yep. Thank you all."
+    }
+  ]
+}

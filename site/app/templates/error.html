@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}{{ status }}{% endblock %}
+{% block content %}
+<section class="narrow card error-card">
+  <div class="kicker">Error {{ status }}</div>
+  <h1>{{ 'Not found' if status == 404 else 'Not allowed' }}</h1>
+  <p>{{ detail }}</p>
+  <p><a class="btn" href="/">Back to episodes</a></p>
+</section>
+{% endblock %}

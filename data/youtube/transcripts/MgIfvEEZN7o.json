@@ -1,0 +1,4003 @@
+{
+  "videoId": "MgIfvEEZN7o",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:14+00:00",
+  "segments": [
+    {
+      "start": 1.6,
+      "duration": 4.0,
+      "text": "Hello everyone and thank you for joining"
+    },
+    {
+      "start": 3.28,
+      "duration": 3.6,
+      "text": "us for today's session. My name is Danny"
+    },
+    {
+      "start": 5.6,
+      "duration": 3.84,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 6.88,
+      "duration": 4.56,
+      "text": "York Reactor space. Before we start, I"
+    },
+    {
+      "start": 9.44,
+      "duration": 3.44,
+      "text": "have a few things to go over. Please"
+    },
+    {
+      "start": 11.44,
+      "duration": 3.68,
+      "text": "take a moment to review our code of"
+    },
+    {
+      "start": 12.88,
+      "duration": 4.28,
+      "text": "conduct. We seek to provide a respectful"
+    },
+    {
+      "start": 15.12,
+      "duration": 4.16,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 17.16,
+      "duration": 3.8,
+      "text": "presenters. We encourage engagement in"
+    },
+    {
+      "start": 19.28,
+      "duration": 4.24,
+      "text": "the chat, but please be mindful of your"
+    },
+    {
+      "start": 20.96,
+      "duration": 4.88,
+      "text": "commentary, remain professional, and on"
+    },
+    {
+      "start": 23.52,
+      "duration": 4.0,
+      "text": "topic. Useful links will be shared in"
+    },
+    {
+      "start": 25.84,
+      "duration": 3.44,
+      "text": "the chat."
+    },
+    {
+      "start": 27.52,
+      "duration": 4.88,
+      "text": "The session is recorded and will be"
+    },
+    {
+      "start": 29.28,
+      "duration": 5.16,
+      "text": "available on demand in 24 to 48 hours on"
+    },
+    {
+      "start": 32.4,
+      "duration": 4.24,
+      "text": "the Microsoft Reactor YouTube"
+    },
+    {
+      "start": 34.44,
+      "duration": 4.52,
+      "text": "channel. Which brings us to today's"
+    },
+    {
+      "start": 36.64,
+      "duration": 4.56,
+      "text": "session. It will run for approximately"
+    },
+    {
+      "start": 38.96,
+      "duration": 4.24,
+      "text": "30 minutes with time for questions"
+    },
+    {
+      "start": 41.2,
+      "duration": 5.96,
+      "text": "throughout. I will now turn it over to"
+    },
+    {
+      "start": 43.2,
+      "duration": 3.96,
+      "text": "our speaker for introductions."
+    },
+    {
+      "start": 48.16,
+      "duration": 6.32,
+      "text": "Hello everyone and welcome to Model"
+    },
+    {
+      "start": 50.64,
+      "duration": 7.92,
+      "text": "Mondays. Um uh today uh it's going to be"
+    },
+    {
+      "start": 54.48,
+      "duration": 6.4,
+      "text": "me just solo here. Um Nitia who also"
+    },
+    {
+      "start": 58.56,
+      "duration": 5.68,
+      "text": "hosts uh the show with uh with me every"
+    },
+    {
+      "start": 60.88,
+      "duration": 6.4,
+      "text": "week is um out of office today. So let's"
+    },
+    {
+      "start": 64.24,
+      "duration": 5.84,
+      "text": "begin the show. Um and please use the"
+    },
+    {
+      "start": 67.28,
+      "duration": 5.28,
+      "text": "comment section to add um any comments"
+    },
+    {
+      "start": 70.08,
+      "duration": 5.84,
+      "text": "or just give a quick introduction. Um"
+    },
+    {
+      "start": 72.56,
+      "duration": 5.6,
+      "text": "and uh before we get into the actual uh"
+    },
+    {
+      "start": 75.92,
+      "duration": 4.64,
+      "text": "content I wanted to give you a quick run"
+    },
+    {
+      "start": 78.16,
+      "duration": 4.64,
+      "text": "of the show that's happening today. Uh"
+    },
+    {
+      "start": 80.56,
+      "duration": 5.68,
+      "text": "there will be as usual every week this"
+    },
+    {
+      "start": 82.8,
+      "duration": 6.08,
+      "text": "is a 30inut uh episode with five minutes"
+    },
+    {
+      "start": 86.24,
+      "duration": 5.36,
+      "text": "of highlights model highlights what's"
+    },
+    {
+      "start": 88.88,
+      "duration": 4.8,
+      "text": "happened in the world of models tools"
+    },
+    {
+      "start": 91.6,
+      "duration": 4.8,
+      "text": "agents we're just going to do a quick"
+    },
+    {
+      "start": 93.68,
+      "duration": 5.92,
+      "text": "five minute uh recap of that followed by"
+    },
+    {
+      "start": 96.4,
+      "duration": 6.64,
+      "text": "a 15minute d deep dive into the"
+    },
+    {
+      "start": 99.6,
+      "duration": 6.4,
+      "text": "spotlight model for this week and then"
+    },
+    {
+      "start": 103.04,
+      "duration": 5.84,
+      "text": "five minute live Q&A um and this week"
+    },
+    {
+      "start": 106.0,
+      "duration": 5.28,
+      "text": "our spotlight is going to be on local AI"
+    },
+    {
+      "start": 108.88,
+      "duration": 4.24,
+      "text": "development and we have our our guest"
+    },
+    {
+      "start": 111.28,
+      "duration": 5.04,
+      "text": "joining us. We'll introduce her in a"
+    },
+    {
+      "start": 113.12,
+      "duration": 7.08,
+      "text": "bit. Uh but let's quickly jump into the"
+    },
+    {
+      "start": 116.32,
+      "duration": 6.72,
+      "text": "model highlights. Um let's roll"
+    },
+    {
+      "start": 120.2,
+      "duration": 5.24,
+      "text": "it. Okay, let's get started with model"
+    },
+    {
+      "start": 123.04,
+      "duration": 5.04,
+      "text": "Monday's highlights. So each week we"
+    },
+    {
+      "start": 125.44,
+      "duration": 4.72,
+      "text": "have a five minute highlight and there"
+    },
+    {
+      "start": 128.08,
+      "duration": 4.24,
+      "text": "will be five things we'll talk about on"
+    },
+    {
+      "start": 130.16,
+      "duration": 4.96,
+      "text": "these highlights and each slide there"
+    },
+    {
+      "start": 132.32,
+      "duration": 5.36,
+      "text": "will be a QR code. So feel free to take"
+    },
+    {
+      "start": 135.12,
+      "duration": 4.16,
+      "text": "a screenshot of the QR code. That QR"
+    },
+    {
+      "start": 137.68,
+      "duration": 4.56,
+      "text": "code will either take you directly to"
+    },
+    {
+      "start": 139.28,
+      "duration": 4.48,
+      "text": "the model card in AI foundry or to the"
+    },
+    {
+      "start": 142.24,
+      "duration": 3.44,
+      "text": "blog where you can read up more about"
+    },
+    {
+      "start": 143.76,
+      "duration": 4.08,
+      "text": "that particular highlight. So let's dive"
+    },
+    {
+      "start": 145.68,
+      "duration": 3.44,
+      "text": "in. Uh so today we're going to talk"
+    },
+    {
+      "start": 147.84,
+      "duration": 3.84,
+      "text": "about first we're going to talk about"
+    },
+    {
+      "start": 149.12,
+      "duration": 5.44,
+      "text": "the Mistral OCR. It's now available in"
+    },
+    {
+      "start": 151.68,
+      "duration": 5.44,
+      "text": "Azure AI foundry and this model goes"
+    },
+    {
+      "start": 154.56,
+      "duration": 5.6,
+      "text": "beyond basic text extraction. It"
+    },
+    {
+      "start": 157.12,
+      "duration": 4.96,
+      "text": "actually delivers high fidelity OCR with"
+    },
+    {
+      "start": 160.16,
+      "duration": 4.4,
+      "text": "strong layout understanding,"
+    },
+    {
+      "start": 162.08,
+      "duration": 5.28,
+      "text": "multilingual support and intelligent"
+    },
+    {
+      "start": 164.56,
+      "duration": 5.6,
+      "text": "tagging. meaning your scanned documents,"
+    },
+    {
+      "start": 167.36,
+      "duration": 5.12,
+      "text": "invoices, contracts, and forms can now"
+    },
+    {
+      "start": 170.16,
+      "duration": 4.72,
+      "text": "think for themselves. And it's optimized"
+    },
+    {
+      "start": 172.48,
+      "duration": 4.24,
+      "text": "for enterprise workloads and so it can"
+    },
+    {
+      "start": 174.88,
+      "duration": 4.72,
+      "text": "be dropped right into your document"
+    },
+    {
+      "start": 176.72,
+      "duration": 6.0,
+      "text": "intelligence pipelines. So that's OCR"
+    },
+    {
+      "start": 179.6,
+      "duration": 5.12,
+      "text": "that reads between the lines. Now moving"
+    },
+    {
+      "start": 182.72,
+      "duration": 4.32,
+      "text": "on, the next one, we already talked"
+    },
+    {
+      "start": 184.72,
+      "duration": 4.72,
+      "text": "about this last week about the llama 4"
+    },
+    {
+      "start": 187.04,
+      "duration": 4.32,
+      "text": "models that are in Azure AI Foundry. But"
+    },
+    {
+      "start": 189.44,
+      "duration": 4.08,
+      "text": "what happened the week before is we"
+    },
+    {
+      "start": 191.36,
+      "duration": 5.56,
+      "text": "introduced llama for models on manage"
+    },
+    {
+      "start": 193.52,
+      "duration": 6.48,
+      "text": "compute in foundry and this week we"
+    },
+    {
+      "start": 196.92,
+      "duration": 5.72,
+      "text": "actually make made it a part made it as"
+    },
+    {
+      "start": 200.0,
+      "duration": 4.76,
+      "text": "part of the models as a service where"
+    },
+    {
+      "start": 202.64,
+      "duration": 5.28,
+      "text": "you can use it without having any"
+    },
+    {
+      "start": 204.76,
+      "duration": 4.84,
+      "text": "infrastructure barriers. So we've got"
+    },
+    {
+      "start": 207.92,
+      "duration": 5.28,
+      "text": "and also we introduced some new models"
+    },
+    {
+      "start": 209.6,
+      "duration": 7.68,
+      "text": "like llama 4 scout 17b 16e instruct and"
+    },
+    {
+      "start": 213.2,
+      "duration": 6.24,
+      "text": "llama 4 maverick 17b and 28e instruct."
+    },
+    {
+      "start": 217.28,
+      "duration": 4.88,
+      "text": "So these are powerful production ready"
+    },
+    {
+      "start": 219.44,
+      "duration": 4.64,
+      "text": "and accessible via serverless endpoints."
+    },
+    {
+      "start": 222.16,
+      "duration": 4.56,
+      "text": "So whether you're building chat pods,"
+    },
+    {
+      "start": 224.08,
+      "duration": 6.72,
+      "text": "doing rack or generating content, you've"
+    },
+    {
+      "start": 226.72,
+      "duration": 7.04,
+      "text": "got new llamas to ride with. Now next is"
+    },
+    {
+      "start": 230.8,
+      "duration": 5.84,
+      "text": "deepseek. Again, we introduced deepseek"
+    },
+    {
+      "start": 233.76,
+      "duration": 5.04,
+      "text": "models a few uh like a month back, but"
+    },
+    {
+      "start": 236.64,
+      "duration": 4.6,
+      "text": "now this what we have is the latest"
+    },
+    {
+      "start": 238.8,
+      "duration": 6.8,
+      "text": "Deepseek version"
+    },
+    {
+      "start": 241.24,
+      "duration": 7.72,
+      "text": "30324. And this 670 billion parameter"
+    },
+    {
+      "start": 245.6,
+      "duration": 5.36,
+      "text": "MOE model brings serious reasoning."
+    },
+    {
+      "start": 248.96,
+      "duration": 4.88,
+      "text": "Thanks to innovations like multihead"
+    },
+    {
+      "start": 250.96,
+      "duration": 5.12,
+      "text": "latent attention and token level expert"
+    },
+    {
+      "start": 253.84,
+      "duration": 4.0,
+      "text": "activation, it delivers sharper"
+    },
+    {
+      "start": 256.08,
+      "duration": 4.88,
+      "text": "performance while staying compute"
+    },
+    {
+      "start": 257.84,
+      "duration": 5.92,
+      "text": "efficient and benchmark scores are also"
+    },
+    {
+      "start": 260.96,
+      "duration": 4.4,
+      "text": "up and hallucinations are down. And if"
+    },
+    {
+      "start": 263.76,
+      "duration": 3.64,
+      "text": "you're building anything that needs"
+    },
+    {
+      "start": 265.36,
+      "duration": 4.88,
+      "text": "smart,"
+    },
+    {
+      "start": 267.4,
+      "duration": 4.84,
+      "text": "reliable, you know, genai blank"
+    },
+    {
+      "start": 270.24,
+      "duration": 2.76,
+      "text": "application, this is a model that's"
+    },
+    {
+      "start": 272.24,
+      "duration": 5.76,
+      "text": "worth"
+    },
+    {
+      "start": 273.0,
+      "duration": 7.32,
+      "text": "watching. Now, next one is going to some"
+    },
+    {
+      "start": 278.0,
+      "duration": 4.08,
+      "text": "agentic news. So, we're not just"
+    },
+    {
+      "start": 280.32,
+      "duration": 4.48,
+      "text": "training models, we're also making them"
+    },
+    {
+      "start": 282.08,
+      "duration": 6.08,
+      "text": "smart with context. So our Azure AI"
+    },
+    {
+      "start": 284.8,
+      "duration": 5.76,
+      "text": "agent service dropped what is known as"
+    },
+    {
+      "start": 288.16,
+      "duration": 4.48,
+      "text": "dropped some new knowledge tools that"
+    },
+    {
+      "start": 290.56,
+      "duration": 4.48,
+      "text": "integrate seamlessly with Microsoft"
+    },
+    {
+      "start": 292.64,
+      "duration": 4.6,
+      "text": "fabric trip advisor and more. So that"
+    },
+    {
+      "start": 295.04,
+      "duration": 5.04,
+      "text": "means your agents can now grant"
+    },
+    {
+      "start": 297.24,
+      "duration": 4.68,
+      "text": "responses in enterprise data and real"
+    },
+    {
+      "start": 300.08,
+      "duration": 4.96,
+      "text": "world knowledge. It's like giving your"
+    },
+    {
+      "start": 301.92,
+      "duration": 6.8,
+      "text": "AI a passport, a library card and a CRM"
+    },
+    {
+      "start": 305.04,
+      "duration": 5.84,
+      "text": "badge all in one go. And last but not"
+    },
+    {
+      "start": 308.72,
+      "duration": 4.08,
+      "text": "definitely the least, this is something"
+    },
+    {
+      "start": 310.88,
+      "duration": 5.68,
+      "text": "new to Model Mondays. We want you to"
+    },
+    {
+      "start": 312.8,
+      "duration": 6.56,
+      "text": "check out um MIT technology review paper"
+    },
+    {
+      "start": 316.56,
+      "duration": 5.2,
+      "text": "that we worked on with uh MIT uh"
+    },
+    {
+      "start": 319.36,
+      "duration": 5.04,
+      "text": "technology review and this is around"
+    },
+    {
+      "start": 321.76,
+      "duration": 4.56,
+      "text": "customizing generative AI. So it"
+    },
+    {
+      "start": 324.4,
+      "duration": 4.08,
+      "text": "actually breaks down the top five"
+    },
+    {
+      "start": 326.32,
+      "duration": 4.32,
+      "text": "techniques enterprises are using like"
+    },
+    {
+      "start": 328.48,
+      "duration": 4.8,
+      "text": "from prompt engineering and fine-tuning"
+    },
+    {
+      "start": 330.64,
+      "duration": 5.04,
+      "text": "to rack and hybrid systems to deliver"
+    },
+    {
+      "start": 333.28,
+      "duration": 3.92,
+      "text": "unique differentiated experiences. And"
+    },
+    {
+      "start": 335.68,
+      "duration": 3.36,
+      "text": "the reason I wanted to highlight this"
+    },
+    {
+      "start": 337.2,
+      "duration": 5.12,
+      "text": "paper is because there are like really"
+    },
+    {
+      "start": 339.04,
+      "duration": 5.12,
+      "text": "some interesting data in there. So"
+    },
+    {
+      "start": 342.32,
+      "duration": 4.24,
+      "text": "please go ahead and check it out. Again,"
+    },
+    {
+      "start": 344.16,
+      "duration": 4.64,
+      "text": "QR code for you that takes you right to"
+    },
+    {
+      "start": 346.56,
+      "duration": 5.84,
+      "text": "where you can get access to this uh"
+    },
+    {
+      "start": 348.8,
+      "duration": 5.84,
+      "text": "review. And of course, right, there is"
+    },
+    {
+      "start": 352.4,
+      "duration": 4.24,
+      "text": "no oneizefits-all when you look at this"
+    },
+    {
+      "start": 354.64,
+      "duration": 4.56,
+      "text": "uh information. But with the right"
+    },
+    {
+      "start": 356.64,
+      "duration": 4.64,
+      "text": "approach, you can make your models work"
+    },
+    {
+      "start": 359.2,
+      "duration": 5.12,
+      "text": "like they were just trained for you. And"
+    },
+    {
+      "start": 361.28,
+      "duration": 5.68,
+      "text": "that's why I want you to take a um a"
+    },
+    {
+      "start": 364.32,
+      "duration": 5.68,
+      "text": "look at this paper. And that wraps up"
+    },
+    {
+      "start": 366.96,
+      "duration": 3.04,
+      "text": "our model Monday"
+    },
+    {
+      "start": 371.32,
+      "duration": 4.84,
+      "text": "highlights. Okay. Uh thank you everyone."
+    },
+    {
+      "start": 374.24,
+      "duration": 5.92,
+      "text": "And that is our the end of our"
+    },
+    {
+      "start": 376.16,
+      "duration": 7.6,
+      "text": "highlights. And now I want to welcome um"
+    },
+    {
+      "start": 380.16,
+      "duration": 7.76,
+      "text": "our today's spotlight speaker uh Ranglu."
+    },
+    {
+      "start": 383.76,
+      "duration": 6.4,
+      "text": "Uh can we have R. Hi R. How are you? Hi"
+    },
+    {
+      "start": 387.92,
+      "duration": 5.04,
+      "text": "Char. I'm good. Hello everyone. Thank"
+    },
+    {
+      "start": 390.16,
+      "duration": 5.44,
+      "text": "you all for joining. Yeah. And uh today"
+    },
+    {
+      "start": 392.96,
+      "duration": 5.6,
+      "text": "we are going to talk u about local AI"
+    },
+    {
+      "start": 395.6,
+      "duration": 6.32,
+      "text": "development with RN and uh how to use"
+    },
+    {
+      "start": 398.56,
+      "duration": 5.84,
+      "text": "the AI toolkit uh for visual studio uh"
+    },
+    {
+      "start": 401.92,
+      "duration": 4.88,
+      "text": "to which enables you to download and run"
+    },
+    {
+      "start": 404.4,
+      "duration": 4.56,
+      "text": "AI models locally with cutting edge"
+    },
+    {
+      "start": 406.8,
+      "duration": 4.48,
+      "text": "tools to support testing fine-tuning and"
+    },
+    {
+      "start": 408.96,
+      "duration": 4.64,
+      "text": "deployment. And Ron uh can you just"
+    },
+    {
+      "start": 411.28,
+      "duration": 3.76,
+      "text": "quickly uh give a quick introduction of"
+    },
+    {
+      "start": 413.6,
+      "duration": 3.92,
+      "text": "what you're going to talk about and we"
+    },
+    {
+      "start": 415.04,
+      "duration": 4.8,
+      "text": "will jump into the demo part of it."
+    },
+    {
+      "start": 417.52,
+      "duration": 5.04,
+      "text": "Yeah, of course. Um, so yeah, I'm really"
+    },
+    {
+      "start": 419.84,
+      "duration": 4.32,
+      "text": "happy here today to share with you one"
+    },
+    {
+      "start": 422.56,
+      "duration": 4.16,
+      "text": "of the products that our team has been"
+    },
+    {
+      "start": 424.16,
+      "duration": 5.28,
+      "text": "working on. Um, namely the AI toolkit,"
+    },
+    {
+      "start": 426.72,
+      "duration": 6.0,
+      "text": "which is a visual studio code extension"
+    },
+    {
+      "start": 429.44,
+      "duration": 5.92,
+      "text": "that aims to help make uh generative AI"
+    },
+    {
+      "start": 432.72,
+      "duration": 5.68,
+      "text": "development a little easier, especially"
+    },
+    {
+      "start": 435.36,
+      "duration": 6.8,
+      "text": "uh locally on your on your box. Um yeah,"
+    },
+    {
+      "start": 438.4,
+      "duration": 6.32,
+      "text": "I've recorded a a short introduction"
+    },
+    {
+      "start": 442.16,
+      "duration": 4.72,
+      "text": "including some demos uh hopefully to"
+    },
+    {
+      "start": 444.72,
+      "duration": 5.04,
+      "text": "share with you today and happy to answer"
+    },
+    {
+      "start": 446.88,
+      "duration": 5.52,
+      "text": "any questions after. Yeah. And uh we'll"
+    },
+    {
+      "start": 449.76,
+      "duration": 4.8,
+      "text": "roll uh we'll roll into the demo and uh"
+    },
+    {
+      "start": 452.4,
+      "duration": 4.96,
+      "text": "please feel free to watch and start"
+    },
+    {
+      "start": 454.56,
+      "duration": 6.08,
+      "text": "posting your questions as you um if as"
+    },
+    {
+      "start": 457.36,
+      "duration": 6.0,
+      "text": "it comes to you. Let's go get go move on"
+    },
+    {
+      "start": 460.64,
+      "duration": 5.2,
+      "text": "with it. Hello everyone. My name is Ron"
+    },
+    {
+      "start": 463.36,
+      "duration": 5.28,
+      "text": "Llu and I'm a PM manager working on data"
+    },
+    {
+      "start": 465.84,
+      "duration": 4.88,
+      "text": "science and AI tools at Microsoft. Today"
+    },
+    {
+      "start": 468.64,
+      "duration": 3.76,
+      "text": "I'm really happy to introduce to you one"
+    },
+    {
+      "start": 470.72,
+      "duration": 4.72,
+      "text": "of the products our team has been"
+    },
+    {
+      "start": 472.4,
+      "duration": 5.2,
+      "text": "working on named AI toolkit. This is a"
+    },
+    {
+      "start": 475.44,
+      "duration": 4.4,
+      "text": "VS Code extension that aims to make"
+    },
+    {
+      "start": 477.6,
+      "duration": 5.24,
+      "text": "model exploration and the creation of"
+    },
+    {
+      "start": 479.84,
+      "duration": 5.12,
+      "text": "generative AI applications a little bit"
+    },
+    {
+      "start": 482.84,
+      "duration": 4.84,
+      "text": "easier. Obviously, there are a lot of"
+    },
+    {
+      "start": 484.96,
+      "duration": 4.88,
+      "text": "tools out there in the market today for"
+    },
+    {
+      "start": 487.68,
+      "duration": 4.48,
+      "text": "experimenting with different models."
+    },
+    {
+      "start": 489.84,
+      "duration": 4.88,
+      "text": "Now, what makes the AI toolkit special?"
+    },
+    {
+      "start": 492.16,
+      "duration": 4.88,
+      "text": "We really want to focus on enabling a"
+    },
+    {
+      "start": 494.72,
+      "duration": 5.2,
+      "text": "great local development experience."
+    },
+    {
+      "start": 497.04,
+      "duration": 4.96,
+      "text": "Imagine I'm trying to play with large"
+    },
+    {
+      "start": 499.92,
+      "duration": 4.24,
+      "text": "range models trying to figure out if an"
+    },
+    {
+      "start": 502.0,
+      "duration": 4.64,
+      "text": "idea I have would make sense or could"
+    },
+    {
+      "start": 504.16,
+      "duration": 4.64,
+      "text": "work with these models and I just want"
+    },
+    {
+      "start": 506.64,
+      "duration": 4.24,
+      "text": "to start trying to build something on my"
+    },
+    {
+      "start": 508.8,
+      "duration": 3.76,
+      "text": "local machine uh before I had to pull"
+    },
+    {
+      "start": 510.88,
+      "duration": 4.4,
+      "text": "out my credit card and and decide to"
+    },
+    {
+      "start": 512.56,
+      "duration": 5.28,
+      "text": "start paying for API calls. So AI"
+    },
+    {
+      "start": 515.28,
+      "duration": 5.92,
+      "text": "toolkit provides a great option for you"
+    },
+    {
+      "start": 517.84,
+      "duration": 5.92,
+      "text": "to use um inside VS Code to try out"
+    },
+    {
+      "start": 521.2,
+      "duration": 5.2,
+      "text": "these different models and sometimes"
+    },
+    {
+      "start": 523.76,
+      "duration": 6.08,
+      "text": "even models that otherwise would have um"
+    },
+    {
+      "start": 526.4,
+      "duration": 5.2,
+      "text": "cost you money to start playing with."
+    },
+    {
+      "start": 529.84,
+      "duration": 3.52,
+      "text": "And then not only we want to give you an"
+    },
+    {
+      "start": 531.6,
+      "duration": 3.92,
+      "text": "environment to play with models, we also"
+    },
+    {
+      "start": 533.36,
+      "duration": 3.68,
+      "text": "want to this to be a great tool for you"
+    },
+    {
+      "start": 535.52,
+      "duration": 4.08,
+      "text": "to start building your prompts,"
+    },
+    {
+      "start": 537.04,
+      "duration": 4.72,
+      "text": "iterating on prompts and even testing"
+    },
+    {
+      "start": 539.6,
+      "duration": 4.32,
+      "text": "and evaluate your A applications"
+    },
+    {
+      "start": 541.76,
+      "duration": 3.76,
+      "text": "entirely locally. So you have more"
+    },
+    {
+      "start": 543.92,
+      "duration": 3.68,
+      "text": "confidence when you feel this"
+    },
+    {
+      "start": 545.52,
+      "duration": 4.68,
+      "text": "application is ready to be taken for the"
+    },
+    {
+      "start": 547.6,
+      "duration": 4.8,
+      "text": "production in an in online hosted"
+    },
+    {
+      "start": 550.2,
+      "duration": 4.2,
+      "text": "environment. So the AI toolkit is a VS"
+    },
+    {
+      "start": 552.4,
+      "duration": 4.16,
+      "text": "code extension. Um it provides several"
+    },
+    {
+      "start": 554.4,
+      "duration": 4.56,
+      "text": "interesting features as I mentioned"
+    },
+    {
+      "start": 556.56,
+      "duration": 4.0,
+      "text": "there is um a variety of models that we"
+    },
+    {
+      "start": 558.96,
+      "duration": 3.04,
+      "text": "can choose from. There's a catalog."
+    },
+    {
+      "start": 560.56,
+      "duration": 3.6,
+      "text": "There's a playground for playing with"
+    },
+    {
+      "start": 562.0,
+      "duration": 3.76,
+      "text": "models as well as a tool called prompt"
+    },
+    {
+      "start": 564.16,
+      "duration": 3.84,
+      "text": "builder that can help you craft and"
+    },
+    {
+      "start": 565.76,
+      "duration": 4.32,
+      "text": "iterate on prompts and batch run and"
+    },
+    {
+      "start": 568.0,
+      "duration": 4.96,
+      "text": "validation features that can run"
+    },
+    {
+      "start": 570.08,
+      "duration": 5.52,
+      "text": "entirely locally to help gauge the"
+    },
+    {
+      "start": 572.96,
+      "duration": 4.4,
+      "text": "quality of AI responses. Um, and last"
+    },
+    {
+      "start": 575.6,
+      "duration": 3.96,
+      "text": "but not least, an option to fine-tune"
+    },
+    {
+      "start": 577.36,
+      "duration": 4.4,
+      "text": "models locally or"
+    },
+    {
+      "start": 579.56,
+      "duration": 4.28,
+      "text": "remotely. So, with all that, let's dive"
+    },
+    {
+      "start": 581.76,
+      "duration": 4.24,
+      "text": "right in into the uh model catalog and"
+    },
+    {
+      "start": 583.84,
+      "duration": 4.0,
+      "text": "see what options we have. So, right at"
+    },
+    {
+      "start": 586.0,
+      "duration": 4.0,
+      "text": "the top, we have a list of popular"
+    },
+    {
+      "start": 587.84,
+      "duration": 3.68,
+      "text": "models. Uh this typically includes the"
+    },
+    {
+      "start": 590.0,
+      "duration": 4.96,
+      "text": "latest models we have added to the"
+    },
+    {
+      "start": 591.52,
+      "duration": 5.52,
+      "text": "catalog such as cloud 37 and GPD45."
+    },
+    {
+      "start": 594.96,
+      "duration": 5.2,
+      "text": "These are some of the newest models um"
+    },
+    {
+      "start": 597.04,
+      "duration": 5.24,
+      "text": "as well as the most used models in our"
+    },
+    {
+      "start": 600.16,
+      "duration": 5.6,
+      "text": "toolkit such as"
+    },
+    {
+      "start": 602.28,
+      "duration": 5.72,
+      "text": "GPT4. Now down here which I think is"
+    },
+    {
+      "start": 605.76,
+      "duration": 5.2,
+      "text": "really uh really awesome to have a"
+    },
+    {
+      "start": 608.0,
+      "duration": 4.4,
+      "text": "section of models hosted by GitHub uh"
+    },
+    {
+      "start": 610.96,
+      "duration": 3.76,
+      "text": "showing up right here. The reason why"
+    },
+    {
+      "start": 612.4,
+      "duration": 4.8,
+      "text": "they are so great is because these are"
+    },
+    {
+      "start": 614.72,
+      "duration": 5.6,
+      "text": "freely accessible by anyone who have a"
+    },
+    {
+      "start": 617.2,
+      "duration": 4.72,
+      "text": "GitHub ID. So as long as you have an ID"
+    },
+    {
+      "start": 620.32,
+      "duration": 3.6,
+      "text": "and sign in with your GitHub account"
+    },
+    {
+      "start": 621.92,
+      "duration": 4.24,
+      "text": "inside VS Code, you'll be able to access"
+    },
+    {
+      "start": 623.92,
+      "duration": 4.72,
+      "text": "these models up to a rate limit of"
+    },
+    {
+      "start": 626.16,
+      "duration": 4.48,
+      "text": "course. Um I believe it's 60 requests"
+    },
+    {
+      "start": 628.64,
+      "duration": 4.8,
+      "text": "per hour. But based on on my own"
+    },
+    {
+      "start": 630.64,
+      "duration": 4.32,
+      "text": "experience, it's been plenty um as a"
+    },
+    {
+      "start": 633.44,
+      "duration": 4.16,
+      "text": "great way to start playing with models"
+    },
+    {
+      "start": 634.96,
+      "duration": 5.08,
+      "text": "and even build some early prototypes"
+    },
+    {
+      "start": 637.6,
+      "duration": 6.16,
+      "text": "with um without occurring any"
+    },
+    {
+      "start": 640.04,
+      "duration": 5.88,
+      "text": "cost. It has uh a pretty large number of"
+    },
+    {
+      "start": 643.76,
+      "duration": 5.2,
+      "text": "models that can be accessed right here"
+    },
+    {
+      "start": 645.92,
+      "duration": 5.48,
+      "text": "inside VS Code. Um some interesting ones"
+    },
+    {
+      "start": 648.96,
+      "duration": 5.12,
+      "text": "I want to point out um"
+    },
+    {
+      "start": 651.4,
+      "duration": 4.92,
+      "text": "including uh a paid model like otherwise"
+    },
+    {
+      "start": 654.08,
+      "duration": 3.84,
+      "text": "would have cost money to access um or"
+    },
+    {
+      "start": 656.32,
+      "duration": 4.56,
+      "text": "one model that you can play with right"
+    },
+    {
+      "start": 657.92,
+      "duration": 5.04,
+      "text": "away. Um from here down here we have"
+    },
+    {
+      "start": 660.88,
+      "duration": 4.24,
+      "text": "local model options. Um as I mentioned"
+    },
+    {
+      "start": 662.96,
+      "duration": 4.48,
+      "text": "earlier the AD toolkit really focus on"
+    },
+    {
+      "start": 665.12,
+      "duration": 4.16,
+      "text": "enabling a great local development"
+    },
+    {
+      "start": 667.44,
+      "duration": 5.44,
+      "text": "experience and that includes accessing"
+    },
+    {
+      "start": 669.28,
+      "duration": 6.0,
+      "text": "models locally as well. Um first off we"
+    },
+    {
+      "start": 672.88,
+      "duration": 4.88,
+      "text": "have a section for Olama models. Ola is"
+    },
+    {
+      "start": 675.28,
+      "duration": 4.88,
+      "text": "a really popular framework for local"
+    },
+    {
+      "start": 677.76,
+      "duration": 5.52,
+      "text": "model inferencing and air toolkit works"
+    },
+    {
+      "start": 680.16,
+      "duration": 5.2,
+      "text": "great with it. As long as you have Oola"
+    },
+    {
+      "start": 683.28,
+      "duration": 4.08,
+      "text": "installed um and pull down any models"
+    },
+    {
+      "start": 685.36,
+      "duration": 3.56,
+      "text": "you want, you'll be able to add them to"
+    },
+    {
+      "start": 687.36,
+      "duration": 5.68,
+      "text": "the to the list"
+    },
+    {
+      "start": 688.92,
+      "duration": 7.16,
+      "text": "here. Um and down here is a section of"
+    },
+    {
+      "start": 693.04,
+      "duration": 5.76,
+      "text": "Onyx models. These are optimized for the"
+    },
+    {
+      "start": 696.08,
+      "duration": 6.96,
+      "text": "Onyx runtime. Um this includes myster"
+    },
+    {
+      "start": 698.8,
+      "duration": 5.76,
+      "text": "models, uh Microsoft's own fi family. Um"
+    },
+    {
+      "start": 703.04,
+      "duration": 3.44,
+      "text": "and last but not least, we have more"
+    },
+    {
+      "start": 704.56,
+      "duration": 3.84,
+      "text": "models. Um this section includes models"
+    },
+    {
+      "start": 706.48,
+      "duration": 4.48,
+      "text": "that do require you to bring your own"
+    },
+    {
+      "start": 708.4,
+      "duration": 5.84,
+      "text": "API keys. Um these are all models hosted"
+    },
+    {
+      "start": 710.96,
+      "duration": 6.4,
+      "text": "by third party such as Anthropic,"
+    },
+    {
+      "start": 714.24,
+      "duration": 5.44,
+      "text": "Google. Um down here we have Nvidia that"
+    },
+    {
+      "start": 717.36,
+      "duration": 5.68,
+      "text": "we partnered with to integrate uh their"
+    },
+    {
+      "start": 719.68,
+      "duration": 5.52,
+      "text": "NIM models in as well as OpenAI. Um but"
+    },
+    {
+      "start": 723.04,
+      "duration": 4.32,
+      "text": "the cool thing is once you have that set"
+    },
+    {
+      "start": 725.2,
+      "duration": 6.04,
+      "text": "up once these models will always be"
+    },
+    {
+      "start": 727.36,
+      "duration": 6.8,
+      "text": "available um as part of the AI toolkit"
+    },
+    {
+      "start": 731.24,
+      "duration": 4.36,
+      "text": "experience. So let's go back to here. I"
+    },
+    {
+      "start": 734.16,
+      "duration": 4.32,
+      "text": "want to show you one more thing before"
+    },
+    {
+      "start": 735.6,
+      "duration": 5.28,
+      "text": "we dive into the playground. Um over"
+    },
+    {
+      "start": 738.48,
+      "duration": 4.32,
+      "text": "here we have a set of filters that"
+    },
+    {
+      "start": 740.88,
+      "duration": 3.76,
+      "text": "because we have such a large number of"
+    },
+    {
+      "start": 742.8,
+      "duration": 3.84,
+      "text": "uh industry leading models in the list"
+    },
+    {
+      "start": 744.64,
+      "duration": 4.24,
+      "text": "and and we keep adding more as new"
+    },
+    {
+      "start": 746.64,
+      "duration": 4.48,
+      "text": "models come out. Um we have these"
+    },
+    {
+      "start": 748.88,
+      "duration": 4.48,
+      "text": "filters and in the search search menu."
+    },
+    {
+      "start": 751.12,
+      "duration": 4.88,
+      "text": "Um I want to show you these are some of"
+    },
+    {
+      "start": 753.36,
+      "duration": 5.6,
+      "text": "the options you can u use to quickly"
+    },
+    {
+      "start": 756.0,
+      "duration": 5.2,
+      "text": "find the models you want. Um this one"
+    },
+    {
+      "start": 758.96,
+      "duration": 4.4,
+      "text": "allows you to filter by whether these"
+    },
+    {
+      "start": 761.2,
+      "duration": 4.64,
+      "text": "models can run on a CPU or can leverage"
+    },
+    {
+      "start": 763.36,
+      "duration": 4.24,
+      "text": "a GPU or even NPU. These are"
+    },
+    {
+      "start": 765.84,
+      "duration": 4.72,
+      "text": "neuroprocessing unit available on"
+    },
+    {
+      "start": 767.6,
+      "duration": 4.8,
+      "text": "Windows C-Pilot PCs. Okay. So now let's"
+    },
+    {
+      "start": 770.56,
+      "duration": 4.72,
+      "text": "try"
+    },
+    {
+      "start": 772.4,
+      "duration": 6.24,
+      "text": "uh let's say a deepseek model for"
+    },
+    {
+      "start": 775.28,
+      "duration": 6.16,
+      "text": "example. Let's say I want to do u lama"
+    },
+    {
+      "start": 778.64,
+      "duration": 5.12,
+      "text": "version first and toolkit provides a"
+    },
+    {
+      "start": 781.44,
+      "duration": 4.48,
+      "text": "featurerich playground right here with"
+    },
+    {
+      "start": 783.76,
+      "duration": 5.2,
+      "text": "some predefined questions and we can"
+    },
+    {
+      "start": 785.92,
+      "duration": 4.96,
+      "text": "start clicking on one of them. Um this"
+    },
+    {
+      "start": 788.96,
+      "duration": 4.56,
+      "text": "will ask the deepseek model to explain"
+    },
+    {
+      "start": 790.88,
+      "duration": 6.56,
+      "text": "the formula of foria transform using"
+    },
+    {
+      "start": 793.52,
+      "duration": 5.76,
+      "text": "latex. Um and uh as you you can see here"
+    },
+    {
+      "start": 797.44,
+      "duration": 4.16,
+      "text": "it's starting to output the thought"
+    },
+    {
+      "start": 799.28,
+      "duration": 3.84,
+      "text": "process. Deepseek 01 model is very"
+    },
+    {
+      "start": 801.6,
+      "duration": 3.28,
+      "text": "thorough in its thought process."
+    },
+    {
+      "start": 803.12,
+      "duration": 5.04,
+      "text": "Sometimes even entertaining just to"
+    },
+    {
+      "start": 804.88,
+      "duration": 6.08,
+      "text": "watch how it goes. Um while this goes uh"
+    },
+    {
+      "start": 808.16,
+      "duration": 4.72,
+      "text": "let's take a look at the uh options on"
+    },
+    {
+      "start": 810.96,
+      "duration": 4.16,
+      "text": "the right hand side. Um we do expose"
+    },
+    {
+      "start": 812.88,
+      "duration": 6.08,
+      "text": "different model parameters for you to"
+    },
+    {
+      "start": 815.12,
+      "duration": 5.6,
+      "text": "tweak. So in this case it has max token"
+    },
+    {
+      "start": 818.96,
+      "duration": 3.92,
+      "text": "number of tokens as well as temperature."
+    },
+    {
+      "start": 820.72,
+      "duration": 5.2,
+      "text": "But for other models the options might"
+    },
+    {
+      "start": 822.88,
+      "duration": 3.04,
+      "text": "uh show"
+    },
+    {
+      "start": 827.88,
+      "duration": 6.68,
+      "text": "differently. Okay, the model is now"
+    },
+    {
+      "start": 829.92,
+      "duration": 6.48,
+      "text": "outputting its um final answer and I"
+    },
+    {
+      "start": 834.56,
+      "duration": 4.44,
+      "text": "don't remember any of these things from"
+    },
+    {
+      "start": 836.4,
+      "duration": 5.44,
+      "text": "my college math um"
+    },
+    {
+      "start": 839.0,
+      "duration": 5.16,
+      "text": "classes. But look how beautifully these"
+    },
+    {
+      "start": 841.84,
+      "duration": 4.96,
+      "text": "latex formulas are rendered. um which is"
+    },
+    {
+      "start": 844.16,
+      "duration": 5.68,
+      "text": "very important for when these reasoning"
+    },
+    {
+      "start": 846.8,
+      "duration": 4.28,
+      "text": "models such as DeepC 1 are being used"
+    },
+    {
+      "start": 849.84,
+      "duration": 4.8,
+      "text": "for math"
+    },
+    {
+      "start": 851.08,
+      "duration": 7.12,
+      "text": "problems. All right, so moving on let's"
+    },
+    {
+      "start": 854.64,
+      "duration": 8.16,
+      "text": "try out a different model. Uh let's"
+    },
+    {
+      "start": 858.2,
+      "duration": 8.12,
+      "text": "see. I want to try doing something uh"
+    },
+    {
+      "start": 862.8,
+      "duration": 6.0,
+      "text": "related to interpreting pictures. Now AI"
+    },
+    {
+      "start": 866.32,
+      "duration": 4.08,
+      "text": "toolkit supports image attachments and"
+    },
+    {
+      "start": 868.8,
+      "duration": 4.68,
+      "text": "as well as other file attachments"
+    },
+    {
+      "start": 870.4,
+      "duration": 5.96,
+      "text": "natively in here. So I can navigate to a"
+    },
+    {
+      "start": 873.48,
+      "duration": 4.48,
+      "text": "picture and ask it"
+    },
+    {
+      "start": 876.36,
+      "duration": 5.84,
+      "text": "to"
+    },
+    {
+      "start": 877.96,
+      "duration": 8.28,
+      "text": "describe this image using one"
+    },
+    {
+      "start": 882.2,
+      "duration": 7.48,
+      "text": "sentence. Now 535 35 vision model is"
+    },
+    {
+      "start": 886.24,
+      "duration": 5.52,
+      "text": "capable of taking images as input. Um so"
+    },
+    {
+      "start": 889.68,
+      "duration": 4.88,
+      "text": "that's why this option light up here in"
+    },
+    {
+      "start": 891.76,
+      "duration": 2.8,
+      "text": "the AI toolkit"
+    },
+    {
+      "start": 896.76,
+      "duration": 5.4,
+      "text": "playground. Great. Um the model came"
+    },
+    {
+      "start": 899.36,
+      "duration": 5.44,
+      "text": "back with a one-s sentence description."
+    },
+    {
+      "start": 902.16,
+      "duration": 6.88,
+      "text": "Okay, I want to show you um how we can"
+    },
+    {
+      "start": 904.8,
+      "duration": 6.48,
+      "text": "leverage the GitHub models um in the AI"
+    },
+    {
+      "start": 909.04,
+      "duration": 5.6,
+      "text": "toolkit. So let's say I want to build a"
+    },
+    {
+      "start": 911.28,
+      "duration": 5.76,
+      "text": "math problem solver um app for little"
+    },
+    {
+      "start": 914.64,
+      "duration": 4.64,
+      "text": "kids and I want to see which models"
+    },
+    {
+      "start": 917.04,
+      "duration": 4.48,
+      "text": "might be the best option here. So let's"
+    },
+    {
+      "start": 919.28,
+      "duration": 4.0,
+      "text": "leverage the variety of models offered"
+    },
+    {
+      "start": 921.52,
+      "duration": 4.4,
+      "text": "by GitHub because we can try any of them"
+    },
+    {
+      "start": 923.28,
+      "duration": 4.88,
+      "text": "for free. Um let's just pick one two two"
+    },
+    {
+      "start": 925.92,
+      "duration": 4.64,
+      "text": "of them. Um, let's say I want to try"
+    },
+    {
+      "start": 928.16,
+      "duration": 4.64,
+      "text": "GPD4 mini because I know that model is"
+    },
+    {
+      "start": 930.56,
+      "duration": 4.08,
+      "text": "very fast, super responsive, and the"
+    },
+    {
+      "start": 932.8,
+      "duration": 3.72,
+      "text": "answers are right to the point. Um, but"
+    },
+    {
+      "start": 934.64,
+      "duration": 5.2,
+      "text": "I'm also curious"
+    },
+    {
+      "start": 936.52,
+      "duration": 4.92,
+      "text": "about OpenAI's um, O1 model because it"
+    },
+    {
+      "start": 939.84,
+      "duration": 2.96,
+      "text": "is a reasoning model. I wonder if I need"
+    },
+    {
+      "start": 941.44,
+      "duration": 4.16,
+      "text": "a reasoning model for these math"
+    },
+    {
+      "start": 942.8,
+      "duration": 4.96,
+      "text": "problems. So, we can come here and hit"
+    },
+    {
+      "start": 945.6,
+      "duration": 4.4,
+      "text": "on the compare button in the in the"
+    },
+    {
+      "start": 947.76,
+      "duration": 5.2,
+      "text": "playground and choose 01 as an option."
+    },
+    {
+      "start": 950.0,
+      "duration": 6.84,
+      "text": "And I love this side by side. Let's try."
+    },
+    {
+      "start": 952.96,
+      "duration": 7.2,
+      "text": "Can you give me a math problem for third"
+    },
+    {
+      "start": 956.84,
+      "duration": 5.6,
+      "text": "graders? Um, we can see these two input"
+    },
+    {
+      "start": 960.16,
+      "duration": 6.72,
+      "text": "boxes are in sync. And then let's hit"
+    },
+    {
+      "start": 962.44,
+      "duration": 6.28,
+      "text": "send. Um, and right away we see um F"
+    },
+    {
+      "start": 966.88,
+      "duration": 4.6,
+      "text": "mini came back with a response first."
+    },
+    {
+      "start": 968.72,
+      "duration": 5.2,
+      "text": "Super fast. It gives me a a math"
+    },
+    {
+      "start": 971.48,
+      "duration": 4.92,
+      "text": "problem. Uh, and a bone bonus question"
+    },
+    {
+      "start": 973.92,
+      "duration": 3.84,
+      "text": "too. Um, 01 took a bit longer. That"
+    },
+    {
+      "start": 976.4,
+      "duration": 3.44,
+      "text": "makes sense because it's a reasoning"
+    },
+    {
+      "start": 977.76,
+      "duration": 6.4,
+      "text": "model. It does take the time to think."
+    },
+    {
+      "start": 979.84,
+      "duration": 6.0,
+      "text": "it gives me a question and the answer."
+    },
+    {
+      "start": 984.16,
+      "duration": 3.12,
+      "text": "So it's very interesting how the"
+    },
+    {
+      "start": 985.84,
+      "duration": 3.76,
+      "text": "different models have very different"
+    },
+    {
+      "start": 987.28,
+      "duration": 4.96,
+      "text": "styles in in the responses. There's a"
+    },
+    {
+      "start": 989.6,
+      "duration": 4.64,
+      "text": "clearly a difference in in uh between"
+    },
+    {
+      "start": 992.24,
+      "duration": 3.84,
+      "text": "their performances as well. And one more"
+    },
+    {
+      "start": 994.24,
+      "duration": 4.32,
+      "text": "thing that will be critical as we make"
+    },
+    {
+      "start": 996.08,
+      "duration": 7.04,
+      "text": "decision on model selection is the token"
+    },
+    {
+      "start": 998.56,
+      "duration": 8.0,
+      "text": "usage. Um for many used 83 tokens and or"
+    },
+    {
+      "start": 1003.12,
+      "duration": 6.56,
+      "text": "one used 124. So I think for what I want"
+    },
+    {
+      "start": 1006.56,
+      "duration": 6.08,
+      "text": "to uh my math problem solver application"
+    },
+    {
+      "start": 1009.68,
+      "duration": 5.44,
+      "text": "for like elementary kids or one for mini"
+    },
+    {
+      "start": 1012.64,
+      "duration": 5.32,
+      "text": "is probably sufficient. Um so let's go"
+    },
+    {
+      "start": 1015.12,
+      "duration": 5.2,
+      "text": "with that. Now obviously I"
+    },
+    {
+      "start": 1017.96,
+      "duration": 4.68,
+      "text": "can you know start building my system"
+    },
+    {
+      "start": 1020.32,
+      "duration": 4.72,
+      "text": "prompt here um by inputting context"
+    },
+    {
+      "start": 1022.64,
+      "duration": 5.12,
+      "text": "instructions in here. Um but I love to"
+    },
+    {
+      "start": 1025.04,
+      "duration": 4.72,
+      "text": "use the prompt builder feature in the"
+    },
+    {
+      "start": 1027.76,
+      "duration": 4.92,
+      "text": "air toolkit to help me build my prompt"
+    },
+    {
+      "start": 1029.76,
+      "duration": 5.6,
+      "text": "um for several reasons. Um,"
+    },
+    {
+      "start": 1032.68,
+      "duration": 5.16,
+      "text": "one, for one, it is just a bit more"
+    },
+    {
+      "start": 1035.36,
+      "duration": 5.44,
+      "text": "space to work with the prompts. And"
+    },
+    {
+      "start": 1037.84,
+      "duration": 5.12,
+      "text": "secondly, um, this is one of my favorite"
+    },
+    {
+      "start": 1040.8,
+      "duration": 4.64,
+      "text": "features in AI token, which is to have"
+    },
+    {
+      "start": 1042.96,
+      "duration": 4.56,
+      "text": "the AI generate a system prompt for me."
+    },
+    {
+      "start": 1045.44,
+      "duration": 4.96,
+      "text": "So, I don't have to type in a a really"
+    },
+    {
+      "start": 1047.52,
+      "duration": 4.28,
+      "text": "long uh, prompt all by myself. So, I can"
+    },
+    {
+      "start": 1050.4,
+      "duration": 4.16,
+      "text": "just simply"
+    },
+    {
+      "start": 1051.8,
+      "duration": 4.2,
+      "text": "say, \"You are a helpful math tutor who"
+    },
+    {
+      "start": 1054.56,
+      "duration": 2.56,
+      "text": "provides math problems to elementary"
+    },
+    {
+      "start": 1056.0,
+      "duration": 3.52,
+      "text": "kids and guide them through the"
+    },
+    {
+      "start": 1057.12,
+      "duration": 4.52,
+      "text": "solutions and have the AI generate a"
+    },
+    {
+      "start": 1059.52,
+      "duration": 5.2,
+      "text": "pretty comprehensive system prompt for"
+    },
+    {
+      "start": 1061.64,
+      "duration": 5.8,
+      "text": "us.\" Let's see. Oh, great. It's it's in"
+    },
+    {
+      "start": 1064.72,
+      "duration": 4.72,
+      "text": "here already. Um, yeah, provide engaging"
+    },
+    {
+      "start": 1067.44,
+      "duration": 4.24,
+      "text": "math problems for elementary kids and"
+    },
+    {
+      "start": 1069.44,
+      "duration": 5.52,
+      "text": "guide them through by step by step step"
+    },
+    {
+      "start": 1071.68,
+      "duration": 5.92,
+      "text": "by step through the solutions. Um, I"
+    },
+    {
+      "start": 1074.96,
+      "duration": 6.2,
+      "text": "love the include steps to guide the"
+    },
+    {
+      "start": 1077.6,
+      "duration": 7.04,
+      "text": "model on how to um address the uh"
+    },
+    {
+      "start": 1081.16,
+      "duration": 5.56,
+      "text": "requests and output format so that we we"
+    },
+    {
+      "start": 1084.64,
+      "duration": 4.72,
+      "text": "know what to expect. Um, and last but"
+    },
+    {
+      "start": 1086.72,
+      "duration": 5.64,
+      "text": "not least, examples. This is a great set"
+    },
+    {
+      "start": 1089.36,
+      "duration": 6.4,
+      "text": "of instructions for the model to"
+    },
+    {
+      "start": 1092.36,
+      "duration": 6.28,
+      "text": "um work with. So, let's say if I ask the"
+    },
+    {
+      "start": 1095.76,
+      "duration": 5.0,
+      "text": "same question, can you give me a math"
+    },
+    {
+      "start": 1098.64,
+      "duration": 7.2,
+      "text": "problem"
+    },
+    {
+      "start": 1100.76,
+      "duration": 5.08,
+      "text": "for third graders? And I can run"
+    },
+    {
+      "start": 1107.4,
+      "duration": 5.08,
+      "text": "this. Now, if I were to run this again,"
+    },
+    {
+      "start": 1110.48,
+      "duration": 4.16,
+      "text": "um I could get, you know, slightly"
+    },
+    {
+      "start": 1112.48,
+      "duration": 3.44,
+      "text": "different formatted response back. Um"
+    },
+    {
+      "start": 1114.64,
+      "duration": 4.08,
+      "text": "that's one of the challenges working"
+    },
+    {
+      "start": 1115.92,
+      "duration": 5.6,
+      "text": "with large range models. Um when the"
+    },
+    {
+      "start": 1118.72,
+      "duration": 5.68,
+      "text": "format coming back, uh may not always be"
+    },
+    {
+      "start": 1121.52,
+      "duration": 4.8,
+      "text": "super consistent. So here, this is when"
+    },
+    {
+      "start": 1124.4,
+      "duration": 4.64,
+      "text": "um we want to use this structured output"
+    },
+    {
+      "start": 1126.32,
+      "duration": 5.68,
+      "text": "to instruct the models to always respond"
+    },
+    {
+      "start": 1129.04,
+      "duration": 5.28,
+      "text": "with an object, a JSON object in this"
+    },
+    {
+      "start": 1132.0,
+      "duration": 2.32,
+      "text": "case."
+    },
+    {
+      "start": 1135.92,
+      "duration": 5.04,
+      "text": "Great. Now we see the response coming"
+    },
+    {
+      "start": 1138.24,
+      "duration": 5.92,
+      "text": "back. This time instead of a plain text,"
+    },
+    {
+      "start": 1140.96,
+      "duration": 6.08,
+      "text": "we got in JSON object back. Um, now we"
+    },
+    {
+      "start": 1144.16,
+      "duration": 5.28,
+      "text": "can dive into building our applications."
+    },
+    {
+      "start": 1147.04,
+      "duration": 3.96,
+      "text": "So the easiest way to go from here is to"
+    },
+    {
+      "start": 1149.44,
+      "duration": 3.84,
+      "text": "hit this view code"
+    },
+    {
+      "start": 1151.0,
+      "duration": 5.16,
+      "text": "button. But uh, in this case, let's just"
+    },
+    {
+      "start": 1153.28,
+      "duration": 5.32,
+      "text": "go with OpenAI. Um, now this is a Python"
+    },
+    {
+      "start": 1156.16,
+      "duration": 5.2,
+      "text": "code snippet that was generated."
+    },
+    {
+      "start": 1158.6,
+      "duration": 5.32,
+      "text": "Um what what I love most about these"
+    },
+    {
+      "start": 1161.36,
+      "duration": 4.64,
+      "text": "GitHub models is not only I can use them"
+    },
+    {
+      "start": 1163.92,
+      "duration": 4.4,
+      "text": "in the playground for free as a way to"
+    },
+    {
+      "start": 1166.0,
+      "duration": 6.88,
+      "text": "test models quickly but also I can use"
+    },
+    {
+      "start": 1168.32,
+      "duration": 7.92,
+      "text": "these models uh via this URL in my uh"
+    },
+    {
+      "start": 1172.88,
+      "duration": 6.32,
+      "text": "script or application. Um so this is the"
+    },
+    {
+      "start": 1176.24,
+      "duration": 5.12,
+      "text": "URL that can help us access these GitHub"
+    },
+    {
+      "start": 1179.2,
+      "duration": 4.48,
+      "text": "models. Um all we have to do is to"
+    },
+    {
+      "start": 1181.36,
+      "duration": 4.08,
+      "text": "prepare this GitHub token to do. I"
+    },
+    {
+      "start": 1183.68,
+      "duration": 3.28,
+      "text": "already have this token set up as an"
+    },
+    {
+      "start": 1185.44,
+      "duration": 5.12,
+      "text": "environment variable on my machine. So"
+    },
+    {
+      "start": 1186.96,
+      "duration": 5.76,
+      "text": "it just work. Um down here everything we"
+    },
+    {
+      "start": 1190.56,
+      "duration": 4.16,
+      "text": "just set up in the prompt builder is all"
+    },
+    {
+      "start": 1192.72,
+      "duration": 4.8,
+      "text": "transferred into this Python script"
+    },
+    {
+      "start": 1194.72,
+      "duration": 5.12,
+      "text": "including system prompt here, user"
+    },
+    {
+      "start": 1197.52,
+      "duration": 4.8,
+      "text": "message down here, uh name of the model"
+    },
+    {
+      "start": 1199.84,
+      "duration": 5.04,
+      "text": "I used as well as the this long JSON"
+    },
+    {
+      "start": 1202.32,
+      "duration": 6.0,
+      "text": "schema that can help us structure the"
+    },
+    {
+      "start": 1204.88,
+      "duration": 7.12,
+      "text": "output um from the model. So from here"
+    },
+    {
+      "start": 1208.32,
+      "duration": 6.8,
+      "text": "let me save this"
+    },
+    {
+      "start": 1212.0,
+      "duration": 7.28,
+      "text": "um file and we can start running it."
+    },
+    {
+      "start": 1215.12,
+      "duration": 6.8,
+      "text": "Let's go to the terminal and uh python"
+    },
+    {
+      "start": 1219.28,
+      "duration": 2.64,
+      "text": "test"
+    },
+    {
+      "start": 1223.08,
+      "duration": 5.64,
+      "text": "2.py. This will run the script u calling"
+    },
+    {
+      "start": 1225.92,
+      "duration": 4.72,
+      "text": "that model endpoint hosted by GitHub and"
+    },
+    {
+      "start": 1228.72,
+      "duration": 4.64,
+      "text": "return that JSON schema uh JSON object"
+    },
+    {
+      "start": 1230.64,
+      "duration": 4.64,
+      "text": "we defined. Great. It came back as"
+    },
+    {
+      "start": 1233.36,
+      "duration": 3.52,
+      "text": "expected and from this point on I can"
+    },
+    {
+      "start": 1235.28,
+      "duration": 4.56,
+      "text": "integrate this piece of code into my"
+    },
+    {
+      "start": 1236.88,
+      "duration": 4.64,
+      "text": "application uh for real. Oh, one more"
+    },
+    {
+      "start": 1239.84,
+      "duration": 3.76,
+      "text": "thing I want to mention before we uh"
+    },
+    {
+      "start": 1241.52,
+      "duration": 4.64,
+      "text": "navigate away from here. So I mentioned"
+    },
+    {
+      "start": 1243.6,
+      "duration": 5.04,
+      "text": "this base URL URL. This is how you can"
+    },
+    {
+      "start": 1246.16,
+      "duration": 4.56,
+      "text": "access GitHub hosted models. But if"
+    },
+    {
+      "start": 1248.64,
+      "duration": 5.0,
+      "text": "you're using a local model, this would"
+    },
+    {
+      "start": 1250.72,
+      "duration": 6.56,
+      "text": "show a local host URL um that you can"
+    },
+    {
+      "start": 1253.64,
+      "duration": 5.72,
+      "text": "use exact same u to access these local"
+    },
+    {
+      "start": 1257.28,
+      "duration": 5.44,
+      "text": "model endpoints. So the same URL you'll"
+    },
+    {
+      "start": 1259.36,
+      "duration": 5.12,
+      "text": "find here in the model list. Um and you"
+    },
+    {
+      "start": 1262.72,
+      "duration": 5.44,
+      "text": "also have the option here to start or"
+    },
+    {
+      "start": 1264.48,
+      "duration": 5.6,
+      "text": "stop uh this server locally. So that's"
+    },
+    {
+      "start": 1268.16,
+      "duration": 4.48,
+      "text": "how you can use access these local model"
+    },
+    {
+      "start": 1270.08,
+      "duration": 4.0,
+      "text": "endpoints in your code. Now one last"
+    },
+    {
+      "start": 1272.64,
+      "duration": 3.08,
+      "text": "thing I want to show you in this a"
+    },
+    {
+      "start": 1274.08,
+      "duration": 4.8,
+      "text": "toolkit today"
+    },
+    {
+      "start": 1275.72,
+      "duration": 5.72,
+      "text": "is how we can leverage the bulk run and"
+    },
+    {
+      "start": 1278.88,
+      "duration": 5.36,
+      "text": "evaluation features to evaluate model"
+    },
+    {
+      "start": 1281.44,
+      "duration": 4.56,
+      "text": "responses all entirely locally. So let's"
+    },
+    {
+      "start": 1284.24,
+      "duration": 4.48,
+      "text": "get into the bulk run feature."
+    },
+    {
+      "start": 1286.0,
+      "duration": 5.84,
+      "text": "challenges in evaluating LM responses is"
+    },
+    {
+      "start": 1288.72,
+      "duration": 4.96,
+      "text": "you need evaluation data set. Now in the"
+    },
+    {
+      "start": 1291.84,
+      "duration": 4.08,
+      "text": "bulk run feature uh we really aim to"
+    },
+    {
+      "start": 1293.68,
+      "duration": 5.96,
+      "text": "make the accumulation of data sets a"
+    },
+    {
+      "start": 1295.92,
+      "duration": 8.16,
+      "text": "little bit easier. Um so let's start"
+    },
+    {
+      "start": 1299.64,
+      "duration": 7.4,
+      "text": "with an existing data set I have which"
+    },
+    {
+      "start": 1304.08,
+      "duration": 4.64,
+      "text": "only consists of two math problems. I"
+    },
+    {
+      "start": 1307.04,
+      "duration": 4.08,
+      "text": "have the query which is the math problem"
+    },
+    {
+      "start": 1308.72,
+      "duration": 4.88,
+      "text": "I manually type in there and the ground"
+    },
+    {
+      "start": 1311.12,
+      "duration": 4.96,
+      "text": "truth is the expected response and a"
+    },
+    {
+      "start": 1313.6,
+      "duration": 4.16,
+      "text": "response uh column that will be filled"
+    },
+    {
+      "start": 1316.08,
+      "duration": 3.2,
+      "text": "in with the real response coming from"
+    },
+    {
+      "start": 1317.76,
+      "duration": 3.6,
+      "text": "back from the model and the whole idea"
+    },
+    {
+      "start": 1319.28,
+      "duration": 5.52,
+      "text": "of the bulk run feature is it will"
+    },
+    {
+      "start": 1321.36,
+      "duration": 6.4,
+      "text": "enable you to run um to get the model"
+    },
+    {
+      "start": 1324.8,
+      "duration": 6.16,
+      "text": "responses in bulk instead of one by one."
+    },
+    {
+      "start": 1327.76,
+      "duration": 6.64,
+      "text": "Um here we again are using the same 01"
+    },
+    {
+      "start": 1330.96,
+      "duration": 6.72,
+      "text": "40 mini model same instruction we have"
+    },
+    {
+      "start": 1334.4,
+      "duration": 6.24,
+      "text": "here and put it in the system prompt. Um"
+    },
+    {
+      "start": 1337.68,
+      "duration": 6.36,
+      "text": "we're also going to let the model know"
+    },
+    {
+      "start": 1340.64,
+      "duration": 6.88,
+      "text": "how they can use the data in this data"
+    },
+    {
+      "start": 1344.04,
+      "duration": 5.8,
+      "text": "set. Now with all that set up I can"
+    },
+    {
+      "start": 1347.52,
+      "duration": 4.28,
+      "text": "simply hit run to get the response back"
+    },
+    {
+      "start": 1349.84,
+      "duration": 5.2,
+      "text": "from the"
+    },
+    {
+      "start": 1351.8,
+      "duration": 5.4,
+      "text": "model. Great. We have response back. Now"
+    },
+    {
+      "start": 1355.04,
+      "duration": 5.36,
+      "text": "obviously I would want to test with more"
+    },
+    {
+      "start": 1357.2,
+      "duration": 6.16,
+      "text": "than two math problems. Um another"
+    },
+    {
+      "start": 1360.4,
+      "duration": 5.44,
+      "text": "feature we have in bulk run is to allow"
+    },
+    {
+      "start": 1363.36,
+      "duration": 4.8,
+      "text": "the generation of synthetic data um for"
+    },
+    {
+      "start": 1365.84,
+      "duration": 4.24,
+      "text": "evaluation purposes. So the way to"
+    },
+    {
+      "start": 1368.16,
+      "duration": 4.16,
+      "text": "access that is to go to generate more"
+    },
+    {
+      "start": 1370.08,
+      "duration": 3.68,
+      "text": "data which will take the system prompt"
+    },
+    {
+      "start": 1372.32,
+      "duration": 3.68,
+      "text": "you have here your user prompt as well"
+    },
+    {
+      "start": 1373.76,
+      "duration": 4.24,
+      "text": "as your sample data into consideration"
+    },
+    {
+      "start": 1376.0,
+      "duration": 4.64,
+      "text": "and generate similar math problems in"
+    },
+    {
+      "start": 1378.0,
+      "duration": 5.76,
+      "text": "this case. Um cool that looks like a"
+    },
+    {
+      "start": 1380.64,
+      "duration": 5.36,
+      "text": "legit elementary math problem. Now with"
+    },
+    {
+      "start": 1383.76,
+      "duration": 4.64,
+      "text": "more data in my data set, I can hit run"
+    },
+    {
+      "start": 1386.0,
+      "duration": 5.04,
+      "text": "all to have the bul feature the AI"
+    },
+    {
+      "start": 1388.4,
+      "duration": 5.04,
+      "text": "toolkit to fetch the response from each"
+    },
+    {
+      "start": 1391.04,
+      "duration": 4.08,
+      "text": "uh for each math problem and autofill in"
+    },
+    {
+      "start": 1393.44,
+      "duration": 5.2,
+      "text": "this response column which is super"
+    },
+    {
+      "start": 1395.12,
+      "duration": 5.6,
+      "text": "neat. If I have a large number of um"
+    },
+    {
+      "start": 1398.64,
+      "duration": 4.8,
+      "text": "test data rows I want to I want to get"
+    },
+    {
+      "start": 1400.72,
+      "duration": 5.6,
+      "text": "responses with. A great benefit of using"
+    },
+    {
+      "start": 1403.44,
+      "duration": 4.08,
+      "text": "this tool is you can easily switch to a"
+    },
+    {
+      "start": 1406.32,
+      "duration": 3.44,
+      "text": "different model. Let's say a new model"
+    },
+    {
+      "start": 1407.52,
+      "duration": 3.76,
+      "text": "came out and you want to regenerate"
+    },
+    {
+      "start": 1409.76,
+      "duration": 3.68,
+      "text": "these responses. you can simply switch"
+    },
+    {
+      "start": 1411.28,
+      "duration": 4.32,
+      "text": "to a different model, hit run all and"
+    },
+    {
+      "start": 1413.44,
+      "duration": 3.92,
+      "text": "then right away you have your updated uh"
+    },
+    {
+      "start": 1415.6,
+      "duration": 3.84,
+      "text": "evaluation data set which is super"
+    },
+    {
+      "start": 1417.36,
+      "duration": 4.4,
+      "text": "convenient. Once we have updated this"
+    },
+    {
+      "start": 1419.44,
+      "duration": 4.56,
+      "text": "data set, we can export it to a JSON"
+    },
+    {
+      "start": 1421.76,
+      "duration": 5.2,
+      "text": "line file um and start evaluating our"
+    },
+    {
+      "start": 1424.0,
+      "duration": 4.12,
+      "text": "results. So that's now let's navigate to"
+    },
+    {
+      "start": 1426.96,
+      "duration": 3.96,
+      "text": "the evaluation"
+    },
+    {
+      "start": 1428.12,
+      "duration": 6.28,
+      "text": "feature. From here I can create a new"
+    },
+    {
+      "start": 1430.92,
+      "duration": 5.84,
+      "text": "evaluation. Um, we do have some built-in"
+    },
+    {
+      "start": 1434.4,
+      "duration": 6.0,
+      "text": "evaluators such as similarity,"
+    },
+    {
+      "start": 1436.76,
+      "duration": 5.48,
+      "text": "coherence. Um, but also we support"
+    },
+    {
+      "start": 1440.4,
+      "duration": 4.4,
+      "text": "custom evaluators if you want to bring"
+    },
+    {
+      "start": 1442.24,
+      "duration": 4.56,
+      "text": "your own prompt or script. So you can"
+    },
+    {
+      "start": 1444.8,
+      "duration": 4.56,
+      "text": "you can do so as well. In this case,"
+    },
+    {
+      "start": 1446.8,
+      "duration": 5.04,
+      "text": "let's just select similarity to compare"
+    },
+    {
+      "start": 1449.36,
+      "duration": 5.84,
+      "text": "how close the uh real responses are"
+    },
+    {
+      "start": 1451.84,
+      "duration": 5.28,
+      "text": "compared to the ground truth. Hit okay."
+    },
+    {
+      "start": 1455.2,
+      "duration": 5.04,
+      "text": "Um, in this case, we are just going to"
+    },
+    {
+      "start": 1457.12,
+      "duration": 7.36,
+      "text": "use a large model as the judge. Let me"
+    },
+    {
+      "start": 1460.24,
+      "duration": 7.0,
+      "text": "select this GPT40 mini model. So this is"
+    },
+    {
+      "start": 1464.48,
+      "duration": 6.32,
+      "text": "a custom model that I actually have"
+    },
+    {
+      "start": 1467.24,
+      "duration": 5.56,
+      "text": "hosted in Azure AI foundry as a model"
+    },
+    {
+      "start": 1470.8,
+      "duration": 4.4,
+      "text": "endpoint and I brought into the AI"
+    },
+    {
+      "start": 1472.8,
+      "duration": 5.2,
+      "text": "toolkit and I can use them just like any"
+    },
+    {
+      "start": 1475.2,
+      "duration": 4.72,
+      "text": "other models. Let's set that. Um I'm"
+    },
+    {
+      "start": 1478.0,
+      "duration": 3.88,
+      "text": "going to import a data set that we have"
+    },
+    {
+      "start": 1479.92,
+      "duration": 5.2,
+      "text": "just"
+    },
+    {
+      "start": 1481.88,
+      "duration": 5.64,
+      "text": "exported and then open uh my valuation"
+    },
+    {
+      "start": 1485.12,
+      "duration": 4.56,
+      "text": "and hit run. So we'll let it run and"
+    },
+    {
+      "start": 1487.52,
+      "duration": 4.56,
+      "text": "then let's take a look at uh this data"
+    },
+    {
+      "start": 1489.68,
+      "duration": 4.96,
+      "text": "set I have. It's the same structure we"
+    },
+    {
+      "start": 1492.08,
+      "duration": 4.96,
+      "text": "saw earlier. I have a list of math"
+    },
+    {
+      "start": 1494.64,
+      "duration": 4.4,
+      "text": "problems. This is my expected answer."
+    },
+    {
+      "start": 1497.04,
+      "duration": 4.24,
+      "text": "This is the real answer that we got back"
+    },
+    {
+      "start": 1499.04,
+      "duration": 5.32,
+      "text": "from the model. Um and we're just about"
+    },
+    {
+      "start": 1501.28,
+      "duration": 6.16,
+      "text": "to to compare how how close these"
+    },
+    {
+      "start": 1504.36,
+      "duration": 4.0,
+      "text": "um these two columns are. All right,"
+    },
+    {
+      "start": 1507.44,
+      "duration": 4.88,
+      "text": "it's"
+    },
+    {
+      "start": 1508.36,
+      "duration": 6.44,
+      "text": "done. Now um so this is a one through"
+    },
+    {
+      "start": 1512.32,
+      "duration": 5.04,
+      "text": "five uh scale one to five. So, we got"
+    },
+    {
+      "start": 1514.8,
+      "duration": 5.04,
+      "text": "4.5 out of five. Pretty good. But if we"
+    },
+    {
+      "start": 1517.36,
+      "duration": 5.12,
+      "text": "look at each row, um obviously this one"
+    },
+    {
+      "start": 1519.84,
+      "duration": 4.36,
+      "text": "has a very low score of one. If we look"
+    },
+    {
+      "start": 1522.48,
+      "duration": 3.92,
+      "text": "at this response"
+    },
+    {
+      "start": 1524.2,
+      "duration": 4.52,
+      "text": "closely, oh, the model completely got"
+    },
+    {
+      "start": 1526.4,
+      "duration": 6.0,
+      "text": "this answer wrong. I didn't even notice"
+    },
+    {
+      "start": 1528.72,
+      "duration": 5.68,
+      "text": "when uh before uh I saw this result, um"
+    },
+    {
+      "start": 1532.4,
+      "duration": 4.48,
+      "text": "everything else looks pretty nice. So,"
+    },
+    {
+      "start": 1534.4,
+      "duration": 4.0,
+      "text": "this is a really quick way to evaluate"
+    },
+    {
+      "start": 1536.88,
+      "duration": 4.72,
+      "text": "model responses. So, I think it's really"
+    },
+    {
+      "start": 1538.4,
+      "duration": 4.8,
+      "text": "neat um that you can do all this locally"
+    },
+    {
+      "start": 1541.6,
+      "duration": 3.6,
+      "text": "and when you switch to a different model"
+    },
+    {
+      "start": 1543.2,
+      "duration": 4.08,
+      "text": "or you want to tweak your prompts, you"
+    },
+    {
+      "start": 1545.2,
+      "duration": 5.36,
+      "text": "can quickly rerun these risk these"
+    },
+    {
+      "start": 1547.28,
+      "duration": 4.88,
+      "text": "evaluations and compare the scores um"
+    },
+    {
+      "start": 1550.56,
+      "duration": 3.84,
+      "text": "all on your local machine. All right,"
+    },
+    {
+      "start": 1552.16,
+      "duration": 6.16,
+      "text": "that's all I want to show you in this"
+    },
+    {
+      "start": 1554.4,
+      "duration": 6.48,
+      "text": "quick session today. Thank you so much."
+    },
+    {
+      "start": 1558.32,
+      "duration": 4.48,
+      "text": "That was awesome, Ron. And uh lots of"
+    },
+    {
+      "start": 1560.88,
+      "duration": 5.6,
+      "text": "chatter happening on the comment"
+    },
+    {
+      "start": 1562.8,
+      "duration": 5.44,
+      "text": "section. Um I will to just uh for the"
+    },
+    {
+      "start": 1566.48,
+      "duration": 5.2,
+      "text": "sake of time I'm going to get started"
+    },
+    {
+      "start": 1568.24,
+      "duration": 7.04,
+      "text": "with the questions. Um first is this is"
+    },
+    {
+      "start": 1571.68,
+      "duration": 6.0,
+      "text": "it free uh and can I download this on my"
+    },
+    {
+      "start": 1575.28,
+      "duration": 4.8,
+      "text": "iPad? We weren't sure if they asking if"
+    },
+    {
+      "start": 1577.68,
+      "duration": 5.84,
+      "text": "they can download the model or the AI"
+    },
+    {
+      "start": 1580.08,
+      "duration": 5.52,
+      "text": "toolkit but if you can answer to that."
+    },
+    {
+      "start": 1583.52,
+      "duration": 4.56,
+      "text": "Yeah. So first of all AI toolkit is"
+    },
+    {
+      "start": 1585.6,
+      "duration": 5.76,
+      "text": "entirely free. It's a VS code extension."
+    },
+    {
+      "start": 1588.08,
+      "duration": 6.4,
+      "text": "It runs uh anywhere VS Code runs uh"
+    },
+    {
+      "start": 1591.36,
+      "duration": 6.24,
+      "text": "which includes Windows, Mac and Linux."
+    },
+    {
+      "start": 1594.48,
+      "duration": 5.72,
+      "text": "Um I don't believe you can download and"
+    },
+    {
+      "start": 1597.6,
+      "duration": 5.12,
+      "text": "install VS Code on iPads"
+    },
+    {
+      "start": 1600.2,
+      "duration": 6.36,
+      "text": "today which means you won't be able to"
+    },
+    {
+      "start": 1602.72,
+      "duration": 7.04,
+      "text": "use the AI toolkit on iPad either. Okay,"
+    },
+    {
+      "start": 1606.56,
+      "duration": 5.68,
+      "text": "got it. And uh can I uh so what are the"
+    },
+    {
+      "start": 1609.76,
+      "duration": 5.52,
+      "text": "spec required for local machine to run"
+    },
+    {
+      "start": 1612.24,
+      "duration": 5.52,
+      "text": "it locally? Uh really depends on the"
+    },
+    {
+      "start": 1615.28,
+      "duration": 5.52,
+      "text": "model you choose. I showed uh there's a"
+    },
+    {
+      "start": 1617.76,
+      "duration": 5.2,
+      "text": "filter in the catalog where you can say"
+    },
+    {
+      "start": 1620.8,
+      "duration": 5.0,
+      "text": "show me the models that can run on CPU"
+    },
+    {
+      "start": 1622.96,
+      "duration": 5.68,
+      "text": "or GPU or NPU. Um"
+    },
+    {
+      "start": 1625.8,
+      "duration": 5.32,
+      "text": "for the demos I showed, I'm simply"
+    },
+    {
+      "start": 1628.64,
+      "duration": 5.12,
+      "text": "running on a very regular, you know,"
+    },
+    {
+      "start": 1631.12,
+      "duration": 6.32,
+      "text": "laptop with with no, you know, Nvidia"
+    },
+    {
+      "start": 1633.76,
+      "duration": 8.08,
+      "text": "GPU. Um it it runs fine. Like if I just"
+    },
+    {
+      "start": 1637.44,
+      "duration": 6.88,
+      "text": "go with the the CPU uh models, they they"
+    },
+    {
+      "start": 1641.84,
+      "duration": 6.48,
+      "text": "run fine. But if you have a powerful GPU"
+    },
+    {
+      "start": 1644.32,
+      "duration": 6.88,
+      "text": "on your machine, um these GPU optimized"
+    },
+    {
+      "start": 1648.32,
+      "duration": 4.88,
+      "text": "models will run pretty nicely. Uh and"
+    },
+    {
+      "start": 1651.2,
+      "duration": 5.28,
+      "text": "you should leverage those. And there are"
+    },
+    {
+      "start": 1653.2,
+      "duration": 6.48,
+      "text": "MPU powered models coming up very soon"
+    },
+    {
+      "start": 1656.48,
+      "duration": 4.96,
+      "text": "as well. Yep. And uh how do you know the"
+    },
+    {
+      "start": 1659.68,
+      "duration": 3.12,
+      "text": "prompt will I guess this is going back"
+    },
+    {
+      "start": 1661.44,
+      "duration": 3.12,
+      "text": "to the demo that you did. How do you"
+    },
+    {
+      "start": 1662.8,
+      "duration": 3.84,
+      "text": "know the prompt will be appropriate for"
+    },
+    {
+      "start": 1664.56,
+      "duration": 5.04,
+      "text": "third graders? Is there a source for the"
+    },
+    {
+      "start": 1666.64,
+      "duration": 7.6,
+      "text": "model like reading level? um not in the"
+    },
+    {
+      "start": 1669.6,
+      "duration": 7.24,
+      "text": "demo uh flow I showed uh this I'm simply"
+    },
+    {
+      "start": 1674.24,
+      "duration": 6.32,
+      "text": "relying on the knowledge the built-in"
+    },
+    {
+      "start": 1676.84,
+      "duration": 7.56,
+      "text": "knowledge in the models themselves to"
+    },
+    {
+      "start": 1680.56,
+      "duration": 8.32,
+      "text": "try to find uh age appropriate math"
+    },
+    {
+      "start": 1684.4,
+      "duration": 6.8,
+      "text": "problems. Um but if if in a more"
+    },
+    {
+      "start": 1688.88,
+      "duration": 4.96,
+      "text": "realistic use case, you might want to"
+    },
+    {
+      "start": 1691.2,
+      "duration": 5.6,
+      "text": "ground uh these questions and then have"
+    },
+    {
+      "start": 1693.84,
+      "duration": 6.4,
+      "text": "a check on uh you know what topics are"
+    },
+    {
+      "start": 1696.8,
+      "duration": 6.12,
+      "text": "appropriate and have a check on the"
+    },
+    {
+      "start": 1700.24,
+      "duration": 5.76,
+      "text": "questions that's uh the model actually"
+    },
+    {
+      "start": 1702.92,
+      "duration": 5.64,
+      "text": "generates. Okay, got it. And I think"
+    },
+    {
+      "start": 1706.0,
+      "duration": 3.92,
+      "text": "this question was clarified for the user"
+    },
+    {
+      "start": 1708.56,
+      "duration": 2.88,
+      "text": "for the person who asked the question,"
+    },
+    {
+      "start": 1709.92,
+      "duration": 3.12,
+      "text": "but I'm just going to ask it here so"
+    },
+    {
+      "start": 1711.44,
+      "duration": 4.32,
+      "text": "that for the rest of the folks you can"
+    },
+    {
+      "start": 1713.04,
+      "duration": 4.72,
+      "text": "just clarify it. The code po portion"
+    },
+    {
+      "start": 1715.76,
+      "duration": 3.6,
+      "text": "when you were showing the demo is once"
+    },
+    {
+      "start": 1717.76,
+      "duration": 3.04,
+      "text": "you test it out locally in the"
+    },
+    {
+      "start": 1719.36,
+      "duration": 4.0,
+      "text": "playground and ready to start"
+    },
+    {
+      "start": 1720.8,
+      "duration": 4.96,
+      "text": "integration with actual AI service"
+    },
+    {
+      "start": 1723.36,
+      "duration": 6.8,
+      "text": "endpoints like Azure or G GitHub. Is"
+    },
+    {
+      "start": 1725.76,
+      "duration": 7.52,
+      "text": "that right? Um I think yeah partially I"
+    },
+    {
+      "start": 1730.16,
+      "duration": 4.8,
+      "text": "think the the idea of getting to code is"
+    },
+    {
+      "start": 1733.28,
+      "duration": 3.68,
+      "text": "after you play with the model understand"
+    },
+    {
+      "start": 1734.96,
+      "duration": 4.32,
+      "text": "the model capabilities and you're ready"
+    },
+    {
+      "start": 1736.96,
+      "duration": 3.92,
+      "text": "to start building your applications. Um"
+    },
+    {
+      "start": 1739.28,
+      "duration": 3.68,
+      "text": "but when you get into code that that"
+    },
+    {
+      "start": 1740.88,
+      "duration": 5.44,
+      "text": "doesn't necessarily mean that you have"
+    },
+    {
+      "start": 1742.96,
+      "duration": 7.92,
+      "text": "to use Azure or GitHub. If you want to"
+    },
+    {
+      "start": 1746.32,
+      "duration": 8.48,
+      "text": "build um an application that leverages"
+    },
+    {
+      "start": 1750.88,
+      "duration": 6.72,
+      "text": "uh local models like five model family,"
+    },
+    {
+      "start": 1754.8,
+      "duration": 6.48,
+      "text": "you can do so without um connecting to"
+    },
+    {
+      "start": 1757.6,
+      "duration": 8.36,
+      "text": "any services. Got it. And how has the"
+    },
+    {
+      "start": 1761.28,
+      "duration": 8.56,
+      "text": "model been customized to do similarity?"
+    },
+    {
+      "start": 1765.96,
+      "duration": 7.48,
+      "text": "Um it's uh through the prompt that we"
+    },
+    {
+      "start": 1769.84,
+      "duration": 5.84,
+      "text": "have uh put together to teach the model"
+    },
+    {
+      "start": 1773.44,
+      "duration": 4.24,
+      "text": "or instruct the model how you uh"
+    },
+    {
+      "start": 1775.68,
+      "duration": 4.64,
+      "text": "determine on similarity with some"
+    },
+    {
+      "start": 1777.68,
+      "duration": 5.36,
+      "text": "examples just like a similar uh system"
+    },
+    {
+      "start": 1780.32,
+      "duration": 4.32,
+      "text": "model I showed in the demo. Um so it's"
+    },
+    {
+      "start": 1783.04,
+      "duration": 4.8,
+      "text": "through prompting it's not through"
+    },
+    {
+      "start": 1784.64,
+      "duration": 6.4,
+      "text": "fine-tuning those models. Okay, got it."
+    },
+    {
+      "start": 1787.84,
+      "duration": 5.84,
+      "text": "And also a question is can you customize"
+    },
+    {
+      "start": 1791.04,
+      "duration": 5.2,
+      "text": "the model with AI toolkit? How could you"
+    },
+    {
+      "start": 1793.68,
+      "duration": 4.96,
+      "text": "do that for teacher expertise example"
+    },
+    {
+      "start": 1796.24,
+      "duration": 5.28,
+      "text": "third grade math?"
+    },
+    {
+      "start": 1798.64,
+      "duration": 5.6,
+      "text": "Uh customize as in I'm assuming like"
+    },
+    {
+      "start": 1801.52,
+      "duration": 4.08,
+      "text": "fine-tuning models. Yeah. Yeah. I uh"
+    },
+    {
+      "start": 1804.24,
+      "duration": 4.4,
+      "text": "yeah that's that's a that's a great"
+    },
+    {
+      "start": 1805.6,
+      "duration": 5.2,
+      "text": "question. I actually uh didn't have the"
+    },
+    {
+      "start": 1808.64,
+      "duration": 4.64,
+      "text": "time to show that in the demo. U but we"
+    },
+    {
+      "start": 1810.8,
+      "duration": 5.92,
+      "text": "do have an option in the AI toolkit for"
+    },
+    {
+      "start": 1813.28,
+      "duration": 6.52,
+      "text": "model fine-tuning. Um if you go through"
+    },
+    {
+      "start": 1816.72,
+      "duration": 6.88,
+      "text": "that uh feature flow"
+    },
+    {
+      "start": 1819.8,
+      "duration": 6.76,
+      "text": "um there is a way for you to connect to"
+    },
+    {
+      "start": 1823.6,
+      "duration": 5.76,
+      "text": "data sets on hugging face for example if"
+    },
+    {
+      "start": 1826.56,
+      "duration": 5.2,
+      "text": "that's where you are sourcing uh your"
+    },
+    {
+      "start": 1829.36,
+      "duration": 4.16,
+      "text": "fine-tuning data sets from or if you"
+    },
+    {
+      "start": 1831.76,
+      "duration": 5.2,
+      "text": "have your own data sets you can bring"
+    },
+    {
+      "start": 1833.52,
+      "duration": 5.68,
+      "text": "those as well. Um and you can fine-tune"
+    },
+    {
+      "start": 1836.96,
+      "duration": 4.24,
+      "text": "run these fine-tuning jobs locally. So"
+    },
+    {
+      "start": 1839.2,
+      "duration": 5.28,
+      "text": "we have an option in the toolkit for you"
+    },
+    {
+      "start": 1841.2,
+      "duration": 5.68,
+      "text": "to run those jobs entirely locally. Um"
+    },
+    {
+      "start": 1844.48,
+      "duration": 5.2,
+      "text": "my laptop isn't able to handle all that"
+    },
+    {
+      "start": 1846.88,
+      "duration": 5.04,
+      "text": "but if you have a powerful GPU uh you"
+    },
+    {
+      "start": 1849.68,
+      "duration": 4.48,
+      "text": "might be able to uh we also do have an"
+    },
+    {
+      "start": 1851.92,
+      "duration": 5.2,
+      "text": "option for you to run these fine-tuning"
+    },
+    {
+      "start": 1854.16,
+      "duration": 6.64,
+      "text": "jobs in an Azure service Azure container"
+    },
+    {
+      "start": 1857.12,
+      "duration": 5.28,
+      "text": "app service. Yep. And uh next question I"
+    },
+    {
+      "start": 1860.8,
+      "duration": 4.24,
+      "text": "know we are almost out of time. Just one"
+    },
+    {
+      "start": 1862.4,
+      "duration": 5.92,
+      "text": "more minute few questions that came up."
+    },
+    {
+      "start": 1865.04,
+      "duration": 6.0,
+      "text": "Can we generate code for Go or Java or"
+    },
+    {
+      "start": 1868.32,
+      "duration": 5.76,
+      "text": "Python or Go or Java or Python is the"
+    },
+    {
+      "start": 1871.04,
+      "duration": 5.6,
+      "text": "only language? Uh great question. Python"
+    },
+    {
+      "start": 1874.08,
+      "duration": 5.2,
+      "text": "is the only language for now because we"
+    },
+    {
+      "start": 1876.64,
+      "duration": 5.28,
+      "text": "started with Python. Um but the intent"
+    },
+    {
+      "start": 1879.28,
+      "duration": 4.96,
+      "text": "is we will support other languages as"
+    },
+    {
+      "start": 1881.92,
+      "duration": 8.0,
+      "text": "well. So the next set of languages on"
+    },
+    {
+      "start": 1884.24,
+      "duration": 8.6,
+      "text": "our list are C, Java, and JavaScript. So"
+    },
+    {
+      "start": 1889.92,
+      "duration": 6.96,
+      "text": "uh we we're not going to get to go"
+    },
+    {
+      "start": 1892.84,
+      "duration": 7.0,
+      "text": "uh just yet, but keep sending these"
+    },
+    {
+      "start": 1896.88,
+      "duration": 5.28,
+      "text": "feedback. If that becomes a a popular"
+    },
+    {
+      "start": 1899.84,
+      "duration": 5.84,
+      "text": "ask, we would definitely uh consider"
+    },
+    {
+      "start": 1902.16,
+      "duration": 6.16,
+      "text": "that too. Awesome. And does it need to"
+    },
+    {
+      "start": 1905.68,
+      "duration": 5.76,
+      "text": "lo do we need to log to GitHub or"
+    },
+    {
+      "start": 1908.32,
+      "duration": 4.64,
+      "text": "Microsoft or does it Yeah. Uh you're to"
+    },
+    {
+      "start": 1911.44,
+      "duration": 3.76,
+      "text": "use the AI toolkit, you don't have to"
+    },
+    {
+      "start": 1912.96,
+      "duration": 4.08,
+      "text": "login with anything to use VS Code, you"
+    },
+    {
+      "start": 1915.2,
+      "duration": 3.44,
+      "text": "don't have to login with anything. But"
+    },
+    {
+      "start": 1917.04,
+      "duration": 4.8,
+      "text": "if you want to access these GitHub"
+    },
+    {
+      "start": 1918.64,
+      "duration": 5.92,
+      "text": "hosted models, um you need to sign in"
+    },
+    {
+      "start": 1921.84,
+      "duration": 5.36,
+      "text": "with your GitHub ID. But that is all."
+    },
+    {
+      "start": 1924.56,
+      "duration": 4.72,
+      "text": "Okay, got it. This was a great session"
+    },
+    {
+      "start": 1927.2,
+      "duration": 4.48,
+      "text": "wrong and I know we are out of time. I"
+    },
+    {
+      "start": 1929.28,
+      "duration": 4.96,
+      "text": "just before we sign off I just wanted to"
+    },
+    {
+      "start": 1931.68,
+      "duration": 5.44,
+      "text": "quickly uh tell you what our next"
+    },
+    {
+      "start": 1934.24,
+      "duration": 5.92,
+      "text": "episode uh next week's episode is. Uh"
+    },
+    {
+      "start": 1937.12,
+      "duration": 5.6,
+      "text": "next week we we are going to have um a"
+    },
+    {
+      "start": 1940.16,
+      "duration": 4.96,
+      "text": "speaker from Meta joining us Sonia"
+    },
+    {
+      "start": 1942.72,
+      "duration": 5.04,
+      "text": "Bhani. He's going to go uh hands-on with"
+    },
+    {
+      "start": 1945.12,
+      "duration": 3.92,
+      "text": "open source models like Llama Stack and"
+    },
+    {
+      "start": 1947.76,
+      "duration": 4.88,
+      "text": "all that. So you're going to learn more"
+    },
+    {
+      "start": 1949.04,
+      "duration": 5.68,
+      "text": "about uh Llama Stack and open source"
+    },
+    {
+      "start": 1952.64,
+      "duration": 4.72,
+      "text": "model customization and application"
+    },
+    {
+      "start": 1954.72,
+      "duration": 4.32,
+      "text": "development. So definitely join us for"
+    },
+    {
+      "start": 1957.36,
+      "duration": 3.44,
+      "text": "next week's episode. And this was a"
+    },
+    {
+      "start": 1959.04,
+      "duration": 4.24,
+      "text": "great uh episode. A lot of questions"
+    },
+    {
+      "start": 1960.8,
+      "duration": 4.72,
+      "text": "coming in. If we are not able to get to"
+    },
+    {
+      "start": 1963.28,
+      "duration": 5.28,
+      "text": "Oh, just one more question. Can we host"
+    },
+    {
+      "start": 1965.52,
+      "duration": 6.4,
+      "text": "our own model from Goro before we log"
+    },
+    {
+      "start": 1968.56,
+      "duration": 6.32,
+      "text": "off? Um host models. I I think the"
+    },
+    {
+      "start": 1971.92,
+      "duration": 5.52,
+      "text": "easiest option might be to host models"
+    },
+    {
+      "start": 1974.88,
+      "duration": 5.76,
+      "text": "in Azure AI Foundry service. That's what"
+    },
+    {
+      "start": 1977.44,
+      "duration": 4.72,
+      "text": "I did. Um and then you can bring those"
+    },
+    {
+      "start": 1980.64,
+      "duration": 3.36,
+      "text": "information back and have that"
+    },
+    {
+      "start": 1982.16,
+      "duration": 3.76,
+      "text": "registered with the AI toolkit and then"
+    },
+    {
+      "start": 1984.0,
+      "duration": 5.2,
+      "text": "you can access these models throughout"
+    },
+    {
+      "start": 1985.92,
+      "duration": 5.84,
+      "text": "the uh any of the other features. Yep."
+    },
+    {
+      "start": 1989.2,
+      "duration": 5.12,
+      "text": "And uh thank you so much Ron again. This"
+    },
+    {
+      "start": 1991.76,
+      "duration": 4.56,
+      "text": "was a great episode and we will see uh"
+    },
+    {
+      "start": 1994.32,
+      "duration": 4.88,
+      "text": "if you're all interested in more asking"
+    },
+    {
+      "start": 1996.32,
+      "duration": 5.68,
+      "text": "more questions wrong she will join us uh"
+    },
+    {
+      "start": 1999.2,
+      "duration": 4.96,
+      "text": "this Friday at 1:30 p.m. Eastern on our"
+    },
+    {
+      "start": 2002.0,
+      "duration": 4.96,
+      "text": "Discord channel on like a ask me"
+    },
+    {
+      "start": 2004.16,
+      "duration": 5.2,
+      "text": "anything um episode. Uh so feel free to"
+    },
+    {
+      "start": 2006.96,
+      "duration": 6.48,
+      "text": "join us on Discord this Friday at 1:30"
+    },
+    {
+      "start": 2009.36,
+      "duration": 8.32,
+      "text": "p.m. uh Eastern. And also I have um uh"
+    },
+    {
+      "start": 2013.44,
+      "duration": 6.64,
+      "text": "added the QR codes for our um you know"
+    },
+    {
+      "start": 2017.68,
+      "duration": 4.96,
+      "text": "live stream as well as um you know"
+    },
+    {
+      "start": 2020.08,
+      "duration": 5.6,
+      "text": "exploring our GitHub repo. So feel free"
+    },
+    {
+      "start": 2022.64,
+      "duration": 6.24,
+      "text": "to take a screenshot of this uh slide uh"
+    },
+    {
+      "start": 2025.68,
+      "duration": 4.8,
+      "text": "so that you can you know jump into all"
+    },
+    {
+      "start": 2028.88,
+      "duration": 3.68,
+      "text": "these different resources that you have"
+    },
+    {
+      "start": 2030.48,
+      "duration": 3.6,
+      "text": "available. And many have asked is the"
+    },
+    {
+      "start": 2032.56,
+      "duration": 3.44,
+      "text": "recording going to be available? Yes,"
+    },
+    {
+      "start": 2034.08,
+      "duration": 4.32,
+      "text": "the recording will be available and Nita"
+    },
+    {
+      "start": 2036.0,
+      "duration": 4.64,
+      "text": "has put the link to the recording um uh"
+    },
+    {
+      "start": 2038.4,
+      "duration": 4.32,
+      "text": "in there like which is aka.ms model"
+    },
+    {
+      "start": 2040.64,
+      "duration": 3.84,
+      "text": "Monday's playlist. So it has the"
+    },
+    {
+      "start": 2042.72,
+      "duration": 4.48,
+      "text": "recording for this event as well as the"
+    },
+    {
+      "start": 2044.48,
+      "duration": 4.8,
+      "text": "previous episodes. Thank you all and it"
+    },
+    {
+      "start": 2047.2,
+      "duration": 4.32,
+      "text": "was a great episode again and Ron thank"
+    },
+    {
+      "start": 2049.28,
+      "duration": 4.16,
+      "text": "you again and we'll see we we are happy"
+    },
+    {
+      "start": 2051.52,
+      "duration": 3.36,
+      "text": "to have you on Friday as well. Yeah,"
+    },
+    {
+      "start": 2053.44,
+      "duration": 2.72,
+      "text": "thank you for for the opportunity and"
+    },
+    {
+      "start": 2054.88,
+      "duration": 2.8,
+      "text": "thank you everyone for joining the"
+    },
+    {
+      "start": 2056.16,
+      "duration": 7.24,
+      "text": "session. Hopefully see you all on"
+    },
+    {
+      "start": 2057.68,
+      "duration": 5.72,
+      "text": "Friday. Yep. Bye bye."
+    }
+  ]
+}

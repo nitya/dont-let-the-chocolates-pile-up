@@ -1,0 +1,13 @@
+{
+  "_comment": "Map episode id -> YouTube video id to fix or force a match. Use null when the episode has no recording in the playlist. Verified against playlist order and YouTube stream dates on 2026-10-19.",
+  "matches": {
+    "s3-e05": null,
+    "s3-e09": null,
+    "s3-e10": "Gw8Il0qJPD0",
+    "s3-e11": "HGsc6-7Wj_8",
+    "s3-e12": "LNgzxNloqbg",
+    "s3-e14": "mV8T9QIAEhg",
+    "s4-e06": "HnnJ54xJmEM",
+    "s4-e11": "pmz_6Sg0QAY"
+  }
+}

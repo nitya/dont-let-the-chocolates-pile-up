@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "model-mondays": {
+      "type": "http",
+      "url": "http://localhost:8000/mcp"
+    },
+    "microsoft-learn": {
+      "type": "http",
+      "url": "https://learn.microsoft.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+# Act 4 fallback: run Emcee from GitHub Actions when an issue is labeled `emcee`.
+# NOT active here: copy it to .github/workflows/ to enable it.
+#
+# Repository configuration
+#   vars.EMCEE_SITE_URL            deployed Model Mondays site, e.g. https://<app>.azurewebsites.net   (required)
+#   secrets.MM_WRITE_KEY           the site's write key, if it has one
+#   Model, one of:
+#     vars.FOUNDRY_PROJECT_ENDPOINT + vars.FOUNDRY_MODEL                 (Entra ID via azure/login below)
+#     vars.AZURE_OPENAI_ENDPOINT + vars.AZURE_OPENAI_DEPLOYMENT [+ secrets.AZURE_OPENAI_API_KEY]
+#   Entra ID (OIDC federated credential on an app registration with access to the project/resource):
+#     vars.AZURE_CLIENT_ID, vars.AZURE_TENANT_ID, vars.AZURE_SUBSCRIPTION_ID
+#   vars.EMCEE_MOCK = "1"          rehearse without a model (scripted agents, drafts labeled [mock])
+name: Emcee on issue
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: read
+  issues: write
+  id-token: write
+
+concurrency:
+  group: emcee-issue-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  emcee:
+    if: github.event.label.name == 'emcee'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      EMCEE_SITE_URL: ${{ vars.EMCEE_SITE_URL }}
+      MM_WRITE_KEY: ${{ secrets.MM_WRITE_KEY }}
+      FOUNDRY_PROJECT_ENDPOINT: ${{ vars.FOUNDRY_PROJECT_ENDPOINT }}
+      FOUNDRY_MODEL: ${{ vars.FOUNDRY_MODEL }}
+      AZURE_OPENAI_ENDPOINT: ${{ vars.AZURE_OPENAI_ENDPOINT }}
+      AZURE_OPENAI_DEPLOYMENT: ${{ vars.AZURE_OPENAI_DEPLOYMENT }}
+      AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+      EMCEE_MOCK: ${{ vars.EMCEE_MOCK }}
+      EMCEE_MARP: "off"
+      NO_COLOR: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: agents/requirements.txt
+
+      - name: Azure login (OIDC)
+        if: vars.AZURE_CLIENT_ID != '' && vars.EMCEE_MOCK != '1'
+        uses: azure/login@v2
+        with:
+          client-id: ${{ vars.AZURE_CLIENT_ID }}
+          tenant-id: ${{ vars.AZURE_TENANT_ID }}
+          subscription-id: ${{ vars.AZURE_SUBSCRIPTION_ID }}
+
+      - name: Install the agents
+        run: |
+          python -m venv agents/.venv
+          agents/.venv/bin/pip install -r agents/requirements.txt
+
+      - name: Build the request from the issue
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          printf 'New episode announced (GitHub issue #%s): %s\n\n%s\n' \
+            "$ISSUE_NUMBER" "$ISSUE_TITLE" "$ISSUE_BODY" > "$RUNNER_TEMP/request.md"
+
+      - name: Run Emcee
+        run: |
+          MOCK_FLAG=""
+          if [ "$EMCEE_MOCK" = "1" ]; then MOCK_FLAG="--mock"; fi
+          agents/.venv/bin/python -m agents.emcee --issue-file "$RUNNER_TEMP/request.md" $MOCK_FLAG \
+            --site "$EMCEE_SITE_URL" --report-md "$RUNNER_TEMP/report.md" --json-out "$RUNNER_TEMP/ledger.json"
+
+      - name: Comment the run report on the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          if [ -f "$RUNNER_TEMP/report.md" ]; then
+            gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/report.md"
+          else
+            gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" \
+              --body "Emcee failed before writing a report: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: emcee-run-${{ github.event.issue.number }}
+          path: ${{ runner.temp }}/ledger.json
+          if-no-files-found: ignore

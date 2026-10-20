@@ -1,0 +1,4148 @@
+{
+  "videoId": "cPS3cWRZTps",
+  "language": "en",
+  "isGenerated": true,
+  "fetchedAt": "2026-10-20T00:01:09+00:00",
+  "segments": [
+    {
+      "start": 1.76,
+      "duration": 4.08,
+      "text": "Hello everyone and thank you for joining"
+    },
+    {
+      "start": 3.44,
+      "duration": 3.68,
+      "text": "us for today's session. My name is Danny"
+    },
+    {
+      "start": 5.84,
+      "duration": 3.84,
+      "text": "and I'm the event planner for the New"
+    },
+    {
+      "start": 7.12,
+      "duration": 4.56,
+      "text": "York Reactor Space. Before we start, I"
+    },
+    {
+      "start": 9.68,
+      "duration": 3.44,
+      "text": "have a few things to go over. Please"
+    },
+    {
+      "start": 11.68,
+      "duration": 3.6,
+      "text": "take a moment to review our code of"
+    },
+    {
+      "start": 13.12,
+      "duration": 4.0,
+      "text": "conduct. We seek to provide a respectful"
+    },
+    {
+      "start": 15.28,
+      "duration": 4.16,
+      "text": "environment for both our audience and"
+    },
+    {
+      "start": 17.12,
+      "duration": 4.0,
+      "text": "presenters. We encourage engagement in"
+    },
+    {
+      "start": 19.44,
+      "duration": 4.32,
+      "text": "the chat, but please be mindful of your"
+    },
+    {
+      "start": 21.12,
+      "duration": 4.96,
+      "text": "commentary, remain professional, and on"
+    },
+    {
+      "start": 23.76,
+      "duration": 4.0,
+      "text": "topic. Useful links will be shared in"
+    },
+    {
+      "start": 26.08,
+      "duration": 3.36,
+      "text": "the chat."
+    },
+    {
+      "start": 27.76,
+      "duration": 4.88,
+      "text": "The session is recorded and will be"
+    },
+    {
+      "start": 29.44,
+      "duration": 6.16,
+      "text": "available on demand in 24 to 48 hours on"
+    },
+    {
+      "start": 32.64,
+      "duration": 5.2,
+      "text": "the Microsoft Reactor YouTube channel"
+    },
+    {
+      "start": 35.6,
+      "duration": 4.56,
+      "text": "which brings us to today's session. It"
+    },
+    {
+      "start": 37.84,
+      "duration": 4.56,
+      "text": "will run for approximately 30 minutes"
+    },
+    {
+      "start": 40.16,
+      "duration": 4.16,
+      "text": "with time for questions throughout. I"
+    },
+    {
+      "start": 42.4,
+      "duration": 4.92,
+      "text": "will now turn it over to our speaker for"
+    },
+    {
+      "start": 44.32,
+      "duration": 3.0,
+      "text": "introductions."
+    },
+    {
+      "start": 48.56,
+      "duration": 4.64,
+      "text": "Hi. Hi. Hi. Hello everyone. My name is"
+    },
+    {
+      "start": 50.8,
+      "duration": 4.88,
+      "text": "Nitan Arsaman and I'm on the AIDS team"
+    },
+    {
+      "start": 53.2,
+      "duration": 5.68,
+      "text": "at Microsoft. And today I'll be joined"
+    },
+    {
+      "start": 55.68,
+      "duration": 4.88,
+      "text": "by my colleagues uh Charma and Dan as we"
+    },
+    {
+      "start": 58.88,
+      "duration": 3.28,
+      "text": "talk about a topic that's very very"
+    },
+    {
+      "start": 60.56,
+      "duration": 4.24,
+      "text": "interesting to all of you model context"
+    },
+    {
+      "start": 62.16,
+      "duration": 4.8,
+      "text": "protocol. But before we dive in uh just"
+    },
+    {
+      "start": 64.8,
+      "duration": 4.32,
+      "text": "a quick runoff show we usually start the"
+    },
+    {
+      "start": 66.96,
+      "duration": 4.0,
+      "text": "show off with like a highlight segment"
+    },
+    {
+      "start": 69.12,
+      "duration": 4.0,
+      "text": "where we cover the top news from the"
+    },
+    {
+      "start": 70.96,
+      "duration": 4.32,
+      "text": "past week before we dive into the"
+    },
+    {
+      "start": 73.12,
+      "duration": 4.24,
+      "text": "spotlight. So let me just give you a"
+    },
+    {
+      "start": 75.28,
+      "duration": 4.64,
+      "text": "couple of links to look at. Uh the first"
+    },
+    {
+      "start": 77.36,
+      "duration": 3.92,
+      "text": "one is model Monday/isord. All the"
+    },
+    {
+      "start": 79.92,
+      "duration": 3.28,
+      "text": "things we talk about that's our"
+    },
+    {
+      "start": 81.28,
+      "duration": 3.6,
+      "text": "community. So feel free to join us there"
+    },
+    {
+      "start": 83.2,
+      "duration": 3.84,
+      "text": "after this event if you have questions"
+    },
+    {
+      "start": 84.88,
+      "duration": 4.64,
+      "text": "and we will also host an AMA there on"
+    },
+    {
+      "start": 87.04,
+      "duration": 4.72,
+      "text": "Fridays. We'll talk about it later. And"
+    },
+    {
+      "start": 89.52,
+      "duration": 4.4,
+      "text": "there is a GitHub discussions forum. We"
+    },
+    {
+      "start": 91.76,
+      "duration": 3.52,
+      "text": "will have a card for this uh particular"
+    },
+    {
+      "start": 93.92,
+      "duration": 3.44,
+      "text": "episode there where you can put your"
+    },
+    {
+      "start": 95.28,
+      "duration": 3.92,
+      "text": "questions on. We're also trying"
+    },
+    {
+      "start": 97.36,
+      "duration": 4.4,
+      "text": "something new. So feel free to grab"
+    },
+    {
+      "start": 99.2,
+      "duration": 4.08,
+      "text": "these links if you've missed an episode."
+    },
+    {
+      "start": 101.76,
+      "duration": 3.76,
+      "text": "We actually have a Microsoft Student"
+    },
+    {
+      "start": 103.28,
+      "duration": 4.72,
+      "text": "Learn Ambassador uh writing recaps of"
+    },
+    {
+      "start": 105.52,
+      "duration": 5.6,
+      "text": "each uh week's uh episodes that you can"
+    },
+    {
+      "start": 108.0,
+      "duration": 5.28,
+      "text": "find on Tech Community and Dev.2."
+    },
+    {
+      "start": 111.12,
+      "duration": 4.48,
+      "text": "But right now, I want to start off with"
+    },
+    {
+      "start": 113.28,
+      "duration": 4.64,
+      "text": "our weekly highlight segment. So, I"
+    },
+    {
+      "start": 115.6,
+      "duration": 4.32,
+      "text": "think our uh my colleague Charla will"
+    },
+    {
+      "start": 117.92,
+      "duration": 3.92,
+      "text": "probably be here in just a bit, but she"
+    },
+    {
+      "start": 119.92,
+      "duration": 4.08,
+      "text": "did record the five things that you need"
+    },
+    {
+      "start": 121.84,
+      "duration": 4.08,
+      "text": "to know happened last week. So, without"
+    },
+    {
+      "start": 124.0,
+      "duration": 3.84,
+      "text": "further ado, let's roll tape and see"
+    },
+    {
+      "start": 125.92,
+      "duration": 3.68,
+      "text": "what's new in Azure AI Foundry this"
+    },
+    {
+      "start": 127.84,
+      "duration": 4.16,
+      "text": "week."
+    },
+    {
+      "start": 129.6,
+      "duration": 5.36,
+      "text": "Thank you, Nita. And everyone, welcome"
+    },
+    {
+      "start": 132.0,
+      "duration": 4.64,
+      "text": "back to Model Monday's highlights. In"
+    },
+    {
+      "start": 134.96,
+      "duration": 4.88,
+      "text": "this week's highlight, we are diving"
+    },
+    {
+      "start": 136.64,
+      "duration": 5.36,
+      "text": "into new models, smarter security and"
+    },
+    {
+      "start": 139.84,
+      "duration": 5.28,
+      "text": "infrastructure updates that are shaping"
+    },
+    {
+      "start": 142.0,
+      "duration": 6.4,
+      "text": "the future of Genai on Azure. Um, so"
+    },
+    {
+      "start": 145.12,
+      "duration": 5.84,
+      "text": "let's get into it and uh as usual on"
+    },
+    {
+      "start": 148.4,
+      "duration": 4.56,
+      "text": "every update uh there is a QR code which"
+    },
+    {
+      "start": 150.96,
+      "duration": 4.08,
+      "text": "links to either the blog or the model"
+    },
+    {
+      "start": 152.96,
+      "duration": 5.92,
+      "text": "card. So please take a screenshot of the"
+    },
+    {
+      "start": 155.04,
+      "duration": 6.24,
+      "text": "QR code. Um so the first update is um"
+    },
+    {
+      "start": 158.88,
+      "duration": 5.04,
+      "text": "that coher models are now available on"
+    },
+    {
+      "start": 161.28,
+      "duration": 4.16,
+      "text": "manage compute in foundry. So what is"
+    },
+    {
+      "start": 163.92,
+      "duration": 3.44,
+      "text": "managed compute? Managed compute is"
+    },
+    {
+      "start": 165.44,
+      "duration": 4.8,
+      "text": "where you can bring in your own Azure"
+    },
+    {
+      "start": 167.36,
+      "duration": 5.2,
+      "text": "infrastructure and deploy uh and use"
+    },
+    {
+      "start": 170.24,
+      "duration": 5.76,
+      "text": "that infrastructure kod for deploying"
+    },
+    {
+      "start": 172.56,
+      "duration": 5.6,
+      "text": "these uh models on Azure. So this means"
+    },
+    {
+      "start": 176.0,
+      "duration": 4.56,
+      "text": "you can deploy like very command light"
+    },
+    {
+      "start": 178.16,
+      "duration": 4.56,
+      "text": "enterprise ready language models with"
+    },
+    {
+      "start": 180.56,
+      "duration": 4.72,
+      "text": "just a few clicks but it's still backed"
+    },
+    {
+      "start": 182.72,
+      "duration": 5.28,
+      "text": "by Microsoft SLAs and Azure enterprise"
+    },
+    {
+      "start": 185.28,
+      "duration": 4.4,
+      "text": "security stack. So if think of like you"
+    },
+    {
+      "start": 188.0,
+      "duration": 3.76,
+      "text": "can achieve low latency, easy"
+    },
+    {
+      "start": 189.68,
+      "duration": 4.08,
+      "text": "scalability and you still have robust"
+    },
+    {
+      "start": 191.76,
+      "duration": 5.52,
+      "text": "guardrails. So which is ideal for"
+    },
+    {
+      "start": 193.76,
+      "duration": 5.52,
+      "text": "production grade uh rag use cases. So"
+    },
+    {
+      "start": 197.28,
+      "duration": 5.12,
+      "text": "now it's easier than ever to go from"
+    },
+    {
+      "start": 199.28,
+      "duration": 4.96,
+      "text": "idea to inference on your own um"
+    },
+    {
+      "start": 202.4,
+      "duration": 4.8,
+      "text": "infrastructure like uh Azure"
+    },
+    {
+      "start": 204.24,
+      "duration": 5.6,
+      "text": "infrastructure securely and reliably."
+    },
+    {
+      "start": 207.2,
+      "duration": 4.64,
+      "text": "Now the next update is on um prom"
+    },
+    {
+      "start": 209.84,
+      "duration": 4.4,
+      "text": "shields. So with AI apps going"
+    },
+    {
+      "start": 211.84,
+      "duration": 5.04,
+      "text": "mainstream and security is becoming"
+    },
+    {
+      "start": 214.24,
+      "duration": 4.88,
+      "text": "non-negotiable. And just a few weeks"
+    },
+    {
+      "start": 216.88,
+      "duration": 4.08,
+      "text": "back, we rolled out Prom Shields, a new"
+    },
+    {
+      "start": 219.12,
+      "duration": 4.24,
+      "text": "runtime layer that helps detect and"
+    },
+    {
+      "start": 220.96,
+      "duration": 4.8,
+      "text": "block prompt injection attacks. Now,"
+    },
+    {
+      "start": 223.36,
+      "duration": 4.4,
+      "text": "combining that with Azure AI content"
+    },
+    {
+      "start": 225.76,
+      "duration": 4.72,
+      "text": "safety, which is now featuring image and"
+    },
+    {
+      "start": 227.76,
+      "duration": 5.04,
+      "text": "multimodal filtering, you've got a very"
+    },
+    {
+      "start": 230.48,
+      "duration": 4.24,
+      "text": "comprehensive AI firewall. So, whether"
+    },
+    {
+      "start": 232.8,
+      "duration": 4.56,
+      "text": "it's jailbreak attempts or offensive"
+    },
+    {
+      "start": 234.72,
+      "duration": 5.92,
+      "text": "outputs, you're protected end to end"
+    },
+    {
+      "start": 237.36,
+      "duration": 5.12,
+      "text": "while still delivering fast, creative AI"
+    },
+    {
+      "start": 240.64,
+      "duration": 3.84,
+      "text": "experiences."
+    },
+    {
+      "start": 242.48,
+      "duration": 4.48,
+      "text": "Now we are moving on to some model"
+    },
+    {
+      "start": 244.48,
+      "duration": 5.36,
+      "text": "announcements. Uh we are excited to say"
+    },
+    {
+      "start": 246.96,
+      "duration": 5.6,
+      "text": "that OpenAI's 03 pro model is now"
+    },
+    {
+      "start": 249.84,
+      "duration": 5.76,
+      "text": "available in Azure AI foundry. It"
+    },
+    {
+      "start": 252.56,
+      "duration": 5.36,
+      "text": "delivers GPT4 turbo level performance"
+    },
+    {
+      "start": 255.6,
+      "duration": 4.48,
+      "text": "with faster throughput and lower cost"
+    },
+    {
+      "start": 257.92,
+      "duration": 4.64,
+      "text": "and it's optimized for enterprise that"
+    },
+    {
+      "start": 260.08,
+      "duration": 4.88,
+      "text": "are scaling AI across orgs. So, if"
+    },
+    {
+      "start": 262.56,
+      "duration": 4.48,
+      "text": "you've been pushing your GPT4 and"
+    },
+    {
+      "start": 264.96,
+      "duration": 4.8,
+      "text": "hitting capacity ceilings or latency"
+    },
+    {
+      "start": 267.04,
+      "duration": 5.36,
+      "text": "limits, 03 Pro gives you serious"
+    },
+    {
+      "start": 269.76,
+      "duration": 5.84,
+      "text": "firepower with better economics and"
+    },
+    {
+      "start": 272.4,
+      "duration": 5.6,
+      "text": "seamless Azure integration."
+    },
+    {
+      "start": 275.6,
+      "duration": 7.12,
+      "text": "Now, the next in the line of model"
+    },
+    {
+      "start": 278.0,
+      "duration": 7.68,
+      "text": "launches is our Codex Mini. So, um any"
+    },
+    {
+      "start": 282.72,
+      "duration": 6.24,
+      "text": "developer who's building CLI tools and"
+    },
+    {
+      "start": 285.68,
+      "duration": 5.84,
+      "text": "fast feedback workflows, a Codex Mini is"
+    },
+    {
+      "start": 288.96,
+      "duration": 4.48,
+      "text": "for you. It's a small scalable code"
+    },
+    {
+      "start": 291.52,
+      "duration": 4.0,
+      "text": "generation model purpose-built for"
+    },
+    {
+      "start": 293.44,
+      "duration": 3.92,
+      "text": "command line scenarios. Think shell"
+    },
+    {
+      "start": 295.52,
+      "duration": 4.56,
+      "text": "scripts, quick command scaffolds,"
+    },
+    {
+      "start": 297.36,
+      "duration": 5.28,
+      "text": "automation helpers, all with low latency"
+    },
+    {
+      "start": 300.08,
+      "duration": 4.88,
+      "text": "and minimal footprint. And it's perfect"
+    },
+    {
+      "start": 302.64,
+      "duration": 5.12,
+      "text": "for embedding into your local developer"
+    },
+    {
+      "start": 304.96,
+      "duration": 5.28,
+      "text": "environments or using as a lowcost,"
+    },
+    {
+      "start": 307.76,
+      "duration": 4.88,
+      "text": "high-speed alternative for repetitive"
+    },
+    {
+      "start": 310.24,
+      "duration": 5.36,
+      "text": "coding tasks."
+    },
+    {
+      "start": 312.64,
+      "duration": 5.84,
+      "text": "Then last but not the least, the model u"
+    },
+    {
+      "start": 315.6,
+      "duration": 6.32,
+      "text": "model context protocol. just MCP just"
+    },
+    {
+      "start": 318.48,
+      "duration": 7.12,
+      "text": "got a serious upgrade with models and at"
+    },
+    {
+      "start": 321.92,
+      "duration": 6.4,
+      "text": "build in May uh we released u what uh"
+    },
+    {
+      "start": 325.6,
+      "duration": 4.56,
+      "text": "support for model based access control"
+    },
+    {
+      "start": 328.32,
+      "duration": 5.28,
+      "text": "better inference routing and integration"
+    },
+    {
+      "start": 330.16,
+      "duration": 6.72,
+      "text": "with model usage telemetry for MCPS"
+    },
+    {
+      "start": 333.6,
+      "duration": 5.76,
+      "text": "Azure AI foundry MCPS and this improves"
+    },
+    {
+      "start": 336.88,
+      "duration": 5.04,
+      "text": "observable observability governance and"
+    },
+    {
+      "start": 339.36,
+      "duration": 3.84,
+      "text": "performance for scale AI deployments so"
+    },
+    {
+      "start": 341.92,
+      "duration": 3.12,
+      "text": "if you're running multimodel"
+    },
+    {
+      "start": 343.2,
+      "duration": 4.24,
+      "text": "applications or supporting regulated"
+    },
+    {
+      "start": 345.04,
+      "duration": 5.76,
+      "text": "workloads the new MCP makes your"
+    },
+    {
+      "start": 347.44,
+      "duration": 5.52,
+      "text": "infrastructure smarter and more secure."
+    },
+    {
+      "start": 350.8,
+      "duration": 4.0,
+      "text": "So that's a wrap for this week's model"
+    },
+    {
+      "start": 352.96,
+      "duration": 4.16,
+      "text": "Mondays. From frictionless coherent"
+    },
+    {
+      "start": 354.8,
+      "duration": 5.36,
+      "text": "deployments to turbocharged OpenAI"
+    },
+    {
+      "start": 357.12,
+      "duration": 6.4,
+      "text": "models and nextG security, Azure AI"
+    },
+    {
+      "start": 360.16,
+      "duration": 5.84,
+      "text": "foundry is evolving fast. Um and we are"
+    },
+    {
+      "start": 363.52,
+      "duration": 5.44,
+      "text": "bringing all that information to you. Uh"
+    },
+    {
+      "start": 366.0,
+      "duration": 5.68,
+      "text": "so see you again next week with more"
+    },
+    {
+      "start": 368.96,
+      "duration": 7.04,
+      "text": "highlights. And now I'll pass it on to"
+    },
+    {
+      "start": 371.68,
+      "duration": 8.44,
+      "text": "Nita to get into the next section of our"
+    },
+    {
+      "start": 376.0,
+      "duration": 4.12,
+      "text": "episode. Thank you."
+    },
+    {
+      "start": 380.8,
+      "duration": 4.88,
+      "text": "Hey Charila. Um hopefully you're here."
+    },
+    {
+      "start": 383.68,
+      "duration": 4.72,
+      "text": "But this is actually perfect like the"
+    },
+    {
+      "start": 385.68,
+      "duration": 4.56,
+      "text": "way you set it up for this week. So um"
+    },
+    {
+      "start": 388.4,
+      "duration": 3.76,
+      "text": "for what it's worth, uh couple of"
+    },
+    {
+      "start": 390.24,
+      "duration": 4.0,
+      "text": "things. We are talking MCP this week,"
+    },
+    {
+      "start": 392.16,
+      "duration": 4.32,
+      "text": "but in that last slide, Charmela pointed"
+    },
+    {
+      "start": 394.24,
+      "duration": 4.08,
+      "text": "out this work on MCP servers. We will"
+    },
+    {
+      "start": 396.48,
+      "duration": 4.08,
+      "text": "have the folks from that particular blog"
+    },
+    {
+      "start": 398.32,
+      "duration": 3.84,
+      "text": "post coming uh to speak to us in a"
+    },
+    {
+      "start": 400.56,
+      "duration": 4.24,
+      "text": "couple of episodes from now. Look for"
+    },
+    {
+      "start": 402.16,
+      "duration": 4.72,
+      "text": "the research and innovation uh episode."
+    },
+    {
+      "start": 404.8,
+      "duration": 3.92,
+      "text": "But in the meantime, we are now on to"
+    },
+    {
+      "start": 406.88,
+      "duration": 3.68,
+      "text": "our weekly spotlight section where we"
+    },
+    {
+      "start": 408.72,
+      "duration": 5.04,
+      "text": "will put a spotlight with a 15minute"
+    },
+    {
+      "start": 410.56,
+      "duration": 6.0,
+      "text": "deep dive into our topic and I'm so so"
+    },
+    {
+      "start": 413.76,
+      "duration": 5.92,
+      "text": "excited to have Dan Demarski with us"
+    },
+    {
+      "start": 416.56,
+      "duration": 4.72,
+      "text": "today. So hello Dan. Hello. Hello. I'm"
+    },
+    {
+      "start": 419.68,
+      "duration": 4.16,
+      "text": "excited to be here. Thank you for having"
+    },
+    {
+      "start": 421.28,
+      "duration": 4.48,
+      "text": "me. Yes. So I want to first set you up."
+    },
+    {
+      "start": 423.84,
+      "duration": 3.76,
+      "text": "So, if you haven't seen Den, uh, he's"
+    },
+    {
+      "start": 425.76,
+      "duration": 3.44,
+      "text": "been at every MCP event in the past"
+    },
+    {
+      "start": 427.6,
+      "duration": 3.68,
+      "text": "week. He's been super busy. He was at"
+    },
+    {
+      "start": 429.2,
+      "duration": 5.28,
+      "text": "Build, then at MCP Dev Summit, then AI"
+    },
+    {
+      "start": 431.28,
+      "duration": 5.12,
+      "text": "engineer conference. So, Den, two"
+    },
+    {
+      "start": 434.48,
+      "duration": 3.6,
+      "text": "things. What is MCP and why should"
+    },
+    {
+      "start": 436.4,
+      "duration": 2.88,
+      "text": "people care? And then what are you going"
+    },
+    {
+      "start": 438.08,
+      "duration": 3.36,
+      "text": "to talk about today? And then we can go"
+    },
+    {
+      "start": 439.28,
+      "duration": 4.16,
+      "text": "over to the deep dive. Cool. Yeah. So"
+    },
+    {
+      "start": 441.44,
+      "duration": 3.6,
+      "text": "I'll I'll put it this way like for for"
+    },
+    {
+      "start": 443.44,
+      "duration": 5.68,
+      "text": "uh all the excitement that exists around"
+    },
+    {
+      "start": 445.04,
+      "duration": 7.6,
+      "text": "like LLMs AI we know that the bulk of"
+    },
+    {
+      "start": 449.12,
+      "duration": 5.68,
+      "text": "the value actually is us you know locked"
+    },
+    {
+      "start": 452.64,
+      "duration": 4.56,
+      "text": "behind the scenes of different like APIs"
+    },
+    {
+      "start": 454.8,
+      "duration": 5.12,
+      "text": "and different systems right like your"
+    },
+    {
+      "start": 457.2,
+      "duration": 4.8,
+      "text": "dropboxes and your box and sharepoint"
+    },
+    {
+      "start": 459.92,
+      "duration": 4.0,
+      "text": "and salesforce and the question always"
+    },
+    {
+      "start": 462.0,
+      "duration": 4.16,
+      "text": "comes to like well if I have my AI"
+    },
+    {
+      "start": 463.92,
+      "duration": 5.84,
+      "text": "systems how do I connect to all this"
+    },
+    {
+      "start": 466.16,
+      "duration": 5.92,
+      "text": "data so MCP is or model context protocol"
+    },
+    {
+      "start": 469.76,
+      "duration": 5.44,
+      "text": "is quite literally literally like if you"
+    },
+    {
+      "start": 472.08,
+      "duration": 4.96,
+      "text": "reverse the the name that's exactly what"
+    },
+    {
+      "start": 475.2,
+      "duration": 4.56,
+      "text": "it does. It's protocol to provide"
+    },
+    {
+      "start": 477.04,
+      "duration": 5.92,
+      "text": "context to models. That's what it is."
+    },
+    {
+      "start": 479.76,
+      "duration": 6.32,
+      "text": "It's USBC for LLMs. And it makes it very"
+    },
+    {
+      "start": 482.96,
+      "duration": 5.84,
+      "text": "easy uh to connect uh all these"
+    },
+    {
+      "start": 486.08,
+      "duration": 4.32,
+      "text": "different data sources to LLM to make"
+    },
+    {
+      "start": 488.8,
+      "duration": 4.08,
+      "text": "sure that they can actually reason on it"
+    },
+    {
+      "start": 490.4,
+      "duration": 5.12,
+      "text": "and provide some kind of insights or"
+    },
+    {
+      "start": 492.88,
+      "duration": 3.92,
+      "text": "extract the data and act on it. And uh"
+    },
+    {
+      "start": 495.52,
+      "duration": 3.52,
+      "text": "today we're going to be talking about"
+    },
+    {
+      "start": 496.8,
+      "duration": 3.92,
+      "text": "some of the authentication authorization"
+    },
+    {
+      "start": 499.04,
+      "duration": 4.16,
+      "text": "because guess what to connect all those"
+    },
+    {
+      "start": 500.72,
+      "duration": 4.8,
+      "text": "data sources you kind of need to have"
+    },
+    {
+      "start": 503.2,
+      "duration": 5.6,
+      "text": "some credentials and those credentials"
+    },
+    {
+      "start": 505.52,
+      "duration": 5.76,
+      "text": "are coming from a standard and we have"
+    },
+    {
+      "start": 508.8,
+      "duration": 4.72,
+      "text": "that standard and uh just recently by"
+    },
+    {
+      "start": 511.28,
+      "duration": 5.28,
+      "text": "the way the spec revved to a new"
+    },
+    {
+      "start": 513.52,
+      "duration": 4.48,
+      "text": "iteration I believe it's 20250618"
+    },
+    {
+      "start": 516.56,
+      "duration": 4.16,
+      "text": "that actually has the authorization"
+    },
+    {
+      "start": 518.0,
+      "duration": 5.44,
+      "text": "specification baked in in its current"
+    },
+    {
+      "start": 520.72,
+      "duration": 4.48,
+      "text": "kind of the the current format. It's"
+    },
+    {
+      "start": 523.44,
+      "duration": 3.52,
+      "text": "great and I'm excited to to talk about"
+    },
+    {
+      "start": 525.2,
+      "duration": 3.68,
+      "text": "it. And by the way, when you'll see the"
+    },
+    {
+      "start": 526.96,
+      "duration": 3.92,
+      "text": "talk, you'll see me refer to it as kind"
+    },
+    {
+      "start": 528.88,
+      "duration": 3.84,
+      "text": "of the draft spec. It's no longer draft."
+    },
+    {
+      "start": 530.88,
+      "duration": 4.8,
+      "text": "It's production starting next week or I"
+    },
+    {
+      "start": 532.72,
+      "duration": 4.16,
+      "text": "mean, sorry, last week. And I was I"
+    },
+    {
+      "start": 535.68,
+      "duration": 2.8,
+      "text": "think we're going to roll tape, but I'll"
+    },
+    {
+      "start": 536.88,
+      "duration": 3.04,
+      "text": "just say one other thing. I believe VS"
+    },
+    {
+      "start": 538.48,
+      "duration": 3.44,
+      "text": "Code's recent release is the first one"
+    },
+    {
+      "start": 539.92,
+      "duration": 3.92,
+      "text": "to have the whole MCP. Is that right?"
+    },
+    {
+      "start": 541.92,
+      "duration": 3.52,
+      "text": "Absolutely. Yep. VS Code is fully"
+    },
+    {
+      "start": 543.84,
+      "duration": 3.2,
+      "text": "compliant with the MCP spec, which is"
+    },
+    {
+      "start": 545.44,
+      "duration": 2.8,
+      "text": "super exciting. Yeah. So, we'll have all"
+    },
+    {
+      "start": 547.04,
+      "duration": 2.96,
+      "text": "those links for you right after this,"
+    },
+    {
+      "start": 548.24,
+      "duration": 4.56,
+      "text": "but now we should roll tape and get the"
+    },
+    {
+      "start": 550.0,
+      "duration": 4.8,
+      "text": "15-minute deep dive into MCP. Hey folks,"
+    },
+    {
+      "start": 552.8,
+      "duration": 3.52,
+      "text": "I am Dan Deamarski. I'm a principal"
+    },
+    {
+      "start": 554.8,
+      "duration": 3.28,
+      "text": "product engineer at Microsoft and I'm a"
+    },
+    {
+      "start": 556.32,
+      "duration": 2.88,
+      "text": "member of the MCP steering committee."
+    },
+    {
+      "start": 558.08,
+      "duration": 3.76,
+      "text": "And today I'm going to be talking about"
+    },
+    {
+      "start": 559.2,
+      "duration": 4.4,
+      "text": "building protected MCP servers because"
+    },
+    {
+      "start": 561.84,
+      "duration": 3.36,
+      "text": "as MCP is gaining traction and a lot of"
+    },
+    {
+      "start": 563.6,
+      "duration": 3.6,
+      "text": "folks are starting to host servers"
+    },
+    {
+      "start": 565.2,
+      "duration": 4.24,
+      "text": "remotely in the cloud or you know any"
+    },
+    {
+      "start": 567.2,
+      "duration": 4.24,
+      "text": "other provider, they care about making"
+    },
+    {
+      "start": 569.44,
+      "duration": 3.6,
+      "text": "sure that those servers are protected"
+    },
+    {
+      "start": 571.44,
+      "duration": 2.4,
+      "text": "from unauthorized access. So that's what"
+    },
+    {
+      "start": 573.04,
+      "duration": 3.6,
+      "text": "we're going to be talking about today."
+    },
+    {
+      "start": 573.84,
+      "duration": 4.72,
+      "text": "I'm going to switch to my slides here."
+    },
+    {
+      "start": 576.64,
+      "duration": 3.28,
+      "text": "And one of the things I want to call out"
+    },
+    {
+      "start": 578.56,
+      "duration": 3.92,
+      "text": "is that what we're going to be talking"
+    },
+    {
+      "start": 579.92,
+      "duration": 4.56,
+      "text": "today is really applicable to remote"
+    },
+    {
+      "start": 582.48,
+      "duration": 3.36,
+      "text": "servers because we know that anything"
+    },
+    {
+      "start": 584.48,
+      "duration": 3.12,
+      "text": "that's hosted in the cloud is not"
+    },
+    {
+      "start": 585.84,
+      "duration": 4.16,
+      "text": "necessarily designed to be open to the"
+    },
+    {
+      "start": 587.6,
+      "duration": 6.32,
+      "text": "broad public. And that is especially"
+    },
+    {
+      "start": 590.0,
+      "duration": 5.76,
+      "text": "critical if your server is running uh in"
+    },
+    {
+      "start": 593.92,
+      "duration": 4.0,
+      "text": "a way that connects to other APIs that"
+    },
+    {
+      "start": 595.76,
+      "duration": 4.24,
+      "text": "require user authorization. And a lot of"
+    },
+    {
+      "start": 597.92,
+      "duration": 3.92,
+      "text": "servers are like that. If you're hosting"
+    },
+    {
+      "start": 600.0,
+      "duration": 3.68,
+      "text": "some business productivity MCP server"
+    },
+    {
+      "start": 601.84,
+      "duration": 4.8,
+      "text": "that needs to connect to Dropbox or"
+    },
+    {
+      "start": 603.68,
+      "duration": 4.96,
+      "text": "Salesforce or any other service, chances"
+    },
+    {
+      "start": 606.64,
+      "duration": 3.6,
+      "text": "are that those APIs require some kind of"
+    },
+    {
+      "start": 608.64,
+      "duration": 2.88,
+      "text": "user context that is important to have."
+    },
+    {
+      "start": 610.24,
+      "duration": 4.16,
+      "text": "And you want to make sure that you're"
+    },
+    {
+      "start": 611.52,
+      "duration": 5.68,
+      "text": "gating the MCB server before you give"
+    },
+    {
+      "start": 614.4,
+      "duration": 4.64,
+      "text": "access to those downstream APIs. Now,"
+    },
+    {
+      "start": 617.2,
+      "duration": 3.84,
+      "text": "this is important for remote servers."
+    },
+    {
+      "start": 619.04,
+      "duration": 4.4,
+      "text": "It's not as important for local servers"
+    },
+    {
+      "start": 621.04,
+      "duration": 5.92,
+      "text": "because a local server or local MCP"
+    },
+    {
+      "start": 623.44,
+      "duration": 5.84,
+      "text": "server is just a binary that runs on the"
+    },
+    {
+      "start": 626.96,
+      "duration": 5.28,
+      "text": "box. So if you can use npx, you might be"
+    },
+    {
+      "start": 629.28,
+      "duration": 4.56,
+      "text": "using uh one of the Python servers, it"
+    },
+    {
+      "start": 632.24,
+      "duration": 3.12,
+      "text": "doesn't really matter, but it's just a"
+    },
+    {
+      "start": 633.84,
+      "duration": 3.68,
+      "text": "binary that has access to a bunch of"
+    },
+    {
+      "start": 635.36,
+      "duration": 4.24,
+      "text": "other libraries and ways to acquire the"
+    },
+    {
+      "start": 637.52,
+      "duration": 4.64,
+      "text": "user context directly on the machine"
+    },
+    {
+      "start": 639.6,
+      "duration": 4.24,
+      "text": "without interacting with any kind of"
+    },
+    {
+      "start": 642.16,
+      "duration": 4.8,
+      "text": "standard authorization protocol, if you"
+    },
+    {
+      "start": 643.84,
+      "duration": 5.12,
+      "text": "will. Now, why is this important? Well,"
+    },
+    {
+      "start": 646.96,
+      "duration": 4.32,
+      "text": "first of all, if you're interacting with"
+    },
+    {
+      "start": 648.96,
+      "duration": 4.72,
+      "text": "downstream APIs, if your server is the"
+    },
+    {
+      "start": 651.28,
+      "duration": 4.8,
+      "text": "one that acts as the proxy to those"
+    },
+    {
+      "start": 653.68,
+      "duration": 4.4,
+      "text": "APIs, that means that that API needs"
+    },
+    {
+      "start": 656.08,
+      "duration": 4.24,
+      "text": "some kind of user context to be able to"
+    },
+    {
+      "start": 658.08,
+      "duration": 4.4,
+      "text": "return the right data. What that means"
+    },
+    {
+      "start": 660.32,
+      "duration": 4.72,
+      "text": "in practice is that you need to"
+    },
+    {
+      "start": 662.48,
+      "duration": 4.4,
+      "text": "authorize a given user or a given"
+    },
+    {
+      "start": 665.04,
+      "duration": 4.8,
+      "text": "service account if your server is acting"
+    },
+    {
+      "start": 666.88,
+      "duration": 5.92,
+      "text": "on behalf of itself against that API."
+    },
+    {
+      "start": 669.84,
+      "duration": 4.32,
+      "text": "And what that also means is that that"
+    },
+    {
+      "start": 672.8,
+      "duration": 2.64,
+      "text": "user context needs to be acquired"
+    },
+    {
+      "start": 674.16,
+      "duration": 3.44,
+      "text": "somehow in the first place. you're"
+    },
+    {
+      "start": 675.44,
+      "duration": 5.68,
+      "text": "dealing with that cold boot problem of"
+    },
+    {
+      "start": 677.6,
+      "duration": 5.2,
+      "text": "having that initial bootstrap process of"
+    },
+    {
+      "start": 681.12,
+      "duration": 3.44,
+      "text": "getting the credentials, transforming"
+    },
+    {
+      "start": 682.8,
+      "duration": 3.92,
+      "text": "them into let's say something like a"
+    },
+    {
+      "start": 684.56,
+      "duration": 5.92,
+      "text": "token and then passing it to that API."
+    },
+    {
+      "start": 686.72,
+      "duration": 6.88,
+      "text": "Now the API also controls which users"
+    },
+    {
+      "start": 690.48,
+      "duration": 4.24,
+      "text": "have access to it. Now there is an"
+    },
+    {
+      "start": 693.6,
+      "duration": 2.4,
+      "text": "important distinction here. We're not"
+    },
+    {
+      "start": 694.72,
+      "duration": 2.96,
+      "text": "talking about just kind of a broad"
+    },
+    {
+      "start": 696.0,
+      "duration": 4.64,
+      "text": "definition of user access, but more of"
+    },
+    {
+      "start": 697.68,
+      "duration": 5.2,
+      "text": "the API can decide what level of access"
+    },
+    {
+      "start": 700.64,
+      "duration": 4.08,
+      "text": "it can grant to what users or what roles"
+    },
+    {
+      "start": 702.88,
+      "duration": 3.44,
+      "text": "and groups. And we're getting in kind of"
+    },
+    {
+      "start": 704.72,
+      "duration": 3.6,
+      "text": "the world of policy definitions, but"
+    },
+    {
+      "start": 706.32,
+      "duration": 3.92,
+      "text": "it's a bit of a, you know, scope"
+    },
+    {
+      "start": 708.32,
+      "duration": 5.52,
+      "text": "overreach here. But the idea is that the"
+    },
+    {
+      "start": 710.24,
+      "duration": 6.48,
+      "text": "API itself can determine who has access"
+    },
+    {
+      "start": 713.84,
+      "duration": 5.68,
+      "text": "to what level of, you know, information"
+    },
+    {
+      "start": 716.72,
+      "duration": 4.96,
+      "text": "that it exposes. The API also connect"
+    },
+    {
+      "start": 719.52,
+      "duration": 3.44,
+      "text": "differently depending on the context of"
+    },
+    {
+      "start": 721.68,
+      "duration": 2.96,
+      "text": "the users they're requesting"
+    },
+    {
+      "start": 722.96,
+      "duration": 4.0,
+      "text": "information. So if you have somebody"
+    },
+    {
+      "start": 724.64,
+      "duration": 3.68,
+      "text": "that is an admin and they request user"
+    },
+    {
+      "start": 726.96,
+      "duration": 3.2,
+      "text": "context, they might get a lot of"
+    },
+    {
+      "start": 728.32,
+      "duration": 3.76,
+      "text": "information versus somebody that is just"
+    },
+    {
+      "start": 730.16,
+      "duration": 3.44,
+      "text": "a contributor might get a very"
+    },
+    {
+      "start": 732.08,
+      "duration": 3.36,
+      "text": "restricted set of information about the"
+    },
+    {
+      "start": 733.6,
+      "duration": 4.48,
+      "text": "exact same user using the exact same API"
+    },
+    {
+      "start": 735.44,
+      "duration": 4.72,
+      "text": "call. So this context is very very"
+    },
+    {
+      "start": 738.08,
+      "duration": 5.12,
+      "text": "important and it's especially important"
+    },
+    {
+      "start": 740.16,
+      "duration": 5.84,
+      "text": "as we start exposing these APIs to LLMs"
+    },
+    {
+      "start": 743.2,
+      "duration": 5.28,
+      "text": "with the help of MCP servers. Now I did"
+    },
+    {
+      "start": 746.0,
+      "duration": 4.32,
+      "text": "call out something that for local MCP"
+    },
+    {
+      "start": 748.48,
+      "duration": 4.88,
+      "text": "servers this is not as applicable. So"
+    },
+    {
+      "start": 750.32,
+      "duration": 5.68,
+      "text": "why is that? Well, first of all, local"
+    },
+    {
+      "start": 753.36,
+      "duration": 4.08,
+      "text": "servers work on the box with the context"
+    },
+    {
+      "start": 756.0,
+      "duration": 3.28,
+      "text": "of the user that can be provided"
+    },
+    {
+      "start": 757.44,
+      "duration": 4.0,
+      "text": "directly to the application. For"
+    },
+    {
+      "start": 759.28,
+      "duration": 4.24,
+      "text": "example, if I'm running this on a"
+    },
+    {
+      "start": 761.44,
+      "duration": 3.52,
+      "text": "Windows machine, I might have a"
+    },
+    {
+      "start": 763.52,
+      "duration": 4.32,
+      "text": "Microsoft account already connected to"
+    },
+    {
+      "start": 764.96,
+      "duration": 5.84,
+      "text": "my Windows machine. So, my local MCP"
+    },
+    {
+      "start": 767.84,
+      "duration": 4.88,
+      "text": "server can use built-in APIs to just"
+    },
+    {
+      "start": 770.8,
+      "duration": 6.08,
+      "text": "request that user context and authorize"
+    },
+    {
+      "start": 772.72,
+      "duration": 6.72,
+      "text": "a given user to whatever API needs to"
+    },
+    {
+      "start": 776.88,
+      "duration": 5.12,
+      "text": "invoke later on downstream. I'm not"
+    },
+    {
+      "start": 779.44,
+      "duration": 4.4,
+      "text": "necessarily authorizing myself to use"
+    },
+    {
+      "start": 782.0,
+      "duration": 3.52,
+      "text": "the MCP server. It's more of the server"
+    },
+    {
+      "start": 783.84,
+      "duration": 3.52,
+      "text": "actually needs to access some downstream"
+    },
+    {
+      "start": 785.52,
+      "duration": 4.4,
+      "text": "APIs and it gets the user context from"
+    },
+    {
+      "start": 787.36,
+      "duration": 4.24,
+      "text": "me. Now the this also means that the"
+    },
+    {
+      "start": 789.92,
+      "duration": 3.12,
+      "text": "authorization can be done in any way"
+    },
+    {
+      "start": 791.6,
+      "duration": 3.28,
+      "text": "that is necessary. You don't need to use"
+    },
+    {
+      "start": 793.04,
+      "duration": 3.44,
+      "text": "OOTH. You just need to use a library"
+    },
+    {
+      "start": 794.88,
+      "duration": 3.6,
+      "text": "that knows how to talk to whatever"
+    },
+    {
+      "start": 796.48,
+      "duration": 4.72,
+      "text": "downstream API the local server is"
+    },
+    {
+      "start": 798.48,
+      "duration": 4.72,
+      "text": "talking to, which in practice means that"
+    },
+    {
+      "start": 801.2,
+      "duration": 3.6,
+      "text": "it opens the door for literally any"
+    },
+    {
+      "start": 803.2,
+      "duration": 4.8,
+      "text": "implementation because it's a local"
+    },
+    {
+      "start": 804.8,
+      "duration": 4.88,
+      "text": "binary. That means you can code in any"
+    },
+    {
+      "start": 808.0,
+      "duration": 3.44,
+      "text": "approach that you really want and any"
+    },
+    {
+      "start": 809.68,
+      "duration": 4.16,
+      "text": "approach that the API downstream"
+    },
+    {
+      "start": 811.44,
+      "duration": 4.16,
+      "text": "requires. There is of course special"
+    },
+    {
+      "start": 813.84,
+      "duration": 4.48,
+      "text": "cases like if you have an MCP server"
+    },
+    {
+      "start": 815.6,
+      "duration": 4.56,
+      "text": "that runs locally uh that is shared on"
+    },
+    {
+      "start": 818.32,
+      "duration": 3.6,
+      "text": "the same machine between multiple users"
+    },
+    {
+      "start": 820.16,
+      "duration": 3.84,
+      "text": "like in remote desktop scenarios but"
+    },
+    {
+      "start": 821.92,
+      "duration": 3.84,
+      "text": "that's a bit out of scope for for this"
+    },
+    {
+      "start": 824.0,
+      "duration": 3.52,
+      "text": "particular conversation. uh and that"
+    },
+    {
+      "start": 825.76,
+      "duration": 3.84,
+      "text": "does require some work but it's left"
+    },
+    {
+      "start": 827.52,
+      "duration": 4.96,
+      "text": "right now as an implementation detail to"
+    },
+    {
+      "start": 829.6,
+      "duration": 5.04,
+      "text": "those that manage and build MCP servers"
+    },
+    {
+      "start": 832.48,
+      "duration": 5.52,
+      "text": "that run on the box or the local MCP"
+    },
+    {
+      "start": 834.64,
+      "duration": 6.0,
+      "text": "servers. So I want to talk about the two"
+    },
+    {
+      "start": 838.0,
+      "duration": 4.8,
+      "text": "specifications here that we have. So you"
+    },
+    {
+      "start": 840.64,
+      "duration": 5.04,
+      "text": "might have noticed that in the MCB"
+    },
+    {
+      "start": 842.8,
+      "duration": 5.44,
+      "text": "protocol spec there is a authorization"
+    },
+    {
+      "start": 845.68,
+      "duration": 5.36,
+      "text": "spec that's been authored or released on"
+    },
+    {
+      "start": 848.24,
+      "duration": 4.72,
+      "text": "March 26, 2025 this year. That"
+    },
+    {
+      "start": 851.04,
+      "duration": 4.0,
+      "text": "authorization spec actually required"
+    },
+    {
+      "start": 852.96,
+      "duration": 5.12,
+      "text": "customers or developers or implementers"
+    },
+    {
+      "start": 855.04,
+      "duration": 4.88,
+      "text": "of MCP servers to go ahead and implement"
+    },
+    {
+      "start": 858.08,
+      "duration": 3.68,
+      "text": "an authorization server. It's a"
+    },
+    {
+      "start": 859.92,
+      "duration": 5.12,
+      "text": "component that is responsible for"
+    },
+    {
+      "start": 861.76,
+      "duration": 4.88,
+      "text": "essentially minting tokens based on user"
+    },
+    {
+      "start": 865.04,
+      "duration": 3.76,
+      "text": "context that is being kind of requested"
+    },
+    {
+      "start": 866.64,
+      "duration": 4.4,
+      "text": "and received by the client. Uh which is"
+    },
+    {
+      "start": 868.8,
+      "duration": 4.56,
+      "text": "complicated. Not a lot of folks want to"
+    },
+    {
+      "start": 871.04,
+      "duration": 4.64,
+      "text": "do that from scratch and it requires a"
+    },
+    {
+      "start": 873.36,
+      "duration": 4.16,
+      "text": "level of security expertise that not a"
+    },
+    {
+      "start": 875.68,
+      "duration": 3.92,
+      "text": "lot of folks even want to have and we'll"
+    },
+    {
+      "start": 877.52,
+      "duration": 4.24,
+      "text": "we'll talk about that shortly. Um that"
+    },
+    {
+      "start": 879.6,
+      "duration": 5.04,
+      "text": "also means that in this implementation"
+    },
+    {
+      "start": 881.76,
+      "duration": 5.12,
+      "text": "that server the MCP server acting also"
+    },
+    {
+      "start": 884.64,
+      "duration": 4.72,
+      "text": "as the authorization server would need"
+    },
+    {
+      "start": 886.88,
+      "duration": 4.48,
+      "text": "to keep track of token issuance validate"
+    },
+    {
+      "start": 889.36,
+      "duration": 3.92,
+      "text": "those tokens make sure that whatever it"
+    },
+    {
+      "start": 891.36,
+      "duration": 4.56,
+      "text": "receives is correctly structured and"
+    },
+    {
+      "start": 893.28,
+      "duration": 4.0,
+      "text": "formatted for this to be properly"
+    },
+    {
+      "start": 895.92,
+      "duration": 4.08,
+      "text": "implemented. You would kind of need to"
+    },
+    {
+      "start": 897.28,
+      "duration": 5.76,
+      "text": "be an oath expert and not everybody"
+    },
+    {
+      "start": 900.0,
+      "duration": 5.04,
+      "text": "wants to be an oath expert. So we worked"
+    },
+    {
+      "start": 903.04,
+      "duration": 4.88,
+      "text": "with a community of security experts. We"
+    },
+    {
+      "start": 905.04,
+      "duration": 5.12,
+      "text": "worked with folks at Octa, AWS, uh, uh,"
+    },
+    {
+      "start": 907.92,
+      "duration": 4.96,
+      "text": "Dcope and many, many others to make sure"
+    },
+    {
+      "start": 910.16,
+      "duration": 5.68,
+      "text": "that we implement a draft specification"
+    },
+    {
+      "start": 912.88,
+      "duration": 4.96,
+      "text": "that does this clean separation between"
+    },
+    {
+      "start": 915.84,
+      "duration": 3.84,
+      "text": "the MCP server, also known as the"
+    },
+    {
+      "start": 917.84,
+      "duration": 4.48,
+      "text": "resource server, and the authorization"
+    },
+    {
+      "start": 919.68,
+      "duration": 4.48,
+      "text": "server. What this means in practice is"
+    },
+    {
+      "start": 922.32,
+      "duration": 3.36,
+      "text": "that you no longer need to implement"
+    },
+    {
+      "start": 924.16,
+      "duration": 3.76,
+      "text": "this from scratch. So, if you're"
+    },
+    {
+      "start": 925.68,
+      "duration": 4.96,
+      "text": "somebody that has an MCP server that"
+    },
+    {
+      "start": 927.92,
+      "duration": 4.72,
+      "text": "deals with, I don't know, let's say"
+    },
+    {
+      "start": 930.64,
+      "duration": 3.76,
+      "text": "Salesforce data, you don't actually need"
+    },
+    {
+      "start": 932.64,
+      "duration": 4.96,
+      "text": "to implement any of the custom"
+    },
+    {
+      "start": 934.4,
+      "duration": 5.76,
+      "text": "authorization logic to mint Salesforce"
+    },
+    {
+      "start": 937.6,
+      "duration": 4.4,
+      "text": "tokens on the server or to mint tokens"
+    },
+    {
+      "start": 940.16,
+      "duration": 4.48,
+      "text": "that you can then map to some Salesforce"
+    },
+    {
+      "start": 942.0,
+      "duration": 4.64,
+      "text": "tokens. Instead, if you're Salesforce"
+    },
+    {
+      "start": 944.64,
+      "duration": 4.72,
+      "text": "and you're building an MCP server, you"
+    },
+    {
+      "start": 946.64,
+      "duration": 5.36,
+      "text": "can just make sure that you're correctly"
+    },
+    {
+      "start": 949.36,
+      "duration": 4.56,
+      "text": "advertising what authorization server"
+    },
+    {
+      "start": 952.0,
+      "duration": 4.64,
+      "text": "using on the server and then the client,"
+    },
+    {
+      "start": 953.92,
+      "duration": 4.48,
+      "text": "the MCP client in this case, is the one"
+    },
+    {
+      "start": 956.64,
+      "duration": 3.12,
+      "text": "that jumps through the hoops of"
+    },
+    {
+      "start": 958.4,
+      "duration": 2.96,
+      "text": "acquiring a token, going through the"
+    },
+    {
+      "start": 959.76,
+      "duration": 3.44,
+      "text": "process, and following standard OOTH"
+    },
+    {
+      "start": 961.36,
+      "duration": 4.56,
+      "text": "procedures, which by the way, all of"
+    },
+    {
+      "start": 963.2,
+      "duration": 4.56,
+      "text": "this is snapping to OOTH 2.1. So, we're"
+    },
+    {
+      "start": 965.92,
+      "duration": 3.92,
+      "text": "following the standards. There's nothing"
+    },
+    {
+      "start": 967.76,
+      "duration": 4.96,
+      "text": "super custom here. It's literally the"
+    },
+    {
+      "start": 969.84,
+      "duration": 6.0,
+      "text": "OOTH 2.1 protocol. What this also means"
+    },
+    {
+      "start": 972.72,
+      "duration": 5.12,
+      "text": "is that the server itself is not going"
+    },
+    {
+      "start": 975.84,
+      "duration": 4.16,
+      "text": "to be minting tokens. The authorization"
+    },
+    {
+      "start": 977.84,
+      "duration": 3.76,
+      "text": "server downstream the actual you know"
+    },
+    {
+      "start": 980.0,
+      "duration": 4.96,
+      "text": "usually provided by an identity provider"
+    },
+    {
+      "start": 981.6,
+      "duration": 4.88,
+      "text": "like say octa or ozero or entry id is"
+    },
+    {
+      "start": 984.96,
+      "duration": 2.96,
+      "text": "going to be the one minting the tokens"
+    },
+    {
+      "start": 986.48,
+      "duration": 4.08,
+      "text": "and then the server is only responsible"
+    },
+    {
+      "start": 987.92,
+      "duration": 4.16,
+      "text": "for validating them. Uh also this means"
+    },
+    {
+      "start": 990.56,
+      "duration": 4.08,
+      "text": "that the client now is the one handling"
+    },
+    {
+      "start": 992.08,
+      "duration": 3.44,
+      "text": "tokens directly and the server has very"
+    },
+    {
+      "start": 994.64,
+      "duration": 2.16,
+      "text": "little to do other out of them. Make"
+    },
+    {
+      "start": 995.52,
+      "duration": 3.28,
+      "text": "sure that the tokens that it receives"
+    },
+    {
+      "start": 996.8,
+      "duration": 3.84,
+      "text": "are correct."
+    },
+    {
+      "start": 998.8,
+      "duration": 4.48,
+      "text": "I mentioned something that is crucial"
+    },
+    {
+      "start": 1000.64,
+      "duration": 4.8,
+      "text": "here and that is that most developers do"
+    },
+    {
+      "start": 1003.28,
+      "duration": 5.12,
+      "text": "not want to be security experts and they"
+    },
+    {
+      "start": 1005.44,
+      "duration": 5.76,
+      "text": "really don't because for a lot of them"
+    },
+    {
+      "start": 1008.4,
+      "duration": 4.72,
+      "text": "the crux of the issue is I'm building an"
+    },
+    {
+      "start": 1011.2,
+      "duration": 4.08,
+      "text": "MCP server to solve a very particular"
+    },
+    {
+      "start": 1013.12,
+      "duration": 5.44,
+      "text": "customer problem. That's what I want to"
+    },
+    {
+      "start": 1015.28,
+      "duration": 6.56,
+      "text": "accomplish. I don't really care about"
+    },
+    {
+      "start": 1018.56,
+      "duration": 5.6,
+      "text": "the details of what's the structure of a"
+    },
+    {
+      "start": 1021.84,
+      "duration": 3.92,
+      "text": "JSON web token, how to generate the"
+    },
+    {
+      "start": 1024.16,
+      "duration": 3.6,
+      "text": "signature, how to check the expiration"
+    },
+    {
+      "start": 1025.76,
+      "duration": 4.4,
+      "text": "date. Like a lot of these things are"
+    },
+    {
+      "start": 1027.76,
+      "duration": 4.08,
+      "text": "problems that were solved by existing"
+    },
+    {
+      "start": 1030.16,
+      "duration": 3.84,
+      "text": "libraries, by existing authorization"
+    },
+    {
+      "start": 1031.84,
+      "duration": 3.84,
+      "text": "servers, by existing identity providers"
+    },
+    {
+      "start": 1034.0,
+      "duration": 3.44,
+      "text": "that handle a lot of the policy"
+    },
+    {
+      "start": 1035.68,
+      "duration": 4.0,
+      "text": "conversations."
+    },
+    {
+      "start": 1037.44,
+      "duration": 3.84,
+      "text": "All of this is a solved problem. So we"
+    },
+    {
+      "start": 1039.68,
+      "duration": 5.04,
+      "text": "wanted to make sure that developers have"
+    },
+    {
+      "start": 1041.28,
+      "duration": 5.28,
+      "text": "a path to using existing tooling, using"
+    },
+    {
+      "start": 1044.72,
+      "duration": 3.6,
+      "text": "existing conventions and focus on"
+    },
+    {
+      "start": 1046.56,
+      "duration": 3.44,
+      "text": "solving the actual problem they care"
+    },
+    {
+      "start": 1048.32,
+      "duration": 4.72,
+      "text": "about which is implementing the MCP"
+    },
+    {
+      "start": 1050.0,
+      "duration": 4.72,
+      "text": "server instead of chasing little"
+    },
+    {
+      "start": 1053.04,
+      "duration": 3.28,
+      "text": "security details that they have to"
+    },
+    {
+      "start": 1054.72,
+      "duration": 4.72,
+      "text": "implement for the server to work"
+    },
+    {
+      "start": 1056.32,
+      "duration": 4.72,
+      "text": "properly. So this led us to build this"
+    },
+    {
+      "start": 1059.44,
+      "duration": 4.56,
+      "text": "new authorization spec that I mentioned"
+    },
+    {
+      "start": 1061.04,
+      "duration": 4.64,
+      "text": "about that defines exactly this. A lot"
+    },
+    {
+      "start": 1064.0,
+      "duration": 3.04,
+      "text": "of the components of the specification"
+    },
+    {
+      "start": 1065.68,
+      "duration": 3.04,
+      "text": "are and by the way it's available"
+    },
+    {
+      "start": 1067.04,
+      "duration": 4.08,
+      "text": "publicly on the model context protocol"
+    },
+    {
+      "start": 1068.72,
+      "duration": 4.48,
+      "text": "website. You can go and check it out. Uh"
+    },
+    {
+      "start": 1071.12,
+      "duration": 4.08,
+      "text": "it captures a lot of the requirements"
+    },
+    {
+      "start": 1073.2,
+      "duration": 5.2,
+      "text": "and the gist of it is that the"
+    },
+    {
+      "start": 1075.2,
+      "duration": 5.44,
+      "text": "authorization server now is advertised"
+    },
+    {
+      "start": 1078.4,
+      "duration": 4.24,
+      "text": "in what's known as a protected resource"
+    },
+    {
+      "start": 1080.64,
+      "duration": 5.12,
+      "text": "metadata document that is attached to"
+    },
+    {
+      "start": 1082.64,
+      "duration": 5.36,
+      "text": "the server. What this means is that now"
+    },
+    {
+      "start": 1085.76,
+      "duration": 4.24,
+      "text": "developers just implement this metadata"
+    },
+    {
+      "start": 1088.0,
+      "duration": 4.96,
+      "text": "and can point to an existing"
+    },
+    {
+      "start": 1090.0,
+      "duration": 6.8,
+      "text": "authorization server and just use that"
+    },
+    {
+      "start": 1092.96,
+      "duration": 8.0,
+      "text": "as their gateway in a way to get tokens"
+    },
+    {
+      "start": 1096.8,
+      "duration": 5.68,
+      "text": "for use with their MCP server. So there"
+    },
+    {
+      "start": 1100.96,
+      "duration": 3.36,
+      "text": "is no need to implement anything from"
+    },
+    {
+      "start": 1102.48,
+      "duration": 3.2,
+      "text": "scratch. You're completely absolved the"
+    },
+    {
+      "start": 1104.32,
+      "duration": 3.2,
+      "text": "responsibility if you are building a"
+    },
+    {
+      "start": 1105.68,
+      "duration": 3.52,
+      "text": "protect MCP server and you want to use"
+    },
+    {
+      "start": 1107.52,
+      "duration": 4.64,
+      "text": "an existing off-the-shelf identity"
+    },
+    {
+      "start": 1109.2,
+      "duration": 5.2,
+      "text": "provider. Now the server also has a"
+    },
+    {
+      "start": 1112.16,
+      "duration": 3.92,
+      "text": "standard way to tell the client what"
+    },
+    {
+      "start": 1114.4,
+      "duration": 3.36,
+      "text": "authorization server it uses which is"
+    },
+    {
+      "start": 1116.08,
+      "duration": 4.24,
+      "text": "the protected resource metadata document"
+    },
+    {
+      "start": 1117.76,
+      "duration": 4.8,
+      "text": "which can be either a JSON blob or it"
+    },
+    {
+      "start": 1120.32,
+      "duration": 4.72,
+      "text": "can be a token and it follows the"
+    },
+    {
+      "start": 1122.56,
+      "duration": 4.56,
+      "text": "standard OT 2.1 conventions which means"
+    },
+    {
+      "start": 1125.04,
+      "duration": 5.52,
+      "text": "that if you're using any of the existing"
+    },
+    {
+      "start": 1127.12,
+      "duration": 5.04,
+      "text": "libraries that do this you're off the"
+    },
+    {
+      "start": 1130.56,
+      "duration": 3.28,
+      "text": "hook. You don't need to build anything"
+    },
+    {
+      "start": 1132.16,
+      "duration": 4.72,
+      "text": "from scratch and by yourself. Again"
+    },
+    {
+      "start": 1133.84,
+      "duration": 5.84,
+      "text": "we're developer ergonomics here are very"
+    },
+    {
+      "start": 1136.88,
+      "duration": 5.52,
+      "text": "very important. The goal is to get you"
+    },
+    {
+      "start": 1139.68,
+      "duration": 4.64,
+      "text": "from zero to a protected MCP server as"
+    },
+    {
+      "start": 1142.4,
+      "duration": 3.76,
+      "text": "fast as possible without having to be"
+    },
+    {
+      "start": 1144.32,
+      "duration": 5.12,
+      "text": "bogged down by a lot of these details"
+    },
+    {
+      "start": 1146.16,
+      "duration": 5.92,
+      "text": "that you might not even care about."
+    },
+    {
+      "start": 1149.44,
+      "duration": 4.56,
+      "text": "On the client side, the client now is"
+    },
+    {
+      "start": 1152.08,
+      "duration": 3.68,
+      "text": "going to be responsible for doing the"
+    },
+    {
+      "start": 1154.0,
+      "duration": 4.16,
+      "text": "token dance, the token exchange, and"
+    },
+    {
+      "start": 1155.76,
+      "duration": 3.76,
+      "text": "making sure that the authorization code"
+    },
+    {
+      "start": 1158.16,
+      "duration": 3.12,
+      "text": "that it receives is actually exchanged"
+    },
+    {
+      "start": 1159.52,
+      "duration": 4.08,
+      "text": "for a token, and then it passes a token"
+    },
+    {
+      "start": 1161.28,
+      "duration": 4.0,
+      "text": "to the server. The only responsibility"
+    },
+    {
+      "start": 1163.6,
+      "duration": 3.92,
+      "text": "that the server has in this context is"
+    },
+    {
+      "start": 1165.28,
+      "duration": 4.56,
+      "text": "to make sure that it looks at the token"
+    },
+    {
+      "start": 1167.52,
+      "duration": 4.48,
+      "text": "ensures that the token was issued to it"
+    },
+    {
+      "start": 1169.84,
+      "duration": 3.76,
+      "text": "to the server which by the way very very"
+    },
+    {
+      "start": 1172.0,
+      "duration": 3.36,
+      "text": "important. You got to make sure that you"
+    },
+    {
+      "start": 1173.6,
+      "duration": 3.36,
+      "text": "validate tokens that your server"
+    },
+    {
+      "start": 1175.36,
+      "duration": 3.44,
+      "text": "receives. It's not just about the server"
+    },
+    {
+      "start": 1176.96,
+      "duration": 4.24,
+      "text": "being the proxy because that's that's a"
+    },
+    {
+      "start": 1178.8,
+      "duration": 4.32,
+      "text": "completely completely bad pattern to"
+    },
+    {
+      "start": 1181.2,
+      "duration": 3.12,
+      "text": "adopt. Uh the server needs to validate"
+    },
+    {
+      "start": 1183.12,
+      "duration": 2.96,
+      "text": "tokens and make sure that it's issued"
+    },
+    {
+      "start": 1184.32,
+      "duration": 4.48,
+      "text": "for it. You should not be doing token"
+    },
+    {
+      "start": 1186.08,
+      "duration": 4.48,
+      "text": "pass through. And what this means in"
+    },
+    {
+      "start": 1188.8,
+      "duration": 3.2,
+      "text": "practice is that developers have very"
+    },
+    {
+      "start": 1190.56,
+      "duration": 3.68,
+      "text": "little to actually implement. You can"
+    },
+    {
+      "start": 1192.0,
+      "duration": 3.76,
+      "text": "again use off-the-shelf solutions. Just"
+    },
+    {
+      "start": 1194.24,
+      "duration": 3.68,
+      "text": "plug and play like a bunch of Lego"
+    },
+    {
+      "start": 1195.76,
+      "duration": 4.48,
+      "text": "bricks and you're good to go. Your"
+    },
+    {
+      "start": 1197.92,
+      "duration": 4.72,
+      "text": "server is protected."
+    },
+    {
+      "start": 1200.24,
+      "duration": 4.24,
+      "text": "And there's plenty of identity providers"
+    },
+    {
+      "start": 1202.64,
+      "duration": 3.76,
+      "text": "that you can actually use for your"
+    },
+    {
+      "start": 1204.48,
+      "duration": 5.36,
+      "text": "scenarios, right? Like there's Entra ID,"
+    },
+    {
+      "start": 1206.4,
+      "duration": 6.24,
+      "text": "there's Octa, AWS Cognto,"
+    },
+    {
+      "start": 1209.84,
+      "duration": 5.04,
+      "text": "plenty of them. And as long as you use"
+    },
+    {
+      "start": 1212.64,
+      "duration": 4.4,
+      "text": "one that supports standard OATH 2.1"
+    },
+    {
+      "start": 1214.88,
+      "duration": 3.44,
+      "text": "conventions, you're good. Now there's"
+    },
+    {
+      "start": 1217.04,
+      "duration": 2.8,
+      "text": "going to be some nuances of course"
+    },
+    {
+      "start": 1218.32,
+      "duration": 3.92,
+      "text": "around things like dynamic client"
+    },
+    {
+      "start": 1219.84,
+      "duration": 3.84,
+      "text": "registration which requires some level"
+    },
+    {
+      "start": 1222.24,
+      "duration": 2.8,
+      "text": "of implementation and if different"
+    },
+    {
+      "start": 1223.68,
+      "duration": 2.96,
+      "text": "providers do not support it you'll need"
+    },
+    {
+      "start": 1225.04,
+      "duration": 5.12,
+      "text": "to implement this directly on your"
+    },
+    {
+      "start": 1226.64,
+      "duration": 5.44,
+      "text": "server but the bulk of the interaction"
+    },
+    {
+      "start": 1230.16,
+      "duration": 4.4,
+      "text": "is now encapsulated on this"
+    },
+    {
+      "start": 1232.08,
+      "duration": 4.56,
+      "text": "authorization server side not the MCP"
+    },
+    {
+      "start": 1234.56,
+      "duration": 3.36,
+      "text": "server side which is extremely extremely"
+    },
+    {
+      "start": 1236.64,
+      "duration": 4.24,
+      "text": "helpful for developers that want to"
+    },
+    {
+      "start": 1237.92,
+      "duration": 7.28,
+      "text": "build secure servers that they want to"
+    },
+    {
+      "start": 1240.88,
+      "duration": 6.0,
+      "text": "deploy to the cloud. Now let's think"
+    },
+    {
+      "start": 1245.2,
+      "duration": 3.52,
+      "text": "about this a little bit and see like how"
+    },
+    {
+      "start": 1246.88,
+      "duration": 4.4,
+      "text": "does this actually work in practice. How"
+    },
+    {
+      "start": 1248.72,
+      "duration": 4.8,
+      "text": "does this work if we take an example MCP"
+    },
+    {
+      "start": 1251.28,
+      "duration": 4.8,
+      "text": "server an example MCP client and an"
+    },
+    {
+      "start": 1253.52,
+      "duration": 4.32,
+      "text": "authorization server for that I have"
+    },
+    {
+      "start": 1256.08,
+      "duration": 4.08,
+      "text": "this bit of a I want to call like a"
+    },
+    {
+      "start": 1257.84,
+      "duration": 5.84,
+      "text": "flowchart if you will. So we have an MCP"
+    },
+    {
+      "start": 1260.16,
+      "duration": 5.84,
+      "text": "client that its first step is requesting"
+    },
+    {
+      "start": 1263.68,
+      "duration": 3.84,
+      "text": "data from the MCP server. It just asks"
+    },
+    {
+      "start": 1266.0,
+      "duration": 3.6,
+      "text": "for some information. It can be"
+    },
+    {
+      "start": 1267.52,
+      "duration": 3.6,
+      "text": "information about existing tools or any"
+    },
+    {
+      "start": 1269.6,
+      "duration": 4.16,
+      "text": "other primitives that exist on kind of"
+    },
+    {
+      "start": 1271.12,
+      "duration": 5.52,
+      "text": "the MCP side of the world. And then the"
+    },
+    {
+      "start": 1273.76,
+      "duration": 4.32,
+      "text": "server will respond back with a 401"
+    },
+    {
+      "start": 1276.64,
+      "duration": 4.32,
+      "text": "unauthorized because the client did not"
+    },
+    {
+      "start": 1278.08,
+      "duration": 5.04,
+      "text": "attach any authorization context with an"
+    },
+    {
+      "start": 1280.96,
+      "duration": 3.6,
+      "text": "attached pointer to the PRM, the"
+    },
+    {
+      "start": 1283.12,
+      "duration": 3.12,
+      "text": "protected resource metadata document,"
+    },
+    {
+      "start": 1284.56,
+      "duration": 3.52,
+      "text": "which in this case, as I described, can"
+    },
+    {
+      "start": 1286.24,
+      "duration": 4.4,
+      "text": "be a basically a JSON file that tells"
+    },
+    {
+      "start": 1288.08,
+      "duration": 5.68,
+      "text": "you what the contents, what the"
+    },
+    {
+      "start": 1290.64,
+      "duration": 5.04,
+      "text": "authorization server is. And then what"
+    },
+    {
+      "start": 1293.76,
+      "duration": 4.4,
+      "text": "the client can do with that pointer is"
+    },
+    {
+      "start": 1295.68,
+      "duration": 4.64,
+      "text": "go ahead and pull that JSON file that"
+    },
+    {
+      "start": 1298.16,
+      "duration": 5.12,
+      "text": "that PRM document that it needs to"
+    },
+    {
+      "start": 1300.32,
+      "duration": 5.2,
+      "text": "proceed with that PRM document. It's"
+    },
+    {
+      "start": 1303.28,
+      "duration": 3.52,
+      "text": "going to look pick an authorization"
+    },
+    {
+      "start": 1305.52,
+      "duration": 3.04,
+      "text": "server. It's going to use the scopes"
+    },
+    {
+      "start": 1306.8,
+      "duration": 3.84,
+      "text": "that are declared there and then it's"
+    },
+    {
+      "start": 1308.56,
+      "duration": 3.36,
+      "text": "going to complete the authorization flow"
+    },
+    {
+      "start": 1310.64,
+      "duration": 2.72,
+      "text": "because it's going to going to follow"
+    },
+    {
+      "start": 1311.92,
+      "duration": 3.76,
+      "text": "the discovery protocol to make sure that"
+    },
+    {
+      "start": 1313.36,
+      "duration": 4.56,
+      "text": "it connects to the uh as the"
+    },
+    {
+      "start": 1315.68,
+      "duration": 3.84,
+      "text": "authorization server. It's gonna"
+    },
+    {
+      "start": 1317.92,
+      "duration": 2.88,
+      "text": "understand what is a token endpoint,"
+    },
+    {
+      "start": 1319.52,
+      "duration": 3.68,
+      "text": "what is the authorized endpoint, what is"
+    },
+    {
+      "start": 1320.8,
+      "duration": 4.48,
+      "text": "the register endpoint. Uh go through"
+    },
+    {
+      "start": 1323.2,
+      "duration": 2.96,
+      "text": "that flow, you know, if it needs to"
+    },
+    {
+      "start": 1325.28,
+      "duration": 2.72,
+      "text": "register a client, it's going to"
+    },
+    {
+      "start": 1326.16,
+      "duration": 3.04,
+      "text": "register a client. And then the OT"
+    },
+    {
+      "start": 1328.0,
+      "duration": 3.36,
+      "text": "server is going to return tokens"
+    },
+    {
+      "start": 1329.2,
+      "duration": 4.64,
+      "text": "directly to the MCP client. The server"
+    },
+    {
+      "start": 1331.36,
+      "duration": 3.44,
+      "text": "is not in the loop here. MCP client is"
+    },
+    {
+      "start": 1333.84,
+      "duration": 3.36,
+      "text": "going to be the one that's going to"
+    },
+    {
+      "start": 1334.8,
+      "duration": 4.24,
+      "text": "store, you know, cache the tokens and"
+    },
+    {
+      "start": 1337.2,
+      "duration": 3.76,
+      "text": "then pass them to the server. It's going"
+    },
+    {
+      "start": 1339.04,
+      "duration": 3.68,
+      "text": "to request data again with a token"
+    },
+    {
+      "start": 1340.96,
+      "duration": 3.36,
+      "text": "attached, usually in the authorization"
+    },
+    {
+      "start": 1342.72,
+      "duration": 4.64,
+      "text": "header, and then the server is going to"
+    },
+    {
+      "start": 1344.32,
+      "duration": 4.8,
+      "text": "return the data back again. very easy,"
+    },
+    {
+      "start": 1347.36,
+      "duration": 3.76,
+      "text": "very streamlined. Like the process"
+    },
+    {
+      "start": 1349.12,
+      "duration": 4.88,
+      "text": "follows standard conventions. Like I"
+    },
+    {
+      "start": 1351.12,
+      "duration": 4.8,
+      "text": "have here this very overly trivialized"
+    },
+    {
+      "start": 1354.0,
+      "duration": 3.44,
+      "text": "step that says complete flow. But what"
+    },
+    {
+      "start": 1355.92,
+      "duration": 3.6,
+      "text": "that means is that it just basically is"
+    },
+    {
+      "start": 1357.44,
+      "duration": 6.64,
+      "text": "going to go through the oath uh"
+    },
+    {
+      "start": 1359.52,
+      "duration": 6.64,
+      "text": "authorization code flow with Pixie PKC."
+    },
+    {
+      "start": 1364.08,
+      "duration": 4.0,
+      "text": "Um and it's just going to complete it,"
+    },
+    {
+      "start": 1366.16,
+      "duration": 4.08,
+      "text": "get the tokens, and be on its merry way."
+    },
+    {
+      "start": 1368.08,
+      "duration": 3.36,
+      "text": "That's kind of it. The client is now"
+    },
+    {
+      "start": 1370.24,
+      "duration": 2.56,
+      "text": "responsible for making sure that it's"
+    },
+    {
+      "start": 1371.44,
+      "duration": 3.84,
+      "text": "using proper tokens. It's making sure"
+    },
+    {
+      "start": 1372.8,
+      "duration": 5.04,
+      "text": "that it's refreshing the tokens. and the"
+    },
+    {
+      "start": 1375.28,
+      "duration": 5.68,
+      "text": "server is absolved of a lot of lot of"
+    },
+    {
+      "start": 1377.84,
+      "duration": 4.96,
+      "text": "responsibility that it previously was"
+    },
+    {
+      "start": 1380.96,
+      "duration": 3.44,
+      "text": "tasked with."
+    },
+    {
+      "start": 1382.8,
+      "duration": 3.92,
+      "text": "Here's an example of what this PRM"
+    },
+    {
+      "start": 1384.4,
+      "duration": 6.08,
+      "text": "document looks like. And here you can"
+    },
+    {
+      "start": 1386.72,
+      "duration": 6.08,
+      "text": "very very clearly see that it's"
+    },
+    {
+      "start": 1390.48,
+      "duration": 4.0,
+      "text": "fundamentally not super complex to"
+    },
+    {
+      "start": 1392.8,
+      "duration": 4.08,
+      "text": "parse. There's a definition of the"
+    },
+    {
+      "start": 1394.48,
+      "duration": 4.56,
+      "text": "resource which is the MCP server in this"
+    },
+    {
+      "start": 1396.88,
+      "duration": 4.32,
+      "text": "context. There's a definition of the"
+    },
+    {
+      "start": 1399.04,
+      "duration": 4.4,
+      "text": "list of authorization servers that are"
+    },
+    {
+      "start": 1401.2,
+      "duration": 3.68,
+      "text": "supported. It can be one or many. And by"
+    },
+    {
+      "start": 1403.44,
+      "duration": 2.64,
+      "text": "the way, the client in this context is"
+    },
+    {
+      "start": 1404.88,
+      "duration": 4.24,
+      "text": "going to be the one responsible for"
+    },
+    {
+      "start": 1406.08,
+      "duration": 5.92,
+      "text": "picking which of them to choose. Uh"
+    },
+    {
+      "start": 1409.12,
+      "duration": 4.64,
+      "text": "bearer methods support it. That defines"
+    },
+    {
+      "start": 1412.0,
+      "duration": 3.68,
+      "text": "what exactly are the kind of the the"
+    },
+    {
+      "start": 1413.76,
+      "duration": 4.8,
+      "text": "authorization bear the bearer token"
+    },
+    {
+      "start": 1415.68,
+      "duration": 6.32,
+      "text": "methods that the uh authorization server"
+    },
+    {
+      "start": 1418.56,
+      "duration": 6.96,
+      "text": "is capable of uh using and then the"
+    },
+    {
+      "start": 1422.0,
+      "duration": 5.44,
+      "text": "scopes that are exposed to uh a"
+    },
+    {
+      "start": 1425.52,
+      "duration": 3.92,
+      "text": "particular client that they can use to"
+    },
+    {
+      "start": 1427.44,
+      "duration": 3.2,
+      "text": "then request authorization with that MCP"
+    },
+    {
+      "start": 1429.44,
+      "duration": 3.28,
+      "text": "server and a pointer to some"
+    },
+    {
+      "start": 1430.64,
+      "duration": 3.84,
+      "text": "documentation. And for any additional"
+    },
+    {
+      "start": 1432.72,
+      "duration": 3.6,
+      "text": "details, I highly recommend going to the"
+    },
+    {
+      "start": 1434.48,
+      "duration": 4.4,
+      "text": "actual RFC document that you'll see"
+    },
+    {
+      "start": 1436.32,
+      "duration": 4.48,
+      "text": "linked uh below in the description to"
+    },
+    {
+      "start": 1438.88,
+      "duration": 3.52,
+      "text": "see more like what other properties can"
+    },
+    {
+      "start": 1440.8,
+      "duration": 3.52,
+      "text": "be included because this is not a"
+    },
+    {
+      "start": 1442.4,
+      "duration": 3.12,
+      "text": "complete example of a PRM document."
+    },
+    {
+      "start": 1444.32,
+      "duration": 3.6,
+      "text": "There could be more information there."
+    },
+    {
+      "start": 1445.52,
+      "duration": 4.56,
+      "text": "Of course, uh this is just a sample to"
+    },
+    {
+      "start": 1447.92,
+      "duration": 4.0,
+      "text": "give you an idea of how it's structured"
+    },
+    {
+      "start": 1450.08,
+      "duration": 4.08,
+      "text": "and what the client would see to parse"
+    },
+    {
+      "start": 1451.92,
+      "duration": 4.16,
+      "text": "it. If you want to have more information"
+    },
+    {
+      "start": 1454.16,
+      "duration": 3.6,
+      "text": "about what we just talked about, I"
+    },
+    {
+      "start": 1456.08,
+      "duration": 3.52,
+      "text": "highly, highly, highly recommend you"
+    },
+    {
+      "start": 1457.76,
+      "duration": 4.32,
+      "text": "check out the existing specifications on"
+    },
+    {
+      "start": 1459.6,
+      "duration": 4.88,
+      "text": "the model context protocol website. You"
+    },
+    {
+      "start": 1462.08,
+      "duration": 4.32,
+      "text": "have the current stable spec, the"
+    },
+    {
+      "start": 1464.48,
+      "duration": 4.72,
+      "text": "20250326."
+    },
+    {
+      "start": 1466.4,
+      "duration": 5.44,
+      "text": "Uh, and you have the specification that"
+    },
+    {
+      "start": 1469.2,
+      "duration": 5.2,
+      "text": "is in draft that I talked about before."
+    },
+    {
+      "start": 1471.84,
+      "duration": 5.2,
+      "text": "Uh, again, very very helpful to compare"
+    },
+    {
+      "start": 1474.4,
+      "duration": 5.6,
+      "text": "them. The draft one is going to be live"
+    },
+    {
+      "start": 1477.04,
+      "duration": 4.24,
+      "text": "soon uh hopefully after this talk. Uh,"
+    },
+    {
+      "start": 1480.0,
+      "duration": 2.48,
+      "text": "and that's going to be another revision"
+    },
+    {
+      "start": 1481.28,
+      "duration": 3.2,
+      "text": "of the protocol that's going to enable"
+    },
+    {
+      "start": 1482.48,
+      "duration": 4.4,
+      "text": "you to do the PRM document, all these"
+    },
+    {
+      "start": 1484.48,
+      "duration": 4.88,
+      "text": "nicities that we talked about. Uh, and"
+    },
+    {
+      "start": 1486.88,
+      "duration": 4.08,
+      "text": "then not only should you read the specs,"
+    },
+    {
+      "start": 1489.36,
+      "duration": 3.2,
+      "text": "but you also should check out the"
+    },
+    {
+      "start": 1490.96,
+      "duration": 3.92,
+      "text": "security best practices document that"
+    },
+    {
+      "start": 1492.56,
+      "duration": 5.04,
+      "text": "you see at the bottom here, because it"
+    },
+    {
+      "start": 1494.88,
+      "duration": 3.92,
+      "text": "outlines some of the recommended"
+    },
+    {
+      "start": 1497.6,
+      "duration": 3.44,
+      "text": "approaches that you can use to make sure"
+    },
+    {
+      "start": 1498.8,
+      "duration": 3.76,
+      "text": "that your MCP server is secure, that"
+    },
+    {
+      "start": 1501.04,
+      "duration": 3.52,
+      "text": "you're not exposing data when you"
+    },
+    {
+      "start": 1502.56,
+      "duration": 5.36,
+      "text": "shouldn't, and that you're properly"
+    },
+    {
+      "start": 1504.56,
+      "duration": 5.84,
+      "text": "controlling the token usage, which"
+    },
+    {
+      "start": 1507.92,
+      "duration": 4.32,
+      "text": "again, I I I said it several times in"
+    },
+    {
+      "start": 1510.4,
+      "duration": 4.64,
+      "text": "this talk, you should always validate"
+    },
+    {
+      "start": 1512.24,
+      "duration": 4.8,
+      "text": "your tokens because the worst thing you"
+    },
+    {
+      "start": 1515.04,
+      "duration": 3.68,
+      "text": "can possibly do is accept a token on"
+    },
+    {
+      "start": 1517.04,
+      "duration": 2.8,
+      "text": "your server and then not check it and"
+    },
+    {
+      "start": 1518.72,
+      "duration": 3.2,
+      "text": "assume that just because you have a"
+    },
+    {
+      "start": 1519.84,
+      "duration": 4.56,
+      "text": "token that everything is fine. Uh it's"
+    },
+    {
+      "start": 1521.92,
+      "duration": 4.8,
+      "text": "really not. So this is it. Thank you so"
+    },
+    {
+      "start": 1524.4,
+      "duration": 4.4,
+      "text": "much for listening to me talk about"
+    },
+    {
+      "start": 1526.72,
+      "duration": 3.76,
+      "text": "authorization in MCP. If you have any"
+    },
+    {
+      "start": 1528.8,
+      "duration": 4.08,
+      "text": "questions, do reach out. My contact"
+    },
+    {
+      "start": 1530.48,
+      "duration": 4.48,
+      "text": "information is in the description for"
+    },
+    {
+      "start": 1532.88,
+      "duration": 4.16,
+      "text": "this video. I look forward to hearing"
+    },
+    {
+      "start": 1534.96,
+      "duration": 6.68,
+      "text": "comments and helping make the MCP"
+    },
+    {
+      "start": 1537.04,
+      "duration": 4.6,
+      "text": "ecosystem more secure. Thank you."
+    },
+    {
+      "start": 1542.88,
+      "duration": 4.4,
+      "text": "All right. Um thanks so much, Dan. I"
+    },
+    {
+      "start": 1545.44,
+      "duration": 4.16,
+      "text": "think that has been one of the most"
+    },
+    {
+      "start": 1547.28,
+      "duration": 3.76,
+      "text": "packed talks I have seen. That was there"
+    },
+    {
+      "start": 1549.6,
+      "duration": 3.52,
+      "text": "was so many links of sharing on the"
+    },
+    {
+      "start": 1551.04,
+      "duration": 3.68,
+      "text": "chat. Um we usually have like a five"
+    },
+    {
+      "start": 1553.12,
+      "duration": 3.6,
+      "text": "second delay. So I'm going to encourage"
+    },
+    {
+      "start": 1554.72,
+      "duration": 4.64,
+      "text": "folks who are on the chat to please put"
+    },
+    {
+      "start": 1556.72,
+      "duration": 4.72,
+      "text": "your questions in. But uh before we go"
+    },
+    {
+      "start": 1559.36,
+      "duration": 4.24,
+      "text": "ahead I wanted to ask you um just you"
+    },
+    {
+      "start": 1561.44,
+      "duration": 3.6,
+      "text": "know is there a place that people can go"
+    },
+    {
+      "start": 1563.6,
+      "duration": 3.92,
+      "text": "and learn about. I know you have those"
+    },
+    {
+      "start": 1565.04,
+      "duration": 3.76,
+      "text": "three um links but is there a place they"
+    },
+    {
+      "start": 1567.52,
+      "duration": 3.52,
+      "text": "can go learn about security best"
+    },
+    {
+      "start": 1568.8,
+      "duration": 3.84,
+      "text": "practices for MCP? Yeah so the the best"
+    },
+    {
+      "start": 1571.04,
+      "duration": 2.88,
+      "text": "place for that is literally going to the"
+    },
+    {
+      "start": 1572.64,
+      "duration": 3.28,
+      "text": "MCP website. So if you go to"
+    },
+    {
+      "start": 1573.92,
+      "duration": 3.68,
+      "text": "modelcontextle.io IO there's a whole"
+    },
+    {
+      "start": 1575.92,
+      "duration": 2.88,
+      "text": "section called security best practices"
+    },
+    {
+      "start": 1577.6,
+      "duration": 3.36,
+      "text": "and that's actually something that we're"
+    },
+    {
+      "start": 1578.8,
+      "duration": 4.64,
+      "text": "working with both security experts in"
+    },
+    {
+      "start": 1580.96,
+      "duration": 3.44,
+      "text": "the industry as well as anthropic to"
+    },
+    {
+      "start": 1583.44,
+      "duration": 3.68,
+      "text": "make sure that we're properly"
+    },
+    {
+      "start": 1584.4,
+      "duration": 5.28,
+      "text": "documenting the flow uh as to how to"
+    },
+    {
+      "start": 1587.12,
+      "duration": 4.08,
+      "text": "build MCP servers and clients that are"
+    },
+    {
+      "start": 1589.68,
+      "duration": 3.76,
+      "text": "inherently secure. So highly highly"
+    },
+    {
+      "start": 1591.2,
+      "duration": 3.6,
+      "text": "recommend to go there and check it out."
+    },
+    {
+      "start": 1593.44,
+      "duration": 2.8,
+      "text": "Thank you. And I'll keep an eye on uh"
+    },
+    {
+      "start": 1594.8,
+      "duration": 3.2,
+      "text": "for questions. So if you're watching"
+    },
+    {
+      "start": 1596.24,
+      "duration": 3.84,
+      "text": "this chat please do. Uh I noticed"
+    },
+    {
+      "start": 1598.0,
+      "duration": 3.84,
+      "text": "someone basically so you have one"
+    },
+    {
+      "start": 1600.08,
+      "duration": 3.04,
+      "text": "conversion at least. Uh, I think Joel"
+    },
+    {
+      "start": 1601.84,
+      "duration": 3.04,
+      "text": "had basically said, \"I was reading about"
+    },
+    {
+      "start": 1603.12,
+      "duration": 3.52,
+      "text": "this new MCP security spec over the"
+    },
+    {
+      "start": 1604.88,
+      "duration": 4.4,
+      "text": "weekend. I'm happy to remove all the"
+    },
+    {
+      "start": 1606.64,
+      "duration": 5.6,
+      "text": "bear token code from my MCP servers.\""
+    },
+    {
+      "start": 1609.28,
+      "duration": 4.24,
+      "text": "So, yay. Uh, but in that context, I was"
+    },
+    {
+      "start": 1612.24,
+      "duration": 3.6,
+      "text": "going to ask, I remember you did a"
+    },
+    {
+      "start": 1613.52,
+      "duration": 3.84,
+      "text": "really good demo at the MCP Dev Summit."
+    },
+    {
+      "start": 1615.84,
+      "duration": 3.84,
+      "text": "So, is there a place people can go look"
+    },
+    {
+      "start": 1617.36,
+      "duration": 3.92,
+      "text": "at like a simple sample just to get a a"
+    },
+    {
+      "start": 1619.68,
+      "duration": 3.84,
+      "text": "kind of like an applied understanding of"
+    },
+    {
+      "start": 1621.28,
+      "duration": 4.32,
+      "text": "how to use that? Yeah, so there's we"
+    },
+    {
+      "start": 1623.52,
+      "duration": 3.52,
+      "text": "we'll share the links afterwards. Uh, we"
+    },
+    {
+      "start": 1625.6,
+      "duration": 4.16,
+      "text": "are aggregating a whole bunch of them on"
+    },
+    {
+      "start": 1627.04,
+      "duration": 4.56,
+      "text": "GitHub. the MCP car SDK, if you go to"
+    },
+    {
+      "start": 1629.76,
+      "duration": 3.28,
+      "text": "the GitHub repository for that, has a"
+    },
+    {
+      "start": 1631.6,
+      "duration": 3.12,
+      "text": "pull request right now that we're"
+    },
+    {
+      "start": 1633.04,
+      "duration": 3.44,
+      "text": "finalizing with the whole authorization"
+    },
+    {
+      "start": 1634.72,
+      "duration": 3.28,
+      "text": "spec. And once that is in, you'll"
+    },
+    {
+      "start": 1636.48,
+      "duration": 3.12,
+      "text": "actually have samples built in directly"
+    },
+    {
+      "start": 1638.0,
+      "duration": 3.2,
+      "text": "into the SDK. And that's going to be"
+    },
+    {
+      "start": 1639.6,
+      "duration": 2.88,
+      "text": "applicable, by the way, to other SDKs as"
+    },
+    {
+      "start": 1641.2,
+      "duration": 3.52,
+      "text": "well. So if you're using Python,"
+    },
+    {
+      "start": 1642.48,
+      "duration": 4.32,
+      "text": "TypeScript, you know, Go, it's it's all"
+    },
+    {
+      "start": 1644.72,
+      "duration": 4.88,
+      "text": "going to it's going to come with time as"
+    },
+    {
+      "start": 1646.8,
+      "duration": 4.48,
+      "text": "we're we again last week the spec just"
+    },
+    {
+      "start": 1649.6,
+      "duration": 4.64,
+      "text": "formalized. So now we're getting getting"
+    },
+    {
+      "start": 1651.28,
+      "duration": 4.48,
+      "text": "it all lined up. And if right now"
+    },
+    {
+      "start": 1654.24,
+      "duration": 3.44,
+      "text": "because of like you said, the spec is"
+    },
+    {
+      "start": 1655.76,
+      "duration": 4.24,
+      "text": "just out last week. So what can people"
+    },
+    {
+      "start": 1657.68,
+      "duration": 4.16,
+      "text": "expect going forward in terms of the"
+    },
+    {
+      "start": 1660.0,
+      "duration": 3.6,
+      "text": "security aspect of it but also the"
+    },
+    {
+      "start": 1661.84,
+      "duration": 3.52,
+      "text": "broader MCP roadmap if you have any"
+    },
+    {
+      "start": 1663.6,
+      "duration": 3.68,
+      "text": "insights? Yeah, of course. So I think"
+    },
+    {
+      "start": 1665.36,
+      "duration": 3.76,
+      "text": "that the main thing is that the clients"
+    },
+    {
+      "start": 1667.28,
+      "duration": 3.04,
+      "text": "and servers will now start adopting the"
+    },
+    {
+      "start": 1669.12,
+      "duration": 3.36,
+      "text": "patterns that we've documented in the"
+    },
+    {
+      "start": 1670.32,
+      "duration": 3.68,
+      "text": "specification. So uh we talked about VS"
+    },
+    {
+      "start": 1672.48,
+      "duration": 3.6,
+      "text": "code being fully compliant with the spec"
+    },
+    {
+      "start": 1674.0,
+      "duration": 4.56,
+      "text": "but VS Code is just one MCP client like"
+    },
+    {
+      "start": 1676.08,
+      "duration": 4.88,
+      "text": "we expect that you know cloud code uh"
+    },
+    {
+      "start": 1678.56,
+      "duration": 4.56,
+      "text": "and a whole bunch of other uh MCP"
+    },
+    {
+      "start": 1680.96,
+      "duration": 3.36,
+      "text": "clients that are out there to start kind"
+    },
+    {
+      "start": 1683.12,
+      "duration": 3.52,
+      "text": "of snapping to this. So, if you're"
+    },
+    {
+      "start": 1684.32,
+      "duration": 3.68,
+      "text": "building MCP servers, things should just"
+    },
+    {
+      "start": 1686.64,
+      "duration": 2.96,
+      "text": "work like no matter where you plug it"
+    },
+    {
+      "start": 1688.0,
+      "duration": 3.68,
+      "text": "in, which is kind of the beauty of MCP,"
+    },
+    {
+      "start": 1689.6,
+      "duration": 4.16,
+      "text": "right? Like that's the whole point is I"
+    },
+    {
+      "start": 1691.68,
+      "duration": 4.16,
+      "text": "want to grab the server and just plug it"
+    },
+    {
+      "start": 1693.76,
+      "duration": 3.76,
+      "text": "in in any of my existing infrastructure"
+    },
+    {
+      "start": 1695.84,
+      "duration": 2.8,
+      "text": "and things will just magically work. I"
+    },
+    {
+      "start": 1697.52,
+      "duration": 3.2,
+      "text": "don't need to do anything custom in"
+    },
+    {
+      "start": 1698.64,
+      "duration": 3.36,
+      "text": "terms of integrations. So, we had a"
+    },
+    {
+      "start": 1700.72,
+      "duration": 3.28,
+      "text": "question on the chat from someone said,"
+    },
+    {
+      "start": 1702.0,
+      "duration": 4.4,
+      "text": "\"How do I mitigate security risk in an"
+    },
+    {
+      "start": 1704.0,
+      "duration": 4.96,
+      "text": "MCP implementation? What best practices"
+    },
+    {
+      "start": 1706.4,
+      "duration": 3.76,
+      "text": "should I follow?\" Yeah. So, uh as I"
+    },
+    {
+      "start": 1708.96,
+      "duration": 3.68,
+      "text": "mentioned, the security best practices"
+    },
+    {
+      "start": 1710.16,
+      "duration": 4.16,
+      "text": "document like is the place to get"
+    },
+    {
+      "start": 1712.64,
+      "duration": 2.72,
+      "text": "started. I'd say like go there, check it"
+    },
+    {
+      "start": 1714.32,
+      "duration": 3.68,
+      "text": "out. The links are going to be"
+    },
+    {
+      "start": 1715.36,
+      "duration": 5.76,
+      "text": "available. Um it's literally on the MCP"
+    },
+    {
+      "start": 1718.0,
+      "duration": 5.68,
+      "text": "website. Uh there's uh more things that"
+    },
+    {
+      "start": 1721.12,
+      "duration": 4.24,
+      "text": "we're working on integrating uh through"
+    },
+    {
+      "start": 1723.68,
+      "duration": 3.36,
+      "text": "a variety of different channels. Of"
+    },
+    {
+      "start": 1725.36,
+      "duration": 2.96,
+      "text": "course, some Microsoft, some are more"
+    },
+    {
+      "start": 1727.04,
+      "duration": 3.6,
+      "text": "generic in the industry. That's going to"
+    },
+    {
+      "start": 1728.32,
+      "duration": 3.44,
+      "text": "be uh again documented in the next"
+    },
+    {
+      "start": 1730.64,
+      "duration": 2.64,
+      "text": "couple of weeks. But I'd say like the"
+    },
+    {
+      "start": 1731.76,
+      "duration": 4.8,
+      "text": "security best practices doc is the"
+    },
+    {
+      "start": 1733.28,
+      "duration": 5.92,
+      "text": "starting point. Uh and I think like uh I"
+    },
+    {
+      "start": 1736.56,
+      "duration": 4.64,
+      "text": "think my slides are frozen, but hang on"
+    },
+    {
+      "start": 1739.2,
+      "duration": 3.92,
+      "text": "a second. I think we're almost at time,"
+    },
+    {
+      "start": 1741.2,
+      "duration": 3.12,
+      "text": "but I wanted to There we go. Let me"
+    },
+    {
+      "start": 1743.12,
+      "duration": 2.32,
+      "text": "quickly just give you a couple of"
+    },
+    {
+      "start": 1744.32,
+      "duration": 2.72,
+      "text": "things. Next week, we're going to have"
+    },
+    {
+      "start": 1745.44,
+      "duration": 4.24,
+      "text": "someone from Microsoft research talking"
+    },
+    {
+      "start": 1747.04,
+      "duration": 5.36,
+      "text": "about SLMs and reasoning, but I want you"
+    },
+    {
+      "start": 1749.68,
+      "duration": 5.52,
+      "text": "to be aware of the Foundry of Foundry"
+    },
+    {
+      "start": 1752.4,
+      "duration": 4.8,
+      "text": "Friday AMA. So, thank you so much, Den."
+    },
+    {
+      "start": 1755.2,
+      "duration": 3.84,
+      "text": "I know he had to drop for a meeting, but"
+    },
+    {
+      "start": 1757.2,
+      "duration": 3.84,
+      "text": "if you have questions, Den will be"
+    },
+    {
+      "start": 1759.04,
+      "duration": 4.16,
+      "text": "coming to our Azure AI Foundry Discord"
+    },
+    {
+      "start": 1761.04,
+      "duration": 3.76,
+      "text": "on Friday. So, grab that link and join"
+    },
+    {
+      "start": 1763.2,
+      "duration": 3.44,
+      "text": "us there. We'll have 30 minutes to kind"
+    },
+    {
+      "start": 1764.8,
+      "duration": 3.52,
+      "text": "of talk through all of this. All the"
+    },
+    {
+      "start": 1766.64,
+      "duration": 3.84,
+      "text": "links he talked about will be in the"
+    },
+    {
+      "start": 1768.32,
+      "duration": 3.84,
+      "text": "chat, but also in that uh post that"
+    },
+    {
+      "start": 1770.48,
+      "duration": 3.36,
+      "text": "you'll see for the forum that you see"
+    },
+    {
+      "start": 1772.16,
+      "duration": 4.24,
+      "text": "right there. So, you can kind of follow"
+    },
+    {
+      "start": 1773.84,
+      "duration": 4.8,
+      "text": "up on this. And last but not least, I'll"
+    },
+    {
+      "start": 1776.4,
+      "duration": 5.12,
+      "text": "leave you with these three CTAs. So, if"
+    },
+    {
+      "start": 1778.64,
+      "duration": 4.72,
+      "text": "you found this series useful, uh don't"
+    },
+    {
+      "start": 1781.52,
+      "duration": 3.36,
+      "text": "forget you can register for the entire"
+    },
+    {
+      "start": 1783.36,
+      "duration": 3.68,
+      "text": "upcoming series. We've got I think this"
+    },
+    {
+      "start": 1784.88,
+      "duration": 5.28,
+      "text": "is the second of 12 episodes in season"
+    },
+    {
+      "start": 1787.04,
+      "duration": 5.44,
+      "text": "2. So, you can go to model Mondays to"
+    },
+    {
+      "start": 1790.16,
+      "duration": 5.04,
+      "text": "pre-register for the next I think four"
+    },
+    {
+      "start": 1792.48,
+      "duration": 4.08,
+      "text": "episodes. Uh join the Discord. We share"
+    },
+    {
+      "start": 1795.2,
+      "duration": 3.12,
+      "text": "a lot of information in there. There is"
+    },
+    {
+      "start": 1796.56,
+      "duration": 3.28,
+      "text": "a model Monday's channel where I will"
+    },
+    {
+      "start": 1798.32,
+      "duration": 3.44,
+      "text": "share these slides and all the"
+    },
+    {
+      "start": 1799.84,
+      "duration": 3.52,
+      "text": "information Den put out. And most"
+    },
+    {
+      "start": 1801.76,
+      "duration": 4.56,
+      "text": "importantly, if you go to that forum"
+    },
+    {
+      "start": 1803.36,
+      "duration": 5.84,
+      "text": "link at the end, it lists all the AMAs"
+    },
+    {
+      "start": 1806.32,
+      "duration": 5.44,
+      "text": "every Friday on Azure AI Discord. This"
+    },
+    {
+      "start": 1809.2,
+      "duration": 4.56,
+      "text": "Friday, the focus will be on MCP. So, I"
+    },
+    {
+      "start": 1811.76,
+      "duration": 4.56,
+      "text": "can't wait to see you all there. Uh,"
+    },
+    {
+      "start": 1813.76,
+      "duration": 7.16,
+      "text": "thank you so much for joining us and uh,"
+    },
+    {
+      "start": 1816.32,
+      "duration": 4.6,
+      "text": "happy Mondays. We'll see you on Friday."
+    }
+  ]
+}

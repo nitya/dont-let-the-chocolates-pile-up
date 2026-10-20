@@ -1,0 +1,400 @@
+/* @theme chocolate */
+/*
+ * Marp theme for "Don't Let the Chocolate Pile Up".
+ * Palette + layout mirror .github/planning/storyboard/*.png (1920x1080).
+ *
+ * Section classes:  title · dark · divider · demo · (default = cream)
+ * Building blocks:  h6 = kicker label · .grid.cols-N · .card(.white|.peach|.dark|.crimson)
+ *                   .badge(.plum|.amber) · .stat · .steps · .callout · .row · .chip · .video
+ */
+
+:root {
+  --plum: #26162f;
+  --plum-2: #3a2547;
+  --cream: #fbf3ea;
+  --crimson: #d7263d;
+  --amber: #f6b132;
+  --peach: #fdebcd;
+  --border: #efe3d3;
+  --muted: #6b5a73;
+  --font-head: 'Trebuchet MS', 'Segoe UI', 'Ubuntu', 'DejaVu Sans', sans-serif;
+  --font-body: 'Calibri', 'Carlito', 'Segoe UI', 'Ubuntu', 'DejaVu Sans', sans-serif;
+  --font-mono: 'Cascadia Code', 'Consolas', 'DejaVu Sans Mono', monospace;
+}
+
+section {
+  width: 1920px;
+  height: 1080px;
+  box-sizing: border-box;
+  padding: 72px 86px 64px;
+  background: var(--cream);
+  color: var(--plum);
+  font-family: var(--font-body);
+  font-size: 32px;
+  line-height: 1.35;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-head);
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+}
+h1 { font-size: 66px; margin-bottom: 48px; }
+h2 { font-size: 46px; }
+h3 { font-size: 38px; }
+h4 { font-size: 32px; }
+
+/* Kicker label: ###### THE BELT IS SPEEDING UP */
+h6 {
+  margin: 0 0 18px;
+  font-family: var(--font-body);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--crimson);
+}
+
+p { margin: 0 0 16px; }
+strong { font-weight: 700; }
+em { font-style: italic; }
+a { color: var(--crimson); text-decoration: underline; }
+ul, ol { margin: 0; padding-left: 1.1em; }
+li { margin: 0 0 14px; }
+li::marker { color: var(--crimson); }
+img { max-width: 100%; }
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: rgba(38, 22, 47, 0.07);
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+pre {
+  margin: 0;
+  background: var(--plum);
+  color: #f5ecf8;
+  border-radius: 18px;
+  padding: 34px 38px;
+  font-size: 28px;
+  line-height: 1.45;
+  overflow: hidden;
+}
+pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
+pre .hljs-attr, pre .hljs-name, pre .hljs-section { color: var(--amber); }
+pre .hljs-string { color: #ffc9d1; }
+pre .hljs-comment { color: #a993b5; }
+
+/* ---------- Footer note / source line ---------- */
+.source {
+  position: absolute;
+  left: 86px;
+  bottom: 40px;
+  font-size: 20px;
+  color: var(--muted);
+}
+.footnote { font-size: 26px; font-style: italic; color: var(--plum); margin-top: auto; }
+
+/* ---------- Grid + cards ---------- */
+.grid { display: grid; gap: 40px; flex: 1; align-content: stretch; }
+.grid.cols-2 { grid-template-columns: repeat(2, 1fr); }
+.grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+.grid.cols-4 { grid-template-columns: repeat(4, 1fr); gap: 32px; }
+.grid.cols-5 { grid-template-columns: repeat(5, 1fr); gap: 28px; }
+.grid.split { grid-template-columns: 1.15fr 1fr; gap: 56px; }
+.grid.split-r { grid-template-columns: 1fr 1.6fr; gap: 56px; }
+.grid.fit { flex: 0 0 auto; }
+
+.card {
+  background: #fff;
+  border: 2px solid var(--border);
+  border-radius: 22px;
+  padding: 44px 44px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.card h3 { font-size: 40px; }
+.card h4 { font-size: 34px; }
+.card p, .card li { font-size: 29px; }
+.card.peach { background: var(--peach); border-color: #f6dfb8; }
+.card.dark { background: var(--plum); border-color: var(--plum); color: #fff; }
+.card.dark h3, .card.dark h4 { color: var(--amber); }
+.card.crimson { background: var(--crimson); border-color: var(--crimson); color: #fff; }
+.card.crimson h3, .card.crimson h4 { color: #fff; }
+.card.center { align-items: center; text-align: center; }
+.card .num { font-family: var(--font-head); font-weight: 700; font-size: 34px; color: var(--crimson); }
+.card .label { font-size: 22px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; }
+
+/* Card with colored header band (storyboard 11) */
+.card.band { padding: 0; overflow: hidden; }
+.card.band > .head {
+  background: var(--crimson);
+  color: #fff;
+  padding: 36px 40px 34px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.card.band > .head.plum { background: var(--plum); }
+.card.band > .head h3 { color: #fff; font-size: 46px; }
+.card.band > .head .label { color: #fff; opacity: 0.9; margin-bottom: 14px; display: block; }
+.card.band > .head img { width: 64px; height: 64px; }
+.card.band > .body { padding: 36px 40px; }
+
+/* ---------- Icon badge ---------- */
+.badge {
+  width: 120px;
+  height: 120px;
+  flex: 0 0 120px;
+  border-radius: 50%;
+  background: var(--crimson);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.badge img { width: 54px; height: 54px; }
+.badge.plum { background: var(--plum); }
+.badge.amber { background: var(--amber); }
+.badge.sm { width: 88px; height: 88px; flex-basis: 88px; }
+.badge.sm img { width: 40px; height: 40px; }
+.badge.xs { width: 64px; height: 64px; flex-basis: 64px; }
+.badge.xs img { width: 30px; height: 30px; }
+.badge.num-badge { font-family: var(--font-head); font-weight: 700; font-size: 40px; color: #fff; }
+
+/* Row: badge + text (storyboard 4, 9) */
+.rows { display: flex; flex-direction: column; gap: 34px; justify-content: center; }
+.row { display: flex; align-items: center; gap: 36px; }
+.row h4 { font-size: 36px; margin-bottom: 6px; }
+.row p { margin: 0; font-size: 28px; }
+
+/* Numbered step rows inside white pills (storyboard 7) */
+.steps { display: flex; flex-direction: column; gap: 26px; }
+.steps .step {
+  background: #fff;
+  border: 2px solid var(--border);
+  border-radius: 22px;
+  padding: 22px 32px;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+.steps .step b { font-family: var(--font-head); font-size: 34px; white-space: nowrap; }
+.steps .step span { font-size: 29px; }
+
+/* Big statistic (storyboard 3, 9) */
+.stat {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 140px;
+  line-height: 1;
+  color: var(--crimson);
+  letter-spacing: -0.02em;
+}
+.stat.plum { color: var(--plum); }
+.stat.md { font-size: 108px; }
+.stat.sm { font-size: 84px; }
+
+/* Callout strip (storyboard 3 bottom) */
+.callout {
+  background: var(--peach);
+  border-radius: 22px;
+  padding: 32px 44px;
+  font-size: 32px;
+  margin-top: 36px;
+}
+.callout.dark { background: var(--plum); color: #fff; }
+.callout.dark strong { color: var(--amber); }
+
+/* Chips / pills */
+.chips { display: flex; flex-wrap: wrap; gap: 14px; }
+.chip {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 6px 20px;
+  font-size: 23px;
+  font-weight: 700;
+  background: var(--peach);
+  color: var(--plum);
+}
+.chip.crimson { background: var(--crimson); color: #fff; }
+.chip.plum { background: var(--plum); color: #fff; }
+.chip.amber { background: var(--amber); color: var(--plum); }
+.chip.outline { background: transparent; border: 2px solid currentColor; }
+
+/* Flow arrows between cards */
+.flow { display: flex; align-items: stretch; gap: 18px; }
+.flow > .card { flex: 1; }
+.flow > .arrow { align-self: center; font-size: 48px; color: var(--crimson); font-weight: 700; }
+
+/* ---------- Tables (storyboard 10) ---------- */
+table { border-collapse: collapse; width: 100%; font-size: 29px; background: #fff; }
+th {
+  background: var(--plum);
+  color: #fff;
+  text-align: left;
+  font-family: var(--font-head);
+  font-size: 31px;
+  padding: 26px 22px;
+  border: 2px solid var(--border);
+}
+td { padding: 24px 22px; border: 2px solid var(--border); vertical-align: middle; }
+tr:nth-child(even) td { background: #fff9f2; }
+td:first-child { color: var(--crimson); font-weight: 700; }
+td.muted, .muted { color: var(--muted); }
+
+/* ---------- Section: title (storyboard 1) ---------- */
+section.title {
+  background: var(--plum);
+  color: #fff;
+  padding: 0 0 0 100px;
+  flex-direction: row;
+  align-items: center;
+}
+section.title .text { flex: 1; padding-right: 60px; }
+section.title h6 { color: var(--amber); margin-bottom: 40px; }
+section.title h1 { font-size: 64px; color: #fff; margin-bottom: 120px; }
+section.title .subtitle { color: #f7d7b5; font-size: 34px; line-height: 1.3; margin-bottom: 120px; }
+section.title .byline { font-family: var(--font-head); font-weight: 700; font-size: 28px; }
+section.title .hero { position: relative; width: 822px; height: 822px; margin-right: 48px; }
+section.title .hero::after {
+  content: '';
+  position: absolute;
+  inset: 44px -44px -44px 44px;
+  background: var(--crimson);
+  border-radius: 0 0 48px 48px;
+  z-index: 0;
+}
+section.title .hero img { position: relative; z-index: 1; width: 100%; height: 100%; display: block; }
+
+/* ---------- Section: dark (closing / statements) ---------- */
+section.dark { background: var(--plum); color: #fff; justify-content: center; padding-left: 100px; }
+section.dark h6 { color: var(--amber); }
+section.dark h1 { color: #fff; font-size: 76px; }
+section.dark .lede { font-size: 34px; color: #f2e6f6; }
+section.dark .amber { color: var(--amber); }
+section.dark .row h4, section.dark .row p { color: #fff; }
+
+/* ---------- Section: divider (act openers, storyboard 13) ---------- */
+section.divider { background: var(--plum); color: #fff; justify-content: center; padding-left: 100px; }
+section.divider h6 { color: var(--amber); margin: 36px 0 22px; }
+section.divider h1 { color: #fff; font-size: 84px; margin-bottom: 36px; }
+section.divider .lede { font-size: 36px; color: #f2e6f6; max-width: 1400px; }
+section.divider .pile {
+  margin-top: 56px;
+  font-size: 30px;
+  color: var(--amber);
+}
+section.divider .act {
+  position: absolute;
+  right: 100px;
+  top: 90px;
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 260px;
+  line-height: 1;
+  color: rgba(246, 177, 50, 0.13);
+}
+
+/* ---------- Section: demo (storyboard 14-16) ---------- */
+section.demo h6 { font-size: 26px; letter-spacing: 0.04em; }
+section.demo .grid { grid-template-columns: 1fr 1.72fr; gap: 56px; }
+section.demo .card h3 { color: var(--crimson); font-size: 44px; margin-bottom: 18px; }
+section.demo .card ol { padding-left: 1.2em; }
+section.demo .card li { font-size: 29px; margin-bottom: 18px; }
+.video {
+  background: var(--plum);
+  border-radius: 28px;
+  color: var(--amber);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 34px;
+  overflow: hidden;
+  position: relative;
+}
+.video .play {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: var(--crimson);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.video .play span {
+  width: 74px;
+  height: 74px;
+  border-radius: 50%;
+  background: var(--amber);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.video .play span::after {
+  content: '';
+  margin-left: 8px;
+  border-left: 26px solid var(--crimson);
+  border-top: 16px solid transparent;
+  border-bottom: 16px solid transparent;
+}
+.video .cmd {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-size: 24px;
+  color: #f2e6f6;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 14px 22px;
+  max-width: 88%;
+  text-align: center;
+}
+.video img.shot { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+
+/* Status tags for in-progress work */
+.status {
+  position: absolute;
+  top: 64px;
+  right: 86px;
+  border-radius: 999px;
+  padding: 8px 22px;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background: var(--amber);
+  color: var(--plum);
+}
+.status.live { background: var(--crimson); color: #fff; }
+
+/* Utility */
+.center { text-align: center; }
+.mt-auto { margin-top: auto; }
+.mt { margin-top: 36px; }
+.small { font-size: 24px; }
+.big { font-size: 38px; }
+.crimson { color: var(--crimson); }
+.amber-t { color: var(--amber); }
+.plum-t { color: var(--plum); }
+.tight li { margin-bottom: 8px; }
+.qr { width: 300px; height: 300px; background: #fff; padding: 18px; border-radius: 18px; }
+
+/* Compact cards for dense slides */
+section.dense .card { padding: 30px 36px; gap: 10px; }
+section.dense .card p { font-size: 27px; }
+section.dense .grid { gap: 28px; }
+
+/* Episode decks: 16:9 banner as hero (mm-deck skill) */
+section.title .hero.wide { width: 880px; height: 495px; }
+section.title .hero.wide::after { inset: 36px -36px -36px 36px; border-radius: 0 0 36px 36px; }
+section.title .hero.wide img { object-fit: cover; border-radius: 6px; }
